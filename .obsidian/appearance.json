@@ -1,0 +1,12 @@
+{
+  "accentColor": "#5c8af5",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "pdf",
+    "pdf-zoom",
+    "pdf-size",
+    "misc"
+  ]
+}

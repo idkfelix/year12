@@ -1,0 +1,20 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": null,
+  "showInlineTitle": true,
+  "trashOption": "local"
+}

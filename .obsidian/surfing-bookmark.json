@@ -1,0 +1,24 @@
+{
+  "bookmarks": [
+    {
+      "id": "-741549449",
+      "name": "VSV Online Learning",
+      "url": "https://lms.vsvonline.vic.edu.au",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707261373061,
+      "modified": 1707261373061
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

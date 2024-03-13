@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "8acbc20cb73b88a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e84947619d27a11c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af889d343b81afe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "478f4429f0d90b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1227bc386f73e985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910652694f64cbb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b042f9d3cf4316b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1945098062c606f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e01728dd3c07478b",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dd4802448c3312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5171c9d6cc3501fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c785f9702da8864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "910652694f64cbb8",
+  "lastOpenFiles": [
+    "Media/notes/29-2-24.md",
+    "Media/notes/21-2-24.md",
+    "Media/notes",
+    "Accounting/Formulas.md",
+    "SoftDev/Untitled.md",
+    "Accounting/Review Questions/Review Questions CH6.md",
+    "Media/Production Experiment/Production Experiment 1.md",
+    "Accounting/Review Questions",
+    "Media/Production Experiment/Production Experiment 2.pdf",
+    "Media/Production Experiment/Production Experiment 2.md",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1 1.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
+    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
+    "Media/Production Experiment/attachments",
+    "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
+    "Media/Production Experiment/Production Experiment 1.pdf",
+    "Media/Production Experiment",
+    "Accounting",
+    "English",
+    "Maths",
+    "Media",
+    "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
+    "SAT1/compass-api/README.md",
+    "SAT1/Ideas.md",
+    "Weekly Activities/Unit3/Week6/Week 6.md",
+    "Untitled.md",
+    "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
+    "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg",
+    "SAT1/Project Proposal.md",
+    "Unit3 Key Terms.md",
+    "SAT1/blob-poc/README.md",
+    "README.md",
+    "Weekly Activities/Unit3/week 5.md",
+    "Weekly Activities/Unit3/Week 4.md",
+    "Unit4 Key Terms.md",
+    "Key.md",
+    "Weekly Activities/Unit3/Week 3.md",
+    "Weekly Activities/Unit3/Week 2.md",
+    "Weekly Activities/Unit3/Week 1.md",
+    "SAC1.md",
+    "Weekly Activities/Untitled.md",
+    "SAC1/tests.md"
+  ]
+}

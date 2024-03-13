@@ -1,0 +1,34 @@
+# Compass Notes
+- login with compass account for authentication (single account philosophy)
+- view lesson plans, learning tasks, resources and schedule
+- WYSIWYG markdown editor
+- Link notes to lesson and class ID
+- AI note summarization
+- Svelte frontend
+- Backend
+	- Wrap compass API
+	- Archive markdown notes to compass files
+	- AI integration to generate notes summary
+	- Search notes by class or for topics
+	- blob storage for notes in compass tasks
+- Frontend
+	- Tailwind and Daisy UI for modern user experience
+	- Upcoming task tracker/timeline
+	- Theme switcher
+	- Login page
+
+# Features
+- Storing all data in compass
+- notes editor
+- upcoming learning tasks
+	- progress check
+	- keeping on top of tasks
+	- comments on progress
+- extracting tasks from lesson plans
+- linking notes to activity and lesson
+- tagging notes with topics
+- viewing lesson plan
+- revision
+	- context to class notes, lesson plans and VCAA
+	- generate summaries from users notes, topics and lesson plans
+	- ai to create flash cards, practice SAC questions and quiz (short answer and multiple choice), created from notes at different difficulties, (context to previous exams)
