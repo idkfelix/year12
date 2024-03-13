@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e84947619d27a11c",
+        "id": "3830ed06f98f5030",
         "type": "tabs",
         "children": [
           {
-            "id": "4af889d343b81afe",
+            "id": "acb2a01b8f94130b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -108,8 +116,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "910652694f64cbb8",
+  "active": "acb2a01b8f94130b",
   "lastOpenFiles": [
+    "README.md",
+    "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
+    "SoftDev/README.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
     "Media/notes",
@@ -128,7 +139,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
     "Media/Production Experiment/attachments",
-    "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "Media/Production Experiment/Production Experiment 1.pdf",
     "Media/Production Experiment",
     "Accounting",
@@ -139,7 +149,6 @@
     "SAT1/compass-api/README.md",
     "SAT1/Ideas.md",
     "Weekly Activities/Unit3/Week6/Week 6.md",
-    "Untitled.md",
     "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
     "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg",
     "SAT1/Project Proposal.md",
@@ -154,7 +163,6 @@
     "Weekly Activities/Unit3/Week 2.md",
     "Weekly Activities/Unit3/Week 1.md",
     "SAC1.md",
-    "Weekly Activities/Untitled.md",
-    "SAC1/tests.md"
+    "Weekly Activities/Untitled.md"
   ]
 }
