@@ -1,13 +1,31 @@
 ## Data Types
 - **Discrete**
-- Countable data
-- Static number
-## Continuous
-- Measurable data
-- Variable
-## Ordinal
-- Orderable
-- Ordered array of strings
-## Nominal
-- Non orderable
-- Just a string
+	- Countable data
+	- Static number
+- **Continuous**
+	- Measurable data
+	- Variable
+- **Ordinal**
+	- Orderable
+	- Ordered array of strings
+- **Nominal**
+	- Non orderable
+	- Just a string
+## Graph types
+- **Bar chart**
+	- Gaps between bars
+	- Represents mode
+- **Segmented Bar Chart**
+	- Stacked bars
+	- Shows percentage
+- **Dot Plot**
+	- Stacks of dots for each value
+	- Might have a key
+- **Stem and leaf**
+	- Check key
+	- Common first digit on left
+	- Sliced digits listed on the right
+	- **Split Leaf**
+		- Multiple of each common value
+		- Each with rage, (0-4),(5-9)
+- 
