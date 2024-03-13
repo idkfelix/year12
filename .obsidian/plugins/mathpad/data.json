@@ -1,8 +1,8 @@
 {
-  "addRibbonIcon": true,
+  "addRibbonIcon": false,
   "showAtStartUp": true,
-  "preferBlock": false,
-  "preferBlockForInline": false,
+  "preferBlock": true,
+  "preferBlockForInline": true,
   "preferBlockForCodeblock": true,
   "evaluate": false,
   "declarationStr": ":=",
