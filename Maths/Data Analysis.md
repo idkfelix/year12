@@ -28,4 +28,18 @@
 	- **Split Leaf**
 		- Multiple of each common value
 		- Each with rage, (0-4),(5-9)
-- 
+- **Frequency Chart**
+	- Match value column
+	- Number of matches
+	- Percentage of total matches
+	- **Grouped**
+		- Groups match values
+		- represented as a range, (3.2-5.6)
+- **Grouped Histogram**
+	- Bars touching
+	- Staggered X values
+	- Bar between values represents matches in that range
+## Mean, Median & Mode
+- **Mean**
+	- Average of all numbers
+	- $\frac{\text{sum()}}{\text{count()}}$
