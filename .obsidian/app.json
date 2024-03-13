@@ -16,5 +16,9 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": null,
   "showInlineTitle": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "vimMode": false,
+  "foldIndent": false,
+  "foldHeading": false,
+  "propertiesInDocument": "source"
 }
