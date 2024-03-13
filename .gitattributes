@@ -1,2 +1,2 @@
 *.md linguist-detectable
-*.md linguist-language=Knowledge
+*.md linguist-language=Rust
