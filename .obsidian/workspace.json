@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,7 +123,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "c2cdd59f38616acf",
+  "active": "547c2c5a73a31e71",
   "lastOpenFiles": [
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
