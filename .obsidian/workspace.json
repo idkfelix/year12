@@ -87,6 +87,28 @@
               "type": "mathpad-view",
               "state": {}
             }
+          },
+          {
+            "id": "aa5b2d02da924beb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae021b9545aa9cab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
         ]
       }
@@ -99,8 +121,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
-      "mathpad:Open Mathpad": false
+      "surfing:surfing-bookmark-manager": false
     }
   },
   "active": "c2cdd59f38616acf",
