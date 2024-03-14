@@ -81,14 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "547c2c5a73a31e71",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
             "id": "aa5b2d02da924beb",
             "type": "leaf",
             "state": {
@@ -110,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,12 +116,12 @@
       "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "8af0c778a0082429",
+  "active": "aa5b2d02da924beb",
   "lastOpenFiles": [
+    "English/Born A Crime/Part II Questions.md",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
     "README.md",
-    "English/Born A Crime/Part II Questions.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "English/Born A Crime/Part II task.docx",
     "English/Born A Crime/Unconfirmed 606130.crdownload",
