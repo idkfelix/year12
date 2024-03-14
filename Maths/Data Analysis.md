@@ -82,26 +82,16 @@
 	- A symmetrical set of data will form a perfect bell curve on a chart
 	- There will be a line of reflection that can be identified on a chart
 	- Mean, Median and Mode will equate to one another
-```latex
-\usepackage{pgfplots}
-\begin{tikzpicture}
-\begin{axis}[
-  no markers, domain=0:10, samples=100,
-  axis lines*=left, xlabel=$x$, ylabel=$y$,
-  every axis y label/.style={at=(current axis.above origin),anchor=south},
-  every axis x label/.style={at=(current axis.right of origin),anchor=west},
-  height=5cm, width=12cm,
-  xtick={4,6.5}, ytick=\empty,
-  enlargelimits=false, clip=false, axis on top,
-  grid = major
-  ]
-  \addplot [fill=cyan!20, draw=none, domain=0:5.96] {gauss(6.5,1)} \closedcycle;
-  \addplot [very thick,cyan!50!black] {gauss(4,1)};
-  \addplot [very thick,cyan!50!black] {gauss(6.5,1)};
-
-
-\draw [yshift=-0.6cm, latex-latex](axis cs:4,0) -- node [fill=white] {$1.96\sigma$} (axis cs:5.96,0);
-\end{axis}
-
-\end{tikzpicture}
+```tikz
+\begin{document}
+  \begin{tikzpicture}[domain=0:4]
+    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
+    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
+    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
+    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
+    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
+    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
+  \end{tikzpicture}
+\end{document}
 ```
+
