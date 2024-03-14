@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f74e35389d817511",
+        "id": "2ba24595d3876005",
         "type": "tabs",
         "children": [
           {
-            "id": "c2cdd59f38616acf",
+            "id": "09b07d1894b0232c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "SoftDev/SAT1/Project Proposal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,40 +77,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecc7dcfd3f4ad47",
+        "id": "687e0fa371f08048",
         "type": "tabs",
         "children": [
           {
-            "id": "547c2c5a73a31e71",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa5b2d02da924beb",
+            "id": "d71fa95015cdfe55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "SoftDev/SAT1/Project Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae021b9545aa9cab",
+            "id": "5587dbb9231a5f69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "SoftDev/SAT1/Project Proposal.md"
               }
             }
+          },
+          {
+            "id": "bf2580837a468ef6",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,24 +119,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "c2cdd59f38616acf",
+  "active": "09b07d1894b0232c",
   "lastOpenFiles": [
-    "English/Born A Crime/Part II task.docx",
-    "English/Born A Crime/Unconfirmed 606130.crdownload",
-    "English/Born A Crime",
-    "English",
-    "english",
-    "Untitled.md",
+    "SoftDev/SAT1/resources/Project Proposal.pdf",
+    "Maths/Recursion.md",
     "Maths/Data Analysis.md",
+    "English/Born A Crime/Part II Questions.md",
     "README.md",
-    "Maths",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
+    "SoftDev/README.md",
+    "English/Born A Crime/resources/~$rt II task.docx",
+    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
+    "English/Born A Crime/resources",
+    "Maths",
+    "English/Born A Crime/resources/Part II task.docx",
+    "English/Born A Crime",
+    "English",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.pdf",
@@ -145,11 +150,8 @@
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
-    "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/Unit3 Key Terms.md",
-    "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
-    "Media/notes",
     "SoftDev/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
@@ -168,8 +170,6 @@
     "Unit3 Key Terms.md",
     "SAT1/blob-poc/README.md",
     "Weekly Activities/Unit3/week 5.md",
-    "Weekly Activities/Unit3/Week 4.md",
-    "Unit4 Key Terms.md",
-    "Key.md"
+    "Weekly Activities/Unit3/Week 4.md"
   ]
 }
