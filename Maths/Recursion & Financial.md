@@ -10,6 +10,10 @@
 V_{0} &= \text{Principle Value}\\
 r &= \text{Annual Interest}\\
 n &= \text{Term Count}\\
-D &= \text{Common Diff}\\ 
+D &= \text{Common Diff}\\
+D &= V_{0}\cdot(\frac{r}{100})\\ 
 \end{align}$$
-- $$D = V_{0}\cdot(\frac{r}{100})\\$$
+- $$\begin{align}
+V_{n+1}&=\text{Reccurance Relation}\\
+V_{n+1}&=V_{n}+(V_{0}\cdot\frac{r}{100})\\
+\end{align}$$
