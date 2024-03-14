@@ -6,7 +6,7 @@
 
 > 2. Why does Noah say that _“the animosity I felt from the coloured people I encountered growing up was one of the hardest things I’ve ever had to deal with”?_
 
-> 3. Read the following excerpt: _“When apartheid came, coloured people defied easy categorization…I was seen as a coloured person who didn’t want to be coloured.” (pp.118 – 120)._
+> 3. Read the following excerpt: _“When apartheid came, coloured people defied easy categorisation…I was seen as a coloured person who didn’t want to be coloured.” (pp.118 – 120)._
 
 > a) How and why did the South African government use colour to perpetuate racism during the apartheid era?
 
@@ -64,7 +64,7 @@
 > 
   > _I kept waiting for it to be a trick, for them to turn and say, “It’s you!” They didn’t. At a certain point, I felt so invisible I almost wanted to take credit. I wanted to jump up and point at the TV and say, “Are you people blind?! That’s me! Can you not see that that’s me?!” But of course I didn’t. And they couldn’t. These people had been so fucked by their own construct of race that they could not see that the white person they were looking for was sitting right in front of them._
   > 
-  >  _Eventually they sent me back to class. I spent the rest of the day and the next couple of weeks waiting for the other shoe to drop, waiting for my mom to get the call. “We’ve got him! We figured it out!” But the call never came._
+  >  _Eventually they sent me back to class. I spent the rest of the day and the next couple of weeks waiting for the other shoe to drop, waiting for my mum to get the call. “We’ve got him! We figured it out!” But the call never came._
   >  
 > Explain what Noah means by “_their own construct of race”._
 
