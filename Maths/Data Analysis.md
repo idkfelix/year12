@@ -68,13 +68,14 @@
 	- Median falls roughly at the peak of the curve
 ```tikz
 \begin{document}
+
 \centering
   \begin{tikzpicture}[domain=0:7]
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,4);
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
-    \draw[color=red] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
-    \node[below,font=\large\bfseries] at (current bounding box.south){Symmetrical Data};
+    \draw[color=green] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
+    \node[below,font=\large\bfseries] at (current bounding box.south){Symmetrical Data Bell Curve};
   \end{tikzpicture}%
   \hspace{1cm}
   \begin{tikzpicture}[domain=0:7, ]
@@ -83,8 +84,9 @@
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=red,smooth] plot (\x,{3*1/exp(((\x-3)^2)/2)});
     \draw[color=blue,smooth] plot (\x,{3*1/exp(((\x-4)^2)/2)});
-    \node at (2.5,3.5) {Positive Skew};
-    \node[below,font=\large\bfseries] at (current bounding box.south){Examples of Skew};
+    \node[color=red] at (2.5,3.5) {Positive};
+    \node[color=blue] at (4.5,3.5) {Negative};
+    \node[below,font=\large\bfseries] at (current bounding box.south){Examples of Data Skew};
 
   \end{tikzpicture}
 \end{document}
