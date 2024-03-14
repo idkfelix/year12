@@ -52,7 +52,9 @@
 - **Median**
 	- Middle value of data
 	- Also represented as $Q2$
-	- $$ \frac{n+1}{2}^{th} = Median$$
+	- $$\begin{align}
+	\frac{n+1}{2}^{th} = Median
+	\end{align}$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
 ## Quartiles, Interquartile Range ($IQR$) & Fences
@@ -62,11 +64,11 @@
 		- $$ \frac{count+1}{4}^{th} = Q1 $$
 	- $Q3$ represents the $75^{th}$ percentile
 		- Median of the data's upper half
-
-
+		- $$ \frac{count+1}{4 \cdot 3}^{th} = Q3 $$
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q1$ and $Q3$
 	- represents the middle $50\%$ of the data
 	- $$ Q3-Q1 = IQR $$
 - **Fences**
-	- 
+	- Used to identify outliers
+	- Never drawn on 
