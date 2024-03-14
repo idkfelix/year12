@@ -26,8 +26,3 @@
 | Explain how or when your software solution will need to **search** through the data.<br><br>(For example, should system allow filtering by date ranges, or alphanumeric searches?)                                             | The user will be able to search through their notes for  a specific topic, class, lesson, time period or notes relating to a learning task.                                                                                                                                                                 |
 | What type of **user interface** will your software solution have?<br><br>(How are the screens going to look? What hardware is the software solution going to run on?)                                                          | The solution will be a website for universal access with an upcoming task tracker, WYSIWYG notes editor and revision tools page. the website will be responsive for use on any size screen and will utilise server side rendering to run efficiently on users devices.                                      |
 | What types of **user accounts** will be required for the software solution?<br><br>(For example, should users of the software have to login? Are the requirements different for an admin user, to a staff user, to customers?) | The solution will integrate to Compass's API for authentication and data storage so a standalone account management system will not be required.                                                                                                                                                            |
-
-
-| Approved?             |     | Date: | Teacher: |
-| --------------------- | --- | ----- | -------- |
-| Comments and feedback |     |       |          |
