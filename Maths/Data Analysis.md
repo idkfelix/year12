@@ -55,10 +55,10 @@
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
 ## Interquartile Range ($IQR$)
-$$
-\begin{aligned}
-\frac{count+1}{4}^{th} = Q1\\\\
-\frac{count+1}{4}\cdot 3) = Q3\\\\
+$$\begin{aligned}
+\frac{count+1}{4}^{th} = Q1\\
+\\
+\frac{count+1}{4 \cdot 3}^{th} = Q3\\
+\\
 Q3-Q1 = IQR
-\end{aligned}
-$$
+\end{aligned}$$
