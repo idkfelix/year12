@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -125,6 +125,15 @@
   },
   "active": "547c2c5a73a31e71",
   "lastOpenFiles": [
+    "English/Born A Crime/Part II task.docx",
+    "English/Born A Crime/Unconfirmed 606130.crdownload",
+    "English/Born A Crime",
+    "English",
+    "english",
+    "Untitled.md",
+    "Maths/Data Analysis.md",
+    "README.md",
+    "Maths",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.pdf",
@@ -139,11 +148,9 @@
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
-    "README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "Media/notes",
     "SoftDev/Untitled.md",
-    "Accounting/Review Questions",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
@@ -151,10 +158,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1 1.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
-    "Media/Production Experiment/attachments",
-    "Media/Production Experiment",
-    "Accounting",
-    "English",
     "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
     "SAT1/compass-api/README.md",
     "SAT1/Ideas.md",
@@ -167,8 +170,6 @@
     "Weekly Activities/Unit3/week 5.md",
     "Weekly Activities/Unit3/Week 4.md",
     "Unit4 Key Terms.md",
-    "Key.md",
-    "Weekly Activities/Unit3/Week 3.md",
-    "Weekly Activities/Unit3/Week 2.md"
+    "Key.md"
   ]
 }
