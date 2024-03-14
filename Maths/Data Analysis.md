@@ -51,18 +51,14 @@
 	- Found by ordering list and identifying the most re-recurring value
 - **Median**
 	- Middle value of list
-	- $$\begin{aligned}
-\frac{n+1}{2}=Median\ Index\\
-n= count
-\end{aligned}$$
+	- $$\frac{count+1}{2} = \text{Median Term}$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
 ## Interquartile Range ($IQR$)
 $$
 \begin{aligned}
-n = count\\\\
-\frac{n+1}{4} = Q1\\\\
-\frac{n+1}{4}\cdot3 = Q3\\\\
+\frac{count+1}{4} = Q1\ Term\\\\
+\frac{count+1}{4}\cdot 3 = Q3\ Term\\\\
 Q3-Q1 = IQR
 \end{aligned}
 $$
