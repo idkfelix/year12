@@ -45,6 +45,7 @@
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a data
+	- Sensitive to outliers making it represent the centre of accurately
 	- Mean is used to measure the centre of data in any situation 
 	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
 - **Mode**
@@ -95,5 +96,16 @@
 \end{document}
 ```
 - **Skew**
-	- Postitive
-		- 
+	- Positive
+		- Presents with a tail to the right of the bell curve
+		- Most data in low range with minimal high range
+```tikz
+\begin{document}
+  \begin{tikzpicture}[domain=0:7]
+    \draw[very thin,color=gray] (-0.1,-0.1) grid (7,5);
+    \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
+    \draw[->] (0,-0.2) -- (0,5.2) node[above] {$y$};
+    \draw[color=red,domain] plot (\x-2,{4*1/exp(((\x-3.5)^2)/2)});
+  \end{tikzpicture}
+\end{document}
+```
