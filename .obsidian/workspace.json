@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,7 +123,7 @@
       "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "09994ea8d63f18ae",
+  "active": "547c2c5a73a31e71",
   "lastOpenFiles": [
     "Accounting/Review Questions/Review Questions CH6.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",

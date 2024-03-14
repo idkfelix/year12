@@ -68,7 +68,6 @@
 	- Median falls roughly at the peak of the curve
 ```tikz
 \begin{document}
-
 \centering
   \begin{tikzpicture}[domain=0:7]
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,4);
