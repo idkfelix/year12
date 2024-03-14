@@ -84,11 +84,11 @@
 	- Mean, Median and Mode will equate to one another
 ```tikz
 \begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-0.1,-0.1) grid (3.9,3.9);
-    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
-    \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
-    \draw[color=red] plot (\normaltwo);
+  \begin{tikzpicture}[domain=0:7]
+    \draw[very thin,color=gray] (-0.1,-0.1) grid (7,7);
+    \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
+    \draw[->] (0,-0.2) -- (0,7.2) node[above] {$y$};
+    \draw[color=red] plot (\x,{4.5*1/exp(((\x-3.5)^2)/2)});
   \end{tikzpicture}
 \end{document}
 ```
