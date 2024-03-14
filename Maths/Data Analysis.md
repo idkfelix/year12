@@ -27,7 +27,7 @@
 	- Bars touching
 	- Represent data in ranges to show distribution
 	- Values on $x$ axis are staggered between the bars
-	- Bars between $x$ axis $a$ & $b$ represents range of $a\text{-}b$)
+	- Bars between $x$ axis $a$ & $b$ represents range of ($a\text{-}b$)
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
@@ -44,7 +44,7 @@
 		- represented as a range, ($3.2\text{-}5.6$)
 ## Mean, Median & Mode
 - **Mean**
-	- Average of all numbers in a list 
+	- Average of all numbers in a data
 	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
 - **Mode**
 	- Most common value in data
