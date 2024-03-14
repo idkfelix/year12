@@ -45,17 +45,19 @@
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a list 
-	- $$\frac{\text{sum(list[0]:list[-1])}}{\text{count}}=\text{Mean}$$
+	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
 - **Mode**
 	- Most common value in list
 	- Found by ordering list and identifying the most re-recurring value
 - **Median**
 	- Middle value of list
-	- $$\frac{count+1}{2} = \text{Median Term}$$
+	- Also represented as $Q2$
+	- $$ \frac{count+1}{2}^{th} = Median$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
-## Interquartile Range ($IQR$)
-$$\begin{aligned}
+## Quartiles & Interquartile Range ($IQR$)
+- $Q1$ represents the $25{}$ 
+- $$\begin{aligned}
 \frac{count+1}{4}^{th} = Q1\\
 \\
 \frac{count+1}{4 \cdot 3}^{th} = Q3\\
