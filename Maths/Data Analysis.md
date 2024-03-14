@@ -96,9 +96,12 @@
 \end{document}
 ```
 - **Skew**
-	- Positive
+	- **Positive**
 		- Presents with a tail to the right of the bell curve
 		- Most data in low range with minimal high range
+	- **Negative**
+		- Presents with a tail to the left of the bell curve
+		- Most data in high range with minimal low range
 ```tikz
 \begin{document}
   \begin{tikzpicture}[domain=0:7]
@@ -107,8 +110,9 @@
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=red,smooth] plot (\x,{3*1/exp(((\x-3)^2)/2)});
     \draw[color=blue,smooth] plot (\x,{3*1/exp(((\x-4)^2)/2)});
-    \node[above,font=\large\bfseries] at (current bounding box.north) {Examples of Skew};
-    \node[above,font=\medium\bfseries] at (current bounding box.north) {Example of Skew};
+    \node[above,color=blue] at (current bounding box.north) {Negative Skew};
+    \node[above,color=red] at (current bounding box.north) {Positive Skew};
+    \node[above,font=\large\bfseries] at (current bounding box.north) {Examples of Skew on a Bell Curve};
   \end{tikzpicture}
 \end{document}
 ```
