@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -123,11 +123,13 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "547c2c5a73a31e71",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
+    "English/Born A Crime/resources",
+    "README.md",
     "Maths/Data Analysis.md",
     "Maths",
-    "English/Born A Crime/Part II task.docx",
+    "English/Born A Crime/resources/Part II task.docx",
     "English/Born A Crime",
     "English",
     "Accounting/Formulas.md",
@@ -144,7 +146,6 @@
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
-    "README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "Media/notes",
     "SoftDev/Untitled.md",
@@ -169,7 +170,6 @@
     "Weekly Activities/Unit3/Week 4.md",
     "Unit4 Key Terms.md",
     "Key.md",
-    "Weekly Activities/Unit3/Week 3.md",
-    "Weekly Activities/Unit3/Week 2.md"
+    "Weekly Activities/Unit3/Week 3.md"
   ]
 }

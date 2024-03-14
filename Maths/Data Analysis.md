@@ -45,12 +45,14 @@
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a data
+	- Mean is used to measure the centre of data in any situation 
 	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
 - **Mode**
 	- Most common value in data
 	- Found by ordering data and identifying the most re-recurring value
 - **Median**
 	- Middle value of data
+	- Median is used to measure the centre of data if it is symmetrical (no skew)
 	- Also represented as $Q2$
 	- $$\begin{align*}
 	\frac{n+1}{2}^{th} &= Median\\
@@ -93,3 +95,5 @@
 \end{document}
 ```
 - **Skew**
+	- Postitive
+		- 
