@@ -58,11 +58,12 @@
 ## Quartiles & Interquartile Range ($IQR$)
 - $Q1$ represents the $25^{th}$ percentile
 - $Q3$ represents the $75^{th}$ percentile
-- $IQR$ is the range between $Q1$ and $Q3$ representing the middle $50\%$ of the data
-- $$\begin{align} 
+- $IQR$ is the range between $Q1$ and $Q3$, representing the middle $50\%$ of the data
+- $$\begin{align}
 \frac{count+1}{4}^{th} = Q1\\
-\\
+
 \frac{count+1}{4 \cdot 3}^{th} = Q3\\
 \\
 Q3-Q1 = IQR
 \end{align}$$
+- 
