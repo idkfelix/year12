@@ -88,17 +88,8 @@
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,5);
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,5.2) node[above] {$y$};
-    \draw[color=red] plot (\x,{4.5*1/exp(((\x-3.5)^2)/2)});
+    \draw[color=red] plot (\x,{4*1/exp(((\x-3.5)^2)/2)});
   \end{tikzpicture}
 \end{document}
 ```
-```tikz
-\begin{document}
-  \begin{tikzpicture}[domain=0:7]
-    \draw[very thin,color=gray] (-0.1,-0.1) grid (7,5);
-    \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
-    \draw[->] (0,-0.2) -- (0,5.2) node[above] {$y$};
-    \draw[color=red] plot (\x,{4.5*1/exp(((\x-3)^2)/2)});
-  \end{tikzpicture}
-\end{document}
-```
+- **Skew**
