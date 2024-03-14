@@ -1,16 +1,19 @@
 ## Data Types
-- **Discrete**
-	- Countable data
-	- Static number
-- **Continuous**
-	- Measurable data
-	- Variable
-- **Ordinal**
-	- Orderable
-	- Ordered array of strings
-- **Nominal**
-	- Non orderable
-	- Just a string
+- ***Numerical / Quantitative***
+	- **Discrete**
+		- Countable data
+		- Static number
+	- **Continuous**
+		- Measurable data
+		- Variable number
+- ***Categorical / Qualitative***
+	- **Ordinal**
+		- Orderable
+		- Ordered array of strings
+		- Creates a scale
+	- **Nominal**
+		- Non orderable
+		- Descriptive string
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
@@ -41,8 +44,8 @@
 	- Bar between values represents matches in that range
 ## Mean, Median & Mode
 - **Mean**
-	- Average of all numbers
-	- $$\frac{\text{sum}}{\text{count}}=\text{Mean}$$
+	- Average of all numbers in a list 
+	- $$\frac{\text{sum(list[0]:list[-1])}}{\text{count}}=\text{Mean}$$
 - **Mode**
 	- Most common value in list
 	- Found by ordering list and identifying the most re-recurring value
@@ -54,3 +57,4 @@ n= count
 \end{aligned}$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
+## Interquartile Range / 
