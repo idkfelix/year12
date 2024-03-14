@@ -38,5 +38,11 @@ R\lt 1 &= Decay\\
 \end{align}$$
 - $$\begin{align}
 V_{n+1} &= \text{Reccurance Relation}\\
-V_{n+1} &= V_{n}\cdot(1+\frac{r}{})
+V_{n+1} &= V_{n}\cdot(1\pm\frac{r}{100\cdot X})^{X}\\
+V_{n+1} &= V_{n}\cdot R^X
+\end{align}$$
+- $$\begin{align}
+V_{n}&=\text{Solve for n}^{th}\ Term\\
+V_{n}&=V_{0}\cdot(1\pm\frac{r}{100\cdot X})^{Xn}\\
+V_{n}&=V_{0}\cdot
 \end{align}$$
