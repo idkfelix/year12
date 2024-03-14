@@ -3,6 +3,10 @@
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
+## Types of Recursion
+- ***Positive***
+	- **Simple Interest** - additional percentage of principle value per annum
+	- **Compound Interest** - exponential increase of value over time
 ## Arithmetic Sequence
 - Simple Interest
 - Flat Rate Depreciation
@@ -26,6 +30,7 @@ V_{n}&=V_{0}+(V_{0}\cdot\frac{r}{100})\cdot n\\
 ## Geometric Sequence
 - Compound Interest
 - Reducing Balance Depreciation
+- Uses common ratio instead of diff
 - $$\begin{align}
 X &= \text{Periods Per Annum}\\
 R &= \text{Common Ratio}\\
@@ -44,5 +49,5 @@ V_{n+1} &= V_{n}\cdot R^X
 - $$\begin{align}
 V_{n}&=\text{Solve for n}^{th}\ Term\\
 V_{n}&=V_{0}\cdot(1\pm\frac{r}{100\cdot X})^{Xn}\\
-V_{n}&=V_{0}\cdot
+V_{n}&=V_{0}\cdot R^{Xn}
 \end{align}$$
