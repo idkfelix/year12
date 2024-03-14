@@ -94,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Recursion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,13 +117,14 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "c2cdd59f38616acf",
+  "active": "547c2c5a73a31e71",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "Maths/Recursion.md",
+    "Maths/Data Analysis.md",
     "README.md",
     "English/Born A Crime/Part II Questions.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
