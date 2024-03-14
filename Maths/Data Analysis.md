@@ -42,4 +42,13 @@
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers
-	- $\frac{\text{sum()}}{\text{count()}}$
+	- $$\frac{\text{sum()}}{\text{count()}}=\text{mean}$$
+- **Mode**
+	- Most common value in range
+- **Median**
+	- Middle Number values list
+	- $$
+	- \begin{}
+	- \frac{n+1}{2}=Median
+	- $$
+	- 
