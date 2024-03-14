@@ -42,13 +42,15 @@
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers
-	- $$\frac{\text{sum()}}{\text{count()}}=\text{mean}$$
+	- $$\frac{\text{sum}}{\text{count}}=\text{Mean}$$
 - **Mode**
-	- Most common value in range
+	- Most common value in list
+	- Found by ordering list and identifying the most re-recurring value
 - **Median**
-	- Middle Number values list
+	- Middle value of list
 	- $$\begin{aligned}
 \frac{n+1}{2}=Median\\
 n= count
 \end{aligned}$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
+	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
