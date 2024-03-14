@@ -3,10 +3,10 @@
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
-##Arithmetic Sequence
+## Arithmetic Sequence
 - Simple Interest
 - Flat Rate Depreciation
-- Arithmetic Sequence
+- Linear growth / decay
 - Increase / Decrease by percentage of the principle value each term
 - $$\begin{align}
 V_{0} &= \text{Principle Value}\\
@@ -23,3 +23,8 @@ V_{n+1}&=V_{n}+(V_{0}\cdot\frac{r}{100})\\
 V_{n}&=\text{Solve for n}^{th}\ Term\\
 V_{n}&=V_{0}+(V_{0}\cdot\frac{r}{100})\cdot n\\
 \end{align}$$
+## Geometric Sequence
+- Compound Interest
+- Reducing Balance
+- $$X = \text{Compounding Period Per Annum}$$
+- $$R = 1+\frac{r}{100\cdot x}$$
