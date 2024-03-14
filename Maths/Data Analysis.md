@@ -57,8 +57,8 @@
 ## Interquartile Range ($IQR$)
 $$
 \begin{aligned}
-\frac{count+1}{4} = Q1\ Term\\\\
-\frac{count+1}{4}\cdot 3 = Q3\ Term\\\\
+\frac{count+1}{4}^{th} = Q1\\\\
+\frac{count+1}{4}\cdot 3) = Q3\\\\
 Q3-Q1 = IQR
 \end{aligned}
 $$
