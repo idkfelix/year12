@@ -4,9 +4,16 @@
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
 ## Types of Recursion
-- ***Positive***
-	- **Simple Interest** - additional percentage of principle value per annum
-	- **Compound Interest** - exponential increase of value over time
+- ***Growth***
+	- **Simple Interest** - linear increase of principle value percentage per annum
+	- **Compound Interest** - exponential increase of percentage value over time
+- **Decay**
+	- **Flat Rate** - linear decrease of principle value percentage per annum
+	- **Unit Cost** - decrease of value for each use or term
+	- **Reducing Balance** - exponential decrease of percentage value over time
+## Effective Interest Rate
+- Can be used to compare compounding periods
+- Cannot compare different nominal interest rates
 ## Arithmetic Sequence
 - Simple Interest
 - Flat Rate Depreciation
