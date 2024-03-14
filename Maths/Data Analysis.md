@@ -47,8 +47,8 @@
 	- Most common value in range
 - **Median**
 	- Middle Number values list
-	- $$
-	- \begin{}
-	- \frac{n+1}{2}=Median
-	- $$
-	- 
+	- $$\begin{aligned}
+\frac{n+1}{2}=Median\\
+n= count
+\end{aligned}$$
+	- When $n$ is even the Median is the average of the numbers $+/-0.5$
