@@ -92,6 +92,7 @@
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=red] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
+    \node[above,font=\large\bfseries] at (current bounding box.north) {Examples of Skew on a Bell Curve};
   \end{tikzpicture}
 \end{document}
 ```
@@ -104,7 +105,7 @@
 		- Most data in high range with minimal low range
 ```tikz
 \begin{document}
-  \begin{tikzpicture}[domain=0:7]
+  \begin{tikzpicture}[domain=0:7, ]
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,4);
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
@@ -113,6 +114,7 @@
     \node[above,color=blue] at (current bounding box.north) {Negative Skew};
     \node[above,color=red] at (current bounding box.north) {Positive Skew};
     \node[above,font=\large\bfseries] at (current bounding box.north) {Examples of Skew on a Bell Curve};
+    \node[above,font=\large\bfseries] at (current bounding box.north) {};
   \end{tikzpicture}
 \end{document}
 ```
