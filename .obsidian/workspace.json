@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "667e6fec13cabff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Data Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -88,46 +75,10 @@
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
-    "children": [
-      {
-        "id": "8ecc7dcfd3f4ad47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "547c2c5a73a31e71",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa5b2d02da924beb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "English/Born A Crime/Part II Questions.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae021b9545aa9cab",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "English/Born A Crime/Part II Questions.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
