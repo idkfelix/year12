@@ -17,31 +17,30 @@
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
-	- Represents mode
+	- Shows mode of data
 - **Segmented Bar Chart**
+	- Measured percentage
 	- Stacked bars
-	- Shows percentage
-- **Dot Plot**
-	- Stacks of dots for each value
-	- Might have a key
+	- Shows frequency
+-  **Histogram**
+	- Bars touching
+	- **Grouped**
+		- Values on $x$ axis are staggered to the bars
+		- Bar between values $a$ & $b$ represents range of $a\text{-}b$
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
 	- Sliced digits listed on the right
 	- **Split Leaf**
 		- Multiple of each common value
-		- Each with rage, (0-4),(5-9)
+		- Each with rage, ($0\text{-}4$),($5\text{-}9$)
 - **Frequency Chart**
 	- Match value column
 	- Number of matches
 	- Percentage of total matches
 	- **Grouped**
 		- Groups match values
-		- represented as a range, (3.2-5.6)
-- **Grouped Histogram**
-	- Bars touching
-	- Values on $x$ axis are staggered to the bars
-	- Bar between $x$ values $a$ & $b$ represents range of $a$
+		- represented as a range, ($3.2\text{-}5.6$)
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a list 
