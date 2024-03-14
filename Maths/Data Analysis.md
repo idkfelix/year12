@@ -47,16 +47,18 @@
 	- Average of all numbers in a list 
 	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
 - **Mode**
-	- Most common value in list
-	- Found by ordering list and identifying the most re-recurring value
+	- Most common value in data
+	- Found by ordering data and identifying the most re-recurring value
 - **Median**
-	- Middle value of list
+	- Middle value of data
 	- Also represented as $Q2$
-	- $$ \frac{count+1}{2}^{th} = Median$$
+	- $$ \frac{n+1}{2}^{th} = Median$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
 ## Quartiles & Interquartile Range ($IQR$)
-- $Q1$ represents the $25{}$ 
+- $Q1$ represents the $25^{th}$ percentile
+- $Q3$ represents the $75^{th}$ percentile
+- $IQR$ is the range between $Q1$ and $Q3$ representing the middle $50\%$ of the data
 - $$\begin{aligned}
 \frac{count+1}{4}^{th} = Q1\\
 \\
