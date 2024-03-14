@@ -6,8 +6,6 @@
   "dataview",
   "obsidian-git",
   "quick-latex",
-  "mathpad",
   "obsidian-tikzjax",
-  "obsidian-hide-sidebars-when-narrow",
-  "obsidian-linter"
+  "obsidian-hide-sidebars-when-narrow"
 ]
