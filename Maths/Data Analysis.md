@@ -40,8 +40,8 @@
 		- represented as a range, (3.2-5.6)
 - **Grouped Histogram**
 	- Bars touching
-	- Staggered X values
-	- Bar between values represents matches in that range
+	- Values on $x$ axis are staggered to the bars
+	- Bar between $x$ values $a$ & $b$ represents range of $a$
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a list 
@@ -81,4 +81,5 @@
 - **Symmetry**
 	- A symmetrical set of data will form a perfect bell curve on a chart
 	- There will be a line of reflection that can be identified on a chart
-	- Mean, Median and Mode will present roughly equal 
+	- Mean, Median and Mode will equate to one another
+	- 
