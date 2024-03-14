@@ -3,9 +3,11 @@
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
-## Linear Growth & Decay
-- Also referred to as Simple Interest
-- Increase / Decrease by percentage of starting value each term
+##Arithmetic Sequence
+- Simple Interest
+- Flat Rate Depreciation
+- Arithmetic Sequence
+- Increase / Decrease by percentage of the principle value each term
 - $$\begin{align}
 V_{0} &= \text{Principle Value}\\
 r &= \text{Annual Interest}\\
@@ -16,4 +18,8 @@ D &= V_{0}\cdot(\frac{r}{100})\\
 - $$\begin{align}
 V_{n+1}&=\text{Reccurance Relation}\\
 V_{n+1}&=V_{n}+(V_{0}\cdot\frac{r}{100})\\
+\end{align}$$
+- $$\begin{align}
+V_{n}&=\text{Solve for n}^{th}\ Term\\
+V_{n}&=V_{0}+(V_{0}\cdot\frac{r}{100})\cdot n\\
 \end{align}$$
