@@ -17,16 +17,17 @@
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
+	- Single value with bar
 	- Shows mode of data
 - **Segmented Bar Chart**
 	- Measured percentage
 	- Stacked bars
 	- Shows frequency
--  **Histogram**
+- **Histogram Chart**
 	- Bars touching
-	- **Grouped**
-		- Values on $x$ axis are staggered to the bars
-		- Bar between values $a$ & $b$ represents range of $a\text{-}b$
+	- Represent data in ranges to show distribution
+	- Values on $x$ axis are staggered between the bars
+	- Bars between $x$ axis $a$ & $b$ represents range of $a\text{-}b$)
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
