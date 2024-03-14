@@ -66,7 +66,6 @@
 		- Most data in high range with minimal low range
 	- Mean of data falls on skewed tail
 	- Median falls roughly at the peak of the curve
-- **Example of Symmetry**
 ```tikz
 \begin{document}
   \begin{tikzpicture}[domain=0:7]
@@ -74,6 +73,7 @@
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=red] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
+    \node[below,font=\large\bfseries] at (current bounding box.south){Symmetrical Data as a Bell Curve};
   \end{tikzpicture}
 \end{document}
 ```
@@ -86,6 +86,7 @@
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=red,smooth] plot (\x,{3*1/exp(((\x-3)^2)/2)});
     \draw[color=blue,smooth] plot (\x,{3*1/exp(((\x-4)^2)/2)});
+    \node[below,font=\large\bfseries] at (current bounding box.south){Examples of Skew on a Bell Curve};
     \node[below,color=red] at (current bounding box.south) {Positive Skew};
     \node[below,color=blue] at (current bounding box.south) {Negative Skew};
   \end{tikzpicture}
