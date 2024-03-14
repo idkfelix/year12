@@ -69,7 +69,12 @@
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q_1$ and $Q_3$
 	- represents the middle $50\%$ of the data
-	- $$ Q_3-Q_1 = IQR $$
+	- $$ Q_{3}-Q_{1} = IQR $$
 - **Fences**
-	- Used to identify outliers
-	- 
+	- Used to identify outliers that deviate too far from the $IQR$
+	- Can be used on a plot to prevent skew by omitting outliers
+	- $$\begin{align}
+	  \text{Lower Fence} = Q_{1} - IQR \cdot 1.5 \\
+	  \text{Upper Fence} = Q_{3} + IQR \cdot 1.5
+	  \end{align}$$
+	
