@@ -14,34 +14,6 @@
 	- **Nominal**
 		- Non orderable
 		- Descriptive string
-## Graph types
-- **Bar chart**
-	- Gaps between bars
-	- Single value with bar
-	- Shows mode of data
-- **Segmented Bar Chart**
-	- Measured percentage
-	- Stacked bars
-	- Shows frequency
-- **Histogram Chart**
-	- Bars touching
-	- Represent data in ranges to show distribution
-	- Values on $x$ axis are staggered between the bars
-	- Bars between $x$ axis $a$ & $b$ represents range of ($a\text{-}b$)
-- **Stem and leaf**
-	- Check key
-	- Common first digit on left
-	- Sliced digits listed on the right
-	- **Split Leaf**
-		- Multiple of each common value
-		- Each with rage, ($0\text{-}4$),($5\text{-}9$)
-- **Frequency Chart**
-	- Match value column
-	- Number of matches
-	- Percentage of total matches
-	- **Grouped**
-		- Groups match values
-		- represented as a range, ($3.2\text{-}5.6$)
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in a data
@@ -85,6 +57,16 @@
 	- A symmetrical set of data will form a perfect bell curve on a chart
 	- There will be a line of reflection that can be identified on a chart
 	- Mean, Median and Mode will equate to one another
+- **Skew**
+	- **Positive**
+		- Presents with a tail to the right of the bell curve
+		- Most data in low range with minimal high range
+	- **Negative**
+		- Presents with a tail to the left of the bell curve
+		- Most data in high range with minimal low range
+	- Mean of data falls on skewed tail
+	- Median falls roughly at the peak of the curve
+- **Example of Symmetry**
 ```tikz
 \begin{document}
   \begin{tikzpicture}[domain=0:7]
@@ -95,15 +77,7 @@
   \end{tikzpicture}
 \end{document}
 ```
-- **Skew**
-	- **Positive**
-		- Presents with a tail to the right of the bell curve
-		- Most data in low range with minimal high range
-	- **Negative**
-		- Presents with a tail to the left of the bell curve
-		- Most data in high range with minimal low range
-	- Mean of data falls on skewed tail
-	- 
+
 ```tikz
 \begin{document}
   \begin{tikzpicture}[domain=0:7, ]
@@ -117,3 +91,31 @@
   \end{tikzpicture}
 \end{document}
 ```
+## Graph types
+- **Bar chart**
+	- Gaps between bars
+	- Single value with bar
+	- Shows mode of data
+- **Segmented Bar Chart**
+	- Measured percentage
+	- Stacked bars
+	- Shows frequency
+- **Histogram Chart**
+	- Bars touching
+	- Represent data in ranges to show distribution
+	- Values on $x$ axis are staggered between the bars
+	- Bars between $x$ axis $a$ & $b$ represents range of ($a\text{-}b$)
+- **Stem and leaf**
+	- Check key
+	- Common first digit on left
+	- Sliced digits listed on the right
+	- **Split Leaf**
+		- Multiple of each common value
+		- Each with rage, ($0\text{-}4$),($5\text{-}9$)
+- **Frequency Chart**
+	- Match value column
+	- Number of matches
+	- Percentage of total matches
+	- **Grouped**
+		- Groups match values
+		- represented as a range, ($3.2\text{-}5.6$)

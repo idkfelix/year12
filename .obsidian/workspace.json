@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94bfdb68a0f49143",
+        "id": "58fce5e713103d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8ebb998ac3347141",
+            "id": "09994ea8d63f18ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,8 +124,10 @@
       "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "8ebb998ac3347141",
+  "active": "09994ea8d63f18ae",
   "lastOpenFiles": [
+    "Accounting/Review Questions/Review Questions CH6.md",
+    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "Maths/Data Analysis.md",
     "English/Born A Crime/resources",
     "README.md",
@@ -133,7 +136,6 @@
     "English/Born A Crime",
     "English",
     "Accounting/Formulas.md",
-    "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.pdf",

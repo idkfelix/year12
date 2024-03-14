@@ -1,7 +1,7 @@
 ## 6.1
 1. 
 	- A transaction where inventory is sold on credit, this involves inventory delivery on one date and cash paid at a later date
-	- A customer whos inventory has been sent on credit and is indebted to the business
+	- A customer who's inventory has been sent on credit and is indebted to the business
 2. The accrual basis assumption involves the business reporting transactions as they happen, this will result as the issued credit being reported as an asset and a subsequent increase in revenue.
 3. Relevance refers to only including information that makes a difference to decision making in the business, by recording the credit sale properly the business can better judge its working capital and liquidity.
 4. Sales Invoice
