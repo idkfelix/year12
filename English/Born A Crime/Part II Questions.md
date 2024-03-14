@@ -1,12 +1,8 @@
-
-
-**Task:** Please respond analytically to the following questions using evidence from the text.
-
-## Chapter 9 Prelude
+## Chapter 9 _Prelude_
 
 > 1. Explain _“the curse that coloured people carry”_ (p.115-116) and discuss how it affected them.
 
-## Chapter 9: The Mulberry Tree
+## Chapter 9: _The Mulberry Tree_
 
 > 2. Why does Noah say that _“the animosity I felt from the coloured people I encountered growing up was one of the hardest things I’ve ever had to deal with”?_
 
@@ -24,17 +20,17 @@
 
 > 6. What does the prelude to Chapter 10 contribute to our understanding of Noah’s relationship with his mother, Patricia?
 
-## Chapter 10: A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part I: Valentine’s Day**
+## Chapter 10: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part I: Valentine’s Day_
 
 > 7.  What does Noah learn from being rejected on Valentine’s Day by Maylene? (Hint: connect this to an excerpt from Chapter 9 - _“All you had to do was denounce your people, denounce your history, and leave your darker-skinned friends and family behind”. P.119)_
 
 > 8. Explain how Part I of Noah’s romantic trilogy can be described as both ironic and a symbol.
 
-## Chapter 11: Prelude
+## Chapter 11: _Prelude_
 
 > 9. In this prelude, Noah shares quite a tragic story of growing up so poor that his mum would turn off the car and make him push it to school to save petrol. How does Noah make this information palatable for his readers? Provide two examples to support your answer.
 
-## Chapter 11: Outsider
+## Chapter 11: _Outsider_
 
 > 10. Read the following excerpt in which Noah describes the cliques and groups that formed during lunch break at his high school, Sandringham High:
 > 
@@ -47,16 +43,16 @@
 > 12. In Chapter 4 we learned that Noah used language and “_became a chameleon”_ to change people’s “_perception” of_ his _colour_”. Discuss what other tools Noah used at Sandringham High School to become _“a cultural chameleon.”_
 
 > 13. Noah often clarifies South African practices or concepts by comparing them to American references and some of his humour is clearly for an American audience. Find three examples of this from this chapter.
-## Chapter 12: Prelude
+## Chapter 12: _Prelude_
 
 > 14. Why is Noah _“consumed with regret for the things_ he _didn’t do?”_
-## Chapter 12: A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part II: The Crush
+## Chapter 12: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part II: The Crush_
 
 > 15. Why doesn’t Noah ever ask out his high school crush, Zaheer and what does this experience teach him?
-## Chapter 13: Prelude
+## Chapter 13: _Prelude_
 
 > 16. Read the prelude to Chapter 13 and explain a couple of things that resonate with you (for example, they might be interesting, relatable/unrelatable, or poignant).
-## Chapter 13: Colour-blind
+## Chapter 13: _Colour-blind_
 
 > 17. Noah describes he and his friend Teddy as _thick as thieves_ and recalls how together they begin committing petty crimes, such as breaking windows and stealing chocolates from a stationary shop.
 > 
@@ -72,7 +68,7 @@
   >  
 > Explain what Noah means by “_their own construct of race”._
 
-## Chapter 14: A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part III: The Dance
+## Chapter 14: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part III: The Dance_
 
 > 19. In what way does Noah’s experience with Babiki symbolise his hubris?
 
