@@ -60,7 +60,7 @@
 |--------------------|-------|--------|
 | Discount expense   | Debit |        |
 | Account Receivable |       | Credit |
-5. assets decrease overall as bank increases by the amount paid but accounts receivable only decreases by the remaining balance less the discount expense. No effect on liabilities and owners equity decreases by the bank increase less the accounts receivable balance overall equaling the discount expense
+5. assets decrease overall as bank increases by the amount paid but accounts receivable only decreases by the remaining balance less the discount expense. No effect on liabilities and owners equity decreases by the bank increase less the accounts receivable balance overall equalling the discount expense
 6. 
 	- Cash is received faster as the customer has an incentive, giving the  business more working capital and liquidity
 	- Customer who can pay within the discount period may prefer working with the business for the discounted rate

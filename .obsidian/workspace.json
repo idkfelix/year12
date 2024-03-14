@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "English/Born A Crime/Part II Questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,10 +75,47 @@
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "687e0fa371f08048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71fa95015cdfe55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Born A Crime/Part II Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5587dbb9231a5f69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Born A Crime/Part II Questions.md"
+              }
+            }
+          },
+          {
+            "id": "bf2580837a468ef6",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -87,22 +124,22 @@
       "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "09994ea8d63f18ae",
+  "active": "bf2580837a468ef6",
   "lastOpenFiles": [
-    "Maths/Recursion.md",
-    "SoftDev/README.md",
     "README.md",
     "English/Born A Crime/Part II Questions.md",
-    "Maths/Data Analysis.md",
-    "English/Born A Crime/resources/~$rt II task.docx",
+    "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
+    "Maths/Data Analysis.md",
+    "Maths/Recursion.md",
+    "SoftDev/README.md",
+    "English/Born A Crime/resources/~$rt II task.docx",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "English/Born A Crime/resources",
     "Maths",
     "English/Born A Crime/resources/Part II task.docx",
     "English/Born A Crime",
     "English",
-    "Accounting/Formulas.md",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.pdf",
