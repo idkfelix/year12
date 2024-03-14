@@ -52,7 +52,7 @@
 - **Median**
 	- Middle value of list
 	- $$\begin{aligned}
-\frac{n+1}{2}=Median\\
+\frac{n+1}{2}=Median\ Index\\
 n= count
 \end{aligned}$$
 	- When $n$ is even the Median is the average of the numbers $+/-0.5$
@@ -60,8 +60,9 @@ n= count
 ## Interquartile Range ($IQR$)
 $$
 \begin{aligned}
-n = count\\
-\frac{n+1}{4}\\
+n = count\\\\
+\frac{n+1}{4} = Q1\\\\
+\frac{n+1}{4}\cdot3 = Q3\\\\
 Q3-Q1 = IQR
 \end{aligned}
 $$
