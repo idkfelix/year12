@@ -77,4 +77,8 @@
 	  \text{Lower Fence} = Q_{1} - IQR \cdot 1.5 \\
 	  \text{Upper Fence} = Q_{3} + IQR \cdot 1.5
 	  \end{align}$$
-	
+## Symmetry & Skew
+- **Symmetry**
+	- A symmetrical set of data will form a perfect bell curve on a chart
+	- There will be a line of reflection that can be identified on a chart
+	- Mean, Median and Mode will present roughly equal 
