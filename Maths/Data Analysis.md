@@ -90,7 +90,6 @@
   \end{tikzpicture}
 \end{document}
 ```
-
 ## Graph types
 - **Bar chart**
 	- Gaps between bars

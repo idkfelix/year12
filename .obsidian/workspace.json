@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "Maths/Recursion & Financial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "Maths/Recursion & Financial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "Maths/Recursion & Financial.md"
               }
             }
           }
@@ -123,11 +123,12 @@
       "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "547c2c5a73a31e71",
+  "active": "09994ea8d63f18ae",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
+    "Maths/Recursion & Financial.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
-    "Maths/Data Analysis.md",
     "English/Born A Crime/resources",
     "README.md",
     "Maths",
@@ -169,7 +170,6 @@
     "Weekly Activities/Unit3/week 5.md",
     "Weekly Activities/Unit3/Week 4.md",
     "Unit4 Key Terms.md",
-    "Key.md",
-    "Weekly Activities/Unit3/Week 3.md"
+    "Key.md"
   ]
 }
