@@ -73,7 +73,7 @@
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,4);
     \draw[->] (-0.2,0) -- (7.2,0) node[right] {$x$};
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
-    \draw[color=green] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
+    \draw[color=green,smooth] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
     \node[below,font=\large\bfseries] at (current bounding box.south){Symmetrical Data Bell Curve};
   \end{tikzpicture}%
   \hspace{1cm}
@@ -110,7 +110,7 @@
 	- Sliced digits listed on the right
 	- **Split Leaf**
 		- Multiple of each common value
-		- Each with rage, ($0\text{-}4$),($5\text{-}9$)
+		- Each with range, ($0\text{-}4$),($5\text{-}9$)
 - **Frequency Chart**
 	- Match value column
 	- Number of matches

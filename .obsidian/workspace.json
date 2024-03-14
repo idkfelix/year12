@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "English/Born A Crime/Part II Questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "English/Born A Crime/Part II Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "English/Born A Crime/Part II Questions.md"
               }
             }
           }
@@ -138,8 +138,10 @@
   },
   "active": "09994ea8d63f18ae",
   "lastOpenFiles": [
-    "Maths/Recursion.md",
     "Maths/Data Analysis.md",
+    "English/Born A Crime/Part II Questions.md",
+    "English/Born A Crime/resources/~$rt II task.docx",
+    "Maths/Recursion.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "English/Born A Crime/resources",
@@ -162,7 +164,6 @@
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
-    "Media/notes",
     "SoftDev/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
@@ -182,7 +183,6 @@
     "SAT1/blob-poc/README.md",
     "Weekly Activities/Unit3/week 5.md",
     "Weekly Activities/Unit3/Week 4.md",
-    "Unit4 Key Terms.md",
-    "Key.md"
+    "Unit4 Key Terms.md"
   ]
 }
