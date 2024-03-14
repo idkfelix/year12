@@ -14,6 +14,12 @@
 ## Effective Interest Rate
 - Can be used to compare compounding periods
 - Cannot compare different nominal interest rates
+- $$\begin{align}
+EAR &= \text{Effective Annual Rate}\\
+n &= \text{Compounding Period Per Annum}\\
+i &= \text{Nominated Interest Rate}\\
+\end{align}$$
+- $$ EAR=(1+\frac{i}{n})^n-1 $$
 ## Arithmetic Sequence
 - Simple Interest
 - Flat Rate Depreciation
