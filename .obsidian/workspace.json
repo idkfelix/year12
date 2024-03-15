@@ -77,11 +77,11 @@
     "type": "split",
     "children": [
       {
-        "id": "687e0fa371f08048",
+        "id": "30f50b3b792fb892",
         "type": "tabs",
         "children": [
           {
-            "id": "d71fa95015cdfe55",
+            "id": "e883d4402cf8e250",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "5587dbb9231a5f69",
+            "id": "1a908a52efa4fc55",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -101,39 +101,30 @@
                 "file": "README.md"
               }
             }
-          },
-          {
-            "id": "33b706d2c89e91e6",
-            "type": "leaf",
-            "state": {
-              "type": "HTML View",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "surfing:surfing-bookmark-manager": true,
-      "compass:Compass": false
+      "surfing:surfing-bookmark-manager": true
     }
   },
-  "active": "33b706d2c89e91e6",
+  "active": "5f2ce73e5a9371e4",
   "lastOpenFiles": [
+    "README.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
     "English/Born A Crime/Part II Questions.md",
-    "README.md",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "SoftDev/README.md",
