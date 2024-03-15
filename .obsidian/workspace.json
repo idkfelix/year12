@@ -104,10 +104,11 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "compass:Print leaf types": false
     }
   },
-  "active": "910652694f64cbb8",
+  "active": "aa5b2d02da924beb",
   "lastOpenFiles": [
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
