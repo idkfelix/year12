@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "36db2e8fbd777f90",
+            "id": "5cc9f58c1528e8a9",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -122,10 +122,11 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "compass:Compass": false
     }
   },
-  "active": "f29eb8751304d735",
+  "active": "5cc9f58c1528e8a9",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
     "Maths/Recursion.md",
