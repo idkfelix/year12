@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "17409b3db2120d3d",
+        "id": "e2388e29b3985ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "8b99552cec31834e",
+            "id": "5f2ce73e5a9371e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,38 +70,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
     "children": [
       {
-        "id": "73f1ca9d63caae30",
+        "id": "687e0fa371f08048",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd8959ca163c749",
+            "id": "d71fa95015cdfe55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8444c6e524f7ce95",
+            "id": "5587dbb9231a5f69",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
-            "id": "26a33c9680310ee2",
+            "id": "33b706d2c89e91e6",
             "type": "leaf",
             "state": {
               "type": "HTML View",
@@ -112,40 +119,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "surfing:surfing-bookmark-manager": true,
       "compass:Compass": false
     }
   },
-  "active": "26a33c9680310ee2",
+  "active": "33b706d2c89e91e6",
   "lastOpenFiles": [
-    "SoftDev/SAT1/resources/Project Proposal.pdf",
-    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/SAT1/Project Proposal.md",
-    "English/Born A Crime/Part II Questions.md",
+    "SoftDev/SAT1/Ideas.md",
+    "SoftDev/SAT1/resources/Project Proposal.pdf",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
+    "English/Born A Crime/Part II Questions.md",
     "README.md",
-    "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
-    "English/Born A Crime/Part II task.docx",
-    "English/Born A Crime/Unconfirmed 606130.crdownload",
-    "English/Born A Crime",
-    "English",
-    "english",
-    "Untitled.md",
-    "Maths",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
+    "SoftDev/README.md",
+    "English/Born A Crime/resources/~$rt II task.docx",
+    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
+    "English/Born A Crime/resources",
+    "Maths",
+    "English/Born A Crime/resources/Part II task.docx",
+    "English/Born A Crime",
+    "English",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.pdf",
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
-    "SoftDev/SAT1/Ideas.md",
+    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/Unit3 Key Terms.md",
-    "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "SoftDev/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
@@ -164,6 +170,7 @@
     "SAT1/Project Proposal.md",
     "Unit3 Key Terms.md",
     "SAT1/blob-poc/README.md",
-    "Weekly Activities/Unit3/week 5.md"
+    "Weekly Activities/Unit3/week 5.md",
+    "Weekly Activities/Unit3/Week 4.md"
   ]
 }
