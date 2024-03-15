@@ -83,6 +83,25 @@
               "type": "HTML View",
               "state": {}
             }
+          },
+          {
+            "id": "5cd8959ca163c749",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8444c6e524f7ce95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
