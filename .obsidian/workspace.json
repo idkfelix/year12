@@ -122,8 +122,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
-      "compass:Compass": false
+      "surfing:surfing-bookmark-manager": false
     }
   },
   "active": "5cc9f58c1528e8a9",
