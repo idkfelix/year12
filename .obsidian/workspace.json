@@ -87,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
