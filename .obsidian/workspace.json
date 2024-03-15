@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17409b3db2120d3d",
+        "id": "0f906df04ee8d0af",
         "type": "tabs",
         "children": [
           {
-            "id": "8b99552cec31834e",
+            "id": "f29eb8751304d735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Recursion.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Recursion.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Recursion.md"
+                "file": "README.md"
               }
             }
           },
@@ -121,18 +122,17 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
-      "compass:Compass": false
+      "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "8b99552cec31834e",
+  "active": "f29eb8751304d735",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
+    "Maths/Recursion.md",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/Project Proposal.md",
     "English/Born A Crime/Part II Questions.md",
-    "Maths/Recursion.md",
-    "Maths/Data Analysis.md",
     "README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "English/Born A Crime/Part II task.docx",
