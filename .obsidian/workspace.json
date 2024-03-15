@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
       "compass:Print leaf types": false
     }
   },
-  "active": "aa5b2d02da924beb",
+  "active": "ae021b9545aa9cab",
   "lastOpenFiles": [
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
