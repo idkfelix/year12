@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "0e0e59af51c7af70",
+            "id": "002a424617d95754",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -121,10 +121,11 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "surfing:surfing-bookmark-manager": true
+      "surfing:surfing-bookmark-manager": true,
+      "compass:Compass": false
     }
   },
-  "active": "5f2ce73e5a9371e4",
+  "active": "002a424617d95754",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
