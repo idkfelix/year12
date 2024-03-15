@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2388e29b3985ab6",
+        "id": "17409b3db2120d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2ce73e5a9371e4",
+            "id": "8b99552cec31834e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,41 +72,38 @@
     "type": "split",
     "children": [
       {
-        "id": "687e0fa371f08048",
+        "id": "73f1ca9d63caae30",
         "type": "tabs",
         "children": [
           {
-            "id": "d71fa95015cdfe55",
+            "id": "5cd8959ca163c749",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5587dbb9231a5f69",
+            "id": "8444c6e524f7ce95",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "33b706d2c89e91e6",
+            "id": "36db2e8fbd777f90",
             "type": "leaf",
             "state": {
-              "type": "HTML View",
+              "type": "CompassView",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,39 +111,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true,
-      "surfing:surfing-bookmark-manager": true,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "surfing:surfing-bookmark-manager": false,
       "compass:Compass": false
     }
   },
-  "active": "33b706d2c89e91e6",
+  "active": "8444c6e524f7ce95",
   "lastOpenFiles": [
-    "SoftDev/SAT1/Project Proposal.md",
-    "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
+    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
+    "SoftDev/SAT1/Project Proposal.md",
+    "English/Born A Crime/Part II Questions.md",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
-    "English/Born A Crime/Part II Questions.md",
     "README.md",
-    "Accounting/Formulas.md",
-    "Accounting/Review Questions/Review Questions CH6.md",
-    "SoftDev/README.md",
-    "English/Born A Crime/resources/~$rt II task.docx",
-    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
-    "English/Born A Crime/resources",
-    "Maths",
-    "English/Born A Crime/resources/Part II task.docx",
+    "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
+    "English/Born A Crime/Part II task.docx",
+    "English/Born A Crime/Unconfirmed 606130.crdownload",
     "English/Born A Crime",
     "English",
+    "english",
+    "Untitled.md",
+    "Maths",
+    "Accounting/Formulas.md",
+    "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.pdf",
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
-    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
+    "SoftDev/SAT1/Ideas.md",
     "SoftDev/Unit3 Key Terms.md",
+    "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "SoftDev/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
@@ -170,7 +163,6 @@
     "SAT1/Project Proposal.md",
     "Unit3 Key Terms.md",
     "SAT1/blob-poc/README.md",
-    "Weekly Activities/Unit3/week 5.md",
-    "Weekly Activities/Unit3/Week 4.md"
+    "Weekly Activities/Unit3/week 5.md"
   ]
 }
