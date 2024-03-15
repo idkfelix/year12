@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,7 +125,7 @@
       "compass:Compass": false
     }
   },
-  "active": "2cc934e53736f17d",
+  "active": "5f2ce73e5a9371e4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
