@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "91717c3709380db8",
+        "id": "17409b3db2120d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "8af0c778a0082429",
+            "id": "8b99552cec31834e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Born A Crime/Part II Questions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Born A Crime/Part II Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Born A Crime/Part II Questions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -112,12 +104,14 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false,
-      "sample-plugin:Sample Plugin": false
+      "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "aa5b2d02da924beb",
+  "active": "8b99552cec31834e",
   "lastOpenFiles": [
+    "SoftDev/SAT1/resources/Project Proposal.pdf",
+    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
+    "SoftDev/SAT1/Project Proposal.md",
     "English/Born A Crime/Part II Questions.md",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
@@ -138,10 +132,7 @@
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
-    "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Ideas.md",
-    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
-    "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
@@ -162,7 +153,6 @@
     "SAT1/Project Proposal.md",
     "Unit3 Key Terms.md",
     "SAT1/blob-poc/README.md",
-    "Weekly Activities/Unit3/week 5.md",
-    "Weekly Activities/Unit3/Week 4.md"
+    "Weekly Activities/Unit3/week 5.md"
   ]
 }
