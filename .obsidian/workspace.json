@@ -11,8 +11,13 @@
             "id": "8b99552cec31834e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Recursion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Recursion.md"
+              }
             }
           },
           {
@@ -103,11 +111,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,10 +125,10 @@
       "compass:Compass": false
     }
   },
-  "active": "8444c6e524f7ce95",
+  "active": "8b99552cec31834e",
   "lastOpenFiles": [
-    "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
+    "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/Project Proposal.md",
     "English/Born A Crime/Part II Questions.md",
     "Maths/Recursion.md",
