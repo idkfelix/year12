@@ -65,18 +65,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
     "children": [
       {
-        "id": "73cff0259be4a3a3",
+        "id": "d690d928460b2ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "6f31acd4c963b5b8",
+            "id": "de3a73c72ae3a876",
             "type": "leaf",
             "state": {
               "type": "HTML View",
@@ -93,10 +94,11 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "compass:Compass": false
     }
   },
-  "active": "8b99552cec31834e",
+  "active": "de3a73c72ae3a876",
   "lastOpenFiles": [
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
