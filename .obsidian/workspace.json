@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "002a424617d95754",
+            "id": "e9096ea967832dbc",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,7 +126,7 @@
       "compass:Compass": false
     }
   },
-  "active": "002a424617d95754",
+  "active": "e9096ea967832dbc",
   "lastOpenFiles": [
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
