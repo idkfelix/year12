@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2388e29b3985ab6",
+        "id": "e4f507a70f6362a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2ce73e5a9371e4",
+            "id": "a56417932344b046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,12 +98,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md"
+                "file": "README.md"
               }
             }
           },
           {
-            "id": "e9096ea967832dbc",
+            "id": "07edf9dc4de3fc81",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,30 +125,30 @@
       "compass:Compass": false
     }
   },
-  "active": "e9096ea967832dbc",
+  "active": "a56417932344b046",
   "lastOpenFiles": [
+    "Maths/Recursion.md",
+    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
+    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
+    "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
-    "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAC1/SAC 1 Images.pdf",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
-    "Maths/Recursion.md",
     "Maths/Data Analysis.md",
     "English/Born A Crime/Part II Questions.md",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "English/Born A Crime/resources/~$rt II task.docx",
-    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "English/Born A Crime/resources",
     "Maths",
     "English/Born A Crime/resources/Part II task.docx",
     "English/Born A Crime",
     "English",
-    "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
