@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
+                "file": "SoftDev/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
+                "file": "SoftDev/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md"
+                "file": "SoftDev/README.md"
               }
             }
           },
@@ -129,6 +128,7 @@
   "active": "5f2ce73e5a9371e4",
   "lastOpenFiles": [
     "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
+    "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAC1/SAC 1 Images.pdf",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
@@ -150,7 +150,6 @@
     "English",
     "Media/Production Experiment/Production Experiment 2.pdf",
     "Media/Production Experiment/Production Experiment 2.md",
-    "Media/Production Experiment/Production Experiment 1.pdf",
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
@@ -172,7 +171,6 @@
     "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg",
     "SAT1/Project Proposal.md",
     "Unit3 Key Terms.md",
-    "SAT1/blob-poc/README.md",
-    "Weekly Activities/Unit3/week 5.md"
+    "SAT1/blob-poc/README.md"
   ]
 }
