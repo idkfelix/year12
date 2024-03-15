@@ -8,5 +8,6 @@
   "quick-latex",
   "obsidian-tikzjax",
   "obsidian-hide-sidebars-when-narrow",
-  "compass"
+  "compass",
+  "hot-reload"
 ]
