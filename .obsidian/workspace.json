@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/README.md",
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftDev/README.md",
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/README.md"
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md"
               }
             }
           },
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,8 +125,9 @@
       "compass:Compass": false
     }
   },
-  "active": "5f2ce73e5a9371e4",
+  "active": "002a424617d95754",
   "lastOpenFiles": [
+    "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAC1/SAC 1 Images.pdf",
@@ -140,7 +141,6 @@
     "English/Born A Crime/Part II Questions.md",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
-    "SoftDev/README.md",
     "English/Born A Crime/resources/~$rt II task.docx",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "English/Born A Crime/resources",
