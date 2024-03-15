@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md"
               }
             }
           },
@@ -115,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,12 +126,14 @@
       "compass:Compass": false
     }
   },
-  "active": "002a424617d95754",
+  "active": "5f2ce73e5a9371e4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
+    "SoftDev/SAC1/SAC 1 Images.pdf",
     "SoftDev/SAT1/Ideas.md",
+    "SoftDev/SAT1/Project Proposal.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "Maths/Recursion.md",
     "Maths/Data Analysis.md",
@@ -151,7 +154,6 @@
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
-    "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
     "SoftDev/Untitled.md",
@@ -171,7 +173,6 @@
     "SAT1/Project Proposal.md",
     "Unit3 Key Terms.md",
     "SAT1/blob-poc/README.md",
-    "Weekly Activities/Unit3/week 5.md",
-    "Weekly Activities/Unit3/Week 4.md"
+    "Weekly Activities/Unit3/week 5.md"
   ]
 }
