@@ -11,13 +11,8 @@
             "id": "f29eb8751304d735",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "surfing-bookmark-manager",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,24 +92,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.md"
               }
             }
           },
           {
-            "id": "89682c58e5126cbf",
+            "id": "964ed5413082969e",
             "type": "leaf",
             "state": {
               "type": "CompassView",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 433.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,22 +119,22 @@
       "compass:Compass": false
     }
   },
-  "active": "89682c58e5126cbf",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
     "Maths/Data Analysis.md",
     "Maths/Recursion.md",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
     "SoftDev/SAT1/Project Proposal.md",
     "English/Born A Crime/Part II Questions.md",
-    "README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "English/Born A Crime/Part II task.docx",
     "English/Born A Crime/Unconfirmed 606130.crdownload",
     "English/Born A Crime",
     "English",
     "english",
-    "Untitled.md",
     "Maths",
     "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
