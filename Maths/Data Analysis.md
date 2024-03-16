@@ -61,7 +61,7 @@ S_x&=\text{Standard Deviation}\\
 		- $$ \frac{count+1}{4 \cdot 3}^{th} = Q_3 $$
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q_1$ and $Q_3$
-	- represents the middle $50\%$ of the data
+	- represents the middle $50\%$ of the sample
 	- $$ Q_{3}-Q_{1} = IQR $$
 - **Fences**
 	- Used to identify outliers that deviate too far from the $IQR$
@@ -72,7 +72,7 @@ S_x&=\text{Standard Deviation}\\
 	  \end{align}$$
 ## Symmetry & Skew
 - **Symmetry**
-	- A symmetrical set of data will form a perfect bell curve on a chart
+	- A symmetrical sample will form a perfect bell curve on a chart
 	- There will be a line of reflection that can be identified on a chart
 	- Mean, Median and Mode will equate to one another
 - **Skew**
@@ -111,6 +111,12 @@ S_x&=\text{Standard Deviation}\\
 ## Standard Deviation & Normal Distribution
 - **Standard Deviation (Std Dev)**
 	- Average distance Between elements
+	- Shows how spread out sample data is
+	- Only works on normal distribution
+- **Normal Distribution**
+	- Sample that forms a perfect bell shape
+	- Allows use of Std Dev
+	
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
