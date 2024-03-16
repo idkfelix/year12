@@ -19,7 +19,7 @@
 	- Average of all numbers in a data
 	- Sensitive to outliers making it represent the centre of accurately
 	- Mean is used to measure the centre of data in any situation 
-	- $$\frac{\text{sum of data}}{\text{count}}=\text{Mean}$$
+	- $$\frac{\stackrel{-}{x}}{\text{count}}=\text{Mean}$$
 - **Mode**
 	- Most common value in data
 	- Found by ordering data and identifying the most re-recurring value

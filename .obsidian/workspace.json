@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/README.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftDev/README.md",
+                "file": "Maths/Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/README.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           },
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,13 +127,13 @@
   },
   "active": "a56417932344b046",
   "lastOpenFiles": [
-    "SoftDev/Unit3 Key Terms.md",
-    "README.md",
     "Maths/Recursion.md",
+    "README.md",
+    "SoftDev/README.md",
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
-    "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
     "SoftDev/SAC1/SAC 1 Images.pdf",
     "SoftDev/SAT1/Ideas.md",
