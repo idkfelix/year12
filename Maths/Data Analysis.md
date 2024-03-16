@@ -120,6 +120,56 @@ S_x&=\text{Standard Deviation}\\
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
+```tikz
+\usepackage{pgfplots} 
+\pgfplotsset{compat=1.18} 
+\usepgfplotslibrary{fillbetween} 
+\tikzset{every node/.style={font=\sffamily}}
+
+\definecolor{linecolor}{HTML}{7AD7F0} 
+\definecolor{grad1}{HTML}{92DFF3} 
+\definecolor{grad2}{HTML}{B7E9F7} 
+\definecolor{grad3}{HTML}{DBF3FA} 
+\definecolor{grad4}{HTML}{F5FCFF}
+
+\begin{document}
+\begin{tikzpicture} 
+\begin{axis}[ 
+	width = 17.5cm, 
+	height = 7.25cm, 
+	xmin = -4.5, 
+	xmax = 4.5, 
+	ymin = 0, 
+	axis x line* = bottom, 
+	hide y axis, 
+	xtick = {-4,...,4}, 
+	xtick align = outside, 
+	xticklabels ={(�−4�), (�−3�), (�−2�), (�−�), �, (�+�), (�+2�), (�+3�), (�+4�)}
+] 
+
+\pgfplotsinvokeforeach {-3,-2,-1,0,1,2,3} { 
+	\draw[linecolor, thin] (axis cs: #1,-1) 
+	-- (axis cs: #1,{(1/sqrt(2_pi))_exp((-1/2)_(#1)^2)+0.05}); 
+} 
+
+\addplot [ domain = -4.5:4.5, samples = 251, color = black, name path = dist ] {(1/sqrt(2_pi))*exp((-1/2)*x^2)}; 
+\path [name path = base] (\pgfkeysvalueof{/pgfplots/xmin},0) -- (\pgfkeysvalueof{/pgfplots/xmax},0); 
+\node at (axis cs: -0.5,0.15) {34%}; 
+\node at (axis cs: 0.5,0.15) {34%}; 
+\node at (axis cs: -1.5,0.058) {13.5%}; 
+\node at (axis cs: 1.5,0.058) {13.5%}; 
+\node[inner sep=0, pin={[pin edge={lightgray}]90:2.35\%}] at (axis cs: -2.5,0.0) {}; 
+\node[inner sep=0, pin={[pin edge={lightgray}]90:2.35\%}] at (axis cs: 2.5,0.0) {}; 
+\node[inner sep=0, pin={[pin edge={lightgray}]90:0.15\%}] at (axis cs: -3.5,0) {}; 
+\node[inner sep=0, pin={[pin edge={lightgray}]90:0.15\%}] at (axis cs: 3.5,0) {}; 
+\addplot [white] fill between [of = dist and base, soft clip = {domain=-4:4}]; 
+\addplot [grad4] fill between [of = dist and base, soft clip = {domain=-3:3}]; 
+\addplot [grad3] fill between [of = dist and base, soft clip = {domain=-2:2}]; 
+\addplot [grad2] fill between [of = dist and base, soft clip = {domain=-1:1}]; 
+\end{axis} 
+\end{tikzpicture} 
+\end{document}
+```
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
