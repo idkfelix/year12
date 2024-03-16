@@ -65,4 +65,13 @@ V_{n}&=V_{0}\cdot(1\pm\frac{r}{100\cdot X})^{Xn}\\
 V_{n}&=V_{0}\cdot R^{Xn}
 \end{align}$$
 ## Calculator
-- Financial 
+- Financial Section
+- Compound Interest
+	- Solves compound interest, reducing balance, etc...
+	- $$\begin{align}
+N&=\text{Number of Payments / }V_n\\
+I&=\text{Nominal Aunnual Interest \%}\\
+PV&=\text{Principal Value / }V_0\\
+PMT&=\text{Payment Value (per period) / }D\\
+FV&=\text{Future Value}
+\end{align}$$
