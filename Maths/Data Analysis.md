@@ -124,6 +124,7 @@ S_x&=\text{Standard Deviation}\\
 \usepackage{pgfplots}
 \begin{document} 
 \begin{tikzpicture}[
+	scale=1.5,
 	domain=-3:3,
 ] 
 
