@@ -94,7 +94,7 @@ S_x&=\text{Standard Deviation}\\
     \draw[->] (0,-0.2) -- (0,4.2) node[above] {$y$};
     \draw[color=green,smooth] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
     \node[below,font=\large\bfseries] at (current bounding box.south){Symmetrical Data Bell Curve};
-  \end{tikzpicture}%
+  \end{tikzpicture}
   \hspace{1cm}
   \begin{tikzpicture}[domain=0:7, ]
     \draw[very thin,color=gray] (-0.1,-0.1) grid (7,4);
@@ -114,7 +114,7 @@ S_x&=\text{Standard Deviation}\\
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
-	- $$S_x=\$$
+	- $$S_x=\sqrt{\frac{\sum(x-\stackrel{-}{x})}{n-1}}$$
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
@@ -123,6 +123,18 @@ S_x&=\text{Standard Deviation}\\
 	- Describes a values relationship to the mean
 	- $x=\text{real value}$
 	- $$ Z=\frac{x-\stackrel{-}{x}}{S_{x}}$$
+```tikz
+\begin{document}
+  \begin{tikzpicture}[domain=-3:3]
+    \draw[very thin,color=gray] (-3.1,-0.1) grid (3,5);
+    \draw[->] (-3.2,0) -- (3.2,0) node[right] {$x$};
+    \draw[->] (0,-0.2) -- (0,5.2) node[above] {$y$};
+    \draw[smooth] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
+    \fill[gray,domain=]
+  \end{tikzpicture}
+\end{document}
+```
+
 %% Add Normal Distribution %%
 ## Graph types
 - **Bar chart**
