@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0f906df04ee8d0af",
+        "id": "4bb22095d65e9a66",
         "type": "tabs",
         "children": [
           {
-            "id": "f29eb8751304d735",
+            "id": "34d82f0565b30f5e",
             "type": "leaf",
             "state": {
-              "type": "surfing-bookmark-manager",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -91,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,12 +103,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -119,10 +118,10 @@
       "compass:Compass": false
     }
   },
-  "active": "910652694f64cbb8",
+  "active": "964ed5413082969e",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "README.md",
     "Maths/Data Analysis.md",
     "Maths/Recursion.md",
     "SoftDev/SAT1/resources/Software Development Unit 3 - SAT Checklist.pdf",
