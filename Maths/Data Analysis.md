@@ -114,27 +114,16 @@ S_x&=\text{Standard Deviation}\\
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
+	- $$S_x=\$$
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
-```tikz
-\usepackage{pgfplots}
-\begin{document} 
-\begin{tikzpicture}[
-	scale=1.5,
-	domain=-3:3,
-] 
-
-\draw[->] (-3,0) -- (3,0) node[right] {x}; \draw[->] (0,-0.2) -- (0,1.2) node[above] {$\vphantom{(}\mu$};
-
-\draw[color=blue, thick] plot (\x, {(1/sqrt(2*pi))*exp((-1/2)*(\x)^2)+0.05}); 
-
-\end{tikzpicture} 
-\end{document}
-```
+	- $x=\text{real value}$
+	- $$ Z=\frac{x-\stackrel{-}{x}}{S_{x}}$$
+%% Add Normal Distribution %%
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
