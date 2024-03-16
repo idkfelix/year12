@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
       "compass:Compass": false
     }
   },
-  "active": "a56417932344b046",
+  "active": "ee248df9889e55d3",
   "lastOpenFiles": [
     "SoftDev/Unit3 Key Terms.md",
     "README.md",
