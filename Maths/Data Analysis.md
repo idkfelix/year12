@@ -15,7 +15,14 @@
 		- Non orderable
 		- Descriptive string
 ## Terms
-- 
+- **Population** - all of the data
+- **Sample** - subset of the population
+- **Measure of Centre**
+	- Median
+	- Mean
+- **Measure of Spread**
+	- Standard Deviation
+	- Interquartile Range ($IQR$)
 ## Symbols
 $$\begin{align}
 x&=\text{Sample Data}\\
@@ -100,6 +107,9 @@ S_x&=\text{Standard Deviation}\\
   \end{tikzpicture}
 \end{document}
 ```
+## Standard Deviation & Normal Distribution
+- **Standard Deviation (Std Dev)**
+	- 
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
