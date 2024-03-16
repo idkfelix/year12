@@ -122,7 +122,7 @@
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "surfing:surfing-bookmark-manager": true,
-      "compass:Compass": false
+      "Compass:Compass": false
     }
   },
   "active": "a56417932344b046",
