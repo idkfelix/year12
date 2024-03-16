@@ -29,6 +29,7 @@ $$\begin{align}
 x&=\text{Sample Data}\\
 \stackrel{-}{x}&=\text{Mean}\\
 n&=\text{Count}\\
+Z&=\text{Standard Score}\\
 S_x&=\text{Standard Deviation}\\
 \sum x&=\text{Sum of }x\\
 \end{align}$$
@@ -116,47 +117,9 @@ S_x&=\text{Standard Deviation}\\
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
-```tikz
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
-\usepgfplotslibrary{fillbetween}
-
-\definecolor{linecolor}{HTML}{7AD7F0}
-\definecolor{grad1}{HTML}{92DFF3}
-\definecolor{grad2}{HTML}{B7E9F7}
-\definecolor{grad3}{HTML}{DBF3FA}
-\definecolor{grad4}{HTML}{F5FCFF}
-
-\begin{document}
-\begin{tikzpicture}
-  \begin{axis}[
-    width = 17.5cm,
-    height = 7.25cm,
-    xmin = -4.5, xmax = 4.5,
-    ymin = 0,
-    axis x line* = bottom,
-    hide y axis,
-    xtick = {-4,...,4},
-    xtick align = outside,
-    xticklabels = {$(\mu-4\sigma)$, $(\mu-3\sigma)$, $(\mu-2\sigma)$,
-      $(\mu-\sigma)$, $\vphantom{(}\mu$, $(\mu+\sigma)$, $(\mu+2\sigma)$,
-      $(\mu+3\sigma)$, $(\mu+4\sigma)$},
-  ]
-  \pgfplotsinvokeforeach {-3,-2,-1,0,1,2,3} {
-    \draw[linecolor, thin] (axis cs: #1,-1)
-      -- (axis cs: #1,{(1/sqrt(2*pi))*exp((-1/2)*(#1)^2)+0.05});
-  }
-  \addplot [
-    domain = -4.5:4.5, 
-    samples = 251, 
-    color = black,
-    name path = dist
-  ]
-  {(1/sqrt(2*pi))*exp((-1/2)*x^2)};
-\end{axis}
-\end{tikzpicture}
-\end{document}
-```
+- **Z Score**
+	- Standardised score
+	- Describes a values relationship to the mean
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
