@@ -1,4 +1,4 @@
-## Common Terms
+## Terms
 - **Sequence** - List of numbers following a pattern
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction

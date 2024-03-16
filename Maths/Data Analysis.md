@@ -14,11 +14,15 @@
 	- **Nominal**
 		- Non orderable
 		- Descriptive string
+## Terms
+- 
 ## Symbols
 $$\begin{align}
-\stackrel{-}{x}&=Mean\\
-\sum &=Sum\\
-n&=
+x&=\text{Sample Data}\\
+\stackrel{-}{x}&=\text{Mean}\\
+n&=\text{Count}\\
+S_x&=\text{Standard Deviation}\\
+\sum x&=\text{Sum of }x\\
 \end{align}$$
 ## Mean, Median & Mode
 - **Mean**
