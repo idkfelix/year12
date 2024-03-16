@@ -17,6 +17,7 @@
 ## Terms
 - **Population** - all of the data
 - **Sample** - subset of the population
+- **Element** - term in data
 - **Measure of Centre**
 	- Median
 	- Mean
@@ -33,30 +34,30 @@ S_x&=\text{Standard Deviation}\\
 \end{align}$$
 ## Mean, Median & Mode
 - **Mean**
-	- Average of all numbers in a data
+	- Average of all numbers in sample
 	- Sensitive to outliers making it represent the centre of accurately
-	- Mean is used to measure the centre of data in any situation 
+	- Mean is used to samples measure the centre in any situation 
 	- $$\frac{\sum x}{n}=\hspace{0.2cm}\stackrel{-}{x}$$
 - **Mode**
-	- Most common value in data
+	- Most common value in sample
 	- Found by ordering data and identifying the most re-recurring value
 - **Median**
-	- Middle value of data
-	- Median is used to measure the centre of data if it is symmetrical (no skew)
+	- Middle value of sample
+	- Median is used to measure samples the centre if it is symmetrical (no skew)
 	- Also represented as $Q2$
 	- $$\begin{align*}
 	\frac{n+1}{2}^{th} &= Median\\
 	 n &= count
 	\end{align*}$$
-	- When $n$ is even the Median is the average of the numbers $+/-0.5$
+	- When $n$ is even the Median is the average of the $+/-0.5^{th}$ elements
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
 ## Quartiles, Interquartile Range ($IQR$) & Fences
 - **Quartiles**
 	- $Q_1$ represents the $25^{th}$ percentile
-		- Median of the data's lower half
+		- Median of the samples lower half
 		- $$ \frac{count+1}{4}^{th} = Q_1 $$
 	- $Q_3$ represents the $75^{th}$ percentile
-		- Median of the data's upper half
+		- Median of the samples upper half
 		- $$ \frac{count+1}{4 \cdot 3}^{th} = Q_3 $$
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q_1$ and $Q_3$
@@ -109,7 +110,7 @@ S_x&=\text{Standard Deviation}\\
 ```
 ## Standard Deviation & Normal Distribution
 - **Standard Deviation (Std Dev)**
-	- 
+	- Average distance Between elements
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
