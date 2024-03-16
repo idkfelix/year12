@@ -121,14 +121,15 @@ S_x&=\text{Standard Deviation}\\
 	- Standardised score
 	- Describes a values relationship to the mean
 ```tikz
+\usepackage{pgfplots}
 \begin{document} 
 \begin{tikzpicture}[
-	domain=-3:3, 
-	samples=100
+	domain=-3:3,
 ] 
-\draw[->] (-4,0) -- (4,0) node[right] {x}; \draw[->] (0,-0.2) -- (0,1.2) node[above] {$$};
 
-\draw[color=blue, thick] plot (\x, {1/(sqrt(2*pi))*exp(-(\x)^2/2)}); 
+\draw[->] (-3,0) -- (3,0) node[right] {x}; \draw[->] (0,-0.2) -- (0,1.2) node[above] {$\vphantom{(}\mu$};
+
+\draw[color=blue, thick] plot (\x, {(1/sqrt(2*pi))*exp((-1/2)*(\x)^2)+0.05}); 
 
 \end{tikzpicture} 
 \end{document}
