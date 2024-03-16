@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Recursion.md",
+                "file": "Maths/Financial Recursion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Recursion.md",
+                "file": "Maths/Financial Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Recursion.md"
+                "file": "Maths/Financial Recursion.md"
               }
             }
           },
@@ -125,10 +125,10 @@
       "Compass:Compass": false
     }
   },
-  "active": "a56417932344b046",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
-    "Maths/Recursion.md",
+    "Maths/Financial Recursion.md",
     "README.md",
     "SoftDev/README.md",
     "SoftDev/Unit3 Key Terms.md",

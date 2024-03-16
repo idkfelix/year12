@@ -69,9 +69,19 @@ V_{n}&=V_{0}\cdot R^{Xn}
 - Compound Interest
 	- Solves compound interest, reducing balance, etc...
 	- $$\begin{align}
-N&=\text{Number of Payments / }V_n\\
+N&=\text{Number of Payments}\\
 I&=\text{Nominal Aunnual Interest \%}\\
 PV&=\text{Principal Value / }V_0\\
 PMT&=\text{Payment Value (per period) / }D\\
-FV&=\text{Future Value}
+FV&=\text{Future Value / }V_n\\
+P/Y&=\text{Payments per year}\\
+C/Y&=\text{Compounding Periods per year}
 \end{align}$$
+	- Investment
+		- $PV$ is negative
+		- $PMT$ is negative
+		- $FV$ is positive
+	- Loan
+		- $PV$ is positive
+		- $PMT$ is negative
+		- $FV$ is negative
