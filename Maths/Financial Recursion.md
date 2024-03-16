@@ -66,8 +66,9 @@ V_{n}&=V_{0}\cdot R^{Xn}
 \end{align}$$
 ## Calculator
 - Financial Section
-- Compound Interest
+- **Compound Interest**
 	- Solves compound interest, reducing balance, etc...
+	- Press omitted value to calculate
 	- $$\begin{align}
 N&=\text{Number of Payments}\\
 I&=\text{Nominal Aunnual Interest \%}\\
@@ -85,3 +86,11 @@ C/Y&=\text{Compounding Periods per year}
 		- $PV$ is positive
 		- $PMT$ is negative
 		- $FV$ is negative
+- **Interest Conversion**
+	- Calculates effective interest rate
+	- Press omitted value to calculate
+	- $$\begin{align}
+N&=\text{Compounding Periods per Year}\\
+APR&=\text{Nominal Interest Rate}\\
+EFF&=\text{Effective Interest Rate}
+\end{align}$$
