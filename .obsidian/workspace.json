@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "Maths/Recursion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "Maths/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "Maths/Recursion.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,8 +127,8 @@
   },
   "active": "a56417932344b046",
   "lastOpenFiles": [
-    "Maths/Recursion.md",
     "Maths/Data Analysis.md",
+    "Maths/Recursion.md",
     "README.md",
     "SoftDev/README.md",
     "SoftDev/Unit3 Key Terms.md",

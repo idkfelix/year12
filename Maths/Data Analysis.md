@@ -109,7 +109,7 @@ S_x&=\text{Standard Deviation}\\
   \end{tikzpicture}
 \end{document}
 ```
-## Standard Deviation & Normal Distribution
+## Standard Deviation, Normal Distribution & Z Score
 - **Standard Deviation (Std Dev)**
 	- Average distance Between elements
 	- Shows how spread out sample data is
@@ -123,19 +123,11 @@ S_x&=\text{Standard Deviation}\\
 	- Describes a values relationship to the mean
 	- $x=\text{real value}$
 	- $$ Z=\frac{x-\stackrel{-}{x}}{S_{x}}$$
-```tikz
-\begin{document}
-  \begin{tikzpicture}[domain=-3:3]
-    \draw[very thin,color=gray] (-3.1,-0.1) grid (3,5);
-    \draw[->] (-3.2,0) -- (3.2,0) node[right] {$x$};
-    \draw[->] (0,-0.2) -- (0,5.2) node[above] {$y$};
-    \draw[smooth] plot (\x,{3*1/exp(((\x-3.5)^2)/2)});
-    \fill[gray,domain=]
-  \end{tikzpicture}
-\end{document}
-```
 
 %% Add Normal Distribution %%
+## Calculator
+- "Statistics" > fill out list > "Calc" > "One-Variable"
+	- Finds $S_x$ and $\stackrel{-}{x}$
 ## Graph types
 - **Bar chart**
 	- Gaps between bars
