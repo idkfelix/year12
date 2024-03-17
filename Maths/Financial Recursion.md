@@ -3,7 +3,8 @@
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
-- **Annuity** - payment of investment interest + par
+- **Annuity** - payment of investment interest + part of the value
+- **Perpetuity** - payment of interest only
 ## Types of Recursion
 - **Growth**
 	- **Simple Interest** - linear increase of principle value percentage per annum
@@ -95,3 +96,11 @@ N&=\text{Compounding Periods per Year}\\
 APR&=\text{Nominal Interest Rate}\\
 EFF&=\text{Effective Interest Rate}
 \end{align}$$
+## Amortisation Table
+- Used to used to represent repayments made and remaining balance of a loan
+- **Columns**
+	- Payment Number - How many payments have been made (after transaction)
+	- Payment - Value of the payment
+	- Interest - The accumulated interest from the previous payment
+	- Principle reduction - Change on remaining balance ($Payment-Interest$)
+	- Balance of loan / Investment - Remain
