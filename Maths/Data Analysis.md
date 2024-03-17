@@ -128,7 +128,7 @@ S_x&=\text{Standard Deviation}\\
 ## Calculator - Statistics
  - fill out list > "Calc" > "One-Variable"
 	- Finds $S_x$ and $\stackrel{-}{x}$
-## Graph types
+## Graph Types
 - **Bar chart**
 	- Gaps between bars
 	- Single value with bar

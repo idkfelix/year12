@@ -57,14 +57,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "c1945098062c606f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
           }
         ]
       }
@@ -121,16 +113,17 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "surfing:surfing-bookmark-manager": true,
       "Compass:Compass": false
     }
   },
   "active": "55ac904af3edc261",
   "lastOpenFiles": [
-    "SoftDev/SAT1/development",
+    "README.md",
+    "Accounting/Formulas.md",
+    "English/Born A Crime/Part II Questions.md",
     "Maths/Data Analysis.md",
     "Maths/Financial Recursion.md",
-    "README.md",
+    "SoftDev/SAT1/development",
     "SoftDev/README.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
@@ -142,15 +135,12 @@
     "SoftDev/SAT1/Project Proposal.md",
     "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/resources/Project Proposal.pdf",
-    "English/Born A Crime/Part II Questions.md",
-    "Accounting/Formulas.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "English/Born A Crime/resources/~$rt II task.docx",
     "English/Born A Crime/resources",
     "Maths",
     "English/Born A Crime/resources/Part II task.docx",
     "English/Born A Crime",
-    "English",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",

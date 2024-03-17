@@ -3,23 +3,15 @@
 - **Term** - A product of a pattern
 - **Arithmetic** - Pattern with only addition and subtraction
 - **Geometric** - Pattern with multiplication and division
+- **Annuity** - payment of investment interest + par
 ## Types of Recursion
-- ***Growth***
+- **Growth**
 	- **Simple Interest** - linear increase of principle value percentage per annum
 	- **Compound Interest** - exponential increase of percentage value over time
 - **Decay**
 	- **Flat Rate** - linear decrease of principle value percentage per annum
 	- **Unit Cost** - decrease of value for each use or term
 	- **Reducing Balance** - exponential decrease of percentage value over time
-## Effective Interest Rate
-- Can be used to compare compounding periods
-- Cannot compare different nominal interest rates
-- $$\begin{align}
-EAR &= \text{Effective Annual Rate}\\
-n &= \text{Compounding Period Per Annum}\\
-i &= \text{Nominated Interest Rate}\\
-\end{align}$$
-- $$ EAR=(1+\frac{i}{n})^n-1 $$
 ## Arithmetic Sequence
 - Simple Interest
 - Flat Rate Depreciation
@@ -65,6 +57,15 @@ V_{n}&=\text{Solve for n}^{th}\ Term\\
 V_{n}&=V_{0}\cdot(1\pm\frac{r}{100\cdot X})^{Xn}\\
 V_{n}&=V_{0}\cdot R^{Xn}
 \end{align}$$
+## Effective Interest Rate
+- Can be used to compare compounding periods
+- Cannot compare different nominal interest rates
+- $$\begin{align}
+EAR &= \text{Effective Annual Rate}\\
+n &= \text{Compounding Period Per Annum}\\
+i &= \text{Nominated Interest Rate}\\
+\end{align}$$
+- $$ EAR=(1+\frac{i}{n})^n-1 $$
 ## Calculator - Finance
 - **Compound Interest**
 	- Solves compound interest, reducing balance, etc...

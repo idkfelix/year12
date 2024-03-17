@@ -20,7 +20,7 @@
 
 > 6. What does the prelude to Chapter 10 contribute to our understanding of Noah’s relationship with his mother, Patricia?
 
-## Chapter 10: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part I: Valentine’s Day_
+## Chapter 10: _A Young man’s Long, Awkward, Occasionally Tragic, and Frequently Humiliating Education in Affairs of the Heart, Part I: Valentine’s Day_
 
 > 7.  What does Noah learn from being rejected on Valentine’s Day by Maylene? (Hint: connect this to an excerpt from Chapter 9 - _“All you had to do was denounce your people, denounce your history, and leave your darker-skinned friends and family behind”. P.119)_
 
@@ -46,7 +46,7 @@
 ## Chapter 12: _Prelude_
 
 > 14. Why is Noah _“consumed with regret for the things_ he _didn’t do?”_
-## Chapter 12: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part II: The Crush_
+## Chapter 12: _A Young man’s Long, Awkward, Occasionally Tragic, and Frequently Humiliating Education in Affairs of the Heart, Part II: The Crush_
 
 > 15. Why doesn’t Noah ever ask out his high school crush, Zaheer and what does this experience teach him?
 ## Chapter 13: _Prelude_
@@ -68,7 +68,7 @@
   >  
 > Explain what Noah means by “_their own construct of race”._
 
-## Chapter 14: _A young man’s long, awkward, occasionally tragic, and frequently humiliating education in affairs of the heart, Part III: The Dance_
+## Chapter 14: _A Young man’s Long, Awkward, Occasionally Tragic, and Frequently Humiliating Education in Affairs of the Heart, Part III: The Dance_
 
 > 19. In what way does Noah’s experience with Babiki symbolise his hubris?
 
