@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f507a70f6362a2",
+        "id": "b7154c116bd321ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a56417932344b046",
+            "id": "55ac904af3edc261",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Financial Recursion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0873c2d8d881adaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Data Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Financial Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Financial Recursion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,7 +117,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "a56417932344b046",
+  "active": "55ac904af3edc261",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
     "Maths/Financial Recursion.md",
