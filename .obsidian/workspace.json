@@ -78,11 +78,12 @@
       "Compass:Compass": false
     }
   },
-  "active": "97eecad44c2e1d55",
+  "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
-    "Maths/Financial Recursion.md",
     "README.md",
+    "settings.md",
+    "Maths/Financial Recursion.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "Maths/Untitled.md",
@@ -124,7 +125,6 @@
     "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
     "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg",
     "SAT1/Project Proposal.md",
-    "Unit3 Key Terms.md",
-    "SAT1/blob-poc/README.md"
+    "Unit3 Key Terms.md"
   ]
 }
