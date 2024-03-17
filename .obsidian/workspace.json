@@ -62,19 +62,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
     "children": [
       {
-        "id": "0bb6afba46c92e2a",
+        "id": "d21f4a8b84258572",
         "type": "tabs",
         "children": [
           {
-            "id": "c92f555908d07b73",
+            "id": "2da19ac6129f9a6c",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -85,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -95,7 +93,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "dc0a81c1d273fd64",
+  "active": "2da19ac6129f9a6c",
   "lastOpenFiles": [
     "README.md",
     "Maths/Financial Recursion.md",
