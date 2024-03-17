@@ -89,10 +89,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "compass:Compass": false,
       "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true,
-      "Compass:Compass": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": true
     }
   },
   "active": "dc0a81c1d273fd64",
