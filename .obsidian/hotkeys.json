@@ -4,5 +4,13 @@
       "modifiers": [],
       "key": "F7"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
