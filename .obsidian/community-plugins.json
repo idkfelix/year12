@@ -7,8 +7,8 @@
   "obsidian-git",
   "obsidian-tikzjax",
   "obsidian-hide-sidebars-when-narrow",
-  "hot-reload",
   "compass",
   "Compass",
-  "obsidian-latex-environments"
+  "obsidian-latex-environments",
+  "obsidian-linter"
 ]
