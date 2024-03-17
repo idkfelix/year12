@@ -42,21 +42,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "4b042f9d3cf4316b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
@@ -73,28 +58,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e883d4402cf8e250",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1a908a52efa4fc55",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
             "id": "97eecad44c2e1d55",
             "type": "leaf",
             "state": {
@@ -102,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +78,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "dc0a81c1d273fd64",
+  "active": "97eecad44c2e1d55",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
     "Maths/Financial Recursion.md",

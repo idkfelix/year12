@@ -1,11 +1,6 @@
 [
   "file-explorer",
-  "global-search",
   "switcher",
-  "outgoing-link",
-  "page-preview",
   "command-palette",
-  "editor-status",
-  "outline",
-  "file-recovery"
+  "editor-status"
 ]
