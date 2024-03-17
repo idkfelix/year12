@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Accounting/Formulas.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "READM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,23 +58,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
     "type": "split",
     "children": [
       {
-        "id": "30f50b3b792fb892",
+        "id": "0bb6afba46c92e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "97eecad44c2e1d55",
+            "id": "c92f555908d07b73",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -85,20 +85,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "compass:Compass": false,
       "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "Compass:Compass": false
     }
   },
   "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
+    "README.md",
     "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
-    "README.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
