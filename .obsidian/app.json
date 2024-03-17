@@ -21,5 +21,6 @@
   "foldIndent": false,
   "foldHeading": false,
   "propertiesInDocument": "source",
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "showLineNumber": false
 }

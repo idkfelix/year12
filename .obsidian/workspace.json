@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -80,8 +80,8 @@
   },
   "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "README.md",
+    "Maths/Data Analysis.md",
     "settings.md",
     "Maths/Financial Recursion.md",
     "SoftDev/Unit3 Key Terms.md",
