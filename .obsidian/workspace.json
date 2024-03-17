@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -42,8 +42,24 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1066e7d27dbbcbc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "READM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,15 +91,16 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "Compass:Compass": false
+      "Compass:Compass": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
+    "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
     "README.md",
     "settings.md",
-    "Maths/Financial Recursion.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "Maths/Untitled.md",
