@@ -125,8 +125,8 @@ S_x&=\text{Standard Deviation}\\
 	- $$ Z=\frac{x-\stackrel{-}{x}}{S_{x}}$$
 
 %% Add Normal Distribution %%
-## Calculator
-- "Statistics" > fill out list > "Calc" > "One-Variable"
+## Calculator - Statistics
+ - fill out list > "Calc" > "One-Variable"
 	- Finds $S_x$ and $\stackrel{-}{x}$
 ## Graph types
 - **Bar chart**

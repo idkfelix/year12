@@ -64,8 +64,7 @@ V_{n}&=\text{Solve for n}^{th}\ Term\\
 V_{n}&=V_{0}\cdot(1\pm\frac{r}{100\cdot X})^{Xn}\\
 V_{n}&=V_{0}\cdot R^{Xn}
 \end{align}$$
-## Calculator
-- Financial Section
+## Calculator - Finance
 - **Compound Interest**
 	- Solves compound interest, reducing balance, etc...
 	- Press omitted value to calculate
