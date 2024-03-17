@@ -97,10 +97,17 @@ APR&=\text{Nominal Interest Rate}\\
 EFF&=\text{Effective Interest Rate}
 \end{align}$$
 ## Amortisation Table
-- Used to used to represent repayments made and remaining balance of a loan
+- Used to represent repayments made and remaining balance of a loan
+- Used to represent annuity and perpetuity of an investment
 - **Columns**
 	- Payment Number - How many payments have been made (after transaction)
 	- Payment - Value of the payment
 	- Interest - The accumulated interest from the previous payment
 	- Principle reduction - Change on remaining balance ($Payment-Interest$)
-	- Balance of loan / Investment - Remain
+	- Balance of loan / Investment - Remaining balance
+- **Example**
+
+| Payment Num | Payment | Interest | Principle Reduction | Balance of Loan |
+| ----------- | ------- | -------- | ------------------- | --------------- |
+| 0           | 0       | 0        | 0                   | 5000            |
+| 1           | 75      | 50       | 20                  | 4975            |
