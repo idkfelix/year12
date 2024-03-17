@@ -40,6 +40,9 @@ V_{n+1}&=V_{n}+(V_{0}\cdot\frac{r}{100})\\
 V_{n}&=\text{Solve for n}^{th}\ Term\\
 V_{n}&=V_{0}+(V_{0}\cdot\frac{r}{100})\cdot n\\
 \end{align}$$
+- $$\begin{align}
+
+\end{align}$$
 ## Geometric Sequence
 - Compound Interest
 - Reducing Balance Depreciation

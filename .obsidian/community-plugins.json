@@ -5,10 +5,10 @@
   "oz-clear-unused-images",
   "dataview",
   "obsidian-git",
-  "quick-latex",
   "obsidian-tikzjax",
   "obsidian-hide-sidebars-when-narrow",
   "hot-reload",
   "compass",
-  "Compass"
+  "Compass",
+  "obsidian-latex-environments"
 ]

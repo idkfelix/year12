@@ -11,8 +11,13 @@
             "id": "55ac904af3edc261",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Financial Recursion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Financial Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Financial Recursion.md"
+              }
             }
           },
           {
@@ -117,7 +125,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "910652694f64cbb8",
+  "active": "55ac904af3edc261",
   "lastOpenFiles": [
     "SoftDev/SAT1/development",
     "Maths/Data Analysis.md",
