@@ -17,7 +17,7 @@
   "userIgnoreFilters": null,
   "showInlineTitle": true,
   "trashOption": "local",
-  "vimMode": false,
+  "vimMode": true,
   "foldIndent": false,
   "foldHeading": false,
   "propertiesInDocument": "source",
