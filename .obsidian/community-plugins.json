@@ -1,11 +1,8 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "dataview",
   "obsidian-git",
   "obsidian-tikzjax",
   "obsidian-hide-sidebars-when-narrow",
   "compass",
-  "Compass",
-  "obsidian-linter"
+  "Compass"
 ]
