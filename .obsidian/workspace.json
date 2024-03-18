@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -95,8 +95,8 @@
   },
   "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "Maths/Financial Recursion.md",
+    "Maths/Data Analysis.md",
     "README.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
