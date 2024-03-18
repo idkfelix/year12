@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "READM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,17 +84,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "Compass:Compass": false,
-      "omnisearch:Omnisearch": false
+      "Compass:Compass": false
     }
   },
-  "active": "dc0a81c1d273fd64",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
     "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
