@@ -27,7 +27,7 @@
 ## Symbols
 $$\begin{align}
 x&=\text{Sample Data}\\
-\stackrel{-}{x}&=\text{Mean}\\
+\bar{x}&=\text{Mean}\\
 n&=\text{Count}\\
 Z&=\text{Standard Score}\\
 S_x&=\text{Standard Deviation}\\
@@ -38,7 +38,7 @@ S_x&=\text{Standard Deviation}\\
 	- Average of all numbers in sample
 	- Sensitive to outliers making it represent the centre of accurately
 	- Mean is used to samples measure the centre in any situation 
-	- $$\frac{\sum x}{n}=\hspace{0.2cm}\stackrel{-}{x}$$
+	- $$\frac{\sum x}{n}=\bar{x}$$
 - **Mode**
 	- Most common value in sample
 	- Found by ordering data and identifying the most re-recurring value
@@ -56,10 +56,10 @@ S_x&=\text{Standard Deviation}\\
 - **Quartiles**
 	- $Q_1$ represents the $25^{th}$ percentile
 		- Median of the samples lower half
-		- $$ \frac{count+1}{4}^{th} = Q_1 $$
+		- $$ \frac{n+1}{4}^{th} = Q_1 $$
 	- $Q_3$ represents the $75^{th}$ percentile
 		- Median of the samples upper half
-		- $$ \frac{count+1}{4 \cdot 3}^{th} = Q_3 $$
+		- $$ \frac{n+1}{4 \cdot 3}^{th} = Q_3 $$
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q_1$ and $Q_3$
 	- represents the middle $50\%$ of the sample
@@ -114,7 +114,7 @@ S_x&=\text{Standard Deviation}\\
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
-	- $$S_x=\sqrt{\frac{\sum(x-\stackrel{-}{x})}{n-1}}$$
+	- $$S_x=\sqrt{\frac{\sum(x-\bar{x})}{n-1}}$$
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
@@ -122,12 +122,12 @@ S_x&=\text{Standard Deviation}\\
 	- Standardised score
 	- Describes a values relationship to the mean
 	- $x=\text{real value}$
-	- $$ Z=\frac{x-\stackrel{-}{x}}{S_{x}}$$
+	- $$ Z=\frac{x-\bar{x}}{S_{x}}$$
 
 %% Add Normal Distribution %%
 ## Calculator - Statistics
  - fill out list > "Calc" > "One-Variable"
-	- Finds $S_x$ and $\stackrel{-}{x}$
+	- Finds $S_x$ and $\bar{x}$
 ## Graph Types
 - **Bar chart**
 	- Gaps between bars
