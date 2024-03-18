@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Financial Recursion.md",
-                "mode": "source",
+                "file": "Maths/Data Analysis.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,11 +69,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f8ecbd2b352c48",
+        "id": "30f50b3b792fb892",
         "type": "tabs",
         "children": [
           {
-            "id": "158ba22186e27dc9",
+            "id": "97eecad44c2e1d55",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -95,14 +95,14 @@
   },
   "active": "910652694f64cbb8",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
-    "README.md",
     "Maths/Financial Recursion.md",
-    "Accounting/Formulas.md",
+    "README.md",
+    "Maths/Data Analysis.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "Maths/Untitled.md",
+    "Accounting/Formulas.md",
     "English/Born A Crime/Part II Questions.md",
     "SoftDev/SAT1/development",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
