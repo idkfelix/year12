@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Financial Recursion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -85,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,9 +96,9 @@
   "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
+    "README.md",
     "Maths/Financial Recursion.md",
     "Accounting/Formulas.md",
-    "README.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
