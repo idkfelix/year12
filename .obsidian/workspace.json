@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Formulas.md",
-                "mode": "preview",
+                "file": "Maths/Data Analysis.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,11 +69,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d21f4a8b84258572",
+        "id": "f2f8ecbd2b352c48",
         "type": "tabs",
         "children": [
           {
-            "id": "2da19ac6129f9a6c",
+            "id": "158ba22186e27dc9",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -93,16 +93,16 @@
       "Compass:Compass": false
     }
   },
-  "active": "2da19ac6129f9a6c",
+  "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
-    "README.md",
     "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
+    "Accounting/Formulas.md",
+    "README.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "Maths/Untitled.md",
-    "Accounting/Formulas.md",
     "English/Born A Crime/Part II Questions.md",
     "SoftDev/SAT1/development",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
