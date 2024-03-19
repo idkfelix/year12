@@ -119,7 +119,7 @@ x&=\text{real value}\\
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
-	- $$S_x=\sqrt{\frac{\sum(x-\bar{x})}{n-1}}$$
+	- $$S_x=\sqrt{\frac{\sum\;(x-\bar{x})}{n-1}}$$
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
