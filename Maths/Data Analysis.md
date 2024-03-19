@@ -27,7 +27,8 @@
 		- Non orderable
 		- Descriptive string
 ## Symbols
-$$\begin{align}
+$$
+\begin{align}
 x&=\text{Sample Data}\\
 \bar{x}&=\text{Mean}\\
 n&=\text{Count}\\
@@ -36,13 +37,16 @@ S_x&=\text{Standard Deviation of sample}\\
 \sigma&=\text{Std Dev of population} \\
 \mu&=\text{Mean}\\
 \sum{x}&=\text{Sum of }x\\
-\end{align}$$
+\end{align}
+$$
 ## Mean, Median & Mode
 - **Mean**
 	- Average of all numbers in sample
 	- Sensitive to outliers making it represent the centre of accurately
 	- Mean is used to samples measure the centre in any situation 
-	$$\frac{\sum x}{n}=\bar{x}$$
+$$
+\frac{\sum x}{n}=\bar{x}
+$$
 - **Mode**
 	- Most common value in sample
 	- Found by ordering data and identifying the most re-recurring value
@@ -50,31 +54,41 @@ S_x&=\text{Standard Deviation of sample}\\
 	- Middle value of sample
 	- Median is used to measure samples the centre if it is symmetrical (no skew)
 	- Also represented as $Q2$
-	$$\begin{align*}
-	\frac{n+1}{2}^{th} &= Median\\
-	 n &= count
-	\end{align*}$$
-	- When $n$ is even the Median is the average of the $+/-0.5^{th}$ elements
+  - When $n$ is even the Median is the average of the $+/-0.5^{th}$ elements
 	- If $n$ is odd $n$ is ignored from the $IQR$ calculation
+$$
+\begin{align*}
+\frac{n+1}{2}^{th} &= Median\\
+  n &= count
+\end{align*}
+$$
 ## Quartiles, Interquartile Range ($IQR$) & Fences
 - **Quartiles**
 	- $Q_1$ represents the $25^{th}$ percentile
 		- Median of the samples lower half
-		$$ \frac{n+1}{4}^{th} = Q_1 $$
-	- $Q_3$ represents the $75^{th}$ percentile
+  - $Q_3$ represents the $75^{th}$ percentile
 		- Median of the samples upper half
-		$$ \frac{n+1}{4 \cdot 3}^{th} = Q_3 $$
+$$ 
+\begin{align}
+\frac{n+1}{4}^{th} &= Q_1\\
+\frac{n+1}{4 \cdot 3}^{th} &= Q_3 
+\end{align}
+$$
 - **Interquartile Range ($IQR$)**
 	- $IQR$ is the range between $Q_1$ and $Q_3$
 	- represents the middle $50\%$ of the sample
-	$$ Q_{3}-Q_{1} = IQR $$
+$$ 
+Q_{3}-Q_{1} = IQR 
+$$
 - **Fences**
 	- Used to identify outliers that deviate too far from the $IQR$
 	- Can be used on a plot to prevent skew by omitting outliers
-	$$\begin{align}
-	  \text{Lower Fence} = Q_{1} - IQR \cdot 1.5 \\
-	  \text{Upper Fence} = Q_{3} + IQR \cdot 1.5
-	  \end{align}$$
+$$
+\begin{align}
+\text{Lower Fence} = Q_{1} - IQR \cdot 1.5 \\
+\text{Upper Fence} = Q_{3} + IQR \cdot 1.5
+\end{align}
+$$
 ## Symmetry & Skew
 - **Symmetry**
 	- A symmetrical sample will form a perfect bell curve on a chart
@@ -115,28 +129,34 @@ S_x&=\text{Standard Deviation of sample}\\
 ```
 ## Standard Deviation, Normal Distribution & Z Score
 - **Standard Deviation (Std Dev)**
-	$$\begin{align*}
-x&=\text{real value}\\
-\mu &=\text{mean (mu)} \\
-\sigma &=\text{Std Dev of population (sigma)}\\
-S &= \text{Std Dev of sample}
-\end{align*}$$
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
-	$$S_x=\sqrt{\frac{\sum\;(x-\bar{x})}{n-1}}$$
+$$
+\begin{align*}
+x&=\text{real value}\\
+\mu &=\text{mean (mu)} \\
+\sigma &=\text{Std Dev of population (sigma)}\\
+S &= \text{Std Dev of sample}\\\\
+S_x&=\sqrt{\frac{\sum\;(x-\bar{x})}{n-1}}
+\end{align*}
+$$
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
-	- range of $-3S_{x}\text{ to }3S_{x}$
+	- range of $-1S_{x}\text{ to }1S_{x}=68\%$
+  - range of $-2S_{x}\text{ to }2S_{x}=95\%$
+  - range of $-3S_{x}\text{ to }3S_{x}=99.7\%$
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
 	- Can be used to represent float $S_x$ on normal data
-	$$\begin{align*}
- Z&=\frac{x-\bar{x}}{S_{x}}\\\\
+$$
+\begin{align*}
+Z&=\frac{x-\bar{x}}{S_{x}}\\\\
 x&=Z\cdot{S_x}+\bar{x}
-\end{align*}$$
+\end{align*}
+$$
 - **Example of Normal Distribution**
 ```tikz
 \usepackage{pgfplots}
