@@ -1,3 +1,4 @@
+> [!INFO] Also See: [[General Ledger]]
 # Theory
 - **General Journal:** an Accounting record used to analyse and record each transaction, and to identify its source document before posting to the General Ledger
 - **Correcting Entries** 

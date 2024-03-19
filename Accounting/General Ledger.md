@@ -1,5 +1,6 @@
-# Theory
 
+> [!INFO] Also See: [[General Journal]]
+# Theory
 - **Ledger account:** an Accounting record showing all the transactions that affect a particular item
 - **Subsidiary ledger:** each account in the General Ledger
 - **Trial Balance**
