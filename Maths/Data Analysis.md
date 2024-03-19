@@ -111,6 +111,10 @@ S_x&=\text{Standard Deviation}\\
 ```
 ## Standard Deviation, Normal Distribution & Z Score
 - **Standard Deviation (Std Dev)**
+	- $$\begin{align*}
+\mu &=\text{mean (mu)} \\
+\sigma &=\text{}
+\end{align*}$$$$
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution

@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8665f402ef4bc5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,10 +93,10 @@
       "Compass:Compass": false
     }
   },
-  "active": "8665f402ef4bc5a8",
+  "active": "dc0a81c1d273fd64",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "conflict-files-obsidian-git.md",
+    "Maths/Data Analysis.md",
     "SoftDev/SAT1/dev/backend/src/main.rs",
     "SoftDev/SAT1/dev/backend/src",
     "SoftDev/SAT1/dev/backend/Cargo.toml",
