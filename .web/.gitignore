@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+prof
+public
+tsconfig.tsbuildinfo
+.quartz-cache
+private/
+.replit
+replit.nix
