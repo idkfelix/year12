@@ -160,6 +160,11 @@ x&=Z\cdot\sigma+\mu\\
 	- **Split Leaf**
 		- Multiple of each common value
 		- Each with range, ($0\text{-}4$),($5\text{-}9$)
+	- **Back to back**
+		- leaf on either side
+		- used to compare sets of data
+		- no value on leaf means no elements
+		- 
 - **Frequency Chart**
 	- Match value column
 	- Number of matches
