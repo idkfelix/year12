@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAC2/SAC 2 Submission.md",
+                "file": "Accounting/General Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,14 +95,24 @@
   },
   "active": "7b54b94cf3be3a72",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
+    "Accounting/attachments/Pasted image 20240319205535.png",
+    "Accounting/attachments/Pasted image 20240319205530.png",
+    "Accounting/attachments/Pasted image 20240319205525.png",
+    "Accounting/attachments/Pasted image 20240319205520.png",
+    "Accounting/attachments/Pasted image 20240319205514.png",
+    "Accounting/attachments/Pasted image 20240319205508.png",
+    "Accounting/attachments/Pasted image 20240319205503.png",
+    "Accounting/attachments/Pasted image 20240319205433.png",
+    "Accounting/attachments",
+    "Accounting/Correcting Entries.md",
+    "Accounting/General Journal.md",
+    "Accounting/Accounts Turn Over.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
+    "Maths/Data Analysis.md",
     "SoftDev/SAC2",
     "Maths/Recursion & Financial.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
-    "Accounting/Accounts Turn Over.md",
-    "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
     "Accounting/notes",
     "conflict-files-obsidian-git.md",
@@ -120,7 +130,6 @@
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
-    "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
     "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/Production Experiment 1.md",
@@ -131,15 +140,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
-    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1.png",
-    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1 1.png",
-    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
-    "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
-    "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
-    "SAT1/compass-api/README.md",
-    "SAT1/Ideas.md",
-    "Weekly Activities/Unit3/Week6/Week 6.md",
-    "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
-    "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg"
+    "SAT1/compass-api/README.md"
   ]
 }
