@@ -30,7 +30,9 @@ x&=\text{Sample Data}\\
 \bar{x}&=\text{Mean}\\
 n&=\text{Count}\\
 Z&=\text{Standard Score}\\
-S_x&=\text{Standard Deviation}\\
+S_x&=\text{Standard Deviation of sample}\\
+\sigma&=\text{Std Dev of population} \\
+\mu&=\text{Mean}\\
 \sum x&=\text{Sum of }x\\
 \end{align}$$
 ## Mean, Median & Mode
