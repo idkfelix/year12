@@ -126,6 +126,7 @@ x&=\text{real value}\\
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
+	- Can be used to represent half $S_x$ on normal dist
 	- $$\begin{align*}
  Z&=\frac{x-\bar{x}}{S_{x}}\\\\
 x&=X\cdot{S_x}+\bar{x}\\
