@@ -213,8 +213,9 @@ $$
 		- Top wire $=Q_3+1.5\cdot{IQR}$
 	- Box represents the $IQR$ and median
 		- Bottom line represents $Q_1$
-		- Middle line represents $\large\tilde{x}$ (the median)
 		- Top line represents $Q_3$
+		- The range of the box represents the $IQR$
+	- Middle line represents $\large\tilde{x}$ (the median)
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
