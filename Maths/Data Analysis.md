@@ -149,9 +149,9 @@ x&=Z\cdot\sigma+\mu\\
 }
 
 \begin{tikzpicture}[
-	background rectangle/.style={fill=white},
-	show background rectangle,
 	every node/.style={text=black}
+	background rectangle/.style={fill=white},
+	show background rectangle
 ]
     \begin{axis}[
         no markers, domain=0:14, samples=100,
@@ -184,9 +184,9 @@ x&=Z\cdot\sigma+\mu\\
 \end{document}
 ```
 ## Calculator
-- Statistics
- - fill out list > "Calc" > "One-Variable"
-	- Finds $S_x$ and $\bar{x}$
+- **Statistics**
+	 - fill out list > "Calc" > "One-Variable"
+		- Finds $S_x$ and $\bar{x}$
 ## Graph Types
 - **Bar chart**
 	- Gaps between bars
