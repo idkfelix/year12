@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36ffd644023ac7f8",
+        "id": "7a13bef00445f9c0",
         "type": "tabs",
         "children": [
           {
-            "id": "18807d698727f869",
+            "id": "35f84e84727d19a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,18 +104,24 @@
       "Compass:Compass": false
     }
   },
-  "active": "18807d698727f869",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
-    "Accounting/General Journal.md",
-    "Accounting/General Ledger.md",
-    "Accounting/Balance Sheet.md",
     "Accounting/Accounts Turnover.md",
+    "Accounting/General Ledger.md",
+    "Accounting/Indicators",
+    "Accounting/General Journal.md",
+    "README.md",
+    "Accounting/Accounts",
+    "Media/notes/21-2-24.md",
+    "Media/notes/29-2-24.md",
+    "English/Born A Crime/Part II Questions.md",
+    "Maths/Data Analysis.md",
+    "Maths/Recursion & Financial.md",
+    "Accounting.md",
+    "Accounting/Balance Sheet.md",
     "Accounting/attachments/Pasted image 20240319214008.png",
     "Accounting/attachments/Pasted image 20240319213955.png",
     "Accounting/attachments/Pasted image 20240319211446.png",
-    "Maths/Recursion & Financial.md",
-    "Maths/Data Analysis.md",
-    "English/Born A Crime/Part II Questions.md",
     "English/Born A Crime/resources/~$rt II task.docx",
     "Accounting/attachments/Pasted image 20240319211232.png",
     "Accounting/attachments/Pasted image 20240319211214.png",
@@ -137,19 +143,13 @@
     "SoftDev/SAT1/dev/backend/src",
     "SoftDev/SAT1/dev/backend/Cargo.toml",
     "SoftDev/SAT1/dev/backend",
-    "SoftDev/SAT1/dev",
-    "README.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
-    "SoftDev/SAT1/development",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.md",
-    "Media/Production Experiment/Production Experiment 1.md",
-    "Media/notes/29-2-24.md",
-    "Media/notes/21-2-24.md",
-    "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md"
+    "Media/Production Experiment/Production Experiment 1.md"
   ]
 }
