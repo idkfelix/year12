@@ -211,11 +211,12 @@ $$
 		- Wire length calculated as $1.5\cdot{IQR}$
 		- Bottom wire $=Q_1-1.5\cdot{IQR}$
 		- Top wire $=Q_3+1.5\cdot{IQR}$
+	- Line dividing the box represents $\large\tilde{x}$ (the median)
 	- Box represents the $IQR$ and median
 		- Bottom line represents $Q_1$
 		- Top line represents $Q_3$
 		- The range of the box represents the $IQR$
-	- Line dividing the box represents $\large\tilde{x}$ (the median)
+	- Outliers are represented as dots past the wires (fences) on either side
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
