@@ -128,7 +128,7 @@ S &= \text{Std Dev of sample}
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
-	- Can be used to represent half $S_x$ on normal dist
+	- Can be used to represent float $S_x$ on normal data
 	- $$\begin{align*}
  Z&=\frac{x-\bar{x}}{S_{x}}\\\\
 x&=Z\cdot{S_x}+\bar{x}\\

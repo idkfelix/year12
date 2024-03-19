@@ -69,11 +69,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09e8fc8c0691cd46",
+        "id": "c542b56b2a6dbd31",
         "type": "tabs",
         "children": [
           {
-            "id": "f094ab3b4a1974f5",
+            "id": "3e67d02fde1e8a61",
             "type": "leaf",
             "state": {
               "type": "CompassView",
@@ -93,7 +93,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "dc0a81c1d273fd64",
+  "active": "3e67d02fde1e8a61",
   "lastOpenFiles": [
     "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
