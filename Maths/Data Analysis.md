@@ -1,3 +1,13 @@
+# Table of Contents 
+- [[#Data Types|Data Types]]
+- [[#Terms|Terms]]
+- [[#Symbols|Symbols]]
+- [[#Mean, Median & Mode|Mean, Median & Mode]]
+- [[#Quartiles, Interquartile Range ($IQR$) & Fences|Quartiles, Interquartile Range ($IQR$) & Fences]]
+- [[#Symmetry & Skew|Symmetry & Skew]]
+- [[#Standard Deviation, Normal Distribution & Z Score|Standard Deviation, Normal Distribution & Z Score]]
+- [[#Calculator|Calculator]]
+- [[#Graph Types|Graph Types]]
 ## Data Types
 - ***Numerical / Quantitative***
 	- **Discrete**
