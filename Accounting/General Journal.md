@@ -1,10 +1,5 @@
 # Theory
 - **General Journal:** an Accounting record used to analyse and record each transaction, and to identify its source document before posting to the General Ledger
-- **Narration:**
-    - **GST refund/settlement**: includes the date
-    - **Sales/purchases:** name of items sold (e.g. 2 Top Hats)
-    - **Payment/receipt with discount:** state the amount (e.g. … with 5% discount for early payment)
-    - **Purchase/sales returns:** name & quantity of items returned with the reason for returning (e.g. sales returns of 2 upright pianos - faulty items)
 - **Correcting Entries** 
 	1. write the error out
 	2. write the correct entries
@@ -29,7 +24,7 @@
 ## Cash receipt from Account Receivable with discount
 	![[Pasted image 20240319205535.png]]
 
-# Other
+# Other Entries
 
 ## Non-cash contributions
 	![[Pasted image 20240319205805.png]]
