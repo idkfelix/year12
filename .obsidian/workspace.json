@@ -93,8 +93,19 @@
               "type": "CompassView",
               "state": {}
             }
+          },
+          {
+            "id": "bdbf059693cb5911",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Accounting/General Ledger.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,20 +120,21 @@
   },
   "active": "3bff56b7c18d69e2",
   "lastOpenFiles": [
+    "Accounting/attachments/Pasted image 20240319211232.png",
+    "Accounting/attachments/Pasted image 20240319211214.png",
+    "Accounting/attachments/Pasted image 20240319211210.png",
+    "Accounting/attachments/Pasted image 20240319211203.png",
+    "Accounting/attachments/Pasted image 20240319211159.png",
+    "Accounting/attachments/Pasted image 20240319211154.png",
+    "Accounting/attachments/Pasted image 20240319211144.png",
+    "Accounting/attachments/Pasted image 20240319210942.png",
+    "Accounting/attachments/Pasted image 20240319210935.png",
+    "Accounting/attachments/Pasted image 20240319210931.png",
+    "Accounting/attachments/Pasted image 20240319210927.png",
     "Accounting/General Journal.md",
     "Accounting/General Ledger.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
-    "Accounting/attachments/Pasted image 20240319205834.png",
-    "Accounting/attachments/Pasted image 20240319205828.png",
-    "Accounting/attachments/Pasted image 20240319205815.png",
-    "Accounting/attachments/Pasted image 20240319205810.png",
-    "Accounting/attachments/Pasted image 20240319205805.png",
-    "Accounting/attachments/Pasted image 20240319205535.png",
-    "Accounting/attachments/Pasted image 20240319205530.png",
-    "Accounting/attachments/Pasted image 20240319205525.png",
-    "Accounting/attachments/Pasted image 20240319205520.png",
-    "Accounting/attachments/Pasted image 20240319205514.png",
     "Accounting/attachments",
     "SoftDev/SAC2/SAC 2 Submission.md",
     "Maths/Data Analysis.md",
@@ -153,7 +165,6 @@
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
     "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
-    "SoftDev/Untitled.md",
-    "SAT1/compass-api/README.md"
+    "SoftDev/Untitled.md"
   ]
 }
