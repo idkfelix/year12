@@ -1,4 +1,4 @@
-## Error Correction - Thinking Routine
+## Thinking Routine
 1. write the error out
 2. write the correct entries
 3. leave anything that's the same in both
