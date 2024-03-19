@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "example",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,10 +95,10 @@
   },
   "active": "a44b80ec4942bfb0",
   "lastOpenFiles": [
+    "Maths/Financial Recursion.md",
     "Maths/Data Analysis.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
-    "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",

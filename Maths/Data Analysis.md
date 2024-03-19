@@ -148,7 +148,8 @@ x&=Z\cdot\sigma+\mu\\
 
 \begin{tikzpicture}[
 	background rectangle/.style={fill=white},
-	show background rectangle
+	show background rectangle,
+	every node/.style={text=black}
 ]
     \begin{axis}[
         no markers, domain=0:14, samples=100,
