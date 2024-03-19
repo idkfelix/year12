@@ -219,38 +219,32 @@ $$
 	- Outliers are represented as dots past the wires (fences) on either side
 ```tikz
 \usepackage{pgfplots}
+\pgfplotsset{compat=1.10}
 \usepgfplotslibrary{statistics}
+
 \begin{document}
 \begin{tikzpicture}
-  \begin{axis} [
-    title=Scenario 1,
-    height=6.0cm, width=8.0cm,
-        xmin=6, xmax=20, xtick={6,8,...,20},
-    ytick={1,2,3},
-    yticklabels={Mon, Tue, Wed},
-        legend style={at={(0.5,-0.2)}, anchor=north, legend columns=-1},
-    ymin=0,ymax=4,
-    /pgfplots/boxplot/box extend=0.3
-    ]
-    \addplot+ [
-    boxplot prepared={
-      upper quartile=15,
-      lower quartile=8,
-      upper whisker=19,
-      lower whisker=7,
-      draw position=1.2
-    },
-    ] coordinates {};
-    \addplot+ [
-    boxplot prepared={
-      upper quartile=17,
-      lower quartile=10,
-      upper whisker=19,
-      lower whisker=7,
-      draw position=0.8
-    },
-    ] coordinates {};
-  \end{axis}
+\begin{axis}[
+y=1.5cm,
+]
+	\addplot+[
+	  boxplot prepared={
+	    lower whisker=5,
+	    lower quartile=7,
+	    median=8.5,
+	    upper quartile=9.5,
+	    upper whisker=10,
+	    box extend=2,  % height of box
+	    whisker extend=2.2, % height of whiskers
+	    every box/.style={very thick,dashed,draw=black,fill=yellow},
+	    every whisker/.style={red,ultra thick},
+	    every median/.style={densely dotted,cyan,ultra thick},
+	  },
+	]
+table[row sep=\\,y index=0] {
+data\\ 1\\ 3\\
+};
+\end{axis}
 \end{tikzpicture}
 \end{document}
 ```
