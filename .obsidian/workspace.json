@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/General Journal.md",
+                "file": "Accounting/Balance Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/General Journal.md"
+                "file": "Accounting/Balance Sheet.md"
               }
             }
           }
@@ -106,9 +106,9 @@
   },
   "active": "18807d698727f869",
   "lastOpenFiles": [
+    "Accounting/General Journal.md",
     "Accounting/General Ledger.md",
     "Accounting/Balance Sheet.md",
-    "Accounting/General Journal.md",
     "Accounting/Accounts Turnover.md",
     "Accounting/attachments/Pasted image 20240319214008.png",
     "Accounting/attachments/Pasted image 20240319213955.png",

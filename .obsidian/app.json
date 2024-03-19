@@ -22,5 +22,6 @@
   "foldHeading": true,
   "propertiesInDocument": "source",
   "showIndentGuide": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newLinkFormat": "shortest"
 }
