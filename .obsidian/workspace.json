@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8619cc54c88ebe78",
+        "id": "9fb8c7319f1442a6",
         "type": "tabs",
         "children": [
           {
-            "id": "7b54b94cf3be3a72",
+            "id": "19208368fbb7d5ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/General Journal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bff56b7c18d69e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounting/General Ledger.md",
+                "file": "Accounting/Accounts Turn Over.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/General Ledger.md"
+                "file": "Accounting/Accounts Turn Over.md"
               }
             }
           }
@@ -118,8 +104,11 @@
       "Compass:Compass": false
     }
   },
-  "active": "3bff56b7c18d69e2",
+  "active": "19208368fbb7d5ac",
   "lastOpenFiles": [
+    "Accounting/General Journal.md",
+    "Accounting/General Ledger.md",
+    "Accounting/attachments/Pasted image 20240319211446.png",
     "Accounting/attachments/Pasted image 20240319211232.png",
     "Accounting/attachments/Pasted image 20240319211214.png",
     "Accounting/attachments/Pasted image 20240319211210.png",
@@ -129,10 +118,6 @@
     "Accounting/attachments/Pasted image 20240319211144.png",
     "Accounting/attachments/Pasted image 20240319210942.png",
     "Accounting/attachments/Pasted image 20240319210935.png",
-    "Accounting/attachments/Pasted image 20240319210931.png",
-    "Accounting/attachments/Pasted image 20240319210927.png",
-    "Accounting/General Journal.md",
-    "Accounting/General Ledger.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Accounting/attachments",

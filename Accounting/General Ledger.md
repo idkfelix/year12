@@ -1,3 +1,17 @@
+# Theory
+
+- **Ledger account:** an Accounting record showing all the transactions that affect a particular item
+- **Subsidiary ledger:** each account in the General Ledger
+- **Trial Balance**
+    - A list of all the accounts in the General Ledger, and their balances, to determine if total debits equal total credits
+    - Errors revealed
+        - 2 entries on the same side
+        - Only one entry recorded
+        - Different amounts have been recorded on each side
+    - Errors NOT revealed
+        - A transaction omitted altogether
+        - Debit & credit entries have been reversed
+- ![[Pasted image 20240319211446.png]]
 # Common Entries
 ## Cash purchase with GST
 	![[Pasted image 20240319210803.png]]

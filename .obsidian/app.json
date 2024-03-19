@@ -19,7 +19,7 @@
   "trashOption": "local",
   "vimMode": false,
   "foldIndent": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "propertiesInDocument": "source",
   "showIndentGuide": true,
   "showLineNumber": false
