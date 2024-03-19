@@ -1,6 +1,4 @@
-> [!INFO] Stolen from github
-> https://github.com/ArcherHume/vceSDWiki/blob/main/soft-dev-wiki/src/content/docs/u3/key-terms.md
-
+> [!INFO] Stolen from [github](https://github.com/ArcherHume/vceSDWiki/blob/main/soft-dev-wiki/src/content/docs/u3/key-terms.md)
 ## Data Types
 | Term | Definition |
 | --- | --- |

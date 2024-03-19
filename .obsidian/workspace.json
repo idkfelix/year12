@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8f8bd26acdfe22b",
+        "id": "6efac37236dc38a1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b93d32938abb153",
+            "id": "de8c52d7b601fc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "README.md"
               }
             }
           }
@@ -104,14 +104,15 @@
       "Compass:Compass": false
     }
   },
-  "active": "0b93d32938abb153",
+  "active": "de8c52d7b601fc0b",
   "lastOpenFiles": [
+    "Accounting/General Journal.md",
+    "Accounting/General Ledger.md",
+    "README.md",
+    "SoftDev/Unit3 Key Terms.md",
     "Maths/Recursion & Financial.md",
     "Maths/Data Analysis.md",
-    "README.md",
     "Accounting/Accounts Turnover.md",
-    "Accounting/General Ledger.md",
-    "Accounting/General Journal.md",
     "Accounting/Balance Sheet.md",
     "Accounting/Indicators",
     "Accounting/Accounts",
@@ -144,7 +145,6 @@
     "SoftDev/SAT1/dev/backend/Cargo.toml",
     "SoftDev/SAT1/dev/backend",
     "settings.md",
-    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",

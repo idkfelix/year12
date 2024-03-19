@@ -8,9 +8,9 @@
 - **Measure of Spread**
 	- Standard Deviation
 	- Interquartile Range ($IQR$)
-- **Mean & Std Dev** - 
-- **Median & IQR**
-## Data Types
+- **Mean & Std Dev** - used for bell shaped data
+- **Median & IQR** - used for un-uniform data
+## Types of Data
 - ***Numerical / Quantitative***
 	- **Discrete**
 		- Countable data
