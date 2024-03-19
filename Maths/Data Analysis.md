@@ -140,13 +140,13 @@ x&=Z\cdot\sigma+\mu\\
 \usepackage{amssymb, amsmath}
 \usepackage{xcolor}
 \pgfplotsset{compat=1.7}
-
+\usetikzlibrary {backgrounds}
 
 \begin{document}
 \pgfmathdeclarefunction{gauss}{2}{\pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
 }
 
-\begin{tikzpicture}
+\begin{tikzpicture}[[on background layer](https://tikz.dev/library-backgrounds#pgf.on:background:layer)={color=yellow}]
     \begin{axis}[
         no markers, domain=0:14, samples=100,
         axis lines*=left, xlabel=Standard deviations, ylabel=Frequency,,
