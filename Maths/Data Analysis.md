@@ -206,9 +206,10 @@ $$
 ```
 ## Box whisker & Stem Leaf Plots
 - **Box whisker**
-	- represents median, $IQR$ and fences
-	- wires on either side represent the the upper and lower fence
-		- 
+	- Represents median, $IQR$ and fences
+	- Wires on either side represent the the upper and lower fence
+		- Wire length calculated as $1.5\cdot{IQR}$
+		- Left wire
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
