@@ -134,9 +134,8 @@ S &= \text{Std Dev of sample}
 x&=Z\cdot{S_x}+\bar{x}\\
 x&=Z\cdot\sigma+\mu\\
 \end{align*}$$
-
-%% Add Normal Distribution %%
-## Calculator - Statistics
+## Calculator
+- Statistics
  - fill out list > "Calc" > "One-Variable"
 	- Finds $S_x$ and $\bar{x}$
 ## Graph Types
