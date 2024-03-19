@@ -1,13 +1,15 @@
-# Table of Contents 
-- [[#Data Types|Data Types]]
-- [[#Terms|Terms]]
-- [[#Symbols|Symbols]]
-- [[#Mean, Median & Mode|Mean, Median & Mode]]
-- [[#Quartiles, Interquartile Range ($IQR$) & Fences|Quartiles, Interquartile Range ($IQR$) & Fences]]
-- [[#Symmetry & Skew|Symmetry & Skew]]
-- [[#Standard Deviation, Normal Distribution & Z Score|Standard Deviation, Normal Distribution & Z Score]]
-- [[#Calculator|Calculator]]
-- [[#Graph Types|Graph Types]]
+## Terms
+- **Population** - all of the data
+- **Sample** - subset of the population
+- **Element** - term in data
+- **Measure of Centre**
+	- Median
+	- Mean
+- **Measure of Spread**
+	- Standard Deviation
+	- Interquartile Range ($IQR$)
+- **Mean & Std Dev** - 
+- **Median & IQR**
 ## Data Types
 - ***Numerical / Quantitative***
 	- **Discrete**
@@ -24,18 +26,6 @@
 	- **Nominal**
 		- Non orderable
 		- Descriptive string
-## Terms
-- **Population** - all of the data
-- **Sample** - subset of the population
-- **Element** - term in data
-- **Measure of Centre**
-	- Median
-	- Mean
-- **Measure of Spread**
-	- Standard Deviation
-	- Interquartile Range ($IQR$)
-- **Mean & Std Dev**
-- **Median & IQR**
 ## Symbols
 $$\begin{align}
 x&=\text{Sample Data}\\

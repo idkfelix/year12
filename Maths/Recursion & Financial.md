@@ -1,12 +1,3 @@
-# Table of Contents
-- [[#Terms|Terms]]
-- [[#Types of Recursion|Types of Recursion]]
-- [[#Arithmetic Sequence|Arithmetic Sequence]]
-- [[#Geometric Sequence|Geometric Sequence]]
-- [[#Effective Interest Rate|Effective Interest Rate]]
-- [[#Calculator - Finance|Calculator - Finance]]
-- [[#Amortisation Table|Amortisation Table]]
-
 ## Terms
 - **Sequence** - List of numbers following a pattern
 - **Term** - A product of a pattern
