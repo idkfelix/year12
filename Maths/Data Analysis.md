@@ -164,7 +164,6 @@ x&=Z\cdot\sigma+\mu\\
 		- leaf on either side
 		- used to compare sets of data
 		- no value on leaf means no elements
-		- 
 - **Frequency Chart**
 	- Match value column
 	- Number of matches
