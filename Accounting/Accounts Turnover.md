@@ -1,5 +1,5 @@
 # Accounts Payable
-- $$
+$$
 \begin{align*}
 \text{Accounts Payable Turnover (APTO)}&=
 \frac
@@ -17,7 +17,7 @@ $$
 	- Regularly check statement of account for any outstanding balances
 	- Develop strong relationship/communication with the supplier
 # Accounts Receivable
-- $$
+$$
 \begin{align*}
 \text{Accounts Receivable Turnover (ARTO)}&=
 \frac
