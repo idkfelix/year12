@@ -1,7 +1,7 @@
 # Compass Notes
 - login with compass account for authentication (single account philosophy)
 - view lesson plans, learning tasks, resources and schedule
-- WYSIWYG markdown editor
+- WYSIWYG markdown editor https://beartocode.github.io/carta/examples
 - Link notes to lesson and class ID
 - AI note summarization
 - Svelte frontend
