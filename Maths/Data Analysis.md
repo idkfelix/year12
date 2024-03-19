@@ -123,6 +123,7 @@ x&=\text{real value}\\
 - **Normal Distribution**
 	- Sample that forms a perfect bell shape
 	- Allows use of Std Dev
+	- {range of $-3S_{x}\textPto+3S_{x}$
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
