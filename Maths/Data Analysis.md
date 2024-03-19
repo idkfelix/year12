@@ -204,12 +204,23 @@ $$
 \end{tikzpicture}
 \end{document}
 ```
-## Box whisker Plot
-## Calculator
-- **Statistics**
-	 - fill out list > "Calc" > "One-Variable"
-		- Finds $S_x$ and $\bar{x}$
-## Graph Types
+## Box whisker & Stem Leaf Plots
+- **Box whisker**
+	- represents median, $IQR$ and fences
+	- wires on either side represent the the upper and lower fence
+		- 
+- **Stem and leaf**
+	- Check key
+	- Common first digit on left
+	- Sliced digits listed on the right
+	- **Split Leaf**
+		- Multiple of each common value
+		- Each with range, ($0\text{-}4$),($5\text{-}9$)
+	- **Back to back**
+		- leaf on either side
+		- used to compare sets of data
+		- no value on leaf means no elements
+## Other Graphs
 - **Bar chart**
 	- Gaps between bars
 	- Single value with bar
@@ -223,17 +234,6 @@ $$
 	- Represent data in ranges to show distribution
 	- Values on $x$ axis are staggered between the bars
 	- Bars between $x$ axis $a$ & $b$ represents range of ($a\text{-}b$)
-- **Stem and leaf**
-	- Check key
-	- Common first digit on left
-	- Sliced digits listed on the right
-	- **Split Leaf**
-		- Multiple of each common value
-		- Each with range, ($0\text{-}4$),($5\text{-}9$)
-	- **Back to back**
-		- leaf on either side
-		- used to compare sets of data
-		- no value on leaf means no elements
 - **Frequency Chart**
 	- Match value column
 	- Number of matches
@@ -241,3 +241,7 @@ $$
 	- **Grouped**
 		- Groups match values
 		- represented as a range, ($3.2\text{-}5.6$)
+## Calculator
+- **Statistics**
+	 - fill out list > "Calc" > "One-Variable"
+		- Finds $S_x$ and $\bar{x}$
