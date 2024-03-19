@@ -2,6 +2,7 @@
 node_modules
 prof
 public
+package-lock.json
 tsconfig.tsbuildinfo
 .quartz-cache
 private/
