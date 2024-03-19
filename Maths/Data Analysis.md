@@ -112,9 +112,10 @@ S_x&=\text{Standard Deviation}\\
 ## Standard Deviation, Normal Distribution & Z Score
 - **Standard Deviation (Std Dev)**
 	- $$\begin{align*}
+x&=\text{real value}\\
 \mu &=\text{mean (mu)} \\
-\sigma &=\text{}
-\end{align*}$$$$
+\sigma &=\text{Std Dev (sigma)}
+\end{align*}$$
 	- Average distance Between elements
 	- Shows how spread out sample data is
 	- Only works on normal distribution
@@ -125,8 +126,11 @@ S_x&=\text{Standard Deviation}\\
 - **Z Score**
 	- Standardised score
 	- Describes a values relationship to the mean
-	- $x=\text{real value}$
-	- $$ Z=\frac{x-\bar{x}}{S_{x}}$$
+	- $$\begin{align*}
+ Z&=\frac{x-\bar{x}}{S_{x}}\\\\
+x&=X\cdot{S_x}+\bar{x}\\
+x&=Z\cdot\sigma+\mu\\
+\end{align*}$$
 
 %% Add Normal Distribution %%
 ## Calculator - Statistics
