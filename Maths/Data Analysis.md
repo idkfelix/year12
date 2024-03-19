@@ -215,7 +215,7 @@ $$
 		- Bottom line represents $Q_1$
 		- Top line represents $Q_3$
 		- The range of the box represents the $IQR$
-	- Middle line represents $\large\tilde{x}$ (the median)
+	- Line dividing the box represents $\large\tilde{x}$ (the median)
 - **Stem and leaf**
 	- Check key
 	- Common first digit on left
