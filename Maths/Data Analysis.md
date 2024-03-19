@@ -204,6 +204,7 @@ $$
 \end{tikzpicture}
 \end{document}
 ```
+## Box whisker Plot
 ## Calculator
 - **Statistics**
 	 - fill out list > "Calc" > "One-Variable"
