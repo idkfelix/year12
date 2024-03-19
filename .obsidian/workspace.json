@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31ac49d889d94d3f",
+        "id": "cc8e7fa2daab83e6",
         "type": "tabs",
         "children": [
           {
-            "id": "e95c73265199c7d7",
+            "id": "a44b80ec4942bfb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Data Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,11 +88,11 @@
       "Compass:Compass": false
     }
   },
-  "active": "e95c73265199c7d7",
+  "active": "a44b80ec4942bfb0",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
-    "Maths/Data Analysis.md",
     "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
