@@ -24,6 +24,8 @@
 - **Measure of Spread**
 	- Standard Deviation
 	- Interquartile Range ($IQR$)
+- **Mean & Std Dev**
+- **Median & IQR**
 ## Symbols
 $$\begin{align}
 x&=\text{Sample Data}\\
@@ -33,7 +35,7 @@ Z&=\text{Standard Score}\\
 S_x&=\text{Standard Deviation of sample}\\
 \sigma&=\text{Std Dev of population} \\
 \mu&=\text{Mean}\\
-\sum x&=\text{Sum of }x\\
+\sum{x}&=\text{Sum of }x\\
 \end{align}$$
 ## Mean, Median & Mode
 - **Mean**
@@ -133,8 +135,7 @@ S &= \text{Std Dev of sample}
 	- Can be used to represent float $S_x$ on normal data
 	- $$\begin{align*}
  Z&=\frac{x-\bar{x}}{S_{x}}\\\\
-x&=Z\cdot{S_x}+\bar{x}\\
-x&=Z\cdot\sigma+\mu\\
+x&=Z\cdot{S_x}+\bar{x}
 \end{align*}$$
 - **Example of Normal Distribution**
 ```tikz
