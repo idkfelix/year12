@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Felix&#039;s Notes</title>
+      <link>https://</link>
+      <description>Last 10 notes on Felix&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Balance Sheet</title>
+    <link>https://Accounting/Balance-Sheet</link>
+    <guid>https://Accounting/Balance-Sheet</guid>
+    <description>Theory Purpose of current &amp; non-current classifications: Whether entity has enough assets to pay its debts as they come due Claims of short-term and long-term accounts payable ...</description>
+    <pubDate>Tue, 19 Mar 2024 10:39:42 GMT</pubDate>
+  </item><item>
+    <title>General Ledger</title>
+    <link>https://Accounting/General-Ledger</link>
+    <guid>https://Accounting/General-Ledger</guid>
+    <description>...</description>
+    <pubDate>Tue, 19 Mar 2024 10:06:13 GMT</pubDate>
+  </item><item>
+    <title>General Journal</title>
+    <link>https://Accounting/General-Journal</link>
+    <guid>https://Accounting/General-Journal</guid>
+    <description>...</description>
+    <pubDate>Tue, 19 Mar 2024 09:53:27 GMT</pubDate>
+  </item><item>
+    <title>SAC 2 Submission</title>
+    <link>https://SoftDev/SAC2/SAC-2-Submission</link>
+    <guid>https://SoftDev/SAC2/SAC-2-Submission</guid>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2024 09:40:47 GMT</pubDate>
+  </item><item>
+    <title>Week 6</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week6/Week-6</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week6/Week-6</guid>
+    <description>Part 1a Scenario 1 - Scenario 2 - Scenario 3 - Part 1b Part 2a Part 2b Part 2c Part 3.</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item><item>
+    <title>Week 5</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week5/Week-5</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week5/Week-5</guid>
+    <description>...</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item><item>
+    <title>Week 4</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week4/Week-4</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week4/Week-4</guid>
+    <description>Task 1a count.php for($i=0;$i&lt;10;$i++){ echo $i+1; } Task 1b calculateBMI.php function calculateBMI($weight, $height) { return $weight / ($height * $height); } $people = ...</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item><item>
+    <title>Week 3</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week3/Week-3</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week3/Week-3</guid>
+    <description>Task 1a OperatorType of OperatorOperation of Operator=AssignmentAssigns a value&lt;&gt;Comparison (Not equal to)Checks inequality==Comparison (Equal to)Checks equality&lt;=Comparison ...</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item><item>
+    <title>Week 2</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week2/Week-2</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week2/Week-2</guid>
+    <description>Task 1a length &amp; width perimeter $perimeterResult = perimeterRectangle(4, 3); Integers Task 1b rectangle.php function areaRectangle($length, $width){ $area = $length ...</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item><item>
+    <title>Week 1</title>
+    <link>https://SoftDev/Weekly-Activities/Unit3/Week1/Week-1</link>
+    <guid>https://SoftDev/Weekly-Activities/Unit3/Week1/Week-1</guid>
+    <description>Task 1a Task 1b Task 1c Task 2 .</description>
+    <pubDate>Tue, 19 Mar 2024 06:27:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
