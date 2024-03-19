@@ -114,7 +114,8 @@ S_x&=\text{Standard Deviation}\\
 	- $$\begin{align*}
 x&=\text{real value}\\
 \mu &=\text{mean (mu)} \\
-\sigma &=\text{Std Dev (sigma)}
+\sigma &=\text{Std Dev of population (sigma)}\\
+S &= \text{Std Dev of sample}
 \end{align*}$$
 	- Average distance Between elements
 	- Shows how spread out sample data is
@@ -130,7 +131,7 @@ x&=\text{real value}\\
 	- Can be used to represent half $S_x$ on normal dist
 	- $$\begin{align*}
  Z&=\frac{x-\bar{x}}{S_{x}}\\\\
-x&=X\cdot{S_x}+\bar{x}\\
+x&=Z\cdot{S_x}+\bar{x}\\
 x&=Z\cdot\sigma+\mu\\
 \end{align*}$$
 
