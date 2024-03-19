@@ -1,3 +1,16 @@
+# Theory
+- **General Journal:** an Accounting record used to analyse and record each transaction, and to identify its source document before posting to the General Ledger
+- **Narration:**
+    - **GST refund/settlement**: includes the date
+    - **Sales/purchases:** name of items sold (e.g. 2 Top Hats)
+    - **Payment/receipt with discount:** state the amount (e.g. … with 5% discount for early payment)
+    - **Purchase/sales returns:** name & quantity of items returned with the reason for returning (e.g. sales returns of 2 upright pianos - faulty items)
+- **Correcting Entries** 
+	1. write the error out
+	2. write the correct entries
+	3. leave anything that's the same in both
+	4. reverse entries that shouldn't have been recorded (errors)
+	5. make entries that haven't been done (omitted correct)
 # Common Entries
 ## Cash purchase with GST
 	 ![[Pasted image 20240319205433.png]]
@@ -18,15 +31,13 @@
 
 # Other
 
-- Non-cash contributions
-
-- Non-cash drawings
-
-- Commencing entries
-
-- Correcting entries
-    
-    - Drawings of inventory worth $250 had been recorded as inventory used for adveritising (Memo 20)
-    - $449 paid for electricity plus GST was incorrectly recorded as Wages (Memo 21)
-
-
+## Non-cash contributions
+	![[Pasted image 20240319205805.png]]
+## Non-cash drawings
+	![[Pasted image 20240319205810.png]]
+## Commencing entries
+	![[Pasted image 20240319205815.png]]
+## Correcting entries
+- Drawings of inventory worth $250 had been recorded as inventory used for advertising (Memo 20)
+- $449 paid for electricity plus GST was incorrectly recorded as Wages (Memo 21)
+	![[Pasted image 20240319205834.png]]
