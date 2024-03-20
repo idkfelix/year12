@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48c487814c04cf4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,6 +90,16 @@
               "type": "CompassView",
               "state": {}
             }
+          },
+          {
+            "id": "17cf6dec5d6f1ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths/Data Analysis.md"
+              }
+            }
           }
         ]
       }
@@ -93,7 +114,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "dc0a81c1d273fd64",
+  "active": "48c487814c04cf4e",
   "lastOpenFiles": [
     "SoftDev/SAC2/SAC 2 Submission.md",
     "SoftDev/SAC2",
