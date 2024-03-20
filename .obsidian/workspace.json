@@ -24,9 +24,12 @@
             "id": "48c487814c04cf4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "Index.md"
               }
             }
           }
@@ -131,7 +134,7 @@
     "SoftDev/SAT1/dev/backend/Cargo.toml",
     "SoftDev/SAT1/dev/backend",
     "SoftDev/SAT1/dev",
-    "README.md",
+    "Index.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
