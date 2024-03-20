@@ -1,4 +1,4 @@
-name: Build and Deploy Pages
+name: Build and Deploy GitHub Pages
 on: [push]
 permissions:
   contents: write
@@ -7,16 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-
+          uses: actions/checkout@v3
       - name: Install and build
-        run: |
-          cd .web
-          npm ci
-          npm run build
-
+          run: |
+            cd .web
+            npm ci
+            npm run build
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: .web/public
-          token: ${{ secrets.GITHUB_TOKEN }}
+          uses: JamesIves/github-pages-deploy-action@v4
+          with:
+            folder: .gh-pages/public
+            token: ${{ secrets.GITHUB_TOKEN }}

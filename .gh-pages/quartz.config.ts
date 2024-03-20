@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    ignorePatterns: ["private", "templates", ".obsidian",".quartz"],
+    ignorePatterns: ["private", "templates", ".obsidian",".web"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
