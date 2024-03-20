@@ -11,7 +11,7 @@ jobs:
         
       - name: Install and build
         run: |
-          cd .web
+          cd .gh-pages
           npm ci
           npm run build
           
