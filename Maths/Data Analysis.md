@@ -219,7 +219,7 @@ $$
 	- Outliers are represented as dots past the wires (fences) on either side
 ```tikz
 \usepackage{pgfplots}
-\use
+\usepackage{pgfplots.statistics}
 \pgfplotsset{compat=1.10}
 
 \begin{document}
