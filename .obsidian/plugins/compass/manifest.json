@@ -1,0 +1,10 @@
+{
+	"id": "Compass",
+	"name": "Compass",
+	"version": "4.2.0",
+	"minAppVersion": "0.15.0",
+	"description": "Intergrate Obsidian with Compass Education",
+	"author": "idkfelix",
+	"authorUrl": "https://github.com/idkfelix",
+	"isDesktopOnly": true
+}
