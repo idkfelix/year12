@@ -7,11 +7,9 @@ const config: QuartzConfig = {
     pageTitle: "Felix's Notes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    ignorePatterns: ["private", "templates", ".obsidian",".web"],
+    ignorePatterns: [".obsidian",".web"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
