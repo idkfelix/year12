@@ -71,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.Assets(),
-      Plugin.Static(),
+      // Plugin.Static(),
       Plugin.NotFoundPage(),
     ],
   },
