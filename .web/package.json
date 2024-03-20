@@ -13,7 +13,7 @@
   },
   "scripts": {
     "serve": "npx quartz build --serve -d ../",
-    "build": "npx quartz build -d ..\\"
+    "build": "npx quartz build -d ../"
   },
   "engines": {
     "npm": ">=9.3.1",
