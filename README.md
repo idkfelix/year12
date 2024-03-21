@@ -25,7 +25,7 @@
 This repo contains all my markdown notes, classwork and resources for VCE year 12 2024 in an obsidian.md vault and a static website for viewing on GitHub pages. Notes can be viewed and edited with other markdown editors, however features like LaTeX, Tikz and Wiki Links may not work as expected.
 
 ## VCE Subjects
-- Applied Computing: Software Development 3+4
+- Software Development 3+4
 - General Maths 3+4
 - English 3+4
 - Media 3+4
