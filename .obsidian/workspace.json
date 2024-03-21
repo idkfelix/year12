@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Video Essay/Terminology.md",
+                "file": "Media/Video Essay/Terminology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Video Essay/Terminology.md"
+                "file": "Media/Video Essay/Terminology.md"
               }
             }
           }
@@ -103,10 +103,10 @@
       "Compass:Compass": false
     }
   },
-  "active": "6923cd6d12f99eb1",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
-    "Maths/Video Essay/Terminology.md",
-    "Maths/Video Essay",
+    "Media/Video Essay/Terminology.md",
+    "Media/Video Essay",
     "Maths/Data Analysis.md",
     "README.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
