@@ -1,5 +1,8 @@
 name: Build and Deploy GitHub Pages
-on: [push]
+on:
+  push:
+    tags:
+      - 'web'
 permissions:
   contents: write
 jobs:
