@@ -12,7 +12,10 @@
 
     // ***** PUT YOUR FUNCTIONS AFTER THIS LINE  *****
 
-    // Define Samples
+    /**
+     * Define milk sample data
+     * @var array<string,int|float> $milk_data
+     */
     $milk_data = array(
         "Sample 1"=>3.7,
         "Sample 2"=>0.45,
@@ -27,9 +30,9 @@
     );
 	
     /**
-     * Return Fat Type
+     * Identify type of milk from fat%
      * @param int|float $fatContent
-     * @return string
+     * @return string Milk classification 
      */
     function milkType($fatContent) {
         switch ($fatContent) {
@@ -47,7 +50,19 @@
     }
 
     /**
-     * Round to 2 decimals
+     * Get grams of fat per liter from fat%
+     * @param int|float $fatPercent
+     * @return float
+     */
+    function fatGramsPerLitre($fatPercent) {
+        /** @var float $realPercent */
+        $realPercent = $fatPercent /100;
+        return $realPercent *1035;
+    }
+    
+    /**
+     * Round param num to 2 decimal places\
+     * Dont ever do this IRL, just use round($num,2)
      * @param int|float $num
      * @return float
      */
@@ -56,29 +71,16 @@
         return round($num,2);
     }
 
-    /**
-     * Get grams of fat per liter from fat percent
-     * @param int|float $fatPercent
-     * @return float
-     */
-    function fatGramsPerLitre($fatPercent) {
-        $realPercent = $fatPercent /100;
-        return $realPercent *1035;
-    }
-
-    // ***** PUT YOUR FUNCTIONS BEFORE THIS LINE *****
-
     // Check that a form has been submitted using POST
     if ($_SERVER['REQUEST_METHOD'] == 'POST')
     {
-    	// ***** PUT YOUR CODE AFTER THIS LINE  *****
-
         // Try-Catch blocks to handle exceptions
         try {
             // Check selection exists and is in data then set var
             if (!isset($_POST['MilkSample']) || !array_key_exists($_POST['MilkSample'], $milk_data)){
                 throw new Exception("No valid fresh milk sample selected. Please select a sample from the list");
             } else {
+                /** @var string $selection */
                 $selection = $_POST['MilkSample'];
             }
 
@@ -86,14 +88,17 @@
             if ($milk_data[$selection] <=0){
                 throw new Exception("The fresh milk content for $selection cannot be determined as the percentage of fat is invalid");
             } else{
+                /** @var int|float $fat_percent */
                 $fat_percent = $milk_data[$selection];
             }
 
             // Get grams from percent and round to 2 decimals
+            /** @var float $fat_grams */
             $fat_grams = roundNumber(fatGramsPerLitre($fat_percent));
+            /** @var string $milk_type */
             $milk_type = milkType($fat_percent);
 
-            // Echo output
+            // Echo milk sample, fat%, fat grams and classification
             echo "<p>$selection contains $fat_percent% of fat ($fat_grams grams per litre). Based on the fat content of this sample, the fresh milk type would be $milk_type</p>";
 
         } catch (Exception $e) {
@@ -104,11 +109,10 @@
         // Link back to form
         echo '<a href="freshMilkTypesForm.html">Go to form</a>';
 
-    	// ***** PUT YOUR CODE BEFORE THIS LINE *****
     }
     else
     {
-        // If the value entered was not in the valid range
+        // If the page was loaded with other method link back to form
         echo '<p>Please select a fresh milk sample from the list.</p>';
         echo '<a href="freshMilkTypesForm.html">Go to form</a>';
     }
