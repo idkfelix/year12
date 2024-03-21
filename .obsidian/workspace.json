@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37410de9dc53af26",
+        "id": "d88662bba4c732f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ade8e838097f8689",
+            "id": "6923cd6d12f99eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Video Essay/Terminology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maths/Video Essay/Terminology.md"
               }
             }
           }
@@ -103,8 +103,10 @@
       "Compass:Compass": false
     }
   },
-  "active": "ade8e838097f8689",
+  "active": "6923cd6d12f99eb1",
   "lastOpenFiles": [
+    "Maths/Video Essay/Terminology.md",
+    "Maths/Video Essay",
     "Maths/Data Analysis.md",
     "README.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
@@ -129,7 +131,6 @@
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
-    "SoftDev/Weekly Activities/Unit3/Week5/week 5.pdf",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
     "Accounting/Review Questions/Review Questions CH6.md",
@@ -148,7 +149,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
     "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
     "SAT1/compass-api/README.md",
-    "SAT1/Ideas.md",
     "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
     "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg"
   ]
