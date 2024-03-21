@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    ignorePatterns: [".obsidian",".web"],
+    ignorePatterns: [".obsidian",".web",".trash"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
