@@ -11,13 +11,8 @@
             "id": "b90907815969d905",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounting/General Journal.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Accounting/General Journal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -105,8 +98,9 @@
   },
   "active": "b90907815969d905",
   "lastOpenFiles": [
-    "README.md",
+    "SoftDev/SAC2/code/SAC2.php",
     "Accounting/General Journal.md",
+    "README.md",
     "Accounting/General Ledger.md",
     "Accounting/Accounts Turnover.md",
     "Accounting/Balance Sheet.md",
@@ -140,7 +134,6 @@
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
     "Accounting/Review Questions/Review Questions CH6.md",
-    "Media/Production Experiment/Production Experiment 2.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
