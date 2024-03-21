@@ -90,12 +90,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,7 +104,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "17cf6dec5d6f1ae8",
+  "active": "7406f28df551fd9e",
   "lastOpenFiles": [
     "README.md",
     "SoftDev/Unit3 Key Terms.md",

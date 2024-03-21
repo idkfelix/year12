@@ -1,30 +1,19 @@
 {
   "addToCommand": true,
-  "addToContextMenu": true,
+  "addToContextMenu": false,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
-  "exposeInternalModules": true,
+  "exposeInternalModules": false,
   "focusOnNewInstance": true,
   "hideStatusBar": "never",
   "language": "",
-  "newInstanceBehavior": "newRightTab",
+  "newInstanceBehavior": "newTab",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": false,
   "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
-    "developerConsole": {
-      "name": "DevConsole",
-      "restoreHistory": false,
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {},
-      "type": "developerConsole"
-    },
-    "9adcdbcf-4697-4371-a89f-a719195c202f": {
+    "f1c627b6-8506-4dd5-b7e7-5bf25a07c775": {
       "args": [],
       "executable": "/bin/bash",
       "name": "bash",
@@ -34,11 +23,7 @@
       },
       "pythonExecutable": "python3",
       "restoreHistory": false,
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
+      "successExitCodes": [],
       "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": false
