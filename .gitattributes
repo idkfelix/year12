@@ -1,2 +1,2 @@
 *.md linguist-detectable=true
-.gh-pages/* linguist-detectable=false
+.gh-pages/** linguist-vendored
