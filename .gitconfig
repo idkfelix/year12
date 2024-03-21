@@ -12,4 +12,4 @@
 
   # Combinations of common aliases
   ac = "!git add --all && git commit -am"
-  acp = "!git add --all && git commit -am \"$1\" && git push origin HEAD"
+  acp = "!git add --all && git commit -am \"$1\" && git push origin HEAD #"
