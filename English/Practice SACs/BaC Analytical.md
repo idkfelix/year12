@@ -1,4 +1,4 @@
->[! ] Write an analytical response from the following prompt about "Born a Crime"
+>[! ] Write an analytical response from the following prompt about Trevor Noah's memoir "Born a Crime" - 55 minutes writing time
 
 > _“She never let me see us as victims. We were victims, me and my mom, Isaac and Andrew. Victims of apartheid. Victims of abuse. But I was never allowed to think that way, and I didn’t see her life that way.”_ To what extent were Trevor Noah and his family victims?
 
