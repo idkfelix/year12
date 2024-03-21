@@ -3,7 +3,7 @@
 
 [alias]
   # Assign the web tag to the latest pushed commit, this runs the website rebuild
-  publish = "!git tag -f web && git push origin web:refs/tags/web"
+  web = "!git tag -f web && git push origin web:refs/tags/web"
 
   # Common aliases
   a = "add --all"
