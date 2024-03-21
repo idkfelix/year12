@@ -1,6 +1,7 @@
 # To use these aliases run the following command:
 # git config --local include.path ../.gitconfig
+
 [alias]
-  publish = "!git push origin :refs/tags/web && git tag -f web && git push \"$1\" web #"
+  publish = "!git push origin :refs/tags/web && git tag -f web && git push web"
   ac = "!git add --all && git commit -am"
   p = "push"
