@@ -25,7 +25,7 @@
 - **High end.** The high frequency sounds in an audio recording, e.g. “Because the sound was a bit tinny, I cut the high end of the audio using the EQ filter.”
 - **Insert.** A shot of a small detail in a scene, e.g. “Cutting to the insert of the character grimacing gave the scene greater emotional weight.”
 - **Low end.** The low frequency sounds in an audio clip, e.g. “Because the microphone was positioned too close to the actor, the low end of the recording was muddy.”
-- **Master shot.** In filmmaking, a shot that features all the action in a scene, e.g. “Because actors didn’t know their lines, it was difficult to capture the master shot where they had to act continuously—I avoided these difficulties by picking up close ups of the actors saying their lines.”
+- **Master shot.** In film making, a shot that features all the action in a scene, e.g. “Because actors didn’t know their lines, it was difficult to capture the master shot where they had to act continuously—I avoided these difficulties by picking up close ups of the actors saying their lines.”
 - Motion graphics.
 - **Noise removal.** The process of removing noise, such as a constant hissing, from an audio recording, e.g. “Because the levels weren’t set correctly, noise removal was required due to the constant, amplified hissing of the microphone.”
 - **Pacing.** The speed and rhythm of a scene, e.g. “Watching the edit back, I realised that we needed to improve the pacing of the scene to make it more humorous.”
