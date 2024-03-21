@@ -11,8 +11,13 @@
             "id": "b90907815969d905",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,14 +85,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -96,7 +104,7 @@
       "Compass:Compass": false
     }
   },
-  "active": "b90907815969d905",
+  "active": "f094ab3b4a1974f5",
   "lastOpenFiles": [
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/General Journal.md",
