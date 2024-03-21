@@ -19,39 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b967b2ea34935721",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/felix/Documents/year12",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "bash",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "successExitCodes": [],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": false
-                  },
-                  "serial": {
-                    "columns": 131,
-                    "data": "[felix@laptop year12]$ ",
-                    "rows": 56
-                  }
-                }
-              }
-            }
           }
         ]
       }
@@ -139,6 +106,7 @@
   },
   "active": "7406f28df551fd9e",
   "lastOpenFiles": [
+    "English/Practice SACs/BaC Analytical.md",
     "README.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
@@ -149,7 +117,6 @@
     "Accounting/Balance Sheet.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
     "SoftDev/SAC2/code/test.html",
-    "English/Practice SACs/BaC Analytical.md",
     "SoftDev/SAC1/code",
     "SoftDev/SAC2/code",
     "English/Born A Crime/Born_a_Crime.pdf",

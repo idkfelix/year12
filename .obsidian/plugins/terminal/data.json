@@ -23,7 +23,11 @@
       },
       "pythonExecutable": "python3",
       "restoreHistory": false,
-      "successExitCodes": [],
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
       "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": false

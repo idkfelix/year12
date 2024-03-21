@@ -1,6 +1,6 @@
 {
   "pinned": [
-    "editor:toggle-source",
+    "terminal:open-terminal.integrated.root",
     "obsidian-git:push"
   ]
 }
