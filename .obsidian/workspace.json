@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d88662bba4c732f8",
+        "id": "367ae3c69f689047",
         "type": "tabs",
         "children": [
           {
-            "id": "6923cd6d12f99eb1",
+            "id": "6b2243ceb3731e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAC2/SAC 2 Submission.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAC2/SAC 2 Submission.md"
+                "file": "README.md"
               }
             }
           }
@@ -103,8 +103,13 @@
       "Compass:Compass": false
     }
   },
-  "active": "6923cd6d12f99eb1",
+  "active": "6b2243ceb3731e51",
   "lastOpenFiles": [
+    "Accounting/General Journal.md",
+    "Accounting/General Ledger.md",
+    "Accounting/Accounts Turnover.md",
+    "Accounting/Balance Sheet.md",
+    "SoftDev/SAC2/SAC 2 Submission.md",
     "SoftDev/SAC2/code/test.html",
     "English/Practice SACs/BaC Analytical.md",
     "SoftDev/SAC1/code",
@@ -118,7 +123,6 @@
     "Media/Video Essay",
     "Maths/Data Analysis.md",
     "README.md",
-    "SoftDev/SAC2/SAC 2 Submission.md",
     "SoftDev/SAC2",
     "Maths/Recursion & Financial.md",
     "Maths/Financial Recursion.md",
@@ -128,7 +132,6 @@
     "Accounting/notes",
     "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/dev/backend/src/main.rs",
-    "SoftDev/SAT1/dev/backend/src",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
@@ -138,9 +141,6 @@
     "SoftDev/SAT1/Project Proposal.md",
     "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/Production Experiment 2.md",
-    "Media/Production Experiment/Production Experiment 1.md",
-    "Media/notes/29-2-24.md",
-    "Media/notes/21-2-24.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",

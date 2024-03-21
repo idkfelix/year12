@@ -39,7 +39,7 @@ This repo contains all my markdown notes, classwork and resources for VCE year 1
 - Tikzjax (for drawing graphs and plots)
 - Omnisearch (search for topics in notes)
 - Quick Latex (to write latex faster)
-## Notes Website
+## Website
 - Created with a modified Quartz project
 	- Disabled graph and backlinks
 	- Reads README.md files as Index.md
