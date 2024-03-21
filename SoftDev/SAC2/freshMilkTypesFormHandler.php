@@ -11,6 +11,8 @@
      */
 
     // ***** PUT YOUR FUNCTIONS AFTER THIS LINE  *****
+
+    // Define Samples
     $milk_data = array(
         "Sample 1"=>3.7,
         "Sample 2"=>0.45,
@@ -25,25 +27,27 @@
     );
 	
     /**
+     * Return Fat Type
      * @param int|float $fatContent
      * @return string
      */
     function milkType($fatContent) {
         switch ($fatContent) {
-            case ($fatContent > 0 && $fatContent < 0.15):
-                return "Skim Milk";
-            case ($fatContent < 1.5):
-                return "Reduced Fat";
-            case ($fatContent >= 1.9 && $fatContent <= 2.1):
-                return "Low Fat";
             case ($fatContent > 3.2 && $fatContent <= 3.8):
                 return "Regular Full Fat";
+            case ($fatContent >= 1.9 && $fatContent <= 2.1):
+                return "Reduced Fat";
+            case ($fatContent < 1.5):
+                return "Low Fat";
+            case ($fatContent > 0 && $fatContent < 0.15):
+                return "Skim Milk";
             default:
-                throw new Exception("Fat Percent Does Not Match Any Milk Types");
+                return "Unclassified";
         }
     }
 
     /**
+     * Round to 2 decimals
      * @param int|float $num
      * @return float
      */
@@ -53,6 +57,7 @@
     }
 
     /**
+     * Get grams of fat per liter from fat percent
      * @param int|float $fatPercent
      * @return float
      */
@@ -71,17 +76,17 @@
         // Try-Catch blocks to handle exceptions
         try {
             // Check selection exists and is in data then set var
-            if (!isset($_POST['MilkSample']) || !array_key_exists($selection, $milk_data)){
+            if (!isset($_POST['MilkSample']) || !array_key_exists($_POST['MilkSample'], $milk_data)){
                 throw new Exception("No valid fresh milk sample selected. Please select a sample from the list");
             } else {
                 $selection = $_POST['MilkSample'];
             }
 
             // Check value is positive then set var
-            if ($milkData[$selection] <=0){
+            if ($milk_data[$selection] <=0){
                 throw new Exception("The fresh milk content for $selection cannot be determined as the percentage of fat is invalid");
             } else{
-                $fat_percent = $milkData[$selection];
+                $fat_percent = $milk_data[$selection];
             }
 
             // Get grams from percent and round to 2 decimals
