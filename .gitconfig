@@ -2,7 +2,7 @@
 # git config --local include.path ../.gitconfig
 
 [alias]
-  # Assign the web tag to the latest pushed commit, this runs the website rebuild
+  # Assign the web tag to the latest pushed commit, this runs github pages action
   web = "!git tag -f web && git push origin web:refs/tags/web"
 
   # Common aliases
