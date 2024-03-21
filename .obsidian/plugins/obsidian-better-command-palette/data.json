@@ -1,0 +1,31 @@
+{
+  "closeWithBackspace": true,
+  "showPluginName": false,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "commandSearchHotkey": "p",
+  "fileSearchHotkey": "o",
+  "tagSearchHotkey": "t",
+  "suggestionLimit": 50,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "displayOnlyNotesNames": false,
+  "hideMdExtension": false,
+  "recentlyUsedText": "(recently used)",
+  "macros": [
+    {
+      "name": "bash",
+      "commandIds": [
+        "terminal:open-terminal.integrated.root"
+      ],
+      "delay": 0
+    }
+  ],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Mod",
+  "openInNewTabMod": "Shift",
+  "hiddenCommands": [],
+  "hiddenFiles": [],
+  "hiddenTags": [],
+  "fileTypeExclusion": []
+}
