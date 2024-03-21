@@ -2,6 +2,14 @@
 # git config --local include.path ../.gitconfig
 
 [alias]
-  publish = "!git push origin :refs/tags/web && git tag -f web && git push web"
+  # Assign the web tag to the latest pushed commit, this runs the website rebuild
+  publish = "!git tag -f web && git push origin web:refs/tags/web"
+
+  # Common aliases
+  a = "add --all"
+  c = "commit -am"
+  p = "push origin HEAD"
+
+  # Combinations of common aliases
   ac = "!git add --all && git commit -am"
-  p = "push"
+  acp = "!git add --all && git commit -am \"$1\" && git push origin HEAD"
