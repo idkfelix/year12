@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English/Practice SACs/BaC Analytical.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,15 +46,14 @@
                   },
                   "serial": {
                     "columns": 131,
-                    "data": "[felix@laptop year12]$ ls\r\n\u001b[34;1mAccounting\u001b[0m  \u001b[34;1mEnglish\u001b[0m  \u001b[34;1mMaths\u001b[0m  \u001b[34;1mMedia\u001b[0m  README.md  \u001b[34;1mSoftDev\r\n\u001b[0m[felix@laptop year12]$ ls -a1\r\n\u001b[34;1m.\r\n..\r\nAccounting\r\nEnglish\r\n.gh-pages\r\n.git\r\n\u001b[0m.gitattributes\r\n.gitconfig\r\n\u001b[34;1m.github\r\n\u001b[0m.gitignore\r\n\u001b[34;1mMaths\r\nMedia\r\n.obsidian\r\n\u001b[0mREADME.md\r\n\u001b[34;1mSoftDev\r\n.trash\r\n\u001b[0m[felix@laptop year12]$ cat .gitconfig \r\n# To use these aliases run the following command:\r\n# git config --local include.path ../.gitconfig\r\n\r\n[alias]\r\n  # Assign the web tag to the latest pushed commit, this runs github pages action\r\n  web = \"!git tag -f web && git push origin web:refs/tags/web\"\r\n\r\n  # Common aliases\r\n  a = \"add --all\"\r\n  c = \"commit -am\"\r\n  p = \"push origin HEAD\"\r\n\r\n  # Combinations of common aliases\r\n  ac = \"!git add --all && git commit -am\"\r\n  acp = \"!git add --all && git commit -am \\\"$1\\\" && git push origin HEAD #\"[felix@laptop year12]$ git config --local include.path ../.gitconfig\r\n[felix@laptop year12]$ git acp",
+                    "data": "[felix@laptop year12]$ ",
                     "rows": 56
                   }
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Practice SACs/BaC Analytical.md"
+              }
             }
           }
         ]
@@ -136,7 +137,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b967b2ea34935721",
+  "active": "7406f28df551fd9e",
   "lastOpenFiles": [
     "README.md",
     "SoftDev/Unit3 Key Terms.md",
