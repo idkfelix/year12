@@ -30,3 +30,19 @@
 - **Noise removal.** The process of removing noise, such as a constant hissing, from an audio recording, e.g. “Because the levels weren’t set correctly, noise removal was required due to the constant, amplified hissing of the microphone.”
 - **Pacing.** The speed and rhythm of a scene, e.g. “Watching the edit back, I realised that we needed to improve the pacing of the scene to make it more humorous.”
 - **Pick ups.** Additional shots captured for a scene, e.g. “I spent the afternoon capturing pickups that would make editing the scene easier.”
+- **Post production.** The final phase of film production which occurs after principal photography and usually involves the editing, scoring and sound design of a film.
+- **Pre-production.** The first phases of film production which usually involves developing an idea, writing a treatment, writing a screenplay, casting and location scouting.
+- **Principal photography.** The second stage of film production which involves shooting the film.
+- **Reshoots.** Capturing a scene that didn’t work again, e.g. “I had to allocate time for reshoots due to poor acting.”
+- **Reverb.** A slight echo, “e.g. Due to the acoustics in that space and the subtle reverb, I had to record ADR for that scene.”
+- **Rough cut.** A rough cut of the footage for a scene. 
+- **Rushes.** The footage captured during a particular period, e.g. “When I reviewed the rushes, I realised that we were missing several key shots.”
+- **Shock mount.** A device for attaching a microphone to a camera or boom to reduce handling noise, e.g. “The shock mount greatly reduced the sound from the boom operator moving the microphone.”
+- **Shot list.** A list of all of the shots in a film, e.g. “Using the shot list meant that we were able to finish shooting the film efficiently.” 
+- **Shotgun microphone.** A directional microphone, e.g. “The use of a shotgun microphone meant that we were able to eliminate most of the background noise.”
+- **Signal to noise ratio.** Signal-to-noise ratio (SNR) is the measurement used to describe how much desired sound is present in an audio recording, as opposed to unwanted sound (noise). This nonessential input could be anything from electronic static from your recording equipment, or external sounds from the noisy world around us, such as the rumble of traffic, or the murmur of voices in the background, e.g. “Because I’d set the recording level incorrectly and misjudged the signal to noise ratio, there was too much background noise in the resulting recording.”
+- **Slate.** A clapperboard is a device used in filmmaking and video production to assist in synchronizing of picture and sound, and to designate and mark the various scenes and takes as they are filmed and audio-recorded, e.g. “Because I slated up shots, it was easy to find the successful takes in my edit.”
+- **Sound bridge.** A sound bridge when the sound between two scenes overlaps. Dialogue from the one scene, for example, might be heard before the characters appear on screen. This helps to create a smooth transition between two scenes, e.g. “A sound bridge helped to smooth the transition between these two scenes.”
+- **Sound design.** Sound design is the art and practice of creating sound tracks for a variety of needs, e.g. “The sound design for our shot horror film involved finding sounds that were unsettling for the audience.”
+- **Sound mixing.** The process of setting the levels for sounds, music and dialogue in a scene, e.g. “The sound mix required a great deal of time.” 
+- **Spotting.** Playing back a film to determine the best place to add music, “The spotting session meant we could identify when the theme for particular characters should play.”

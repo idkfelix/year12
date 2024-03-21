@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Video Essay/Terminology.md",
+                "file": "SoftDev/SAC2/SAC 2 Submission.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Video Essay/Terminology.md"
+                "file": "SoftDev/SAC2/SAC 2 Submission.md"
               }
             }
           }
@@ -103,8 +103,17 @@
       "Compass:Compass": false
     }
   },
-  "active": "910652694f64cbb8",
+  "active": "6923cd6d12f99eb1",
   "lastOpenFiles": [
+    "SoftDev/SAC2/code/test.html",
+    "English/Practice SACs/BaC Analytical.md",
+    "SoftDev/SAC1/code",
+    "SoftDev/SAC2/code",
+    "English/Born A Crime/Born_a_Crime.pdf",
+    "English/Born A Crime/Born_a_Crime.pdf.crdownload",
+    "English/Born A Crime/Part II Questions.md",
+    "English/Practice SACs",
+    "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
     "Media/Video Essay",
     "Maths/Data Analysis.md",
@@ -120,15 +129,9 @@
     "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/dev/backend/src/main.rs",
     "SoftDev/SAT1/dev/backend/src",
-    "SoftDev/SAT1/dev/backend/Cargo.toml",
-    "SoftDev/SAT1/dev/backend",
-    "SoftDev/SAT1/dev",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
-    "English/Born A Crime/Part II Questions.md",
-    "SoftDev/SAT1/development",
-    "SoftDev/Weekly Activities/Unit3/Week4/Week 4.pdf",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAT1/Ideas.md",
@@ -138,8 +141,6 @@
     "Media/Production Experiment/Production Experiment 1.md",
     "Media/notes/29-2-24.md",
     "Media/notes/21-2-24.md",
-    "SoftDev/Weekly Activities/Unit3/Week1/Week 1.md",
-    "SoftDev/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
@@ -148,7 +149,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
     "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
-    "SAT1/compass-api/README.md",
     "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
     "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg"
   ]
