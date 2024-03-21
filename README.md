@@ -42,7 +42,7 @@ This repo contains all my markdown notes, classwork and resources for VCE year 1
 ## Website
 - Created with a modified Quartz project
 	- Disabled graph and backlinks
-	- Reads README.md files as Index.md
+	- Reads README.md file as the index page
 	- Other small tweaks
 - Built with GitHub actions
 	- Run on push to main branch
