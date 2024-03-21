@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7954978bd87978",
+        "id": "0d353816990e0038",
         "type": "tabs",
         "children": [
           {
-            "id": "b90907815969d905",
+            "id": "7406f28df551fd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,25 +90,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "Compass:Compass": false
+      "Compass:Compass": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "f094ab3b4a1974f5",
+  "active": "17cf6dec5d6f1ae8",
   "lastOpenFiles": [
+    "README.md",
+    "SoftDev/Unit3 Key Terms.md",
+    "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/General Journal.md",
-    "README.md",
     "Accounting/General Ledger.md",
     "Accounting/Accounts Turnover.md",
     "Accounting/Balance Sheet.md",
@@ -131,11 +134,8 @@
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
-    "Accounting/notes",
     "conflict-files-obsidian-git.md",
-    "SoftDev/SAT1/dev/backend/src/main.rs",
     "settings.md",
-    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
