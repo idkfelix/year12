@@ -13,6 +13,10 @@
   "minimal-style@@h1-size": "2em",
   "minimal-style@@h2-size": "1.5em",
   "minimal-style@@zoom-off": true,
+  "minimal-style@@table-tabular": false,
   "minimal-style@@maximize-tables-off": "maximize-tables-off",
-  "minimal-style@@table-tabular": false
+  "minimal-style@@folding-offset": 32,
+  "minimal-style@@table-column-min-width": "15ch",
+  "minimal-style@@trim-cols": false,
+  "minimal-style@@table-nowrap": false
 }
