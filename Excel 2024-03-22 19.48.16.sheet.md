@@ -1,8 +1,0 @@
----
-
-excel-plugin: parsed
-
----
-
-
-# Excel
