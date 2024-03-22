@@ -24,6 +24,19 @@
             "id": "edb5fc951e93d5a7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VCE/SAC Results.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "222894b291c692e0",
+            "type": "leaf",
+            "state": {
               "type": "terminal:terminal",
               "state": {
                 "terminal:terminal": {
@@ -49,7 +62,7 @@
                   },
                   "serial": {
                     "columns": 144,
-                    "data": "\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$\u001b[1Cgit acp\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-minimal-settings/data.json', LF will be replaced by CRLF the next time Git touches i\r\nt\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nAborting commit due to empty commit message.\r\n\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$\u001b[1Cgit acp .",
+                    "data": "\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$ git acp\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'VCE/SAC Results.md', LF will be replaced by CRLF the next time Git touches it\r\nAborting commit due to empty commit message.\r\n\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$ ",
                     "rows": 54
                   }
                 }
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "edb5fc951e93d5a7",
+  "active": "222894b291c692e0",
   "lastOpenFiles": [
     "VCE/SAC Results.md",
     "VCE/SoftDev-VCAA-2022.pdf",
