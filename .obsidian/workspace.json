@@ -11,9 +11,12 @@
             "id": "e936b0615ada05bb",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "VCE/Assessments.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCE/Assessments.md"
+                "file": "README.md"
               }
             }
           }
@@ -105,8 +108,8 @@
   },
   "active": "e936b0615ada05bb",
   "lastOpenFiles": [
-    "README.md",
     "VCE/Assessments.md",
+    "README.md",
     "VCE/Results.loom",
     "VCE",
     "SoftDev/SAC2/~$eshMilkTypesTestTable.docx",
