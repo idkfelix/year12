@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment Marks.md",
+                "file": "VCE/Assessments.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessment Marks.md"
+                "file": "VCE/Assessments.md"
               }
             }
           }
@@ -119,10 +119,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "121be2459b178712",
+  "active": "910652694f64cbb8",
   "lastOpenFiles": [
+    "VCE",
     "README.md",
-    "Assessment Marks.md",
+    "VCE/Assessments.md",
     "SoftDev/SAC2/~$eshMilkTypesTestTable.docx",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
@@ -156,7 +157,6 @@
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
-    "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
