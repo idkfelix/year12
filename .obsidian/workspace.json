@@ -4,61 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0d353816990e0038",
+        "id": "aa7954978bd87978",
         "type": "tabs",
         "children": [
           {
-            "id": "7406f28df551fd9e",
+            "id": "b90907815969d905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Practice SACs/BaC Analytical.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "179109b49d585bc6",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/felix/Documents/year12",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "bash",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": false
-                  },
-                  "serial": {
-                    "columns": 131,
-                    "data": "[felix@laptop year12]$ cat .gitconfig \r\n# To use these aliases run the following command:\r\n# git config --local include.path ../.gitconfig\r\n\r\n[alias]\r\n  # Assign the web tag to the latest pushed commit, this runs github pages action\r\n  web = \"!git tag -f web && git push origin web:refs/tags/web\"\r\n\r\n  # Common aliases\r\n  a = \"add --all\"\r\n  c = \"commit -am\"\r\n  p = \"push origin HEAD\"\r\n\r\n  # Combinations of common aliases\r\n  ac = \"!git add --all && git commit -am\"\r\n  acp = \"!git add --all && git commit -am \\\"$1\\\" && git push origin HEAD #\"[felix@laptop year12]$ ",
-                    "rows": 56
-                  }
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,14 +85,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,12 +105,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "179109b49d585bc6",
+  "active": "b90907815969d905",
   "lastOpenFiles": [
-    "English/Practice SACs/BaC Analytical.md",
     "README.md",
-    "SoftDev/Unit3 Key Terms.md",
-    "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/General Journal.md",
     "Accounting/General Ledger.md",
@@ -153,6 +115,7 @@
     "Accounting/Balance Sheet.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
     "SoftDev/SAC2/code/test.html",
+    "English/Practice SACs/BaC Analytical.md",
     "SoftDev/SAC1/code",
     "SoftDev/SAC2/code",
     "English/Born A Crime/Born_a_Crime.pdf",
@@ -169,8 +132,10 @@
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
+    "Accounting/notes",
     "conflict-files-obsidian-git.md",
     "settings.md",
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
