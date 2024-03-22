@@ -2,7 +2,7 @@
   "precision": "-1",
   "showLabels": false,
   "formula_background_color_toggle": false,
-  "showBorders": false,
+  "showBorders": true,
   "formula_background_error_toggle": true,
   "formula_background_parents_toggle": false,
   "formula_background_children_toggle": false,
