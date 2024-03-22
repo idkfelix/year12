@@ -16,7 +16,7 @@
                 "file": "VCE/SAC Results.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -111,8 +110,7 @@
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "Compass:Compass": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "terminal:Open terminal": false
     }
   },
   "active": "e936b0615ada05bb",
