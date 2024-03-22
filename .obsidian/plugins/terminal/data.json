@@ -39,7 +39,7 @@
       "platforms": {
         "win32": true
       },
-      "pythonExecutable": "python3",
+      "pythonExecutable": "python",
       "restoreHistory": false,
       "successExitCodes": [
         "0",
@@ -48,7 +48,7 @@
       ],
       "terminalOptions": {},
       "type": "integrated",
-      "useWin32Conhost": false
+      "useWin32Conhost": true
     }
   }
 }
