@@ -50,7 +50,7 @@
                   },
                   "serial": {
                     "columns": 131,
-                    "data": "[felix@laptop year12]$ ",
+                    "data": "[felix@laptop year12]$ cat .gitconfig \r\n# To use these aliases run the following command:\r\n# git config --local include.path ../.gitconfig\r\n\r\n[alias]\r\n  # Assign the web tag to the latest pushed commit, this runs github pages action\r\n  web = \"!git tag -f web && git push origin web:refs/tags/web\"\r\n\r\n  # Common aliases\r\n  a = \"add --all\"\r\n  c = \"commit -am\"\r\n  p = \"push origin HEAD\"\r\n\r\n  # Combinations of common aliases\r\n  ac = \"!git add --all && git commit -am\"\r\n  acp = \"!git add --all && git commit -am \\\"$1\\\" && git push origin HEAD #\"[felix@laptop year12]$ ",
                     "rows": 56
                   }
                 }
