@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "VCE/SAC Results.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -90,21 +89,14 @@
                 "file": "VCE/SAC Results.md"
               }
             }
-          },
-          {
-            "id": "15f2b59c9e1b9852",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
