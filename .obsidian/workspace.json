@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7954978bd87978",
+        "id": "fdc34c97cec67106",
         "type": "tabs",
         "children": [
           {
-            "id": "b90907815969d905",
+            "id": "4d6df27a46a1e147",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
+    "width": 278.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -105,8 +105,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b90907815969d905",
+  "active": "4d6df27a46a1e147",
   "lastOpenFiles": [
+    "SoftDev/SAC2/~$eshMilkTypesTestTable.docx",
+    "SoftDev/SAC1/SAC1-Images.pdf",
     "README.md",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/General Journal.md",
@@ -132,7 +134,6 @@
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
-    "Accounting/notes",
     "conflict-files-obsidian-git.md",
     "settings.md",
     "SoftDev/Unit3 Key Terms.md",
