@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "VCE/SAC Results.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,16 +86,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "VCE/SAC Results.md"
               }
             }
+          },
+          {
+            "id": "15f2b59c9e1b9852",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -103,13 +111,16 @@
       "command-palette:Open command palette": true,
       "Compass:Compass": false,
       "terminal:Open terminal": false,
-      "excel:Create Excel File": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e936b0615ada05bb",
   "lastOpenFiles": [
-    "VCE/Assessments.md",
     "README.md",
+    "VCE/SAC Results.md",
+    "VCE/SoftDev-VCAA-2022.pdf",
+    "VCE/SoftDev-VCAA-2022.pdf.crdownload",
+    "VCE/Assessments.md",
     "VCE/Results.loom",
     "VCE",
     "SoftDev/SAC2/~$eshMilkTypesTestTable.docx",
@@ -124,8 +135,6 @@
     "English/Practice SACs/BaC Analytical.md",
     "SoftDev/SAC1/code",
     "SoftDev/SAC2/code",
-    "English/Born A Crime/Born_a_Crime.pdf",
-    "English/Born A Crime/Born_a_Crime.pdf.crdownload",
     "English/Born A Crime/Part II Questions.md",
     "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
