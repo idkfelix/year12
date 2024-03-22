@@ -19,8 +19,46 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "179109b49d585bc6",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/felix/Documents/year12",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/bash",
+                    "name": "bash",
+                    "platforms": {
+                      "darwin": false,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": false
+                  },
+                  "serial": {
+                    "columns": 131,
+                    "data": "[felix@laptop year12]$ ",
+                    "rows": 56
+                  }
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Practice SACs/BaC Analytical.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -104,7 +140,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7406f28df551fd9e",
+  "active": "179109b49d585bc6",
   "lastOpenFiles": [
     "English/Practice SACs/BaC Analytical.md",
     "README.md",

@@ -40,10 +40,10 @@
                 return "Regular Full Fat";
             case ($fatContent >= 1.9 && $fatContent <= 2.1):
                 return "Reduced Fat";
-            case ($fatContent < 1.5):
-                return "Low Fat";
             case ($fatContent > 0 && $fatContent < 0.15):
                 return "Skim Milk";
+            case ($fatContent < 1.5):
+                return "Low Fat";
             default:
                 return "Unclassified";
         }
