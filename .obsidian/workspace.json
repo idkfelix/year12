@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCE/Stats.md",
+                "file": "VCE/2023 Statistics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c07b3d9b085265a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9ed0e4065b4a3a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "VCE/SoftDev-VCAA-2022.pdf"
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCE/Stats.md"
+                "file": "VCE/2023 Statistics.md"
               }
             }
           }
@@ -111,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,8 +107,8 @@
   },
   "active": "a8f5f86c35169210",
   "lastOpenFiles": [
-    "VCE/Stats.md",
     "VCE/SoftDev-VCAA-2022.pdf",
+    "VCE/2023 Statistics.md",
     "README.md",
     "VCE/SAC Results.md",
     "VCE/88760000",
