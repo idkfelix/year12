@@ -11,8 +11,13 @@
             "id": "46ca6bab7ad77459",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VCE/SoftDev Stats.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VCE/SoftDev Stats.md"
+              }
             }
           }
         ],
@@ -92,10 +99,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "Compass:Compass": false,
-      "terminal:Open terminal": false
+      "Compass:Compass": false
     }
   },
   "active": "46ca6bab7ad77459",

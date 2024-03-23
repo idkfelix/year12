@@ -31,24 +31,6 @@
       "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": false
-    },
-    "593a714d-f724-41f7-a223-cfea005a64f6": {
-      "args": [],
-      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-      "name": "gitBash",
-      "platforms": {
-        "win32": true
-      },
-      "pythonExecutable": "python",
-      "restoreHistory": false,
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {},
-      "type": "integrated",
-      "useWin32Conhost": true
     }
   }
 }
