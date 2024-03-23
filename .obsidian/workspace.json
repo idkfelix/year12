@@ -4,19 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c07b3d9b085265a1",
+        "id": "718a2cfe526d27a0",
         "type": "tabs",
         "children": [
-          {
-            "id": "c9ed0e4065b4a3a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "VCE/SoftDev-VCAA-2022.pdf"
-              }
-            }
-          },
           {
             "id": "a8f5f86c35169210",
             "type": "leaf",
@@ -30,8 +20,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c07b3d9b085265a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ed0e4065b4a3a5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VCE/SoftDev-VCAA-2022.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -118,8 +124,8 @@
   },
   "active": "a8f5f86c35169210",
   "lastOpenFiles": [
-    "VCE/SoftDev-VCAA-2022.pdf",
     "VCE/Stats.md",
+    "VCE/SoftDev-VCAA-2022.pdf",
     "README.md",
     "VCE/SAC Results.md",
     "VCE/88760000",
