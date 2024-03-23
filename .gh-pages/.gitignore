@@ -7,3 +7,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+package-lock.json
