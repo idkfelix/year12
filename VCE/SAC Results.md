@@ -1,4 +1,8 @@
 ```dataviewjs
-await dv.io.csv("Assessments.csv")
+results = [
+	[]
+]
+dv.table(["test"],x)
 ```
+
 
