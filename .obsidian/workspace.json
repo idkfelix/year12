@@ -16,8 +16,22 @@
                 "file": "VCE/SoftDev-VCAA-2022.pdf"
               }
             }
+          },
+          {
+            "id": "a8f5f86c35169210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VCE/Stats.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCE/SoftDev-VCAA-2022.pdf"
+                "file": "VCE/Stats.md"
               }
             }
           }
@@ -102,10 +116,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9ed0e4065b4a3a5",
+  "active": "a8f5f86c35169210",
   "lastOpenFiles": [
-    "README.md",
     "VCE/SoftDev-VCAA-2022.pdf",
+    "VCE/Stats.md",
+    "README.md",
     "VCE/SAC Results.md",
     "VCE/88760000",
     "VCE/Assessments.csv",
@@ -138,7 +153,6 @@
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
-    "SoftDev/SAT1/Ideas.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",

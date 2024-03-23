@@ -16,7 +16,7 @@
   "minimal-style@@table-tabular": false,
   "minimal-style@@maximize-tables-off": "maximize-tables-off",
   "minimal-style@@folding-offset": 32,
-  "minimal-style@@table-column-min-width": "15ch",
+  "minimal-style@@table-column-min-width": "6ch",
   "minimal-style@@trim-cols": false,
   "minimal-style@@table-nowrap": false
 }
