@@ -52,19 +52,30 @@ This repo contains all my markdown notes, classwork and resources for VCE year 1
 
 # SAC Results
 
-| English:        | Score % | Study Score % |
-| --------------- | ------- | ------------- |
-| U3 O1           |         | 10            |
-| U3 O2a          |         | 5             |
-| U3 O2b          |         | 5             |
-| U3 O2c          |         | 5             |
-| U4 O1           |         | 10            |
-| U4 O2a          |         | 10            |
-| U4 O2b          |         | 5             |
-| **Accounting:** | -       | -             |
-| U3 O1a          |         | 7.5           |
-| U3 O1b          |         | 7.5           |
-| U3 O2           |         | 10            |
-| U4 O1           |         |               |
-| U4 O2a          |         |               |
-| U4 O2b          |         |               |
+| Unit   | Desctiption          | Score % | Study Score % |
+| ------ | -------------------- | ------- | ------------- |
+| -      | **Software Dev:**    | -       | -             |
+|        |                      | 100     | 2             |
+|        |                      |         | 4             |
+| -      | **English:**         | -       | -             |
+| U3 O1  |                      |         | 10            |
+| U3 O2a |                      |         | 5             |
+| U3 O2b |                      |         | 5             |
+| U3 O2c |                      |         | 5             |
+| U4 O1  |                      |         | 10            |
+| U4 O2a |                      |         | 10            |
+| U4 O2b |                      |         | 5             |
+| -      | **Accounting:**      | -       | -             |
+| U3 O1a |                      |         | 7.5           |
+| U3 O1b |                      |         | 7.5           |
+| U3 O2  |                      |         | 10            |
+| U4 O1  |                      |         | 12.5          |
+| U4 O2a |                      |         | 6.25          |
+| U4 O2b |                      |         | 6.25          |
+| -      | **Media:**<br>       | -       | -             |
+| U3 O1a | Structured Questions | >50     | 5             |
+| U3 O1b | Video Essay          |         | 5             |
+| U3 O2  | SAT - Portfolio      |         | 13.33         |
+| U3 O3  | SAT - Pre-Prod Plan  |         | 13.33         |
+| U4 O1  | SAT - Product        |         | 13.33         |
+| U4 O2  | Written Report       |         | 10            |
