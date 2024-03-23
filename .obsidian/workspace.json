@@ -32,45 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "222894b291c692e0",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\Users\\felix\\3D Objects\\School",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                    "name": "gitBash",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python",
-                    "restoreHistory": false,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 144,
-                    "data": "\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$ git acp\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'VCE/SAC Results.md', LF will be replaced by CRLF the next time Git touches it\r\nAborting commit due to empty commit message.\r\n\r\n\u001b[32mfelix@DESKTOP-5UITLRL \u001b[35mMINGW64 \u001b[33m~/3D Objects/School\u001b[36m (main)\r\n\u001b[0m$ ",
-                    "rows": 54
-                  }
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VCE/SAC Results.md"
+              }
             }
           }
         ],
@@ -153,7 +119,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "222894b291c692e0",
+  "active": "edb5fc951e93d5a7",
   "lastOpenFiles": [
     "VCE/SAC Results.md",
     "VCE/SoftDev-VCAA-2022.pdf",
