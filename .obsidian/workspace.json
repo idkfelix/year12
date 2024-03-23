@@ -14,27 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "VCE/SAC Results.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edb5fc951e93d5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VCE/SAC Results.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,10 +105,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "edb5fc951e93d5a7",
+  "active": "4161429ffa6aa693",
   "lastOpenFiles": [
-    "VCE/SAC Results.md",
     "VCE/SoftDev-VCAA-2022.pdf",
+    "VCE/SAC Results.md",
+    "VCE/88760000",
+    "VCE/Assessments.csv",
+    "VCE/New Text Document.txt",
     "README.md",
     "VCE/SoftDev-VCAA-2022.pdf.crdownload",
     "VCE/Assessments.md",
@@ -136,10 +125,7 @@
     "Accounting/Accounts Turnover.md",
     "Accounting/Balance Sheet.md",
     "SoftDev/SAC2/SAC 2 Submission.md",
-    "SoftDev/SAC2/code/test.html",
     "English/Practice SACs/BaC Analytical.md",
-    "SoftDev/SAC1/code",
-    "SoftDev/SAC2/code",
     "English/Born A Crime/Part II Questions.md",
     "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
