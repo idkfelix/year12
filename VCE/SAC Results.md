@@ -7,10 +7,6 @@ const results = [
 
 dv.table(
 	["Subject","Assessment","Score %","Study Score %","SS Points"],
-	results.map(r => {
-		x = r[2]/100 * r[3]/2
-		r.push(x)
-		return r
-	}).push()
+	results.map(r => [...r,r[2]*r[3]/200])
 )
 ```
