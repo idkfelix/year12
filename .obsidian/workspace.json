@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Accounting/Inventory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Accounting/Inventory.md"
               }
             }
           }
@@ -106,8 +106,9 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
-    "Accounting/General Journal.md",
     "README.md",
+    "Accounting/Inventory.md",
+    "Accounting/General Journal.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
     "English/Analytical Response.md",
@@ -141,7 +142,6 @@
     "SoftDev/Weekly Activities/Unit3/Week5/Week 5.md",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/SAT1/Project Proposal.md",
-    "Accounting/Review Questions/Review Questions CH6.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
