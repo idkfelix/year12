@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/General Journal.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/General Journal.md"
+                "file": "README.md"
               }
             }
           }
@@ -106,6 +106,7 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
+    "Accounting/General Journal.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
@@ -113,7 +114,6 @@
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
-    "Accounting/General Journal.md",
     "Accounting/General Ledger.md",
     "Accounting/Accounts Turnover.md",
     "Accounting/Balance Sheet.md",
