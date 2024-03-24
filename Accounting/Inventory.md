@@ -1,22 +1,51 @@
 # Inventory Cards
 ## Details
-- Perpetual Inventory System
+- **Perpetual Inventory System**
 	- Record all inventory transactions
 	- Card per product / style
-	- Can Identify 
-- IN column
+	- Benefits
+		- Can Identify bad products
+		- Better Inventory reordering
+		- Greater control of inventory
+	- Drawbacks
+		- Needs training
+		- Can cost for software
+		- Takes time, costs wages
+- **Details Column**
+	- Source Document reference ID
+		- Credit sales / purchases
+			- Invoice (INV)
+				- Purchases - IN
+				- Sales - OUT
+		- Sales / purchases returns
+			- Credit note (CN)
+				- Sales return - IN
+				- Purchase return - OUT
+		- Cash sales / purchases
+			- Cheque (Ch)
+			- Receipt (Rec)
+		- Internal
+			- Memo (Memo)
+				- Drawings
+				- Advertising
+				- Inventory loss / gain
+					- Always at the end of the month unless clearly labelled as being stocktake.
+- **IN column**
 	- Purchases
 	- Contributions
 	- Sales returns
 	- Memos
 		- Inventory gain
-- OUT column
+- **OUT column**
 	- Sales
 	- Purchase returns
 	- Memos
 		- Inventory loss
 		- Drawings
 		- Advertising
+- **Balance Column**
+	- Ordered List of stock and its price, quantity and total value
+	- New stock 
 ## FIFO
 - First in first out cost method
 - Balance column keeps ordered cost of inventory and costs
