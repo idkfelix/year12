@@ -45,7 +45,10 @@
 		- Advertising
 - **Balance Column**
 	- Ordered List of stock and its price, quantity and total value
-	- New stock 
+	- New stock is append to the end of the list
+		- If same price as previous stock treat as a different price when using  FIFO and add to total if using Identified Cost
+	- Outflow of stock is deducted from the list
+		- If using 
 ## FIFO
 - First in first out cost method
 - Balance column keeps ordered cost of inventory and costs
