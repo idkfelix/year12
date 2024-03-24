@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English/Analytical Response.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "English/Analytical Response.md"
               }
             }
           }
@@ -108,6 +108,7 @@
   "active": "46ca6bab7ad77459",
   "lastOpenFiles": [
     "README.md",
+    "English/Analytical Response.md",
     "VCE/SoftDev Stats.md",
     "VCE/SoftDev-VCAA-2022.pdf",
     "VCE/SAC Results.md",
@@ -128,7 +129,6 @@
     "SoftDev/SAC2/SAC 2 Submission.md",
     "English/Practice SACs/BaC Analytical.md",
     "English/Born A Crime/Part II Questions.md",
-    "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
     "Maths/Data Analysis.md",
     "Maths/Recursion & Financial.md",
