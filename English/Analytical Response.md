@@ -1,0 +1,33 @@
+## Introduction
+- Hook
+	- Engaging statement relating to thesis
+- Context
+	- Author
+	- Title
+	- Brief summary of text
+- Thesis
+	- Clear thesis statement
+	- Outline topics / BPs
+## Body Paragraphs
+- Topic
+	- Clear single point of thesis
+	- Topic sentence
+		- Introduce talking point
+		- Relate to text briefly
+- Analysis
+	- Expand on topic sentence
+	- Explain significance / relevance
+	- Explain S/T/F/A (see, think, feel, act)
+- Evidence
+	- Imbedded Quotes
+	- Examples from text
+- Link
+	- Explain how evidence related to topic
+	- Relate to overall thesis
+## Conclusion
+- Restate thesis in new way
+- Summarise topics used in BPs
+- Final thought
+	- Reflection on text
+	- Connection to broader contention
+	- Indicated conclusion of essay

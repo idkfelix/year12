@@ -15,7 +15,7 @@ jobs:
       - name: Install and build
         run: |
           cd .gh-pages
-          npm ci
+          npm i
           npm run build
           
       - name: Deploy to GitHub Pages

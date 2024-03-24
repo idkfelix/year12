@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "179109b49d585bc6",
+            "id": "c403a573e7539fb0",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -50,7 +50,7 @@
                   },
                   "serial": {
                     "columns": 131,
-                    "data": "[felix@laptop year12]$ ",
+                    "data": "[felix@laptop year12]$ git ",
                     "rows": 56
                   }
                 }
@@ -123,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Practice SACs/BaC Analytical.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,9 +140,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "179109b49d585bc6",
+  "active": "c403a573e7539fb0",
   "lastOpenFiles": [
     "English/Practice SACs/BaC Analytical.md",
+    "conflict-files-obsidian-git.md",
+    "English/Analytical Response.md",
     "README.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
@@ -171,7 +171,6 @@
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "settings.md",
     "SoftDev/README.md",
     "SoftDev/Weekly Activities/Unit3/Week4/Week 4.md",
