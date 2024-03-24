@@ -4,61 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0d353816990e0038",
+        "id": "99b65ab7beb07eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7406f28df551fd9e",
+            "id": "25f3593c42a44365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Practice SACs/BaC Analytical.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c403a573e7539fb0",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/felix/Documents/year12",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "bash",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": false
-                  },
-                  "serial": {
-                    "columns": 131,
-                    "data": "[felix@laptop year12]$ git ",
-                    "rows": 56
-                  }
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,10 +104,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c403a573e7539fb0",
+  "active": "25f3593c42a44365",
   "lastOpenFiles": [
-    "English/Practice SACs/BaC Analytical.md",
     "conflict-files-obsidian-git.md",
+    "English/Practice SACs/BaC Analytical.md",
     "English/Analytical Response.md",
     "README.md",
     "SoftDev/Unit3 Key Terms.md",
