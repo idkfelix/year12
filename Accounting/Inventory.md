@@ -48,7 +48,8 @@
 	- New stock is append to the end of the list
 		- If same price as previous stock treat as a different price when using  FIFO and add to total if using Identified Cost
 	- Outflow of stock is deducted from the list
-		- If using 
+		- If using FIFO deduct items from the top of the list first
+		- If using Identified Cost refer to the transaction to deduct cost prices
 ## FIFO
 - First in first out cost method
 - Balance column keeps ordered cost of inventory and costs
