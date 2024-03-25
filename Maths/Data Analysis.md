@@ -283,7 +283,7 @@ data\\ 1\\ 3\\
 ## Calculator
 - **Find Std Dev and Mean**
 	 - "Statistics"
-	 - fill out list 1 with data
+	 - Fill out list 1 with data
 	 - "Calc" > "One-Variable"
 	- Finds $S_x$ and $\bar{x}$
 - **Draw Scatter Plot**
@@ -302,3 +302,21 @@ data\\ 1\\ 3\\
 - **Response Variable ($RV$)**
 	- 
 	- Plotted on the $Y$ axis
+- **Association**
+	- **Direction**
+		- The direction of the trend
+		- Positive - upward trend on plot
+		- Negative - downward trend on plot
+	- **Form**
+		- The shape of the trend
+		- Linear - straight line
+		- Non-linear - curved line
+	- **Strength**
+		- How well the data matches chosen form
+		- No Association - $r=0.24\text{ to}-0.24$
+		- Weak - $\pm{r}=0.25\text{ to }0.49$
+		- Moderate - $\pm{r}=0.50\text{ to }0.74$
+		- Strong - $r=0.75\text{ to }0.99$
+		- **Correlation Coefficient ($\large{r}$)**
+			- $r=0$ indicated no association
+			- $r=1$ is a perfect positive association 
