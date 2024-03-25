@@ -19,46 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b96345fabf99f45",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/felix/Documents/year12",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "bash",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": false
-                  },
-                  "serial": {
-                    "columns": 131,
-                    "data": "[felix@laptop year12]$ git acp\r\nAborting commit due to empty commit message.\r\n[felix@laptop year12]$ ",
-                    "rows": 55
-                  }
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Data Analysis.md"
+              }
             }
           }
         ]
@@ -140,7 +104,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1b96345fabf99f45",
+  "active": "25f3593c42a44365",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
     "Accounting/Inventory.md",

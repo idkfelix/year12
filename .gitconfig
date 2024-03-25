@@ -3,7 +3,7 @@
 
 [alias]
   # Assign the web tag to the latest pushed commit, this runs github pages action
-  web = "!git tag -f web && git push origin web:refs/tags/web"
+  web = "!git tag -f web && git push origin :refs/tags/web && git push origin web"
 
   # Common aliases
   a = "add --all"

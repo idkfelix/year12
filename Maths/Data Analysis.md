@@ -306,7 +306,7 @@ data\\ 1\\ 3\\
 			- No outliers
 			- Data is linear
 		- Explanatory Statement
-			- "<$\large{r^2}$ evaluated> % of the variation in the $RV$ can be explained by the variation in the $EV$"
+			- "<$\large{r^2*100}$ evaluated> % of the variation in the $RV$ can be explained by the variation in the $EV$"
 		- $r=0$ indicated no association
 		- $r=+1$ is a perfect positive association 		
 		- $r=-1$ is a perfect negative association
