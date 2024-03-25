@@ -280,6 +280,46 @@ data\\ 1\\ 3\\
 	- **Grouped**
 		- Groups match values
 		- represented as a range, ($3.2\text{-}5.6$)
+## Bi-variate Data
+- 2 Dimensional data 
+- Plotted on a scatter plot
+- Explanatory variable ($EV$)**
+	- Value that influences the $RV$
+	- Plotted on the $X$ axis
+- Response Variable ($RV$)**
+	- Created from the $EV$
+	- Plotted on the $Y$ axis
+
+##  Association
+- **Direction**
+	- The direction of the trend
+	- Positive - upward trend on plot
+	- Negative - downward trend on plot
+- **Form**
+	- The shape of the trend
+	- Linear - straight line
+	- Non-linear - curved line
+- **Strength**
+	- How well the data matches chosen form
+	- **Correlation Coefficient ($\large{r}$)**
+		- Used only when there are
+			- No outliers
+			- Data is linear
+		- Explanatory Statement
+			- "<$\large{r^2}$ evaluated> % of the variation in the $RV$ can be explained by the variation in the $EV$"
+		- $r=0$ indicated no association
+		- $r=+1$ is a perfect positive association 		
+		- $r=-1$ is a perfect negative association
+		- **Linear Strengths**
+			- No Association $r=0.24\text{ to}-0.24$
+			- Weak $\pm{r}=0.25\text{ to }0.49$
+			- Moderate $\pm{r}=0.50\text{ to }0.74$
+			- Strong $\pm{r}=0.75\text{ to }0.99$
+$$
+\begin{align*}
+\Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
+\end{align*}
+$$
 ## Calculator
 - **Find Std Dev and Mean**
 	 - "Statistics"
@@ -294,40 +334,8 @@ data\\ 1\\ 3\\
 		- Set lists to axis
 	- Press btn with graph and wave on far left
 	- Draws scatter plot
-- **Ca**
-## Bi-variate Data
-- **Explanatory variable ($EV$)**
-	- Value that influences the $RV$
-	- Plotted on the $X$ axis
-- **Response Variable ($RV$)**
-	- Created from the $EV$
-	- Plotted on the $Y$ axis
-
-- _**Association**_
-	- **Direction**
-		- The direction of the trend
-		- Positive - upward trend on plot
-		- Negative - downward trend on plot
-	- **Form**
-		- The shape of the trend
-		- Linear - straight line
-		- Non-linear - curved line
-	- **Strength**
-		- How well the data matches chosen form
-		- **Correlation Coefficient ($\large{r}$)**
-			- Used only when there are
-				- No outliers
-				- Data is linear
-			- $r=0$ indicated no association
-			- $r=+1$ is a perfect positive association 		
-			- $r=-1$ is a perfect negative association
-			- **Linear Strengths**
-				- No Association $r=0.24\text{ to}-0.24$
-				- Weak $\pm{r}=0.25\text{ to }0.49$
-				- Moderate $\pm{r}=0.50\text{ to }0.74$
-				- Strong $\pm{r}=0.75\text{ to }0.99$
-$$
-\begin{align*}
-\Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
-\end{align*}
-$$
+- **Calculate $\large{r}$**
+	- "Statistics"
+	- "Calc" > "Regression" > "Linear Reg"
+	- Set $X$ and $Y$ lists
+	- **Set formula to $y=a\cdot{x+b}$**
