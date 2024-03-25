@@ -305,8 +305,6 @@ data\\ 1\\ 3\\
 		- Used only when there are
 			- No outliers
 			- Data is linear
-		- Explanatory Statement
-			- "<$\large{r^2*100}$ evaluated> % of the variation in the $RV$ can be explained by the variation in the $EV$"
 		- $r=0$ indicated no association
 		- $r=+1$ is a perfect positive association 		
 		- $r=-1$ is a perfect negative association
@@ -315,6 +313,9 @@ data\\ 1\\ 3\\
 			- Weak $\pm{r}=0.25\text{ to }0.49$
 			- Moderate $\pm{r}=0.50\text{ to }0.74$
 			- Strong $\pm{r}=0.75\text{ to }0.99$
+		- **Coefficient of determination ($\large r^2$)**
+			- Greater than 30% shows significant predictive power
+			- "$\large (r^2\cdot100)$% of the variation in the $RV$ can be explained by the variation in the $EV$"
 $$
 \begin{align*}
 \Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
