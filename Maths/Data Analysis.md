@@ -281,6 +281,24 @@ data\\ 1\\ 3\\
 		- Groups match values
 		- represented as a range, ($3.2\text{-}5.6$)
 ## Calculator
-- **Statistics**
-	 - fill out list > "Calc" > "One-Variable"
-		- Finds $S_x$ and $\bar{x}$
+- **Find Std Dev and Mean**
+	 - "Statistics"
+	 - fill out list 1 with data
+	 - "Calc" > "One-Variable"
+	- Finds $S_x$ and $\bar{x}$
+- **Draw Scatter Plot**
+	- "Statistics"
+	- Fill list 1 with $EV$ & fill list 2 with $RV$
+	- Press btn with graph and 2 dots
+		- Set type to "Scatter"
+		- Set lists to axis
+	- Press btn with graph and wave on far left
+	- Draws scatter plot
+## Bi-variate Data
+- 2 dimensional data
+- **Explanatory variable ($EV$)**
+	- Value that influences the $RV$
+	- Plotted on the $X$ axis
+- **Response Variable ($RV$)**
+	- 
+	- Plotted on the $Y$ axis

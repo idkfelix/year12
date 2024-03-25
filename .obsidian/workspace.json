@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Inventory.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Inventory.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -106,9 +106,9 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
+    "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
     "README.md",
-    "Accounting/Inventory.md",
     "Accounting/General Journal.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
