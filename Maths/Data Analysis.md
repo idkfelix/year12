@@ -294,15 +294,16 @@ data\\ 1\\ 3\\
 		- Set lists to axis
 	- Press btn with graph and wave on far left
 	- Draws scatter plot
+- **Ca**
 ## Bi-variate Data
-- 2 dimensional data
 - **Explanatory variable ($EV$)**
 	- Value that influences the $RV$
 	- Plotted on the $X$ axis
 - **Response Variable ($RV$)**
-	- 
+	- Created from the $EV$
 	- Plotted on the $Y$ axis
-- **Association**
+
+- _**Association**_
 	- **Direction**
 		- The direction of the trend
 		- Positive - upward trend on plot
@@ -313,10 +314,20 @@ data\\ 1\\ 3\\
 		- Non-linear - curved line
 	- **Strength**
 		- How well the data matches chosen form
-		- No Association - $r=0.24\text{ to}-0.24$
-		- Weak - $\pm{r}=0.25\text{ to }0.49$
-		- Moderate - $\pm{r}=0.50\text{ to }0.74$
-		- Strong - $r=0.75\text{ to }0.99$
 		- **Correlation Coefficient ($\large{r}$)**
+			- Used only when there are
+				- No outliers
+				- Data is linear
 			- $r=0$ indicated no association
-			- $r=1$ is a perfect positive association 
+			- $r=+1$ is a perfect positive association 		
+			- $r=-1$ is a perfect negative association
+			- **Linear Strengths**
+				- No Association $r=0.24\text{ to}-0.24$
+				- Weak $\pm{r}=0.25\text{ to }0.49$
+				- Moderate $\pm{r}=0.50\text{ to }0.74$
+				- Strong $\pm{r}=0.75\text{ to }0.99$
+$$
+\begin{align*}
+\Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
+\end{align*}
+$$
