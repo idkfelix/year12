@@ -304,8 +304,8 @@ $$
 		- Set lists to axis
 	- Press btn with graph and wave on far left
 	- Draws scatter plot
-- **Calculate $\large{r}$**
+- **Calculate** $\large{r}$ 
 	- "Statistics"
 	- "Calc" > "Regression" > "Linear Reg"
 	- Set $X$ and $Y$ lists
-	- **Set formula to $y=a\cdot{x+b}$**
+	- **Set formula to** $y=a\cdot{x+b}$
