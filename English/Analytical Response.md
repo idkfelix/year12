@@ -56,5 +56,6 @@
 - used in apartheid to bring divide
 	- races of the same colour
 	- divided by their language
-	- Zulu shopkeeper calls 
+	- Zulu shopkeeper calls him and Patrica "bad blacks"
+		- followed by security guards "in case they steal"
 - 
