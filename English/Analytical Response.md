@@ -32,6 +32,7 @@
 	- Connection to broader contention
 	- Indicated conclusion of essay
 # Topics
+## Language
 - attending elite private school
 	- "Chameleon" chapter title
 	- has to "Pick a side" at school
@@ -46,3 +47,13 @@
 	- Uses his language skills to blend it
 		- subverts racism from both sides
 	- "Racism can be easily tricked"
+- selling bootleg CDs
+	- "English is the language of money"
+	- speaking English open opportunities
+	- "difference between getting a job and staying unemployed"
+	- makes you trustworthy
+	- equated to intelligence
+- used in apartheid to bring divide
+	- races of the same colour
+	- divided by their language
+- 
