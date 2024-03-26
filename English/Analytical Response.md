@@ -19,7 +19,7 @@
 	- Explain significance / relevance
 	- Explain S/T/F/A (see, think, feel, act)
 - Evidence
-	- Imbedded Quotes
+	- Embedded Quotes
 	- Examples from text
 - Link
 	- Explain how evidence related to topic
@@ -31,3 +31,18 @@
 	- Reflection on text
 	- Connection to broader contention
 	- Indicated conclusion of essay
+# Topics
+- attending elite private school
+	- "Chameleon" chapter title
+	- has to "Pick a side" at school
+		- speaks "English and Xhosa"
+	- doesn't belong at first; "anomaly" 
+	- told by other kids he is white
+		- realise he "belonged to their tribe"
+	- switches classes against teachers warnings
+		- to be with the black kids
+		- desperate to fit in
+		- "rather be held back with people that i like than move ahead with people i didn't know"
+	- Uses his language skills to blend it
+		- subverts racism from both sides
+	- "Racism can be easily tricked"
