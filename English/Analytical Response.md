@@ -56,4 +56,5 @@
 - used in apartheid to bring divide
 	- races of the same colour
 	- divided by their language
+	- Zulu shopkeeper calls 
 - 
