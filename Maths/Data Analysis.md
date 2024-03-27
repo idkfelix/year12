@@ -290,6 +290,14 @@ $$
 \Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
 \end{align*}
 $$
+## Correlation & Causation
+- Common Response
+	- Causes both $EV$ and $RV$
+	- Correlation $\ne$  Causation
+-  Confounding Variables
+	- Multiple common responses
+	- Other factors in the causation of a $RV$
+	- Contribution variables that may cause the relation between 2 variables
 ## Calculator
 - **Find Std Dev and Mean**
 	 - "Statistics"
