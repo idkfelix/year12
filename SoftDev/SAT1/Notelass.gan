@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-03-28" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
+<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-03-24" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
+    <view zooming-state="default:6" id="gantt-chart">
         <field id="tpd3" name="Name" width="200" order="0"/>
         <field id="tpd4" name="Begin date" width="75" order="1"/>
         <field id="tpd5" name="End date" width="75" order="2"/>
@@ -8,7 +8,7 @@
     </view>
     <view id="resource-table">
         <field id="0" name="Name" width="210" order="0"/>
-        <field id="1" name="Default role" width="86" order="1"/>
+        <field id="1" name="Default role" width="87" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -34,24 +34,47 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="4" name="Prototype 1 - Core" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true">
-            <task id="3" name="Evaluation" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
-                <task id="14" name="Client Evaluation" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-                <task id="13" name="Criteria Reflection" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-            </task>
-            <task id="2" name="Development" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
-                <task id="12" name="Documentation" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-                <task id="11" name="Testing" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-                <task id="10" name="Programming" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-            </task>
-            <task id="1" name="Design" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
-                <task id="9" name="Evaluation Criteria" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
-                <task id="8" name="Architecture" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
-                <task id="7" name="UI &amp; UX" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
-            </task>
-            <task id="0" name="Analysis" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
-                <task id="6" name="Scope" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-28" duration="7" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+            <task id="0" name="Analysis" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true">
+                <depend id="1" type="2" difference="0" hardness="Strong"/>
                 <task id="5" name="Requirements" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="6" name="Scope" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
+            </task>
+            <task id="1" name="Design" meeting="false" start="2024-03-29" duration="2" complete="0" expand="false">
+                <depend id="2" type="2" difference="0" hardness="Strong"/>
+                <task id="18" name="Core" meeting="false" start="2024-03-29" duration="2" complete="0" expand="true">
+                    <task id="8" name="Architecture" color="#8cb6ce" meeting="false" start="2024-03-29" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+                        <depend id="7" type="2" difference="0" hardness="Strong"/>
+                    </task>
+                    <task id="7" name="UI &amp; UX" color="#8cb6ce" meeting="false" start="2024-03-30" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
+                </task>
+                <task id="22" name="Features" color="#000000" meeting="false" start="2024-03-29" duration="2" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                    <task id="23" name="Architecture" color="#8cb6ce" meeting="false" start="2024-03-29" duration="1" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                        <depend id="24" type="2" difference="0" hardness="Strong"/>
+                    </task>
+                    <task id="24" name="UI &amp; UX" color="#8cb6ce" meeting="false" start="2024-03-30" duration="1" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
+                </task>
+                <task id="19" name="Extras" color="#000000" meeting="false" start="2024-03-29" duration="2" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                    <task id="20" name="Architecture" color="#8cb6ce" meeting="false" start="2024-03-29" duration="1" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                        <depend id="21" type="2" difference="0" hardness="Strong"/>
+                    </task>
+                    <task id="21" name="UI &amp; UX" color="#8cb6ce" meeting="false" start="2024-03-30" duration="1" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
+                </task>
+                <task id="9" name="Evaluation Criteria" meeting="false" start="2024-03-29" duration="1" complete="0" expand="true"/>
+            </task>
+            <task id="2" name="Development" meeting="false" start="2024-03-31" duration="2" complete="0" expand="true">
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <task id="10" name="Programming" meeting="false" start="2024-03-31" duration="1" complete="0" expand="true">
+                    <depend id="11" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="11" name="Testing" meeting="false" start="2024-04-01" duration="1" complete="0" expand="true"/>
+                <task id="12" name="Documentation" meeting="false" start="2024-03-31" duration="1" complete="0" expand="true"/>
+            </task>
+            <task id="15" name="Evaluation" meeting="false" start="2024-04-02" duration="2" complete="0" expand="true">
+                <task id="16" name="Client Evaluation" meeting="false" start="2024-04-02" duration="1" complete="0" expand="true">
+                    <depend id="17" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="17" name="Criteria Reflection" meeting="false" start="2024-04-03" duration="1" complete="0" expand="true"/>
             </task>
         </task>
     </tasks>
