@@ -37,7 +37,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-28" duration="12" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-28" duration="16" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
             <task id="0" name="Analysis" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true">
                 <depend id="1" type="2" difference="0" hardness="Strong"/>
                 <task id="5" name="Requirements" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
@@ -68,33 +68,35 @@
                 </task>
                 <task id="9" name="Evaluation Criteria" color="#8cb6ce" meeting="false" start="2024-04-02" duration="3" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="2" name="Development" meeting="false" start="2024-04-05" duration="2" complete="0" expand="true">
+            <task id="2" name="Development" meeting="false" start="2024-04-05" duration="6" complete="0" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
                 <task id="25" name="Core" color="#ff0000" meeting="false" start="2024-04-05" duration="2" complete="0" thirdDate="2024-04-04" thirdDate-constraint="0" expand="false">
+                    <depend id="29" type="2" difference="0" hardness="Strong"/>
                     <task id="10" name="Programming" meeting="false" start="2024-04-05" duration="1" complete="0" expand="true">
                         <depend id="11" type="2" difference="0" hardness="Strong"/>
                     </task>
                     <task id="11" name="Testing" meeting="false" start="2024-04-06" duration="1" complete="0" expand="true"/>
                 </task>
-                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-04-05" duration="2" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="false">
-                    <task id="30" name="Programming" color="#8cb6ce" meeting="false" start="2024-04-05" duration="1" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
+                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-04-07" duration="2" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="false">
+                    <depend id="26" type="2" difference="0" hardness="Strong"/>
+                    <task id="30" name="Programming" color="#8cb6ce" meeting="false" start="2024-04-07" duration="1" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                         <depend id="31" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="31" name="Testing" color="#8cb6ce" meeting="false" start="2024-04-06" duration="1" complete="0" thirdDate="2024-04-06" thirdDate-constraint="0" expand="true"/>
+                    <task id="31" name="Testing" color="#8cb6ce" meeting="false" start="2024-04-08" duration="1" complete="0" thirdDate="2024-04-06" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="26" name="Extras" color="#00a9ff" meeting="false" start="2024-04-05" duration="2" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="false">
-                    <task id="27" name="Programming" color="#8cb6ce" meeting="false" start="2024-04-05" duration="1" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
+                <task id="26" name="Extras" color="#00a9ff" meeting="false" start="2024-04-09" duration="2" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="false">
+                    <task id="27" name="Programming" color="#8cb6ce" meeting="false" start="2024-04-09" duration="1" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                         <depend id="28" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="28" name="Testing" color="#8cb6ce" meeting="false" start="2024-04-06" duration="1" complete="0" thirdDate="2024-04-06" thirdDate-constraint="0" expand="true"/>
+                    <task id="28" name="Testing" color="#8cb6ce" meeting="false" start="2024-04-10" duration="1" complete="0" thirdDate="2024-04-06" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="12" name="Documentation" meeting="false" start="2024-04-05" duration="1" complete="0" expand="true"/>
+                <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-04-05" duration="5" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="15" name="Evaluation" meeting="false" start="2024-04-07" duration="2" complete="0" expand="true">
-                <task id="16" name="Client Evaluation" meeting="false" start="2024-04-07" duration="1" complete="0" expand="true">
+            <task id="15" name="Evaluation" meeting="false" start="2024-04-11" duration="2" complete="0" expand="true">
+                <task id="16" name="Client Evaluation" meeting="false" start="2024-04-11" duration="1" complete="0" expand="true">
                     <depend id="17" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="17" name="Criteria Reflection" meeting="false" start="2024-04-08" duration="1" complete="0" expand="true"/>
+                <task id="17" name="Criteria Reflection" meeting="false" start="2024-04-12" duration="1" complete="0" expand="true"/>
             </task>
         </task>
     </tasks>
