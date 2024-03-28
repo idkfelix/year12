@@ -34,6 +34,26 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
+        <task id="4" name="Prototype 1 - Core" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true">
+            <task id="3" name="Evaluation" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+                <task id="14" name="Client Evaluation" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="13" name="Criteria Reflection" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+            </task>
+            <task id="2" name="Development" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
+                <task id="12" name="Documentation" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="11" name="Testing" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="10" name="Programming" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+            </task>
+            <task id="1" name="Design" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
+                <task id="9" name="Evaluation Criteria" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="8" name="Architecture" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
+                <task id="7" name="UI &amp; UX" color="#8cb6ce" meeting="false" start="2024-03-28" duration="1" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
+            </task>
+            <task id="0" name="Analysis" meeting="false" start="2024-03-28" duration="1" complete="0" expand="false">
+                <task id="6" name="Scope" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+                <task id="5" name="Requirements" meeting="false" start="2024-03-28" duration="1" complete="0" expand="true"/>
+            </task>
+        </task>
     </tasks>
     <resources/>
     <allocations/>
