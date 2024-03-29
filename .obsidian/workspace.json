@@ -11,8 +11,13 @@
             "id": "c3372d27408f43b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SoftDev/SAT1/Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SoftDev/SAT1/Ideas.md"
+              }
             }
           }
         ]
