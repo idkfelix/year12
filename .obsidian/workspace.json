@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7888293b6f84d8",
+        "id": "738fd6ca7c749db8",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1aac64a137273c",
+            "id": "c3372d27408f43b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoftDev/Unit3 Key Terms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,17 +80,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SoftDev/Unit3 Key Terms.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,8 +97,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ec1aac64a137273c",
+  "active": "c3372d27408f43b4",
   "lastOpenFiles": [
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAT1/Notelass.gan",
     "Maths/Data Analysis.md",
     "English/Analytical Response.md",
@@ -116,7 +109,6 @@
     "Accounting/General Journal.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
-    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/Accounts Turnover.md",
@@ -132,7 +124,6 @@
     "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
     "Media/Video Essay",
-    "SoftDev/SAC2",
     "Maths/Recursion & Financial.md",
     "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
