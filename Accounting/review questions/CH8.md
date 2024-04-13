@@ -22,4 +22,11 @@
 7. To record the value of the new Items for future transactions
 8. It is cheaper for a business to donate inventory at cost price and customers may receive more value from the products.
 9. It is an expense as it decreases assets and OE without using drawings
-10. 
+## 8.4
+1. The inventory card separates items with different values and records their quantities
+2. Comparability: By using the same method in the future reports and effectively compare current performance to past performance.
+## 8.5
+1. The cost of sales is identified by the business from the recorded balances on the inventory card.
+2. Inventory Loss and Advertising
+3. The purchase value is identified from the inventory card and is then used to value the returned items
+4. Using Identified cost the original sale value is used however using FIFO the latest outflow valuis used

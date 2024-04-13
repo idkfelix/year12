@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -108,6 +107,7 @@
   },
   "active": "d9b22689affd1ff1",
   "lastOpenFiles": [
+    "Accounting/Inventory.md",
     "Accounting/review questions/CH8.md",
     "Accounting/review questions",
     "SoftDev/SAT1/Ideas.md",
@@ -115,7 +115,6 @@
     "SoftDev/SAT1/Notelass.gan",
     "Maths/Data Analysis.md",
     "English/Analytical Response.md",
-    "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
     "README.md",
     "Accounting/General Journal.md",
