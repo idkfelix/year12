@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9b22689affd1ff1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -104,7 +117,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c3372d27408f43b4",
+  "active": "d9b22689affd1ff1",
   "lastOpenFiles": [
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/Unit3 Key Terms.md",
