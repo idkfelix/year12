@@ -29,4 +29,14 @@
 1. The cost of sales is identified by the business from the recorded balances on the inventory card.
 2. Inventory Loss and Advertising
 3. The purchase value is identified from the inventory card and is then used to value the returned items
-4. Using Identified cost the original sale value is used however using FIFO the latest outflow valuis used
+4. Using Identified cost the original sale value is used however using FIFO the latest outflow value is used
+5. The Identified Cost method keeps track of the exact value of an item with a label allowing the business to keep the most accurate balance of inventory on hand.
+6. Additional labour costs are involved as employees must undertake administrative tasks to keep track of inventory and expenses for supplies may be incurred to label the inventory.
+## 8.6
+1. To physically count the inventory on hand
+2. Faithful Representation: Used to compare inventory cards to the actual inventory on hand and correct any discrepancies so the business has the most accurate value of its assets.
+3. Realisation of and overstated inventory count that has been adjusted to represent the physical count
+4. There is a decrease of assets and owners equity without drawings.
+5. Undersupply from a supplier,  oversupply to a customer and a physical count.
+6. The cost of inventory loss is identified with the oldest inventory value
+7. Inventory 
