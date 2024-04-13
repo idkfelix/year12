@@ -39,4 +39,16 @@
 4. There is a decrease of assets and owners equity without drawings.
 5. Undersupply from a supplier,  oversupply to a customer and a physical count.
 6. The cost of inventory loss is identified with the oldest inventory value
-7. Inventory 
+7. Inventory Credit and Inventory Loss Debit
+8. Decrease in Assets, No effect Liabilities and Owners Equity Decrease
+9. Realisation of extra inventory on hand.
+10. There is a increase in assets and owners equity without capital contribution
+11. Oversupply by a supplier and undersupply to a customer
+12. The latest inflow cost is used to value the gain
+13. Inventory Debit and Inventory Gain Credit
+14. Assets increase, Liabilities No Effect and OE Increase
+## 8.7
+1. There is additional costs and expenses involved with the Identified Cost method that may not be ideal for a small business as it will decrease profit.
+2. FIFO assumes that the oldest inventory will be sold first before moving onto the second oldest inventory etc
+3. The FIFO assumption make inventory tracking easier for a business and reduces the associated costs as there is no need to label each item or pay an employee to maintain the system.
+4. FIFO is not preferential for ensuring faithful representation as it does not accurately record the exact cost of a 
