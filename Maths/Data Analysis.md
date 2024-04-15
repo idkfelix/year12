@@ -291,6 +291,13 @@ $$
 \end{align*}
 $$
 ## Regression Line
+$$
+\begin{align*}
+a &= intercept\\
+b &= gradient\\
+r &= coefficent
+\end{align*}
+$$
 - Linear Regression - straight line
 - $y=a+bx$
 	- $RV=y\text{ intercept}+\text{gradient/slope }EV$
