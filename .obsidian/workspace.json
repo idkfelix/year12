@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "738fd6ca7c749db8",
+        "id": "99b65ab7beb07eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b22689affd1ff1",
+            "id": "25f3593c42a44365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/review questions/CH8.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/review questions/CH8.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,21 +104,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d9b22689affd1ff1",
+  "active": "25f3593c42a44365",
   "lastOpenFiles": [
-    "Accounting/Inventory.md",
+    "SoftDev/SAT1/Notelass.gan",
     "Accounting/review questions/CH8.md",
     "Accounting/review questions",
-    "SoftDev/SAT1/Ideas.md",
-    "SoftDev/Unit3 Key Terms.md",
-    "SoftDev/SAT1/Notelass.gan",
-    "Maths/Data Analysis.md",
     "English/Analytical Response.md",
+    "Maths/Data Analysis.md",
+    "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
     "README.md",
     "Accounting/General Journal.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/Accounts Turnover.md",
@@ -134,6 +132,7 @@
     "English/Practice SACs",
     "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
+    "Media/Video Essay",
     "Maths/Recursion & Financial.md",
     "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
