@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fd0bcbf9b16c48d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "25f3593c42a44365",
+  "active": "3fd0bcbf9b16c48d",
   "lastOpenFiles": [
     "SoftDev/SAT1/Notelass.gan",
     "Accounting/review questions/CH8.md",
