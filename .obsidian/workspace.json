@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -107,6 +107,7 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
+    "README.md",
     "English/Protests/Hong Kong Umbrellas.md",
     "English/Protests/attachments/Pasted image 20240416120612.png",
     "English/Protests/attachments",
@@ -118,7 +119,6 @@
     "English/Analytical Response.md",
     "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
-    "README.md",
     "Accounting/General Journal.md",
     "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
