@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Protests/Hong Kong Umbrellas.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Protests/Hong Kong Umbrellas.md"
+                "file": "README.md"
               }
             }
           }
@@ -107,10 +107,10 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
+    "English/Protests/Hong Kong Umbrellas.md",
     "English/Protests/attachments/Pasted image 20240416120612.png",
     "English/Protests/attachments",
     "Maths/Data Analysis.md",
-    "English/Protests/Hong Kong Umbrellas.md",
     "English/Protests",
     "SoftDev/SAT1/Notelass.gan",
     "Accounting/review questions/CH8.md",
@@ -151,7 +151,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
     "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
-    "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg",
-    "SAT1/compass-api/docs/fonts/OpenSans-LightItalic-webfont.svg"
+    "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg"
   ]
 }
