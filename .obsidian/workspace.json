@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "SoftDev/SAT1/Dev Model Justification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "SoftDev/SAT1/Dev Model Justification.md"
               }
             }
           }
@@ -107,11 +108,12 @@
   },
   "active": "25f3593c42a44365",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
+    "SoftDev/SAT1/Dev Model Justification.md",
     "README.md",
     "English/Protests/Hong Kong Umbrellas.md",
     "English/Protests/attachments/Pasted image 20240416120612.png",
     "English/Protests/attachments",
-    "Maths/Data Analysis.md",
     "English/Protests",
     "SoftDev/SAT1/Notelass.gan",
     "Accounting/review questions/CH8.md",
