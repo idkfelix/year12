@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0fb75f4b520ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -104,20 +118,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d9b22689affd1ff1",
+  "active": "c0fb75f4b520ceb2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Maths/Data Analysis.md",
     "Accounting/review questions/CH8.md",
     "Accounting/Inventory.md",
     "Accounting/review questions",
     "SoftDev/SAT1/Ideas.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAT1/Notelass.gan",
-    "Maths/Data Analysis.md",
     "English/Analytical Response.md",
     "Accounting/General Ledger.md",
     "README.md",
     "Accounting/General Journal.md",
-    "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",

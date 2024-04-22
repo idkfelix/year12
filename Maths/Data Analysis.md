@@ -252,10 +252,10 @@ $$
 ## Bi-variate Data
 - 2 Dimensional data 
 - Plotted on a scatter plot
-- Explanatory variable ($EV$)**
+- Explanatory variable ($EV$)
 	- Value that influences the $RV$
 	- Plotted on the $X$ axis
-- Response Variable ($RV$)**
+- Response Variable ($RV$)
 	- Created from the $EV$
 	- Plotted on the $Y$ axis
 
@@ -290,6 +290,17 @@ $$
 \Huge r=\frac{\sum\limits(x-\bar{x})(y-\bar{x})}{(n-1)_{S_{x}S_{y}}}
 \end{align*}
 $$
+## Regression Line
+$$
+\begin{align*}
+a &= intercept\\
+b &= gradient\\
+r &= coefficent
+\end{align*}
+$$
+- Linear Regression - straight line
+- $y=a+bx$
+	- $RV=y\text{ intercept}+\text{gradient/slope }EV$
 ## Correlation & Causation
 - Common Response
 	- Causes both $EV$ and $RV$
