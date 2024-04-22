@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-04-28" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
+<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-05-05" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
     <description/>
-    <view zooming-state="default:5" id="gantt-chart">
+    <view zooming-state="default:6" id="gantt-chart">
         <field id="tpd3" name="Name" width="200" order="0"/>
         <field id="tpd4" name="Begin date" width="75" order="1"/>
         <field id="tpd5" name="End date" width="75" order="2"/>
@@ -129,11 +129,13 @@ UI Components for Compass Features:
                 </task>
                 <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-06-11" duration="14" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                     <depend id="26" type="2" difference="0" hardness="Strong"/>
+                    <depend id="50" type="2" difference="0" hardness="Strong"/>
                     <task id="46" name="Compass API Intergration" color="#8cb6ce" meeting="false" start="2024-06-11" duration="7" complete="0" thirdDate="2024-06-11" thirdDate-constraint="0" expand="true">
                         <depend id="45" type="2" difference="0" hardness="Strong"/>
                     </task>
                     <task id="45" name="Compass Data Components" color="#8cb6ce" meeting="false" start="2024-06-18" duration="7" complete="0" thirdDate="2024-06-18" thirdDate-constraint="0" expand="true"/>
                 </task>
+                <task id="50" name="MVP" color="#8cb6ce" meeting="true" start="2024-06-25" duration="0" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true"/>
                 <task id="26" name="Extras" color="#00a9ff" meeting="false" start="2024-06-25" duration="20" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                     <task id="49" name="AI Intergration" color="#8cb6ce" meeting="false" start="2024-06-25" duration="4" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true">
                         <depend id="47" type="2" difference="0" hardness="Strong"/>
@@ -146,11 +148,13 @@ UI Components for Compass Features:
                 <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-06-11" duration="31" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
             </task>
             <task id="15" name="Evaluation" meeting="false" start="2024-07-15" duration="28" complete="0" expand="true">
+                <depend id="51" type="2" difference="0" hardness="Strong"/>
                 <task id="16" name="Client Evaluation" color="#8cb6ce" meeting="false" start="2024-07-15" duration="14" complete="0" thirdDate="2024-07-15" thirdDate-constraint="0" expand="true">
                     <depend id="17" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="17" name="Criteria Reflection" color="#8cb6ce" meeting="false" start="2024-07-29" duration="14" complete="0" thirdDate="2024-07-25" thirdDate-constraint="0" expand="true"/>
             </task>
+            <task id="51" name="Completion" color="#8cb6ce" meeting="true" start="2024-08-12" duration="0" complete="0" thirdDate="2024-08-12" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources/>
