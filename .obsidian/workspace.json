@@ -19,46 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "959d487750ef2cbe",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/felix/Documents/year12",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "bash",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": false
-                  },
-                  "serial": {
-                    "columns": 85,
-                    "data": "[felix@laptop year12]$ git acp",
-                    "rows": 55
-                  }
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SoftDev/SAT1/Dev Model Justification.md"
+              }
             }
           }
         ]
@@ -142,7 +106,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "959d487750ef2cbe",
+  "active": "25f3593c42a44365",
   "lastOpenFiles": [
     "SoftDev/SAT1/Dev Model Justification.md",
     "Maths/Data Analysis.md",
