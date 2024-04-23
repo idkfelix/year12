@@ -54,7 +54,7 @@ This repo contains all my markdown notes, classwork and resources for VCE year 1
 | Unit   | **Software Dev:** | Score % | Study Score % |
 | ------ | ----------------- | ------- | ------------- |
 | U3 O1a | Functions         | 100     | 2             |
-| U3 O1b | Form Handling     |         | 4             |
+| U3 O1b | Form Handling     | 97      | 4             |
 | ?      |                   |         |               |
 
 | Unit  | **General Maths:**  | Score % | Study Score % |

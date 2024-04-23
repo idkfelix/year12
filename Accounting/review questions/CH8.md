@@ -51,4 +51,4 @@
 1. There is additional costs and expenses involved with the Identified Cost method that may not be ideal for a small business as it will decrease profit.
 2. FIFO assumes that the oldest inventory will be sold first before moving onto the second oldest inventory etc
 3. The FIFO assumption make inventory tracking easier for a business and reduces the associated costs as there is no need to label each item or pay an employee to maintain the system.
-4. FIFO is not preferential for ensuring faithful representation as it does not accurately record the exact cost of a 
+4. FIFO is not preferential for ensuring faithful representation as it does not accurately record the exact cost of an item only recording the quantities of values that is assigned at random.
