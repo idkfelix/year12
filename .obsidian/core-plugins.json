@@ -4,5 +4,6 @@
   "switcher",
   "command-palette",
   "editor-status",
-  "outline"
+  "outline",
+  "word-count"
 ]
