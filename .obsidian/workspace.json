@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56c19cce91bbde0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/Development Model Justification.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -118,11 +131,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c0fb75f4b520ceb2",
+  "active": "56c19cce91bbde0f",
   "lastOpenFiles": [
-    "SoftDev/SAT1/Dev Model Justification.md",
-    "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/Development Model Justification.md",
+    "conflict-files-obsidian-git.md",
+    "SoftDev/SAT1/Dev Model Justification.md",
+    "English/Practice SACs/Listen (Mardi Gras).md",
     "English/Protests/attachments/Pasted image 20240416120612.png",
     "English/Protests/Hong Kong Umbrellas.md",
     "English/Protests/attachments",
@@ -156,7 +170,6 @@
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
     "Maths/Untitled.md",
-    "settings.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
