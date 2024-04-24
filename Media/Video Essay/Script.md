@@ -1,6 +1,6 @@
 [Get Out Title Card]
 [filler footage of the party]
-Jordan Peele's debut film "Get Out" (2017)
+Jordan Peele's debut film "Get Out" released in 2017 has become a worldwide success telling the captivating story of one mans escape from mind controlling cult that preys on young African-American
 [Sunken Place Clip]
 The film tells the story of 
 [Footage of people going to see Get Out]
