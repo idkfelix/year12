@@ -1,6 +1,8 @@
 [Get Out Title Card]
 [filler footage of the party]
-World renound American actor and comedian Jordan Peele's debut film "Get Out" released in 2017 instantly becoming a worldwide success telling the captivating story of one mans escape from a mind controlling cult that preys on young African-American in an nontraditional take on the horror genre. Peele's film not only conveys its critically acclaimed narrative but also provides insightful themes and commentary that have sparked conversation about the state of race relations and prejudice across not only America but internationally. "Get Out" 
+
+World renound American actor and comedian Jordan Peele's debut film "Get Out" released in 2017 instantly becoming a worldwide success telling the captivating story of one mans escape from a mind controlling cult that preys on young African-American in an nontraditional take on the horror genre. Peele's film not only conveys its critically acclaimed narrative but also provides insightful themes and commentary that have sparked conversation about the state of race relations and prejudice across not only America but internationally. "Get Out" is a stark product of of its environment as Peele's initiative throughout production to provide imitation of real world injustices helps the film distinctly reflect the 
+
 [Sunken Place Clip]
 The film tells the story of 
 [Footage of people going to see Get Out]
