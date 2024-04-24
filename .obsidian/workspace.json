@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "406336d641815e95",
+        "id": "c81577f2f2110f2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee01b057e6039539",
+            "id": "62db0d1aece69166",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -106,30 +105,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ee01b057e6039539",
+  "active": "62db0d1aece69166",
   "lastOpenFiles": [
-    "Media/Video Essay/Terminology.md",
-    "Media/Video Essay/Script.md",
-    "README.md",
-    "Maths/Data Analysis.md",
-    "SoftDev/SAT1/Development Model Justification.md",
-    "SoftDev/SAT1/Dev Model Justification.md",
-    "conflict-files-obsidian-git.md",
     "English/Practice SACs/Listen (Mardi Gras).md",
-    "English/Protests/attachments/Pasted image 20240416120612.png",
+    "SoftDev/SAT1/Development Model Justification.md",
+    "Media/Video Essay/Script.md",
+    "SoftDev/SAT1/Dev Model Justification.md",
+    "Maths/Data Analysis.md",
+    "README.md",
     "English/Protests/Hong Kong Umbrellas.md",
+    "English/Protests/attachments/Pasted image 20240416120612.png",
     "English/Protests/attachments",
     "English/Protests",
-    "Accounting/review questions/CH8.md",
-    "Accounting/Inventory.md",
-    "Accounting/review questions",
-    "SoftDev/SAT1/Ideas.md",
-    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAT1/Notelass.gan",
+    "Accounting/review questions/CH8.md",
+    "Accounting/review questions",
     "English/Analytical Response.md",
+    "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
     "Accounting/General Journal.md",
+    "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
     "SoftDev/SAC2/code/SAC2.php",
     "Accounting/Accounts Turnover.md",
@@ -141,10 +138,12 @@
     "English/Born A Crime/Born_a_Crime.pdf",
     "English/Born A Crime/Part II Questions.md",
     "English/Untitled.md",
+    "Media/Video Essay/Terminology.md",
     "Maths/Recursion & Financial.md",
     "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
+    "Maths/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
