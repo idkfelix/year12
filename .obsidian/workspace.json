@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78efda575a96098a",
+        "id": "2af2d00353a73f03",
         "type": "tabs",
         "children": [
           {
-            "id": "15aa57ec7c85b58f",
+            "id": "3415b0645549f9cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SoftDev/SAT1/SRS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "SoftDev/SAT1/SRS.md"
               }
             }
           }
@@ -105,10 +106,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "15aa57ec7c85b58f",
+  "active": "3415b0645549f9cc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/SRS.md",
+    "conflict-files-obsidian-git.md",
     "Media/Video Essay/Script.md",
     "Maths/Data Analysis.md",
     "English/Practice SACs/Listen (Mardi Gras).md",

@@ -14,3 +14,11 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 ## Includes
 ## Excludes
 ## Operating Environment
+# Requirements
+## Constraints
+
+| ID  | Type     | Notes                                      |
+| --- | -------- | ------------------------------------------ |
+| PC1 | Economic | Time available for the project is 24 weeks |
+| PC2 | Economic | Project should only utilise                |
+
