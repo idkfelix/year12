@@ -9,7 +9,7 @@ Company: Mullauna College
 ## Needs
 Currently Mullauna College has no standard system for note taking or revision, leaving students to implement their own systems or adopt various products not specifically designed for an education environment.
 ## End User
-Notelass is primarily intended to be used by VCE students at Mullauna College as they will gain the most value from the product, however its design will make it accessible to all students at the college. A target user for Notelass will b
+Notelass is primarily intended to be used by VCE students at Mullauna College as they will gain the most value from the product, however its design will make it accessible to all students at the college.
 # Project Scope
 ## Includes
 ## Excludes
