@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c81577f2f2110f2b",
+        "id": "78efda575a96098a",
         "type": "tabs",
         "children": [
           {
-            "id": "62db0d1aece69166",
+            "id": "15aa57ec7c85b58f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media/Video Essay/Script.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/Video Essay/Script.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -105,10 +98,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "62db0d1aece69166",
+  "active": "15aa57ec7c85b58f",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "Media/Video Essay/Script.md",
+    "Maths/Data Analysis.md",
     "English/Practice SACs/Listen (Mardi Gras).md",
     "SoftDev/SAT1/Development Model Justification.md",
     "SoftDev/SAT1/Dev Model Justification.md",
