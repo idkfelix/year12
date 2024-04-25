@@ -11,8 +11,13 @@
             "id": "15aa57ec7c85b58f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -100,6 +107,8 @@
   },
   "active": "15aa57ec7c85b58f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SoftDev/SAT1/SRS.md",
     "Media/Video Essay/Script.md",
     "Maths/Data Analysis.md",
     "English/Practice SACs/Listen (Mardi Gras).md",
@@ -117,7 +126,6 @@
     "Accounting/Inventory.md",
     "Accounting/General Ledger.md",
     "Accounting/General Journal.md",
-    "conflict-files-obsidian-git.md",
     "English/Practice SACs/BaC Analytical.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
@@ -136,7 +144,6 @@
     "Maths/Financial Recursion.md",
     "Accounting/Accounts Turn Over.md",
     "Accounting/Correcting Entries.md",
-    "Maths/Untitled.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
