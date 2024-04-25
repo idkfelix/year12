@@ -28,15 +28,15 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | PC7 | Social       | Easy and Intuitive to use for a student                |
 ## Functional
 
-| ID   | Requirement                                    | Notes |
-| ---- | ---------------------------------------------- | ----- |
-| FR1  | User can login with Compass                    |       |
-| FR2  | Only logged in users can access tools and data |       |
-| FR3  | Unauthorised users can access documentation    |       |
-| FR4  | Requests to compass API are authorised         |       |
-| FR5  | Functional note editor with markdown and LaTeX |       |
-| FR6  | Notes are stored in and retrieved from Compass |       |
-| FR7  |                                                |       |
-| FR8  |                                                |       |
-| FR9  |                                                |       |
-| FR10 |                                                |       |
+| ID   | Requirement                                        | Notes                                                                                                              |
+| ---- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| FR1  | User can login with Compass                        | Login page makes request to Compass to authenticate details and returns user details in a JWT for further requests |
+| FR2  | Only authenticated users can access tools and data | JWT verification on all routes to only be used by authenticated users                                              |
+| FR3  | Unauthorised users can access documentation        | Open route for viewing documentation that allows unauthenticated                                                   |
+| FR4  | Requests to compass API are authorised             |                                                                                                                    |
+| FR5  | Functional note editor with markdown and LaTeX     |                                                                                                                    |
+| FR6  | Notes are stored in and retrieved from Compass     |                                                                                                                    |
+| FR7  | Class resources can be viewed                      |                                                                                                                    |
+| FR8  | Notes can be filtered by class, date and period    |                                                                                                                    |
+| FR9  | User can view upcoming tasks from Compass          |                                                                                                                    |
+| FR10 |                                                    |                                                                                                                    |
