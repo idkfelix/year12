@@ -33,9 +33,9 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | FR1  | User can login with Compass                    |       |
 | FR2  | Only logged in users can access tools and data |       |
 | FR3  | Unauthorised users can access documentation    |       |
-| FR4  |                                                |       |
-| FR5  |                                                |       |
-| FR6  |                                                |       |
+| FR4  | Requests to compass API are authorised         |       |
+| FR5  | Functional note editor with markdown and LaTeX |       |
+| FR6  | Notes are stored in and retrieved from Compass |       |
 | FR7  |                                                |       |
 | FR8  |                                                |       |
 | FR9  |                                                |       |
