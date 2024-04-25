@@ -32,9 +32,9 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | ---- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | FR1  | User can login with Compass                        | Login page makes request to Compass to authenticate details and returns user details in a JWT for further requests |
 | FR2  | Only authenticated users can access tools and data | JWT verification on all routes to only be used by authenticated users                                              |
-| FR3  | Unauthorised users can access documentation        | Open route for viewing documentation that allows unauthenticated                                                   |
-| FR4  | Requests to compass API are authorised             |                                                                                                                    |
-| FR5  | Functional note editor with markdown and LaTeX     |                                                                                                                    |
+| FR3  | Unauthorised users can access documentation        | Open route for viewing documentation that allows unauthenticated users                                             |
+| FR4  | Requests to compass API are authorised             | Compass API requests are properly authenticated with data from the JWT without errors                              |
+| FR5  | Functional note editor with markdown and LaTeX     | WYSIWYG editor works seamlessly live rendering markdoen                                                            |
 | FR6  | Notes are stored in and retrieved from Compass     |                                                                                                                    |
 | FR7  | Class resources can be viewed                      |                                                                                                                    |
 | FR8  | Notes can be filtered by class, date and period    |                                                                                                                    |
