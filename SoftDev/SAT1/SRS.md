@@ -17,8 +17,26 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 # Requirements
 ## Constraints
 
-| ID  | Type     | Notes                                      |
-| --- | -------- | ------------------------------------------ |
-| PC1 | Economic | Time available for the project is 24 weeks |
-| PC2 | Economic | Project should only utilise                |
+| ID  | Type         | Notes                                                  |
+| --- | ------------ | ------------------------------------------------------ |
+| PC1 | Economic     | Time available for the project is 24 weeks             |
+| PC2 | Economic     | Project should only utilise free products and services |
+| PC3 | Technical    | Needs to be easy to deploy as an instance              |
+| PC4 | Availability | Must run in a serverless enviroment                    |
+| PC5 | Legal        | End User will have full control of their data          |
+| PC6 | Technical    | Runs without any errors or bugs                        |
+| PC7 | Social       | Easy and Intuitive to use for a student                |
+## Functional
 
+| ID   | Requirement                                    | Notes |
+| ---- | ---------------------------------------------- | ----- |
+| FR1  | User can login with Compass                    |       |
+| FR2  | Only logged in users can access tools and data |       |
+| FR3  | Unauthorised users can access documentation    |       |
+| FR4  |                                                |       |
+| FR5  |                                                |       |
+| FR6  |                                                |       |
+| FR7  |                                                |       |
+| FR8  |                                                |       |
+| FR9  |                                                |       |
+| FR10 |                                                |       |
