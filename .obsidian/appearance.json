@@ -1,6 +1,6 @@
 {
   "accentColor": "#f78df3",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Minimal",
   "translucency": false,
   "enabledCssSnippets": [
@@ -8,6 +8,7 @@
     "pdf-zoom",
     "pdf-size",
     "misc",
-    "pre"
+    "pre",
+    "mermaid"
   ]
 }
