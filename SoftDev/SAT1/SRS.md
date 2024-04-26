@@ -79,7 +79,7 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | NFR3 | No downtime             | The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades        |
 | NFR4 | Backwards compatability | New versions of Notelass should not break the functionality of existing notes and should allow for continuous use |
 | NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
-## Data Flow and Context Diagram
+## Data Flow and Context Diagram MVP
 ```mermaid
 sequenceDiagram
     participant server as Notelass
@@ -119,7 +119,32 @@ sequenceDiagram
 
 	opt Save Note
 	user ->> server: Save Edited Note
-	server ->> server: G
+	server ->> server: Gather Meta Data
+	server ->> server: Encode Note Blob
+	server ->> compass: Upload Note Blob
+	end
+```
+## Data Flow and Context Diagram Extras
+```mermaid
+sequenceDiagram
+    participant server as Notelass
+    participant compass as Compass
+    participant ai as Open AI
+    actor user as End User
+
+	opt Notes Summary
+	user ->> server: Summary for Subject ID
+	server ->> compass: Fetch Notes Data with Subject ID
+	server ->> ai: Prompt Summary with Data
+	server ->> user: Display Generated Summary
+	end
+
+	opt Practice SAC Question
+	user ->> server: Summary for Topic in Subject
+	server ->> compass: Fetch Notes Data with Subject ID
+	server ->> ai: Prompt Question with Data and Topic
+	server ->> user: Display Generated SAC Question
+	end
 ```
 # Use Cases
 ## Requirements
