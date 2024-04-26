@@ -82,7 +82,12 @@ Notelass will operate with a modern JavaScript framework and serverless function
 ## Data Flow Diagram
 ```mermaid
 sequenceDiagram
-    server
+    participant server as Notelass
+    participant compass as Compass
+    participant ai as Open AI
+    actor user as End User
+
+	alt create note
 
 ```
 # Use Cases
