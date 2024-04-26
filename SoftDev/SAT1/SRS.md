@@ -84,11 +84,26 @@ Notelass will operate with a modern JavaScript framework and serverless function
 sequenceDiagram
     participant server as Notelass
     participant compass as Compass
-    participant ai as Open AI
     actor user as End User
 
-	alt create note
+	opt Login
+	user ->> server: Submit Login
+	server ->> compass: Check Authentication
+	server ->> server: Generate JWT
+	server ->> user: Set JWT Cookie
+	end
 
+	opt New Session
+	user ->> server: Load Homepage
+	server ->> server: Decode JWT Data
+	server ->> compass 
+	end
+
+	opt Create Note
+	user ->> server: Open Note on Class
+	server ->> compass: Fetch Lesson Plan
+	server ->> user: Note Editor and Lesson Plan
+	end
 ```
 # Use Cases
 ## Requirements
