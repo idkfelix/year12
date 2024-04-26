@@ -51,13 +51,15 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | FR11 | Admin can optionally enable AI revision for users  | As AI use requires a paid API key it should be be optionally enabled with environment variables, if disabled the routes and pages for revision tools will not be shown to users                    |
 ## Non-Functional
 
-| ID   | Requirement      | Notes                                                                                 |
-| ---- | ---------------- | ------------------------------------------------------------------------------------- |
-| NFR1 | Intuitive Design | 90% of users will be able to create and retrieve a note without any prior instruction |
-| NFR2 |                  |                                                                                       |
-| NFR3 |                  |                                                                                       |
-| NFR4 |                  |                                                                                       |
-| NFR5 |                  |                                                                                       |
-| NFR6 |                  |                                                                                       |
-| NFR7 |                  |                                                                                       |
-# 
+| ID   | Requirement             | Notes                                                                                                             |
+| ---- | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| NFR1 | Intuitive Design        | 90% of users will be able to create and retrieve a note without any prior instruction                             |
+| NFR2 | Accessible Themes       | Users should have at least 3 different interface themes to choose from when using the website.                    |
+| NFR3 | No downtime             | The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades        |
+| NFR4 | Backwards compatability | New versions of Notelass should not break the functionality of existing notes and should allow for continuous use |
+| NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
+# Use Cases
+
+| ID  | Use Case | Notes |
+| --- | -------- | ----- |
+| UC1 |          |       |
