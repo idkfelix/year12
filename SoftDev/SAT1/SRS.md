@@ -9,12 +9,31 @@ Company: Mullauna College
 ## Needs
 Currently Mullauna College has no standard system for note taking or revision, leaving students to implement their own systems or adopt various products not specifically designed for an education environment.
 
-Notelass will provide a standardised platform for students to take notes for their subjects by attaching notes to each class they take for easy organisation and retrieval. The tool will integrate emerging tec
+Notelass will provide a standardised platform for students to take notes for their subjects by attaching notes to each class they take for easy organisation and retrieval. The tool will integrate emerging AI technologies to create revision and practice materials / tools for students to effectively apply and recall the information that they document within their notes.
 ## End User
 Notelass is primarily intended to be used by VCE students at Mullauna College as they will gain the most value from the product, however its design will make it accessible to all students at the college.
 # Project Scope
 ## Includes
+- Note taking page
+- Note syntax validation
+- Notes storage in Compass
+- Categorisation and filtering of notes
+- Compass lesson plan viewer
+- Compass class resource downloads
+- Compass learning task timeline
+- Notes filtering
+- AI home learning detection
+- AI notes summary
+- AI content quiz
+- AI practice SAC questions
 ## Excludes
+- Compass task submission
+- Compass news feed
+- Compass discussions
+- Compass emails
+- AI revision with content not in notes
+- AI notes summary with content not in notes
+- Use of generative AI for classwork
 ## Operating Environment
 Notelass will operate with a modern JavaScript framework and serverless functions to allow for cost free deployment on various third-party services.
 - SvelteKit as a web framework
@@ -62,6 +81,7 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
 # Use Cases
 
-| ID  | Use Case | Notes |
-| --- | -------- | ----- |
-| UC1 |          |       |
+| ID  | Use Case        | Notes                                                                                             |
+| --- | --------------- | ------------------------------------------------------------------------------------------------- |
+| UC1 | Create new Note | User creates a note for a class at school and saves content they have documented throughout class |
+| UC2 | E               |                                                                                                   |
