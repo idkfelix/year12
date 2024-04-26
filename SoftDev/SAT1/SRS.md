@@ -1,4 +1,4 @@
-# Introduction
+# Notelass
 ## Project Description
 Notelass will be a tool for students at Mullauna College to efficiently and effectively take organised notes for their classes and provide revision tools for students to retain and apply information from their notes. The solution will seamlessly integrate with the schools current online management software, Compass, this will allow students to attach notes to subjects and classes for easy organisation, view class resources within the tool to avoid context switching hindering the users train of thought and store all user generated data within Compass to ensure proper security.
 # Client
@@ -40,4 +40,15 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | FR8  | Notes can be filtered by subject, date and class   | Notes overview page has filters for metadata that allows the user to refine displayed notes and search for subject, date and class                                                                 |
 | FR9  | User can view upcoming tasks from Compass          | Learning tasks for the user are fetched from Compass and are displayed in a timeline in addition to user defined tasks.<br>                                                                        |
 | FR10 | Documentation is dynamically rendered              | Documentation statically stored in markdown files on the server is rendered and displayed with the notes editor in the documentation route                                                         |
-| FR11 | Admin can optionally enable AI revision for users  |                                                                                                                                                                                                    |
+| FR11 | Admin can optionally enable AI revision for users  | As AI use requires a paid API key it should be be optionally enabled with environment variables, if disabled the routes and pages for revision tools will not be shown to users                    |
+## Non-Functional
+
+| ID   | Requirement      | Notes                                                                                 |
+| ---- | ---------------- | ------------------------------------------------------------------------------------- |
+| NFR1 | Intuitive Design | 90% of users will be able to create and retrieve a note without any prior instruction |
+| NFR2 |                  |                                                                                       |
+| NFR3 |                  |                                                                                       |
+| NFR4 |                  |                                                                                       |
+| NFR5 |                  |                                                                                       |
+| NFR6 |                  |                                                                                       |
+| NFR7 |                  |                                                                                       |
