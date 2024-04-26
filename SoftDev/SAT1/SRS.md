@@ -14,6 +14,39 @@ Notelass will provide a standardised platform for students to take notes for the
 Notelass is primarily intended to be used by VCE students at Mullauna College as they will gain the most value from the product, however its design will make it accessible to all students at the college.
 
 # Data Collection
+## Methods
+
+| Collection Method | Target      | Justification                                                                                        |
+| ----------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| Interview         | Joel Porter | In person interview with the client to understand their needs, requirements and scope of the project |
+| Survey            | End Users   | Survey of end users to find popular feature requests for the project and needs of the end user       |
+## Interview Notes
+```
+- Storing all data in compass
+- notes editor
+- upcoming learning tasks
+	- progress check
+	- keeping on top of tasks
+	- comments on progress
+- extracting tasks from lesson plans
+- linking notes to activity and lesson
+- tagging notes with topics
+- viewing lesson plan
+- revision
+	- context to class notes, lesson plans and VCAA
+	- generate summaries from users notes, topics and lesson plans
+	- ai to create flash cards, practice SAC questions and quiz (short answer and multiple choice), created from notes at different difficulties, (context to previous exams)
+```
+
+## Feature Survey Results
+
+| Feature Requested | Count Requests |
+| ----------------- | -------------- |
+| AI notes summary  | 3              |
+| WYSIWYG editor    | 4              |
+| Markdown Support  | 5              |
+| LaTeX S           |                |
+
 # Project Scope
 ## Includes
 - Note taking page
