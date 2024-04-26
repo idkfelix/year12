@@ -81,7 +81,14 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
 # Use Cases
 
-| ID  | Use Case        | Notes                                                                                             |
-| --- | --------------- | ------------------------------------------------------------------------------------------------- |
-| UC1 | Create new Note | User creates a note for a class at school and saves content they have documented throughout class |
-| UC2 | E               |                                                                                                   |
+| ID  | Use Case                 | Notes                                                                                                    |
+| --- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| UC1 | Create new Note          | User creates a note for a class at school and saves content they have documented throughout class        |
+| UC2 | Editing Note             | User edits a notes previously created content to add extra information before saving once again          |
+| UC3 | AI Practice SAC question | A user selects a topic from one of their subjects and generates a practice SAC question from their notes |
+```mermaid
+flowchart  
+direction LR  
+	start[(Notelass)]
+	user((End User)) -- Create Note --> start
+```
