@@ -14,6 +14,14 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 ## Includes
 ## Excludes
 ## Operating Environment
+Notelass will operate with a modern JavaScript framework and serverless functions to allow for cost free deployment on various third-party services.
+- SvelteKit as a web framework
+	- Svelte front end for simple static site generation
+	- JavaScript API functions to store, serve and manipulate data
+	- Serverless functions for horizontal scalability and easy deployment
+- Compiled HTML/CSS/JS Svelte user interface
+	- Requests to Compass for data storage and retrieval 
+	- Minimal design to improve client performance on low end hardware
 # Requirements
 ## Constraints
 
@@ -52,3 +60,4 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | NFR5 |                  |                                                                                       |
 | NFR6 |                  |                                                                                       |
 | NFR7 |                  |                                                                                       |
+# 
