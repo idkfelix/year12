@@ -79,34 +79,40 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | NFR3 | No downtime             | The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades        |
 | NFR4 | Backwards compatability | New versions of Notelass should not break the functionality of existing notes and should allow for continuous use |
 | NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
+## Data Flow Diagram
+```mermaid
+sequenceDiagram
+    server
+
+```
 # Use Cases
+## Requirements
 
 | ID  | Use Case                 | Notes                                                                                                    |
 | --- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
 | UC1 | Create new Note          | User creates a note for a class at school and saves content they have documented throughout class        |
 | UC2 | Editing Note             | User edits a notes previously created content to add extra information before saving once again          |
 | UC3 | AI Practice SAC question | A user selects a topic from one of their subjects and generates a practice SAC question from their notes |
-
+## Diagrams
 ```mermaid
 ---
 title: Create New Note (UC1)
 ---
-flowchart  
-direction LR  
+flowchart LR
 	server[(Notelass)]
 	user((End User))
 	compass{{Compass API}}
 	
 	user -- Create Note --> server
 	server -- Note Editor Interface --> user
+	server -- Endcode Blob --> server
 	server -- Save Note --> compass
 ```
 ```mermaid
 ---
 title: Editing Note (UC2)
 ---
-flowchart  
-direction LR  
+flowchart LR
 	server[(Notelass)]
 	user((End User))
 	compass{{Compass API}}
@@ -122,8 +128,7 @@ direction LR
 ---
 title: Create New Note (UC1)
 ---
-flowchart  
-direction LR  
+flowchart LR  
 	server[(Notelass)]
 	user((End User))
 	compass{{Compass API}}
@@ -132,5 +137,8 @@ direction LR
 	user -- Generate Summary --> server
 	server -- Fetch Notes of Subject --> compass
 	compass -- Note Blobs --> server
-	server -- AI
+	server -- Decode Blobs --> server
+	server -- AI prompt with data --> ai
+	ai -- Summary --> server
+	server -- Summary --> user
 ```
