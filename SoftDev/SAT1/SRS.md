@@ -86,9 +86,51 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | UC1 | Create new Note          | User creates a note for a class at school and saves content they have documented throughout class        |
 | UC2 | Editing Note             | User edits a notes previously created content to add extra information before saving once again          |
 | UC3 | AI Practice SAC question | A user selects a topic from one of their subjects and generates a practice SAC question from their notes |
+
 ```mermaid
+---
+title: Create New Note (UC1)
+---
 flowchart  
 direction LR  
-	start[(Notelass)]
-	user((End User)) -- Create Note --> start
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	
+	user -- Create Note --> server
+	server -- Note Editor Interface --> user
+	server -- Save Note --> compass
+```
+```mermaid
+---
+title: Editing Note (UC2)
+---
+flowchart  
+direction LR  
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	
+	user -- Open Note --> server
+	server -- Fetch Note with ID --> compass
+	compass -- Note Blob --> server
+	server -- Decode and Render Blob --> server
+	server -- Note Editor Interface --> user
+	server -- Save Note --> compass
+```
+```mermaid
+---
+title: Create New Note (UC1)
+---
+flowchart  
+direction LR  
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	ai[[Open AI]]
+	
+	user -- Generate Summary --> server
+	server -- Fetch Notes of Subject --> compass
+	compass -- Note Blobs --> server
+	server -- AI
 ```

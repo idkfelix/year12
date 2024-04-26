@@ -89,8 +89,17 @@
                 "file": "SoftDev/SAT1/SRS.md"
               }
             }
+          },
+          {
+            "id": "04e98ce47ef9acb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
