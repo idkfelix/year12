@@ -79,7 +79,7 @@ Notelass will operate with a modern JavaScript framework and serverless function
 | NFR3 | No downtime             | The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades        |
 | NFR4 | Backwards compatability | New versions of Notelass should not break the functionality of existing notes and should allow for continuous use |
 | NFR5 | Quick navigation        | A user should not require more than 5 clicks to find any of their notes throughout the app                        |
-## Data Flow Diagram
+## Data Flow and Context Diagram
 ```mermaid
 sequenceDiagram
     participant server as Notelass
@@ -96,7 +96,11 @@ sequenceDiagram
 	opt New Session
 	user ->> server: Load Homepage
 	server ->> server: Decode JWT Data
-	server ->> compass 
+	server ->> compass: Fetch Notes
+	server ->> compass: Fetch Tasks
+	server ->> compass: Fetch Classes
+	server ->> server: Generate Frontend
+	server ->> user: Rendered App
 	end
 
 	opt Create Note
@@ -104,6 +108,18 @@ sequenceDiagram
 	server ->> compass: Fetch Lesson Plan
 	server ->> user: Note Editor and Lesson Plan
 	end
+
+	opt Open Note
+	user ->> server: Open Existing Note
+	server ->> compass: Fetch Note Blob By ID
+	server ->> compass: Fetch Lesson ID From Blob Meta Data
+	server ->> server: Decode Blob
+	server ->> user: Note Editor and Lesson Plan
+	end
+
+	opt Save Note
+	user ->> server: Save Edited Note
+	server ->> server: G
 ```
 # Use Cases
 ## Requirements
