@@ -37,3 +37,7 @@
 - Drawings of inventory worth $250 had been recorded as inventory used for advertising (Memo 20)
 - $449 paid for electricity plus GST was incorrectly recorded as Wages (Memo 21)
 ![[Pasted image 20240319205834.png]]
+# Inventory Entries
+## Write-down
+![[Pasted image 20240429091909.png]]
+![[Pasted image 20240429091952.png]]

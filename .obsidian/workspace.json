@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT1/SRS.md",
+                "file": "Accounting/General Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/SRS.md"
+                "file": "Accounting/General Journal.md"
               }
             }
           },
@@ -116,10 +117,16 @@
   },
   "active": "3415b0645549f9cc",
   "lastOpenFiles": [
+    "Accounting/attachments/Pasted image 20240429091952.png",
+    "Accounting/General Ledger.md",
+    "Accounting/General Journal.md",
+    "Accounting/Inventory.md",
+    "Accounting/attachments/Pasted image 20240429091909.png",
+    "conflict-files-obsidian-git.md",
+    "Media/Video Essay/Bibliography.md",
+    "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/resources/SRS.pdf",
     "SoftDev/SAT1/Ideas.md",
-    "SoftDev/SAT1/SRS.md",
-    "conflict-files-obsidian-git.md",
     "Media/Video Essay/Script.md",
     "Maths/Data Analysis.md",
     "English/Practice SACs/Listen (Mardi Gras).md",
@@ -134,9 +141,6 @@
     "Accounting/review questions/CH8.md",
     "Accounting/review questions",
     "English/Analytical Response.md",
-    "Accounting/Inventory.md",
-    "Accounting/General Ledger.md",
-    "Accounting/General Journal.md",
     "English/Practice SACs/BaC Analytical.md",
     "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAC1/SAC1-Images.pdf",
@@ -147,12 +151,10 @@
     "SoftDev/SAC2/code/test.html",
     "SoftDev/SAC1/code",
     "SoftDev/SAC2/code",
-    "English/Born A Crime/Born_a_Crime.pdf",
     "English/Born A Crime/Part II Questions.md",
     "English/Untitled.md",
     "Media/Video Essay/Terminology.md",
     "Maths/Recursion & Financial.md",
-    "Maths/Financial Recursion.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
@@ -160,7 +162,6 @@
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 1 1.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h17m29s688 1.png",
-    "VSV-SoftDev/Attachments/Pasted image 20240207094240.png",
-    "SAT1/compass-api/docs/fonts/OpenSans-Regular-webfont.svg"
+    "VSV-SoftDev/Attachments/Pasted image 20240207094240.png"
   ]
 }
