@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Video Essay/Script.md",
+                "file": "Media/Video Essay/Bibliography.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Video Essay/Script.md"
+                "file": "Media/Video Essay/Bibliography.md"
               }
             }
           }
@@ -107,8 +107,9 @@
   },
   "active": "ee01b057e6039539",
   "lastOpenFiles": [
-    "SoftDev/SAT1/SRS.md",
     "Media/Video Essay/Script.md",
+    "Media/Video Essay/Bibliography.md",
+    "SoftDev/SAT1/SRS.md",
     "Media/Video Essay/Terminology.md",
     "README.md",
     "Maths/Data Analysis.md",
@@ -143,7 +144,6 @@
     "English/Untitled.md",
     "Maths/Recursion & Financial.md",
     "Maths/Financial Recursion.md",
-    "Accounting/Accounts Turn Over.md",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
