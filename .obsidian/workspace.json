@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Video Essay/Bibliography.md",
+                "file": "Media/Video Essay/Script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Video Essay/Bibliography.md"
+                "file": "Media/Video Essay/Script.md"
               }
             }
           }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,8 +106,8 @@
   },
   "active": "ee01b057e6039539",
   "lastOpenFiles": [
-    "Media/Video Essay/Script.md",
     "Media/Video Essay/Bibliography.md",
+    "Media/Video Essay/Script.md",
     "SoftDev/SAT1/SRS.md",
     "Media/Video Essay/Terminology.md",
     "README.md",

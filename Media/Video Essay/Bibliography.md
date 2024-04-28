@@ -10,6 +10,10 @@ _Get out_ (no date) _Rotten Tomatoes_.
 Available at: https://www.rottentomatoes.com/m/get_out
 (Accessed: 28 April 2024).
 
+_‘get out’ wins Best original screenplay_ (2018) _YouTube_. 
+Available at: https://www.youtube.com/watch?v=kExKwBLdFzc&t=6s 
+(Accessed: 28 April 2024).
+
 _Get out interview with Jordan Peele_ (2017) _YouTube_. 
 Available at: https://www.youtube.com/watch?v=5an4Juy7Lp4 
 (Accessed: 28 April 2024).
