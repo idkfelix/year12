@@ -45,8 +45,8 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | AI notes summary  | 3              |
 | WYSIWYG editor    | 4              |
 | Markdown Support  | 5              |
-| LaTeX S           |                |
-
+| LaTeX Support     | 4              |
+| Revision tools    | 5              |
 # Project Scope
 ## Includes
 - Note taking page
