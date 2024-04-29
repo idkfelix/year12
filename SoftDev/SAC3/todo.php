@@ -4,13 +4,6 @@
         $task = $_POST['todo'] . PHP_EOL;
         file_put_contents('todo.csv', $task, FILE_APPEND);
     }
-    if (isset($_POST['delete'])) {
-        $tasks = file('todo.csv');
-        $updatedTasks = array_filter($tasks, function($task) {
-            return trim($task) !== $_POST['delete'];
-        });
-        file_put_contents('todo.csv', implode('', $updatedTasks));
-    }
     header('Location: ' . $_SERVER['REQUEST_URI']);
     exit;
   }
@@ -21,7 +14,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Todo Referance</title>
+  <title>Todo App/title>
 </head>
 <body>
   <form method="post" action="/">
@@ -35,7 +28,9 @@
     foreach ($todos as $todo) {
       $todo = trim($todo);
       echo <<<EOL
-        $todo
+        <li>
+          $todo
+        </li>
       EOL;
     }
     ?>
