@@ -6,6 +6,9 @@
   <title>Document</title>
 </head>
 <body>
-  hello world
+  <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
+    <input type="text">
+    <input type="button" value="Create">
+  </form>
 </body>
 </html>
