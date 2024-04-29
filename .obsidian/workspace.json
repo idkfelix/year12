@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Net Realisable Value.md",
+                "file": "Accounting/General Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e01728dd3c07478b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Net Realisable Value.md"
+                "file": "Accounting/General Journal.md"
               }
             }
           },
@@ -103,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,16 +117,16 @@
   },
   "active": "6f38bac6222b3211",
   "lastOpenFiles": [
-    "Accounting/Accounts Turnover.md",
+    "Accounting/General Ledger.md",
     "Accounting/Net Realisable Value.md",
+    "SoftDev/SAT1/SRS.md",
+    "Accounting/Accounts Turnover.md",
     "Accounting/General Journal.md",
     "Accounting/attachments/Pasted image 20240429091952.png",
-    "Accounting/General Ledger.md",
     "Accounting/Inventory.md",
     "Accounting/attachments/Pasted image 20240429091909.png",
     "conflict-files-obsidian-git.md",
     "Media/Video Essay/Bibliography.md",
-    "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/resources/SRS.pdf",
     "SoftDev/SAT1/Ideas.md",
     "Media/Video Essay/Script.md",

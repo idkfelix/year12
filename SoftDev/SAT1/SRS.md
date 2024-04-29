@@ -77,7 +77,7 @@ Notelass will operate with a modern JavaScript framework and serverless function
 	- Serverless functions for horizontal scalability and easy deployment
 - Compiled HTML/CSS/JS Svelte user interface
 	- Requests to Compass for data storage and retrieval 
-	- Minimal design to improve client performance on low end hardware
+	- Minimal design to improve client performance on low end hardwarep
 # Diagrams
 ```mermaid
 ---
