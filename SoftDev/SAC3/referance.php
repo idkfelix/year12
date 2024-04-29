@@ -11,6 +11,8 @@
         });
         file_put_contents('todo.csv', implode('', $updatedTasks));
     }
+    header('Location: ' . $_SERVER['REQUEST_URI']);
+    exit;
   }
 ?>
 
@@ -23,8 +25,20 @@
 </head>
 <body>
   <form method="post" action="/">
-    <input name="todo" type="text">
+    <input name="todo" type="text" required>
     <input type="button" value="Create">
   </form>
+
+  <ul>
+    <?php
+    $todos = file('todo.csv');
+    foreach ($todos as $todo) {
+      $todo = trim($todo);
+      echo <<<EOL
+        $todo
+      EOL;
+    }
+    ?>
+  </ul>
 </body>
 </html>
