@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3415b0645549f9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounting/Accounts Turnover.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f38bac6222b3211",
             "type": "leaf",
             "state": {
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
