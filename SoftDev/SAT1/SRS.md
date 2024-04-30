@@ -45,8 +45,8 @@ Notelass is primarily intended to be used by VCE students at Mullauna College as
 | AI notes summary  | 3              |
 | WYSIWYG editor    | 4              |
 | Markdown Support  | 5              |
-| LaTeX S           |                |
-
+| LaTeX Support     | 4              |
+| Revision tools    | 5              |
 # Project Scope
 ## Includes
 - Note taking page
@@ -77,7 +77,7 @@ Notelass will operate with a modern JavaScript framework and serverless function
 	- Serverless functions for horizontal scalability and easy deployment
 - Compiled HTML/CSS/JS Svelte user interface
 	- Requests to Compass for data storage and retrieval 
-	- Minimal design to improve client performance on low end hardware
+	- Minimal design to improve client performance on low end hardwarep
 # Diagrams
 ```mermaid
 ---
