@@ -1,59 +1,57 @@
-<?php 
-  function todoItem($id, $name){
-    ?>
-      <li id="<?=$id?>" class="btn">
-        <!-- Delete Form -->
-        <form method="post" class="gap-2" style="display:flex;">
-          <input name="id" type="hidden" value="<?=$id?>">
-          <input name="event" type="hidden" value="delete">
-          <input type="checkbox" onChange="this.form.submit()">
-          <p class="w-full mx-1"><?=$name?></p>
-          <button type="button" onClick="toggle('<?=$id?>')">Edit</button>
-        </form>
-        <!-- Edit Form -->
-        <form method="post" class="gap-2" style="display:none;">
-          <input name="id" type="hidden" value="<?=$id?>">
-          <input name="event" type="hidden" value="edit">
-          <input name="newName" type="text" value="<?=$name?>" class="textInput">
-          <input type="submit" value="Save Name">
-        </form>
-      </li>
-    <?php
-  }
-?>
-
-<main>
-  <!-- Create Form -->
-  <div class="container">
-    <h2>Create Todo</h2>
+<!-- Item Component -->
+<?php function Item($data){extract($data);?>
+  <li class="btn flex">
+    <!-- Delete BTN -->
     <form method="post">
-      <input name="event" type="hidden" value="create">
-      <input name="name" type="text" placeholder="Todo Name" class="textInput py-1 my-2">
-      <input type="submit" value="Create" class="btn">
+      <input name="event" value="del" type="hidden">
+      <input name="id" value="<?=$id?>" type="hidden">
+      <input value="X" type="submit" class="btn2">
     </form>
-  </div>
-  <!-- Todo List -->
-  <ul class="container">
-    <h2>Todos</h2>
-    <?php
-      $csv = new CSV($filePath);
-      $csv->read(function(&$row) {
-        todoItem($row['id'], $row['name']);
-      });
-    ?>
-  </ul>
-</main>
+    <!-- Details -->
+    <p class="mx-2"><?=$quantity?></p>
+    <p class="w-full"><?=$name?></p>
+    <p class="mx-2">$<?=$price*$quantity?></p>
+    <!-- Checkbox -->
+    <form method="post">
+      <input name="event" value="toggle" type="hidden">
+      <input name="id" value="<?=$id?>" type="hidden">
+      <input type="checkbox" <?=($checked=="yes")?"checked":""?> onChange="this.form.submit()">
+    </form>
+  </li>
+<?php }?>
 
-<script>
-  // Toggle Todo Item to Edit
-  function toggle(id) {
-    let item = document.getElementById(id)
-    if(item){
-      let forms = item.getElementsByTagName("form")
-      Array.from(forms).forEach(e => {
-        let d = e.style.display
-        e.style.display = ((d=="none")?"flex":"none")
-      })
-    }
-  }
-</script>
+<!-- Create Form -->
+<div class="container">
+  <h2>Add Item To List</h2>
+  <form method="post">
+    <input name="event" value="add" type="hidden">
+    <!-- Quantity And Product -->
+    <fieldset class="flex gap-2 my-2">
+      <input name="quantity" value="1" type="number" class="input w-12 !pr-0">
+      <select name="id" class="input py-1 w-full">
+      <!-- Product Options From CSV -->
+      <?php
+        $items = new CSV('items.csv');
+        $items->read(function($row) {
+          extract($row);?>
+          <option value="<?=$id?>"><?=$name?></option>
+          <?php
+        })
+      ?>
+      </select>
+    </fieldset>
+    <!-- Submit -->
+    <input type="submit" value="Add Item" class="btn">
+  </form>
+</div>
+
+<!-- List Items -->
+<ul class="container">
+  <h2>Shopping List</h2>
+  <?php 
+    $list = new CSV('list.csv');
+    $data = $list->read(function(&$row) {
+      Item($row);
+    });
+  ?>
+</ul>

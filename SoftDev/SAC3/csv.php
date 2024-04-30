@@ -9,31 +9,13 @@ class CSV {
   }
 
   /** 
-   * Read Records in CSV optionally running Function on each Row
-   * @param callable(mixed[]):void $rowFunc Function run on each row
-   * @return array{mixed} buffer of all rows
-   */
-  public function read($rowFunc = null){
-    $file = fopen($this->filePath, 'r');
-    $headers = fgetcsv($file);
-    for($buffer = []; ($row = fgetcsv($file)) !== FALSE; null) {
-      $aRow = array_combine($headers, $row);
-      $rowFunc($aRow);
-      $buffer[] = $aRow;
-    } 
-    return $buffer;
-  }
-
-  /** 
    * Append Record with UUID and Data to CSV file
    * Created headers from keys if missing
    * @param mixed[] $data Fields of the Record
-   * @param string|float $uuid ID / Primary Key for Record
    * @return void
    */
   public function append($data) {
     $file = fopen($this->filePath, 'a');
-    $data = ["id"=>uniqid(), ...$data];
     if (filesize($this->filePath) == 0) {
       fputcsv($file, array_keys($data));
     }
@@ -42,25 +24,49 @@ class CSV {
   }
 
   /** 
+   * Read Records from CSV optionally running Function on each Row
+   * @param callable(mixed[]):void $rowFunc Function run on each row
+   * @param boolean $useHead Append headers to start of buffer
+   * @return array{mixed} buffer of all rows
+   */
+  public function read($rowFunc = null, $useHead = false){
+    $file = fopen($this->filePath, 'r');
+    $buffer = [];
+    $headers = fgetcsv($file);
+    $useHead && $buffer[] = $headers;
+    while(($row = fgetcsv($file)) !== FALSE) {
+      $aRow = array_combine($headers, $row);
+      $rowFunc($aRow);
+      ($aRow !== null) && $buffer[] = $aRow;
+    } fclose($file);
+    return $buffer;
+  }
+
+  /** 
    * Find ID in CSV and mutate Record with callable argument
    * @param string $id ID of the targeted Record
    * @param callable(mixed[]):void $mutate Function to mutate the Record
    * @return void
    */
-  public function mutate($id, $mutate) {
-    $file = fopen($this->filePath, 'r+');
-    $headers = fgetcsv($file);
-    for($buffer = []; ($row = fgetcsv($file)) !== FALSE; null) {
-      $aRow = array_combine($headers, $row);
-      ($aRow["id"] == $id) && $mutate($aRow);
-      ($aRow !== null) && $buffer[] = $aRow;
-    }
-    rewind($file);
-    ftruncate($file, 0);
-    fputcsv($file, $headers);
+  public function mutate($id, $mutate) {    
+    $buffer = $this->read(function(&$row) use($id, $mutate) {
+      ($row["id"] == $id) && $mutate($row);
+    },true);
+    $file = fopen($this->filePath, 'w');
     foreach($buffer as $row) {
       fputcsv($file, $row); 
     } fclose($file);
+  }
+
+  /**
+   * Find Record in CSV File
+   * @param string $id ID Field of target Record
+   * @return mixed[] Target Record as Array
+   */
+  public function find($id) {
+    $this->read(function($row) use($id, &$record) {
+      ($row['id'] == $id) && $record = $row;
+    }); return $record;
   }
 
   /**
