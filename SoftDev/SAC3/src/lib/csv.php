@@ -29,14 +29,14 @@ class CSV {
    * @param boolean $useHead Append headers to start of buffer
    * @return array{mixed} buffer of all rows
    */
-  public function read($rowFunc = null, $useHead = false){
+  public function read($rowFunc = null, $useHead = false) {
     $file = fopen($this->filePath, 'r');
     $buffer = [];
     $headers = fgetcsv($file);
     $useHead && $buffer[] = $headers;
     while(($row = fgetcsv($file)) !== FALSE) {
       $aRow = array_combine($headers, $row);
-      $rowFunc($aRow);
+      $rowFunc && $rowFunc($aRow);
       ($aRow !== null) && $buffer[] = $aRow;
     } fclose($file);
     return $buffer;
