@@ -11,8 +11,13 @@
             "id": "1d4c4e5077c8dcc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English/Practice SACs/Harrison Bergeron (Commentary).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Practice SACs/Harrison Bergeron (Commentary).md"
+              }
             }
           }
         ]
@@ -91,5 +98,7 @@
     }
   },
   "active": "1d4c4e5077c8dcc6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "English/Practice SACs/Harrison Bergeron (Commentary).md"
+  ]
 }

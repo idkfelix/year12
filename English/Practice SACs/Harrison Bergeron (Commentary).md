@@ -1,0 +1,1 @@
+I chose to write "Harrison Bergeron", a dystopian fiction narrative, as a commentary and criticism on the dangers of communism by characterising a world in which everyone is equally disadvantaged by a dictatorial regime.

@@ -28,6 +28,7 @@
     <input type="submit" value="Create">
   </form>
   <ul>
+    <!-- Each Item Loop -->
     <?php foreach($items as $item):?>
       <?php extract($item); ?>
       <form action="/delete" method="post" style="display:list-item">
