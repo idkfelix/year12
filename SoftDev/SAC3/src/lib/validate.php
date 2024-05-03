@@ -10,8 +10,8 @@ class Validate {
 
   /**
    * Compare Form Data to Referance Fields and Types
-   * @param string[] $fields Array of Field => Expected Type
-   * @return void
+   * @param string[] $fields [Field => Expected Type]
+   * @return bool `true` if successful
    */
   public function fieldTypes($fields) {
     foreach($fields as $field => $type){
@@ -22,17 +22,34 @@ class Validate {
       }elseif(gettype($this->data[$field]) !== $type){
         throw new Exception("$field expected type $type");
       }
-    }
+    } return true;
   }
 
   /**
    * Validate Date String
-   * @param string $dateStr
-   * @return object Date Object
+   * @param string $dateField Date String to verify
+   * @return DateTime Date Object
    */
-  public function strDate($dateStr) {
-    if(!($date = date_create($dateStr))){
-      throw new Exception("\"$dateStr\" not a valid date");
+  public function strDate($dateField) {
+    if(!($date = date_create($this->data[$dateField]))){
+      throw new Exception("\"{$this->data[$dateField]}\" Invalid date provided");
     }; return $date;
+  }
+
+  /**
+   * Check if a given `DateTime` is within a specified range
+   * @param DateTime $date Date to check
+   * @param string $min Minimum date
+   * @param string $max Maximum date
+   * @return bool `true` if successful
+   */
+  public function dateRange($date, $min = null, $max = null) {
+    if(!$date instanceof DateTime){
+      throw new Exception("Invalid date provided.");
+    } elseif($min && $date <= date_create($min)){
+      throw new Exception("Date is less than \"$min\".");
+    } elseif($max && $date >= date_create($max)){
+      throw new Exception("Date is greater than \"$max\".");
+    } return true;
   }
 }

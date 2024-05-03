@@ -1,16 +1,16 @@
 <?php
 include_once('lib/csv.php');
 include_once('lib/validate.php');
+session_start();
 
-function handleReq() {
-  switch($_SERVER['REQUEST_METHOD']){
-    case 'POST':
-      handlePOST();
-      break;
-    default:
-      include('app.php');
-  };
-}
+switch($_SERVER['REQUEST_METHOD']){
+  case 'POST':
+    handlePOST();
+    break;
+    
+  default:
+    include('app.php');
+};
 
 function handlePOST() {
   try{
@@ -24,24 +24,28 @@ function handlePOST() {
           'name'=>'string',
           'date'=>'string'
         ]);
-        $val->strDate($data['date']);
+        $val->dateRange(
+          $val->strDate('date'),
+          'now'
+        );
         $csv->append([
           'id' => uniqid(),
           ...($data)
         ]);
-        
+        break;
+
       case '/delete':
         $val->fieldTypes([
           'id'=>'string'
         ]);
         $csv->remove($data['id']);
+        break;
     }
   } catch(Exception $e){
-    echo $e->getMessage();
+    $_SESSION['error'] = $e->getMessage();
   }
   
   /** Send Client Back To App*/
   header("Location: /");
+  exit;
 }
-
-handleReq();
