@@ -1,4 +1,5 @@
 <?php 
+  require_once('./lib/form.php');
   $csv = new CSV('./data/items.csv'); 
   $items = $csv->read(function(&$row){
     $date = date_create($row['date']);
@@ -19,43 +20,59 @@
       input { @apply px-2 rounded-sm }
       .btn { @apply bg-zinc-600 py-1 px-2 rounded-sm text-white font-semibold }
       .container { @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg }
+      .form {
+        label {
+          @apply flex flex-col;
+          input[type=submit]{ @apply btn mt-3 }
+        }
+      }
     </style>
   </head>
   <body>
-    <?=content($items)?>
+<!--=======================================================================================-->
+    <!-- Create Item Form -->
+    <form action="?create" method="post" class="container form">
+      <h2 class="mb-2 text-center">
+        Create Todo
+      </h2>
+      <!-- Form Fields -->
+      <?=Form::fields([
+        'Todo Name'=>[
+          'name'=>'data[name]',
+          'type'=>'text'
+        ],
+        'Due Date'=>[
+          'name'=>'data[date]',
+          'type'=>'date'
+        ],
+        null=>[
+          'value'=>'Create',
+          'type'=>'submit'
+        ]
+      ])?>
+      <!-- Show Error -->
+      <?php if(isset($_SESSION['error'])): ?>
+        <h3 class="mt-2 font-semibold text-lg">
+          Error: <?=$_SESSION['error']?>
+        </h3>
+      <?php unset($_SESSION['error']); endif ?>
+    </form>
+
+    <!-- Items -->
+    <div class="container mt-5 text-center gap-2">
+      <h2 class="mb-2">Todos</h2>
+      <!-- Each Item Loop -->
+      <?php foreach($items as $item):?>
+        <?php extract($item); ?>
+        <form action="?delete" method="post" class="flex gap-3 btn !rounded-md">
+          <span><?=$name?></span>
+          <span class="flex-grow text-right">
+            <?="Due in $days days"?>
+          </span>
+          <input type="checkbox" name="data[id]" value="<?=$id?>" onClick="this.form.submit()">
+        </form>
+      <?php endforeach?>
+    </div>
+<!--=======================================================================================-->
   </body>
 </html>
-
-<?php function content(array $items):void { ?>
-  <!-- Create Item Form -->
-  <form action="?create" method="post" class="container">
-    <h2 class="mb-2 text-center">Create Todo</h2>
-    <label for="name">Todo Name</label>
-    <input id="name" type="text" name="data[name]" placeholder="New Todo Name...">
-    <span>Due Date</span>
-    <input type="date" name="data[date]">
-    <input type="submit" value="Create" class="btn mt-3">
-    <!-- Render Error -->
-    <?php if(isset($_SESSION['error'])): ?>
-        <h2 class="mt-2 !text-lg">
-          Error: <?=$_SESSION['error']?>
-        </h2>
-    <?php unset($_SESSION['error']); endif ?>
-  </form>
-
-  <!-- Items -->
-  <div class="container mt-5 text-center gap-2">
-    <h2 class="mb-2">Todos</h2>
-    <!-- Each Item Loop -->
-    <?php foreach($items as $item):?>
-      <?php extract($item); ?>
-      <form action="?delete" method="post" class="flex gap-3 btn !rounded-md">
-        <span><?=$name?></span>
-        <span class="flex-grow text-right">
-          <?="Due in $days days"?>
-        </span>
-        <input type="checkbox" name="data[id]" value="<?=$id?>" onClick="this.form.submit()">
-      </form>
-    <?php endforeach?>
-  </div>
-<?php } ?>

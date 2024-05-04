@@ -1,6 +1,6 @@
 <?php
-require_once('lib/csv.php');
-require_once('lib/validate.php');
+require_once('./lib/csv.php');
+require_once('./lib/validate.php');
 session_start();
 
 // Classify Request Method
