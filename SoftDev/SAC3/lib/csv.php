@@ -3,10 +3,10 @@
 /** CSV Interface */
 class CSV {
   /** @var string */
-  private $filePath;
+  private string $filePath;
 
   /** @param string $filePath */
-  public function __construct($filePath) {
+  public function __construct(string $filePath) {
     $this->filePath = $filePath;
   }
 

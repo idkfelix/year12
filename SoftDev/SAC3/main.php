@@ -1,7 +1,9 @@
 <?php
-require_once('./lib/csv.php');
-require_once('./lib/validate.php');
+
 session_start();
+spl_autoload_register(function ($class) {
+  include "./lib/$class.php";
+});
 
 // Classify Request Method
 switch($_SERVER['REQUEST_METHOD']){

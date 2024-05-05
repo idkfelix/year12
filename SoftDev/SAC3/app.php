@@ -1,5 +1,4 @@
 <?php 
-  require_once('./lib/form.php');
   $csv = new CSV('./data/items.csv'); 
   $items = $csv->read(function(&$row){
     $date = date_create($row['date']);
@@ -15,15 +14,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
     <style type="text/tailwindcss">
-      body { @apply p-10 bg-zinc-800 }
-      h2 { @apply text-xl font-semibold }
-      input { @apply px-2 rounded-sm }
-      .btn { @apply bg-zinc-600 py-1 px-2 rounded-sm text-white font-semibold }
-      .container { @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg }
+      body { @apply p-10 bg-zinc-800; }
+      .item { @apply bg-zinc-600 py-1 px-2 rounded-md text-white font-semibold; }
+      .container {
+        @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg;
+        h2 { @apply text-xl font-semibold; }
+      }
       .form {
         label {
           @apply flex flex-col;
-          input[type=submit]{ @apply btn mt-3 }
+          input { @apply px-2 rounded-sm; }
+          input[type=submit] { @apply item mt-3; }
         }
       }
     </style>
@@ -64,7 +65,7 @@
       <!-- Each Item Loop -->
       <?php foreach($items as $item):?>
         <?php extract($item); ?>
-        <form action="?delete" method="post" class="flex gap-3 btn !rounded-md">
+        <form action="?delete" method="post" class="flex gap-3 item">
           <span><?=$name?></span>
           <span class="flex-grow text-right">
             <?="Due in $days days"?>
