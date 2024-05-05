@@ -26,7 +26,7 @@ class Form {
    * @return string Generated HTML Fields
    */
   public static function fields(array $fields):string {
-    self::$dom = self::$dom ?? new DOMDocument;
+    self::$dom = new DOMDocument;
     foreach($fields as $name=>$attr){
       $label = self::newElement('label');
       self::$dom->append($label);
@@ -34,6 +34,21 @@ class Form {
         self::newElement('span',$name),
         self::newElement('input',null,$attr)
       );
+    } return self::$dom->saveHTML();
+  }
+
+  /**
+   * Shows and Resets Error Message Variable
+   * @param ?string $error Error Message Variable
+   * @param string $tag HTML Tag to Wrap Message
+   * @return string Error Message HTML
+   */
+  public static function errorMsg(?string &$error, string $tag):string {
+    self::$dom = new DOMDocument;
+    if(isset($error) && !empty($error)){
+      $msg = self::newElement($tag,"Error: $error");
+      self::$dom->append($msg);
+      $error = null;
     } return self::$dom->saveHTML();
   }
 }

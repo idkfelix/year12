@@ -17,14 +17,16 @@
       body { @apply p-10 bg-zinc-800; }
       .item { @apply bg-zinc-600 py-1 px-2 rounded-md text-white font-semibold; }
       .container {
-        @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg;
-        h2 { @apply text-xl font-semibold; }
+        @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg gap-2;
+        h2 { @apply text-xl font-semibold text-center; }
+        h3 { @apply font-semibold text-lg; }
       }
       .form {
         label {
           @apply flex flex-col;
           input { @apply px-2 rounded-sm; }
-          input[type=submit] { @apply item mt-3; }
+          input:invalid { @apply outline outline-2 outline-red-600; }
+          input[type=submit] { @apply item mt-2; }
         }
       }
     </style>
@@ -33,10 +35,7 @@
 <!--=======================================================================================-->
     <!-- Create Item Form -->
     <form action="?create" method="post" class="container form">
-      <h2 class="mb-2 text-center">
-        Create Todo
-      </h2>
-      <!-- Form Fields -->
+      <h2>Create Todo</h2>
       <?=Form::fields([
         'Todo Name'=>[
           'name'=>'data[name]',
@@ -44,28 +43,27 @@
         ],
         'Due Date'=>[
           'name'=>'data[date]',
-          'type'=>'date'
+          'type'=>'date',
+          'min'=>date('Y-m-d')
         ],
         null=>[
           'value'=>'Create',
           'type'=>'submit'
         ]
       ])?>
-      <!-- Show Error -->
-      <?php if(isset($_SESSION['error'])): ?>
-        <h3 class="mt-2 font-semibold text-lg">
-          Error: <?=$_SESSION['error']?>
-        </h3>
-      <?php unset($_SESSION['error']); endif ?>
+      <?=Form::errorMsg(
+        $_SESSION['error'],
+        'h3'
+      )?>
     </form>
 
     <!-- Items -->
-    <div class="container mt-5 text-center gap-2">
-      <h2 class="mb-2">Todos</h2>
+    <div class="container mt-5">
+      <h2>Todos</h2>
       <!-- Each Item Loop -->
       <?php foreach($items as $item):?>
         <?php extract($item); ?>
-        <form action="?delete" method="post" class="flex gap-3 item">
+        <form action="?delete" method="post" class="item flex gap-3">
           <span><?=$name?></span>
           <span class="flex-grow text-right">
             <?="Due in $days days"?>
