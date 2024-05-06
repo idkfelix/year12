@@ -48,26 +48,15 @@ class Validate {
 
   /**
    * Check if a given `DateTime` is within a specified range
-   * @param string $date Date to check
+   * @param string $dateField `$this->data` Date string property
    * @param array<?string> $range Array of min and max dates
    */
-  public static function dateRange(string $date, ?array $range=[]):void {
-    $date = date_create($date);
+  public function dateRange(string $dateField, ?array $range=[]):void {
+    $date = date_create($this->data[$dateField]);
     if($range[0] && $date <= date_create($range[0])){
       throw new Exception("Date is less than '$range[0]'");
     } elseif($range[1] && $date >= date_create($range[1])){
       throw new Exception("Date is greater than '$range[1]'");
-    }
-  }
-
-  /**
-   * Check if Provided Passwords Match
-   * @param string $pass1 Password 1
-   * @param string $pass2 Password 2
-   */
-  public static function passMatch(string $pass1, string $pass2):void {
-    if($pass1 !== $pass2){
-      throw new Exception("Passwords do not match");
     }
   }
 }

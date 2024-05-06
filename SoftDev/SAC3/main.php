@@ -1,51 +1,44 @@
 <?php
-
 session_start();
-spl_autoload_register(function ($class) {
-  include "./lib/$class.php";
-});
+spl_autoload_register(fn($class)=>include_once("./lib/$class.php"));
+$csv = new CSV('./data/items.csv');
+$val = new Validate($_POST);
 
 // Classify Request Method
 switch($_SERVER['REQUEST_METHOD']){
   case 'POST':
     try {
-      $data = $_POST['data'];
-      $val = new Validate($data);
-      $csv = new CSV('./data/items.csv');
-      // Classify Request Query
       match($_SERVER['QUERY_STRING']){
         'create'=>handleCreate(),
         'delete'=>handleDelete(),
       };
     } catch(Exception $e){
-      // Set session error to display
       $_SESSION['error'] = $e->getMessage();
     }  
     // Send Client back to App
     header("Location: {$_SERVER['PHP_SELF']}");
     break;
-  // Route other Methods to App
   default:
-    include('app.php');
+    include_once('app.php');
 };
 
 /** Create New Item */
 function handleCreate(){
-  global $data, $csv, $val;
+  global $_POST, $csv, $val;
   $val->fieldRules([
     'name'=>'required|type:string',
     'date'=>'required|type:string|date',
   ]);
-  $val::dateRange($data['date'],['now',null]);
+  $val->dateRange('date',['now',null]);
   $csv->append([
     'id'=>uniqid(),
-    ...($data)
+    ...($_POST)
   ]); 
 }
 
 /** Delete Item with Id */
 function handleDelete(){
-  global $data, $csv, $val;
+  global $_POST, $csv, $val;
   $val->fieldRules(['id'=>'required|type:string']);
-  $csv->remove($data['id']);
+  $csv->remove($_POST['id']);
 }

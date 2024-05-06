@@ -3,7 +3,7 @@
 /** Form Builder */
 class Form {
   /** @var DOMDocument $dom */
-  protected static DOMDocument $dom;
+  public static DOMDocument $dom;
 
   /**
    * Create a DOMElement with attributes
@@ -12,8 +12,7 @@ class Form {
    * @param ?string[] $attributes Associative array of element attributes
    * @return DOMElement New HTML Element that can be appended to `self::$dom`
    */
-  private static function newElement(string $tag, ?string $value='', ?array $attributes=[]
-  ):DOMElement {
+  public static function newElement(string $tag, ?string $value='', ?array $attributes=[]):DOMElement {
     $e = self::$dom->createElement($tag, $value);
     foreach($attributes as $attr=>$value){
       $e->setAttribute($attr,$value);

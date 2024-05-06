@@ -4,19 +4,19 @@
     <title>Todo App</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style><?=include_once('./style/dist.css')?></style>
+    <link rel="stylesheet" type="text/css" href="style/dist.css">
   </head>
-  <body>
+  <body class="p-10 antialiased text-center text-white bg-zinc-800">
     <!-- Create Item Form -->
-    <form action="?create" method="post" class="container form">
+    <form action="?create" method="post" class="mx-auto section form">
       <h2>Create Todo</h2>
       <?=Form::fields([
         'Todo Name'=>[
-          'name'=>'data[name]',
-          'type'=>'email'
+          'name'=>'name',
+          'type'=>'text'
         ],
         'Due Date'=>[
-          'name'=>'data[date]',
+          'name'=>'date',
           'type'=>'date',
           'min'=>date('Y-m-d')
         ],
@@ -25,30 +25,21 @@
           'type'=>'submit'
         ]
       ])?>
-      <?=Form::errorMsg(
-        $_SESSION['error'],
-        'h3'
-      )?>
+      <?=Form::errorMsg($_SESSION['error'],'h3')?>
     </form>
 
-    <!-- Items -->
-    <div class="container list">
+    <!-- Items List -->
+    <div class="mx-auto my-5 section list">
       <h2>Todos</h2>
-      <!-- Get Items as Array -->
-      <?php   
-        $csv = new CSV('./data/items.csv'); 
-        $items = $csv->read();
-      ?>
-      <!-- Each Item Loop -->
-      <?php foreach($items as $item):?>
+      <?php foreach($csv->read() as $item):?>
         <?php extract($item); ?>
-        <?php $days = date_diff(date_create(),date_create($date))->d;?>
-        <form action="?delete" method="post" class="">
+        <?php $days = date_diff(new DateTime, date_create($date))->d;?>
+        <form action="?delete" method="post">
           <span><?=$name?></span>
           <span class="flex-grow text-right">
             <?="Due in $days days"?>
           </span>
-          <input type="checkbox" name="data[id]" value="<?=$id?>" onClick="this.form.submit()">
+          <input type="checkbox" name="id" value="<?=$id?>" onClick="this.form.submit()">
         </form>
       <?php endforeach?>
     </div>

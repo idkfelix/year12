@@ -1,2 +1,3 @@
 style/dist.css
-data/
+tailwind.config.js
+*.csv
