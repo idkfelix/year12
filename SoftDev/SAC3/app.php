@@ -1,45 +1,19 @@
-<?php 
-  $csv = new CSV('./data/items.csv'); 
-  $items = $csv->read(function(&$row){
-    $date = date_create($row['date']);
-    $row['days'] = ++date_diff(date_create(),$date)->d;
-  });
-?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Todo App</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style type="text/tailwindcss">
-      body { @apply p-10 bg-zinc-800; }
-      .item { @apply bg-zinc-600 py-1 px-2 rounded-md text-white font-semibold; }
-      .container {
-        @apply w-96 mx-auto p-4 bg-zinc-200 rounded-md flex flex-col outline outline-zinc-600 shadow-lg gap-2;
-        h2 { @apply text-xl font-semibold text-center; }
-        h3 { @apply font-semibold text-lg; }
-      }
-      .form {
-        label {
-          @apply flex flex-col;
-          input { @apply px-2 rounded-sm; }
-          input:invalid { @apply outline outline-2 outline-red-600; }
-          input[type=submit] { @apply item mt-2; }
-        }
-      }
-    </style>
+    <style><?=include_once('./style/dist.css')?></style>
   </head>
   <body>
-<!--=======================================================================================-->
     <!-- Create Item Form -->
     <form action="?create" method="post" class="container form">
       <h2>Create Todo</h2>
       <?=Form::fields([
         'Todo Name'=>[
           'name'=>'data[name]',
-          'type'=>'text'
+          'type'=>'email'
         ],
         'Due Date'=>[
           'name'=>'data[date]',
@@ -58,12 +32,18 @@
     </form>
 
     <!-- Items -->
-    <div class="container mt-5">
+    <div class="container list">
       <h2>Todos</h2>
+      <!-- Get Items as Array -->
+      <?php   
+        $csv = new CSV('./data/items.csv'); 
+        $items = $csv->read();
+      ?>
       <!-- Each Item Loop -->
       <?php foreach($items as $item):?>
         <?php extract($item); ?>
-        <form action="?delete" method="post" class="item flex gap-3">
+        <?php $days = date_diff(date_create(),date_create($date))->d;?>
+        <form action="?delete" method="post" class="">
           <span><?=$name?></span>
           <span class="flex-grow text-right">
             <?="Due in $days days"?>
@@ -72,6 +52,5 @@
         </form>
       <?php endforeach?>
     </div>
-<!--=======================================================================================-->
   </body>
 </html>

@@ -23,6 +23,7 @@ class Form {
   /**
    * Generate Form Fields from an Array
    * @param string[][] $fields Array of Field Labels and Attributes
+   * @param ?string[] $attr Attributes for each Field Label
    * @return string Generated HTML Fields
    */
   public static function fields(array $fields):string {
