@@ -9,7 +9,7 @@
   <body>
     
     <!-- Create Item Form -->
-    <form action="?create" method="post" class="mx-auto section form">
+    <form action="?create" method="post" class="section form mx-auto">
       <h2>Create Todo</h2>
       <!-- Form Fields -->
       <?=Form::fields([
@@ -35,7 +35,7 @@
     </form>
     
     <!-- Items List -->
-    <div class="mx-auto my-5 section list">
+    <div class="section list mx-auto my-5">
       <h2>Todos</h2>
       <?php foreach($csv->read() as $item):?>
         <?php extract($item); ?>
