@@ -1,7 +1,7 @@
 ## Median Smoothing
 - $x = \text{middle point of range around current data}$ 
 	- $x=3$  with a smoothing of $5$ includes one data either side $2,3,4$
-- 
+- $y=\text{value of middle y value in range}$
 
 ## Seasonal Smoothing
 - Smooths any reoccurring change each year
