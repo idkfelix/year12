@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Data Smoothing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Maths/Data Smoothing.md"
               }
             }
           }
@@ -99,6 +99,8 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
+    "README.md",
+    "Maths/Data Smoothing.md",
     "English/Analytical Response.md",
     "SoftDev/SAC3/src/lib/validate.php",
     "SoftDev/SAC3/src/lib/csv.php",
