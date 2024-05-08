@@ -14,14 +14,11 @@ $val = new Validate($_POST);
  */
 function handleCreate(array $data):void {
   global $csv, $val;
-  // Verify Fields
   $val->fieldRules([
     'name'=>'required|type:string',
     'date'=>'required|type:string|date',
   ]);
-  // Verify Date Range
   $val->dateRange('date',['now',null]);
-  // Create Item
   $csv->append([
     'id'=>uniqid(),
     ...($data)
@@ -34,11 +31,9 @@ function handleCreate(array $data):void {
  */
 function handleDelete(array $data):void {
   global $csv, $val;
-  // Verify Fields
   $val->fieldRules([
     'id'=>'required|type:string'
   ]);
-  // Delete Item
   $csv->remove($data['id']);
 }
 

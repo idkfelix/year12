@@ -4,7 +4,7 @@
     <title>Todo App</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style/dist.css">
+    <link rel="stylesheet" type="text/css" href="/style/dist.css">
   </head>
   <body>
     
@@ -42,11 +42,15 @@
         <?php $days = date_diff(new DateTime, date_create($date))->d;?>
         <!-- Item -->
         <form action="?delete" method="post">
-          <span><?=$name?></span>
+          <span class="text-left">
+            <?=$name?>
+          </span>
           <span class="flex-grow text-right">
             <?="Due in $days days"?>
           </span>
-          <input type="checkbox" name="id" value="<?=$id?>" onClick="this.form.submit()">
+          <input type="checkbox" name="id" value="<?=$id?>" 
+            onClick="this.form.submit()"
+          >
         </form>
         <!-- /Item -->
       <?php endforeach?>

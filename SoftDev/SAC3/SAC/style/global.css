@@ -15,6 +15,9 @@
   }
   .form>label {
     @apply flex flex-col gap-1 font-semibold text-left;
+    &>select {
+      @apply px-2 py-1 font-medium text-black rounded-sm focus:outline-0;
+    }
     &>input {
       @apply px-2 font-medium text-black rounded-sm focus:outline-0;
       &:not(:focus):invalid { @apply ring-1 ring-red-600; }
@@ -26,9 +29,8 @@
   }
   .list>form {
     @apply flex gap-3 px-2 py-1 rounded-sm bg-zinc-700;
-    &>span {
-      @apply text-left;
-      &:nth-child(2){ @apply flex-grow text-right; }
-    }
+  }
+  .summary>span {
+    @apply text-left px-2 py-1 mt-1 text-white transition rounded-md bg-zinc-700
   }
 }
