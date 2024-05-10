@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/Outcome 3.md",
+                "file": "Maths/Data Smoothing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/SAT/Outcome 3.md"
+                "file": "Maths/Data Smoothing.md"
               }
             }
           }
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,8 +100,8 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "Maths/Data Analysis.md",
     "Media/SAT/Outcome 3.md",
+    "Maths/Data Analysis.md",
     "Media/SAT",
     "Maths/Data Smoothing.md",
     "Maths/Recursion & Financial.md",
