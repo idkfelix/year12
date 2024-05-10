@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -100,10 +98,11 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
+    "SoftDev/Unit3 Key Terms.md",
+    "Maths/Data Smoothing.md",
     "Media/SAT/Outcome 3.md",
     "Maths/Data Analysis.md",
     "Media/SAT",
-    "Maths/Data Smoothing.md",
     "Maths/Recursion & Financial.md",
     "README.md",
     "English/Analytical Response.md",
