@@ -1,0 +1,3 @@
+"Protest beyond the law is not a departure from democracy; its is absolutely essential to it", a quote from Howard Zima, embodies the events and effects of the 1978 Sydney Mardi Gras. The march, the first of its kind across the country, has become a historic event for not only the LGBTQ community, but all Australians as its promotion of protest in the face of authority has forever changed the way we view and protest for change in modern Australia.
+
+The 1978 Sydney Mardi Gras was a march and parade organised by the 

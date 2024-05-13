@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Smoothing.md",
+                "file": "English/Protests/Protest SAC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Smoothing.md"
+                "file": "English/Protests/Protest SAC.md"
               }
             }
           }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,21 +99,19 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "SoftDev/Unit3 Key Terms.md",
-    "Maths/Data Smoothing.md",
+    "English/Protests/Protest SAC.md",
+    "SoftDev/SAC3/SAC/style/global.css",
+    "SoftDev/SAC3/SAC/style/dist.css",
+    "SoftDev/SAC3/SAC/lib/Validate.php",
+    "SoftDev/SAC3/SAC/lib/Form.php",
+    "SoftDev/SAC3/SAC/lib/CSV.php",
+    "SoftDev/SAC3/SAC/data/Trial121212.csv",
+    "SoftDev/SAC3/SAC/data/Trial030411.csv",
+    "SoftDev/SAC3/SAC/style",
+    "SoftDev/SAC3/SAC/lib",
+    "SoftDev/SAC3/SAC/index.php",
     "Media/SAT/Outcome 3.md",
-    "Maths/Data Analysis.md",
-    "Media/SAT",
-    "Maths/Recursion & Financial.md",
-    "README.md",
-    "English/Analytical Response.md",
-    "SoftDev/SAC3/src/lib/validate.php",
-    "SoftDev/SAC3/src/lib/csv.php",
-    "SoftDev/SAC3/src/main.php",
-    "SoftDev/SAC3/src/lib",
-    "SoftDev/SAC3/src/app.php",
-    "SoftDev/SAC3/src",
-    "SoftDev/SAC3/data.csv",
+    "Maths/Data Smoothing.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
 }
