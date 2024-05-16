@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/Genre & Style.md",
+                "file": "Accounting/classwork/NPM & GPM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,30 +62,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
-    "children": [
-      {
-        "id": "2503d8d211717162",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85e5254876aa9d7b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Media/SAT/Genre & Style.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -100,8 +82,10 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "Media/SAT/Outcome 3.md",
     "Media/SAT/Genre & Style.md",
+    "Accounting/classwork/NPM & GPM.md",
+    "Accounting/classwork",
+    "Media/SAT/Outcome 3.md",
     "Maths/Data Smoothing.md",
     "SoftDev/SAC3/tailwind.config.js",
     "SoftDev/SAC3/style/dist.css",
@@ -118,7 +102,6 @@
     "SoftDev/SAC3/src/main.php",
     "SoftDev/SAC3/src/lib",
     "SoftDev/SAC3/src/app.php",
-    "SoftDev/SAC3/src",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
 }
