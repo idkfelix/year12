@@ -67,7 +67,24 @@
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "acb5728953cb37b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e7f0bda9f45d63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Accounting/classwork/NPM & GPM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
