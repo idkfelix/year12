@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>SRS</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="SRS"/><meta property="og:description" content="Notelass Project Description Notelass will be a tool for students at Mullauna College to efficiently and effectively take organised notes for their classes and provide revision ..."/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><meta name="description" content="Notelass Project Description Notelass will be a tool for students at Mullauna College to efficiently and effectively take organised notes for their classes and provide revision ..."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="SoftDev/SAT1/SRS"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h1 class="page-title"><a href="../..">Felix's Notes</a></h1><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabindex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabindex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="explorer desktop-only"><button type="button" id="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="true" data-tree="[{&quot;path&quot;:&quot;Accounting&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Accounting/review-questions&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Born-A-Crime&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Practice-SACs&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Protests&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Maths&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/notes&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/Production-Experiment&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/SAT&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/Video-Essay&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/SAT1&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week1&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week2&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week3&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week4&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week5&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week6&quot;,&quot;collapsed&quot;:true}]"><h1>Explorer</h1><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-content"><ul class="overflow" id="explorer-ul"><li><div class="folder-outer open"><ul style="padding-left:0;" class="content" data-folderul><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Accounting"><button class="folder-button"><span class="folder-title">Accounting</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Accounting"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Accounting/review-questions"><button class="folder-button"><span class="folder-title">review questions</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Accounting/review-questions"><li><a href="../../Accounting/review-questions/CH8" data-for="Accounting/review-questions/CH8">CH8</a></li></ul></div></li><li><a href="../../Accounting/Accounts-Turnover" data-for="Accounting/Accounts-Turnover">Accounts Turnover</a></li><li><a href="../../Accounting/Balance-Sheet" data-for="Accounting/Balance-Sheet">Balance Sheet</a></li><li><a href="../../Accounting/General-Journal" data-for="Accounting/General-Journal">General Journal</a></li><li><a href="../../Accounting/General-Ledger" data-for="Accounting/General-Ledger">General Ledger</a></li><li><a href="../../Accounting/Inventory" data-for="Accounting/Inventory">Inventory</a></li><li><a href="../../Accounting/Net-Realisable-Value" data-for="Accounting/Net-Realisable-Value">Net Realisable Value</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English"><button class="folder-button"><span class="folder-title">English</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Born-A-Crime"><button class="folder-button"><span class="folder-title">Born A Crime</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Born-A-Crime"><li><a href="../../English/Born-A-Crime/Part-II-Questions" data-for="English/Born-A-Crime/Part-II-Questions">Part II Questions</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Practice-SACs"><button class="folder-button"><span class="folder-title">Practice SACs</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Practice-SACs"><li><a href="../../English/Practice-SACs/BaC-Analytical" data-for="English/Practice-SACs/BaC-Analytical">BaC Analytical</a></li><li><a href="../../English/Practice-SACs/Harrison-Bergeron-(Commentary)" data-for="English/Practice-SACs/Harrison-Bergeron-(Commentary)">Harrison Bergeron (Commentary)</a></li><li><a href="../../English/Practice-SACs/Listen-(Mardi-Gras)" data-for="English/Practice-SACs/Listen-(Mardi-Gras)">Listen (Mardi Gras)</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Protests"><button class="folder-button"><span class="folder-title">Protests</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Protests"><li><a href="../../English/Protests/Hong-Kong-Umbrellas" data-for="English/Protests/Hong-Kong-Umbrellas">Hong Kong Umbrellas</a></li><li><a href="../../English/Protests/Speak-Truth-To-Power" data-for="English/Protests/Speak-Truth-To-Power">Speak Truth To Power</a></li></ul></div></li><li><a href="../../English/Analytical-Response" data-for="English/Analytical-Response">Analytical Response</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Maths"><button class="folder-button"><span class="folder-title">Maths</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Maths"><li><a href="../../Maths/Data-Analysis" data-for="Maths/Data-Analysis">Data Analysis</a></li><li><a href="../../Maths/Data-Smoothing" data-for="Maths/Data-Smoothing">Data Smoothing</a></li><li><a href="../../Maths/Recursion--and--Financial" data-for="Maths/Recursion--and--Financial">Recursion &amp; Financial</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media"><button class="folder-button"><span class="folder-title">Media</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/notes"><button class="folder-button"><span class="folder-title">notes</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/notes"><li><a href="../../Media/notes/21-2-24" data-for="Media/notes/21-2-24">21-2-24</a></li><li><a href="../../Media/notes/29-2-24" data-for="Media/notes/29-2-24">29-2-24</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/Production-Experiment"><button class="folder-button"><span class="folder-title">Production Experiment</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/Production-Experiment"><li><a href="../../Media/Production-Experiment/Production-Experiment-1" data-for="Media/Production-Experiment/Production-Experiment-1">Production Experiment 1</a></li><li><a href="../../Media/Production-Experiment/Production-Experiment-2" data-for="Media/Production-Experiment/Production-Experiment-2">Production Experiment 2</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/SAT"><button class="folder-button"><span class="folder-title">SAT</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/SAT"><li><a href="../../Media/SAT/Outcome-3" data-for="Media/SAT/Outcome-3">Outcome 3</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/Video-Essay"><button class="folder-button"><span class="folder-title">Video Essay</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/Video-Essay"><li><a href="../../Media/Video-Essay/Bibliography" data-for="Media/Video-Essay/Bibliography">Bibliography</a></li><li><a href="../../Media/Video-Essay/Script" data-for="Media/Video-Essay/Script">Script</a></li><li><a href="../../Media/Video-Essay/Terminology" data-for="Media/Video-Essay/Terminology">Terminology</a></li></ul></div></li></ul></div></li><li><div class="folder-outer "><ul style="padding-left:0;" class="content" data-folderul></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev"><button class="folder-button"><span class="folder-title">SoftDev</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/SAT1"><button class="folder-button"><span class="folder-title">SAT1</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/SAT1"><li><a href="../../SoftDev/SAT1/Development-Model-Justification" data-for="SoftDev/SAT1/Development-Model-Justification">Development Model Justification</a></li><li><a href="../../SoftDev/SAT1/Ideas" data-for="SoftDev/SAT1/Ideas">Ideas</a></li><li><a href="../../SoftDev/SAT1/Project-Proposal" data-for="SoftDev/SAT1/Project-Proposal">Project Proposal</a></li><li><a href="../../SoftDev/SAT1/SRS" data-for="SoftDev/SAT1/SRS">SRS</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities"><button class="folder-button"><span class="folder-title">Weekly Activities</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3"><button class="folder-button"><span class="folder-title">Unit3</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week1"><button class="folder-button"><span class="folder-title">Week1</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week1"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week1/Week-1" data-for="SoftDev/Weekly-Activities/Unit3/Week1/Week-1">Week 1</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week2"><button class="folder-button"><span class="folder-title">Week2</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week2"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week2/Week-2" data-for="SoftDev/Weekly-Activities/Unit3/Week2/Week-2">Week 2</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week3"><button class="folder-button"><span class="folder-title">Week3</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week3"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week3/Week-3" data-for="SoftDev/Weekly-Activities/Unit3/Week3/Week-3">Week 3</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week4"><button class="folder-button"><span class="folder-title">Week4</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week4"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week4/Week-4" data-for="SoftDev/Weekly-Activities/Unit3/Week4/Week-4">Week 4</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week5"><button class="folder-button"><span class="folder-title">Week5</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week5"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week5/Week-5" data-for="SoftDev/Weekly-Activities/Unit3/Week5/Week-5">Week 5</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week6"><button class="folder-button"><span class="folder-title">Week6</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week6"><li><a href="../../SoftDev/Weekly-Activities/Unit3/Week6/Week-6" data-for="SoftDev/Weekly-Activities/Unit3/Week6/Week-6">Week 6</a></li></ul></div></li></ul></div></li></ul></div></li><li><a href="../../SoftDev/Unit3-Key-Terms" data-for="SoftDev/Unit3-Key-Terms">Unit3 Key Terms</a></li></ul></div></li></ul></div></li><li id="explorer-end"></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../SoftDev/">SoftDev</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../SoftDev/SAT1/">SAT1</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>SRS</a></div></nav><h1 class="article-title">SRS</h1><p show-comma="true" class="content-meta"><span>May 23, 2024</span><span>8 min read</span></p></div></div><article class="popover-hint"><h1 id="notelass">Notelass<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#notelass" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="project-description">Project Description<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#project-description" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Notelass will be a tool for students at Mullauna College to efficiently and effectively take organised notes for their classes and provide revision tools for students to retain and apply information from their notes. The solution will seamlessly integrate with the schools current online management software, Compass, this will allow students to attach notes to subjects and classes for easy organisation, view class resources within the tool to avoid context switching hindering the users train of thought and store all user generated data within Compass to ensure proper security.</p>
+<h1 id="client">Client<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#client" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="details">Details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Name: Joel Porter
+Position: System Admin
+Company: Mullauna College</p>
+<h2 id="needs">Needs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#needs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Currently Mullauna College has no standard system for note taking or revision, leaving students to implement their own systems or adopt various products not specifically designed for an education environment.</p>
+<p>Notelass will provide a standardised platform for students to take notes for their subjects by attaching notes to each class they take for easy organisation and retrieval. The tool will integrate emerging AI technologies to create revision and practice materials / tools for students to effectively apply and recall the information that they document within their notes.</p>
+<h2 id="end-user">End User<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#end-user" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Notelass is primarily intended to be used by VCE students at Mullauna College as they will gain the most value from the product, however its design will make it accessible to all students at the college.</p>
+<h1 id="data-collection">Data Collection<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-collection" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="methods">Methods<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#methods" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Collection Method</th><th>Target</th><th>Justification</th></tr></thead><tbody><tr><td>Interview</td><td>Joel Porter</td><td>In person interview with the client to understand their needs, requirements and scope of the project</td></tr><tr><td>Survey</td><td>End Users</td><td>Survey of end users to find popular feature requests for the project and needs of the end user</td></tr></tbody></table></div>
+<h2 id="interview-notes">Interview Notes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#interview-notes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<pre><code>- Storing all data in compass
+- notes editor
+- upcoming learning tasks
+	- progress check
+	- keeping on top of tasks
+	- comments on progress
+- extracting tasks from lesson plans
+- linking notes to activity and lesson
+- tagging notes with topics
+- viewing lesson plan
+- revision
+	- context to class notes, lesson plans and VCAA
+	- generate summaries from users notes, topics and lesson plans
+	- ai to create flash cards, practice SAC questions and quiz (short answer and multiple choice), created from notes at different difficulties, (context to previous exams)
+</code></pre>
+<h2 id="feature-survey-results">Feature Survey Results<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#feature-survey-results" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Feature Requested</th><th>Count Requests</th></tr></thead><tbody><tr><td>AI notes summary</td><td>3</td></tr><tr><td>WYSIWYG editor</td><td>4</td></tr><tr><td>Markdown Support</td><td>5</td></tr><tr><td>LaTeX Support</td><td>4</td></tr><tr><td>Revision tools</td><td>5</td></tr></tbody></table></div>
+<h1 id="project-scope">Project Scope<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#project-scope" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="includes">Includes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#includes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Note taking page</li>
+<li>Note syntax validation</li>
+<li>Notes storage in Compass</li>
+<li>Categorisation and filtering of notes</li>
+<li>Compass lesson plan viewer</li>
+<li>Compass class resource downloads</li>
+<li>Compass learning task timeline</li>
+<li>Notes filtering</li>
+<li>AI home learning detection</li>
+<li>AI notes summary</li>
+<li>AI content quiz</li>
+<li>AI practice SAC questions</li>
+</ul>
+<h2 id="excludes">Excludes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#excludes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Compass task submission</li>
+<li>Compass news feed</li>
+<li>Compass discussions</li>
+<li>Compass emails</li>
+<li>AI revision with content not in notes</li>
+<li>AI notes summary with content not in notes</li>
+<li>Use of generative AI for classwork</li>
+</ul>
+<h2 id="operating-environment">Operating Environment<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#operating-environment" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Notelass will operate with a modern JavaScript framework and serverless functions to allow for cost free deployment on various third-party services.</p>
+<ul>
+<li>SvelteKit as a web framework
+<ul>
+<li>Svelte front end for simple static site generation</li>
+<li>JavaScript API functions to store, serve and manipulate data</li>
+<li>Serverless functions for horizontal scalability and easy deployment</li>
+</ul>
+</li>
+<li>Compiled HTML/CSS/JS Svelte user interface
+<ul>
+<li>Requests to Compass for data storage and retrieval</li>
+<li>Minimal design to improve client performance on low end hardwarep</li>
+</ul>
+</li>
+</ul>
+<h1 id="diagrams">Diagrams<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#diagrams" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<pre><code class="mermaid">---
+title: MVP
+---
+
+sequenceDiagram
+    participant server as Notelass
+    participant compass as Compass
+    actor user as End User
+
+	opt Login
+	user ->> server: Submit Login
+	server ->> compass: Check Authentication
+	server ->> server: Generate JWT
+	server ->> user: Set JWT Cookie
+	end
+
+	opt New Session
+	user ->> server: Load Homepage
+	server ->> server: Decode JWT Data
+	server ->> compass: Fetch Notes
+	server ->> compass: Fetch Tasks
+	server ->> compass: Fetch Classes
+	server ->> server: Generate Frontend
+	server ->> user: Rendered App
+	end
+
+	opt Create Note
+	user ->> server: Open Note on Class
+	server ->> compass: Fetch Lesson Plan
+	server ->> user: Note Editor and Lesson Plan
+	end
+
+	opt Open Note
+	user ->> server: Open Existing Note
+	server ->> compass: Fetch Note Blob By ID
+	server ->> compass: Fetch Lesson ID From Blob Meta Data
+	server ->> server: Decode Blob
+	server ->> user: Note Editor and Lesson Plan
+	end
+
+	opt Save Note
+	user ->> server: Save Edited Note
+	server ->> server: Gather Meta Data
+	server ->> server: Encode Note Blob
+	server ->> compass: Upload Note Blob
+	end
+</code></pre>
+<pre><code class="mermaid">---
+title: Extra
+---
+
+sequenceDiagram
+    participant server as Notelass
+    participant compass as Compass
+    participant ai as Open AI
+    actor user as End User
+
+	opt Notes Summary
+	user ->> server: Summary for Subject ID
+	server ->> compass: Fetch Notes Data with Subject ID
+	server ->> ai: Prompt Summary with Data
+	server ->> user: Display Generated Summary
+	end
+
+	opt Practice SAC Question
+	user ->> server: Summary for Topic in Subject
+	server ->> compass: Fetch Notes Data with Subject ID
+	server ->> ai: Prompt Question with Data and Topic
+	server ->> user: Display Generated SAC Question
+	end
+</code></pre>
+<h1 id="requirements">Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="constraints">Constraints<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#constraints" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>ID</th><th>Type</th><th>Notes</th></tr></thead><tbody><tr><td>PC1</td><td>Economic</td><td>Time available for the project is 24 weeks</td></tr><tr><td>PC2</td><td>Economic</td><td>Project should only utilise free products and services</td></tr><tr><td>PC3</td><td>Technical</td><td>Needs to be easy to deploy as an instance</td></tr><tr><td>PC4</td><td>Availability</td><td>Must run in a serverless enviroment</td></tr><tr><td>PC5</td><td>Legal</td><td>End User will have full control of their data</td></tr><tr><td>PC6</td><td>Technical</td><td>Runs without any errors or bugs</td></tr><tr><td>PC7</td><td>Social</td><td>Easy and Intuitive to use for a student</td></tr></tbody></table></div>
+<h2 id="functional">Functional<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#functional" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>ID</th><th>Requirement</th><th>Notes</th></tr></thead><tbody><tr><td>FR1</td><td>User can login with Compass</td><td>Login page makes request to Compass to authenticate details and returns user details in a JWT for further requests</td></tr><tr><td>FR2</td><td>Only authenticated users can access tools and data</td><td>JWT verification on all routes to only be used by authenticated users</td></tr><tr><td>FR3</td><td>Unauthorised users can access documentation</td><td>Open route for viewing documentation that allows unauthenticated users</td></tr><tr><td>FR4</td><td>Requests to compass API are authorised</td><td>Compass API requests are properly authenticated with data from the JWT without errors</td></tr><tr><td>FR5</td><td>Functional note editor with markdown and LaTeX</td><td>WYSIWYG editor works seamlessly live rendering of markdown syntax / LaTeX formulas and loading / exporting to plain text</td></tr><tr><td>FR6</td><td>Notes are stored in and retrieved from Compass</td><td>Exported notes are saved in Compass with appropriate metadata (subject, class and date) on the users account and all notes can be retrieved efficiently for viewing or further editing by the user</td></tr><tr><td>FR7</td><td>Class resources can be viewed</td><td>Class lesson plan and resources are fetched from the compass API for viewing by the user when editing notes</td></tr><tr><td>FR8</td><td>Notes can be filtered by subject, date and class</td><td>Notes overview page has filters for metadata that allows the user to refine displayed notes and search for subject, date and class</td></tr><tr><td>FR9</td><td>User can view upcoming tasks from Compass</td><td>Learning tasks for the user are fetched from Compass and are displayed in a timeline in addition to user defined tasks.<br/></td></tr><tr><td>FR10</td><td>Documentation is dynamically rendered</td><td>Documentation statically stored in markdown files on the server is rendered and displayed with the notes editor in the documentation route</td></tr><tr><td>FR11</td><td>Admin can optionally enable AI revision for users</td><td>As AI use requires a paid API key it should be be optionally enabled with environment variables, if disabled the routes and pages for revision tools will not be shown to users</td></tr></tbody></table></div>
+<h2 id="non-functional">Non-Functional<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#non-functional" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>ID</th><th>Requirement</th><th>Notes</th></tr></thead><tbody><tr><td>NFR1</td><td>Intuitive Design</td><td>90% of users will be able to create and retrieve a note without any prior instruction</td></tr><tr><td>NFR2</td><td>Accessible Themes</td><td>Users should have at least 3 different interface themes to choose from when using the website.</td></tr><tr><td>NFR3</td><td>No downtime</td><td>The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades</td></tr><tr><td>NFR4</td><td>Backwards compatability</td><td>New versions of Notelass should not break the functionality of existing notes and should allow for continuous use</td></tr><tr><td>NFR5</td><td>Quick navigation</td><td>A user should not require more than 5 clicks to find any of their notes throughout the app</td></tr></tbody></table></div>
+<h1 id="use-cases">Use Cases<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#use-cases" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="requirements-1">Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#requirements-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>ID</th><th>Use Case</th><th>Notes</th></tr></thead><tbody><tr><td>UC1</td><td>Create new Note</td><td>User creates a note for a class at school and saves content they have documented throughout class</td></tr><tr><td>UC2</td><td>Editing Note</td><td>User edits a notes previously created content to add extra information before saving once again</td></tr><tr><td>UC3</td><td>AI Practice SAC question</td><td>A user selects a topic from one of their subjects and generates a practice SAC question from their notes</td></tr></tbody></table></div>
+<h2 id="diagrams-1">Diagrams<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#diagrams-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<pre><code class="mermaid">---
+title: Create New Note (UC1)
+---
+flowchart LR
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	
+	user -- Create Note --> server
+	server -- Note Editor Interface --> user
+	server -- Endcode Blob --> server
+	server -- Save Note --> compass
+</code></pre>
+<pre><code class="mermaid">---
+title: Editing Note (UC2)
+---
+flowchart LR
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	
+	user -- Open Note --> server
+	server -- Fetch Note with ID --> compass
+	compass -- Note Blob --> server
+	server -- Decode and Render Blob --> server
+	server -- Note Editor Interface --> user
+	server -- Save Note --> compass
+</code></pre>
+<pre><code class="mermaid">---
+title: Create New Note (UC1)
+---
+flowchart LR  
+	server[(Notelass)]
+	user((End User))
+	compass{{Compass API}}
+	ai[[Open AI]]
+	
+	user -- Generate Summary --> server
+	server -- Fetch Notes of Subject --> compass
+	compass -- Note Blobs --> server
+	server -- Decode Blobs --> server
+	server -- AI prompt with data --> ai
+	ai -- Summary --> server
+	server -- Summary --> user
+</code></pre></article></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" id="toc" class><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#notelass" data-for="notelass">Notelass</a></li><li class="depth-1"><a href="#project-description" data-for="project-description">Project Description</a></li><li class="depth-0"><a href="#client" data-for="client">Client</a></li><li class="depth-1"><a href="#details" data-for="details">Details</a></li><li class="depth-1"><a href="#needs" data-for="needs">Needs</a></li><li class="depth-1"><a href="#end-user" data-for="end-user">End User</a></li><li class="depth-0"><a href="#data-collection" data-for="data-collection">Data Collection</a></li><li class="depth-1"><a href="#methods" data-for="methods">Methods</a></li><li class="depth-1"><a href="#interview-notes" data-for="interview-notes">Interview Notes</a></li><li class="depth-1"><a href="#feature-survey-results" data-for="feature-survey-results">Feature Survey Results</a></li><li class="depth-0"><a href="#project-scope" data-for="project-scope">Project Scope</a></li><li class="depth-1"><a href="#includes" data-for="includes">Includes</a></li><li class="depth-1"><a href="#excludes" data-for="excludes">Excludes</a></li><li class="depth-1"><a href="#operating-environment" data-for="operating-environment">Operating Environment</a></li><li class="depth-0"><a href="#diagrams" data-for="diagrams">Diagrams</a></li><li class="depth-0"><a href="#requirements" data-for="requirements">Requirements</a></li><li class="depth-1"><a href="#constraints" data-for="constraints">Constraints</a></li><li class="depth-1"><a href="#functional" data-for="functional">Functional</a></li><li class="depth-1"><a href="#non-functional" data-for="non-functional">Non-Functional</a></li><li class="depth-0"><a href="#use-cases" data-for="use-cases">Use Cases</a></li><li class="depth-1"><a href="#requirements-1" data-for="requirements-1">Requirements</a></li><li class="depth-1"><a href="#diagrams-1" data-for="diagrams-1">Diagrams</a></li></ul></div></div></div></div><footer class><hr/><p>Notes by Felix © 2024</p><ul></ul></footer></div></body><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+</script><script type="module">
+          let mermaidImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("code.mermaid")) {
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
+              const mermaid = mermaidImport.default
+              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+              mermaid.initialize({
+                startOnLoad: false,
+                securityLevel: 'loose',
+                theme: darkMode ? 'dark' : 'default'
+              })
+
+              await mermaid.run({
+                querySelector: '.mermaid'
+              })
+            }
+          });
+          </script><script src="../../postscript.js" type="module"></script></html>

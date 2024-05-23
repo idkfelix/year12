@@ -1,0 +1,36 @@
+/* npx tailwindcss -i style/global.css -o style/dist.css --content app.php --watch */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body { @apply p-10 antialiased text-center text-white bg-zinc-800; }
+}
+
+@layer components {
+  .section {
+    @apply flex flex-col gap-2 p-5 rounded-md shadow-md bg-zinc-600 w-96;
+    &>h2 { @apply text-xl font-bold; }
+    &>h3 { @apply text-lg font-semibold; }
+  }
+  .form>label {
+    @apply flex flex-col gap-1 font-semibold text-left;
+    &>select {
+      @apply px-2 py-1 font-medium text-black rounded-sm focus:outline-0;
+    }
+    &>input {
+      @apply px-2 font-medium text-black rounded-sm focus:outline-0;
+      &:not(:focus):invalid { @apply ring-1 ring-red-600; }
+      &[type=submit] { 
+        @apply py-1 mt-1 text-white transition rounded-md bg-zinc-700; 
+        &:hover { @apply scale-[1.01] shadow-md; }
+      }
+    }
+  }
+  .list>form {
+    @apply flex gap-3 px-2 py-1 rounded-sm bg-zinc-700;
+  }
+  .summary>span {
+    @apply text-left px-2 py-1 mt-1 text-white transition rounded-md bg-zinc-700
+  }
+}
