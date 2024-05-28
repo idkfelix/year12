@@ -1,4 +1,4 @@
-# Evaluation Criteria
+# Design Criteria
 | Description                                                                | Satisfactory |
 | -------------------------------------------------------------------------- | ------------ |
 | Login page design is minimal and intuitive with simple compass login form  |              |
@@ -48,7 +48,15 @@
 | App is not excessively verbose or complex for users                        | X            |
 # Final Design
 ## Mockup
-
 ![[Login.png]]![[Home.png]]![[Editor.png]]
 ## Components
 ![[Components.png]]
+## Data Dictionary
+![[Data-Diagram.png]]
+## Pseudocode
+```
+FUNCTION saveNote(content, lessonId, activityId)
+	
+END
+```
+# Development Criteria
