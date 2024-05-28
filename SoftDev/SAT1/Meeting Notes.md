@@ -1,8 +1,8 @@
-# Compass Notes
+# Ideas
 - login with compass account for authentication (single account philosophy)
 - view lesson plans, learning tasks, resources and schedule
-- WYSIWYG markdown editor https://beartocode.github.io/carta/examples
-- Link notes to lesson and class ID
+- WYSIWYG markdown editor
+- Link notes to lesson and activity ID
 - AI note summarization
 - Svelte frontend
 - Backend
@@ -21,14 +21,11 @@
 - Storing all data in compass
 - notes editor
 - upcoming learning tasks
-	- progress check
-	- keeping on top of tasks
 	- comments on progress
 - extracting tasks from lesson plans
 - linking notes to activity and lesson
 - tagging notes with topics
 - viewing lesson plan
 - revision
-	- context to class notes, lesson plans and VCAA
 	- generate summaries from users notes, topics and lesson plans
 	- ai to create flash cards, practice SAC questions and quiz (short answer and multiple choice), created from notes at different difficulties, (context to previous exams)

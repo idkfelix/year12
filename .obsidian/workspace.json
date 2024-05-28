@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT1/Design.md",
+                "file": "SoftDev/SAT1/Meeting Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/Design.md"
+                "file": "SoftDev/SAT1/Meeting Notes.md"
               }
             }
           }
@@ -100,11 +99,11 @@
   },
   "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
-    "SoftDev/SAT1/Ideas.md",
+    "SoftDev/SAT1/Design.md",
+    "SoftDev/SAT1/Meeting Notes.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
-    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
     "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
