@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -99,8 +98,19 @@
   },
   "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
-    "SoftDev/SAT1/Meeting Notes.md",
+    "SoftDev/SAT1/design/Alt.png",
     "SoftDev/SAT1/Design.md",
+    "SoftDev/SAT1/design/Home.png",
+    "SoftDev/SAT1/design/Alt.png.crdownload",
+    "SoftDev/SAT1/design/Editor.png",
+    "SoftDev/SAT1/design/Editor.png.crdownload",
+    "SoftDev/SAT1/design/Home.png.crdownload",
+    "SoftDev/SAT1/design/Login.png",
+    "SoftDev/SAT1/design/Login.png.crdownload",
+    "SoftDev/SAT1/design/Components.png",
+    "SoftDev/SAT1/Meeting Notes.md",
+    "SoftDev/SAT1/attachments/Notelass.pdf",
+    "SoftDev/SAT1/attachments",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
@@ -109,19 +119,13 @@
     "SoftDev/SAT1/pdfs/SRS.pdf",
     "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
     "SoftDev/SAT1/pdfs/Software Development Unit 3 - SAT Checklist.pdf",
-    "SoftDev/SAT1/Untitled",
-    "SoftDev/SAT1/gantt",
     "SoftDev/SAT1/design/notelass.svg",
     "Maths/Recursion & Financial.md",
     "conflict-files-obsidian-git.md",
     "Maths/Data Smoothing.md",
     "Maths/Data Analysis.md",
     "Media/SAT/Genre & Style.md",
-    "Accounting/classwork/Net Profit Margin.pdf",
     "Accounting/classwork/Net Profit Margin.md",
-    "Accounting/classwork",
-    "SoftDev/SAC3/SAC/style/global.css",
-    "SoftDev/SAC3/SAC/style/dist.css",
     "Media/SAT/Outcome 3.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
