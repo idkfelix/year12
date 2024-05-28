@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Recursion & Financial.md",
+                "file": "SoftDev/SAT1/Development Model Justification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1de05c0f64228eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoftDev/SAT1/Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Recursion & Financial.md"
+                "file": "SoftDev/SAT1/Design.md"
               }
             }
           }
@@ -111,10 +124,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f10c6740259b5e2",
+  "active": "f1de05c0f64228eb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
+    "SoftDev/SAT1/SRS.md",
+    "SoftDev/SAT1/Ideas.md",
+    "SoftDev/SAT1/pdfs/SRS.pdf",
+    "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
+    "SoftDev/SAT1/Development Model Justification.md",
+    "SoftDev/SAT1/Design.md",
+    "SoftDev/SAT1/pdfs/Software Development Unit 3 - SAT Checklist.pdf",
+    "SoftDev/SAT1/Untitled",
+    "SoftDev/SAT1/gantt",
+    "SoftDev/SAT1/design/notelass.svg",
     "Maths/Recursion & Financial.md",
+    "conflict-files-obsidian-git.md",
     "Maths/Data Smoothing.md",
     "Maths/Data Analysis.md",
     "English/Protests/Speak Truth To Power.md",
@@ -124,12 +149,6 @@
     "Accounting/classwork",
     "SoftDev/SAC3/SAC/style/global.css",
     "SoftDev/SAC3/SAC/style/dist.css",
-    "SoftDev/SAC3/SAC/lib/Validate.php",
-    "SoftDev/SAC3/SAC/lib/Form.php",
-    "SoftDev/SAC3/SAC/lib/CSV.php",
-    "SoftDev/SAC3/SAC/data/Trial121212.csv",
-    "SoftDev/SAC3/SAC/data/Trial030411.csv",
-    "SoftDev/SAC3/SAC/style",
     "Media/SAT/Outcome 3.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
