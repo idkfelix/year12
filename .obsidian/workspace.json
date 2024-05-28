@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT1/Design.md",
+                "file": "SoftDev/SAT1/Project Proposal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/Design.md"
+                "file": "SoftDev/SAT1/Project Proposal.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "f1de05c0f64228eb",
   "lastOpenFiles": [
+    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
     "SoftDev/SAT1/SRS.md",
@@ -133,7 +134,6 @@
     "SoftDev/SAT1/pdfs/SRS.pdf",
     "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
     "SoftDev/SAT1/Development Model Justification.md",
-    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/pdfs/Software Development Unit 3 - SAT Checklist.pdf",
     "SoftDev/SAT1/Untitled",
     "SoftDev/SAT1/gantt",
