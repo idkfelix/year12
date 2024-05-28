@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f10c6740259b5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Recursion & Financial.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Protests/Speak Truth To Power.md"
+                "file": "Maths/Recursion & Financial.md"
               }
             }
           }
@@ -98,9 +111,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4c4e5077c8dcc6",
+  "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Maths/Recursion & Financial.md",
+    "Maths/Data Smoothing.md",
+    "Maths/Data Analysis.md",
     "English/Protests/Speak Truth To Power.md",
+    "Media/SAT/Genre & Style.md",
+    "Accounting/classwork/Net Profit Margin.pdf",
+    "Accounting/classwork/Net Profit Margin.md",
+    "Accounting/classwork",
     "SoftDev/SAC3/SAC/style/global.css",
     "SoftDev/SAC3/SAC/style/dist.css",
     "SoftDev/SAC3/SAC/lib/Validate.php",
@@ -109,10 +130,7 @@
     "SoftDev/SAC3/SAC/data/Trial121212.csv",
     "SoftDev/SAC3/SAC/data/Trial030411.csv",
     "SoftDev/SAC3/SAC/style",
-    "SoftDev/SAC3/SAC/lib",
-    "SoftDev/SAC3/SAC/index.php",
     "Media/SAT/Outcome 3.md",
-    "Maths/Data Smoothing.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
 }
