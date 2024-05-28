@@ -20,9 +20,9 @@
 | App uses icons to represent functionality where applicable                 | X        | X        |
 | App interface shows all relevant data with minimal navigation              |          | X        |
 | App is not excessively verbose or complex for users                        | X        | X        |
-# Final Design
 ## Justification
 Design 2 best fits the criteria discussed with the client. It provides a simplistic and intuitive interface for users and maintains a theme stylistically similar to the Compass website it will integrate with. Compared to design 1, design 2 better provides the user with all useful information and navigation on the websites sidebar minimising context switching and allowing for efficient note taking with the application. The navigation bar of design 2 additionally provides separation between common and useful navigation buttons / dropdowns and less used navigation providing an intuitive experience.
+# Final Design
 ## Mockup
 ![[Login.png]]![[Home.png]]![[Editor.png]]
 ## Components

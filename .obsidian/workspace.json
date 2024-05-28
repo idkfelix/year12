@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SoftDev/SAT1/Design.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -98,6 +98,9 @@
   },
   "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
+    "SoftDev/DesignStage.zip",
+    "SoftDev/DesignStage.zip.tmp",
+    "SoftDev/SAT1/pdfs/Design.pdf",
     "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Design.md",
@@ -118,8 +121,6 @@
     "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
-    "SoftDev/SAT1/pdfs/SRS.pdf",
-    "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
     "SoftDev/SAT1/design/notelass.svg",
     "Maths/Recursion & Financial.md",
     "conflict-files-obsidian-git.md",
