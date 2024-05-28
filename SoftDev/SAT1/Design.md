@@ -56,9 +56,13 @@
 ## Pseudocode
 ```
 BEGIN
-	FUNCTION saveNote(content, lessonId, activityId)
-		encoded <- Base64Encode(content)
+	*Save note in compass database with metadata*
+	FUNCTION saveNote({content, title, lessonId, activityId})
+		*Encode content to storable string*
+		encoded <- base64Encode(content)
+		*Make request to *
 		response <- POST(compassAPI -> saveData, {
+			title,
 			encoded,
 			lessonId,
 			activityId,
@@ -66,12 +70,29 @@ BEGIN
 		RETURN response -> noteId
 	END FUNCTION
 
+	* *
 	FUNCTION readNote(noteId)
 		response <- POST(compassAPI -> readData, noteId)
 		data <- response
-		content <- Base64Decode(data -> encoded)
-		R
+		content <- base64Decode(data -> encoded)
+		RETURN {
+			data -> title
+			content,
+			data -> lessonId,
+			data -> activityId,
+		}
 	END FUNCTION
+
+	localTitle <- INPUT note title
+	localNote <- INPUT note markdown content
+	lesson <- SELECT lesson from schedule
+	noteId <- saveNote({
+		localTitle,
+		localNote,
+		lesson -> lessonId,
+		lesson -> activityId,
+	})
+	noteData <- readNote(noteId)
 END
 ```
 
