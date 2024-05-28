@@ -55,8 +55,24 @@
 ![[Data-Diagram.png]]
 ## Pseudocode
 ```
-FUNCTION saveNote(content, lessonId, activityId)
-	
+BEGIN
+	FUNCTION saveNote(content, lessonId, activityId)
+		encoded <- Base64Encode(content)
+		response <- POST(compassAPI -> saveData, {
+			encoded,
+			lessonId,
+			activityId,
+		})
+		RETURN response -> noteId
+	END FUNCTION
+
+	FUNCTION readNote(noteId)
+		response <- POST(compassAPI -> readData, noteId)
+		data <- response
+		content <- Base64Decode(data -> encoded)
+		R
+	END FUNCTION
 END
 ```
+
 # Development Criteria
