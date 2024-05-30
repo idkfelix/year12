@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Protests/Speak Truth To Power.md",
+                "file": "SoftDev/SAT1/Design.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Protests/Speak Truth To Power.md"
+                "file": "SoftDev/SAT1/Design.md"
               }
             }
           }
@@ -97,8 +97,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50cbc2a740a04e16",
+  "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
+    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/SAT1/Meeting Notes.md",
+    "SoftDev/SAT1/Design.md",
+    "English/Protests/Speak Truth To Power.md",
     "Media/SAT/Statements.md",
     "Maths/Recursion & Financial.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
@@ -116,9 +120,6 @@
     "SoftDev/SAT1/design/Components.png",
     "SoftDev/SAT1/design/Alt.png",
     "SoftDev/SAT1/design",
-    "SoftDev/SAT1/Meeting Notes.md",
-    "SoftDev/SAT1/Design.md",
-    "English/Protests/Speak Truth To Power.md",
     "Maths/Data Smoothing.md",
     "Maths/Data Analysis.md",
     "Accounting/classwork/Net Profit Margin.md",
