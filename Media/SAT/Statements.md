@@ -1,0 +1,3 @@
+# Genre & Style
+My media product will be a coming of age drama narrative in the form of a printed zine. I've seen these genres produced in media products the follow a similar theme / style to my narrative on a minimal budget, hence I have found it to be the most appropriate path to follow in the production of my zine. These genres often stylistically 
+The coming of age genre features a narrative that primarily focuses on the growth and maturing of the protagonist and emphasises discussion and relationships between characters over action and suspense typical of most genres. 
