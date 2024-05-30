@@ -1,5 +1,5 @@
 # Audience
-My target audience is VCE 
+My target audience is VCE students / teenagers who are engaged with the coming of age / drama genres and the visual style of golden age skateboarding media produced on late 90s / early 00s hardware. My zine will be roughly 16 pages to ensure its contents are short and easy to read for its young audience, however the content of the zine should provide great depth to the narrative for readers notably engaged with the genre allowing f
 # Genre & Style
 My media product will be a coming of age drama narrative in the form of a printed zine. I've seen these genres produced in media products the follow a similar theme / style to my narrative on a minimal budget, hence I have found it to be the most appropriate path to follow in the production of my zine. These genres often stylistically are a product of their minimal budget, using old hardware with 3CCD sensors that add a level of grain and imperfection to the final image, for my zine I will opt to use 35mm film to recreate this effect through photography to provide authentic imperfection to the final product. Using this film for my photography will additionally provide a stylistic colour profile produced in the camera. 
 
