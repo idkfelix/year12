@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -96,7 +98,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50cbc2a740a04e16",
+  "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
     "Maths/Recursion & Financial.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
