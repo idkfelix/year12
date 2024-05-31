@@ -1,5 +1,16 @@
-## Terms
-- Order - The length of $m$ (rows) and $n$ (columns) as $m \cdot n$ spoken as $m$ by $n$
+## Matrix
+- Displays a collection of numerical elements in rows and columns
+- Matrices are usually labelled as a capital letters
+- The index of Columns and row in the matrix start at the integer $1$
+- Order is the length of $m$ (rows) and $n$ (columns) as $m \cdot n$ spoken as $m$ by $n$
+- Elements are usually labelled as the lowercase version of their parent: $Aa$
+- Elements use subscript to define their row and column: $\large{a_{mn}}$
+$$
+A = 
+  \begin{bmatrix}
+
+\end{bmatrix}
+$$
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order
 ## Multiplication
