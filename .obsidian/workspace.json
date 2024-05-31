@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Practice SACs/Garment Gab.md",
+                "file": "Maths/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Practice SACs/Garment Gab.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -99,8 +99,10 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "English/Born A Crime/Born_a_Crime.pdf",
+    "Maths/Matrices.md",
+    "Maths/Data Analysis.md",
     "English/Practice SACs/Garment Gab.md",
+    "English/Born A Crime/Born_a_Crime.pdf",
     "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
@@ -122,11 +124,8 @@
     "SoftDev/SAT1/design/Components.png",
     "SoftDev/SAT1/design/Alt.png",
     "SoftDev/SAT1/design",
-    "Maths/Data Smoothing.md",
-    "Maths/Data Analysis.md",
     "Accounting/classwork/Net Profit Margin.md",
     "Accounting/classwork/Net Profit Margin.pdf",
-    "Accounting/classwork",
     "Media/SAT/Outcome 3.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
