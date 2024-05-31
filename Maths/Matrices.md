@@ -1,5 +1,5 @@
 ## Terms
-- Order - The length of $m$ (rows) and 
+- Order - The length of $m$ (rows) and $n$ (columns) as $m \cdot n$ spoken as $m$ by $n$
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order
 ## Multiplication
@@ -10,4 +10,4 @@
 - The transpose of a matrix, $A$, is denoted $A^T$
 - A transposed matrix has the same elements just with rows and columns swapped
 - If matrix $A$ has an order of $m\cdot{n}$, then $A^T$ has an order of $n\cdot{m}$
-- Bottom row transposes to far right, vice versa
+- Bottom row transposes to last column / first column transposes to first row
