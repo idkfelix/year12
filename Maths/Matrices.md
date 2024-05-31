@@ -6,10 +6,12 @@
 - Elements are usually labelled as the lowercase version of their parent: $Aa$
 - Elements use subscript to define their row and column: $\large{a_{mn}}$
 $$
-A = 
-  \begin{bmatrix}
-
-\end{bmatrix}
+\huge{
+  A = \begin{bmatrix}
+    a_{11} & a_{12} & a_{13} \\
+    a_{21} & a_{22} & a_{23}
+ \end{bmatrix}
+}
 $$
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order
@@ -22,3 +24,9 @@ $$
 - A transposed matrix has the same elements just with rows and columns swapped
 - If matrix $A$ has an order of $m\cdot{n}$, then $A^T$ has an order of $n\cdot{m}$
 - Bottom row transposes to last column / first column transposes to first row
+$$
+\large{
+  A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \\
+  A^{T} = \begin{bmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{bmatrix}
+}
+$$
