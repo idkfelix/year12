@@ -48,7 +48,6 @@
 - **Net Profit**
 ## Profit and Loss Summary
 ![[Pasted image 20240602152649.png]]
-- P+L is an OE account
 - **General Journal**
 	- Revenue
 		- Revenues in debit
@@ -62,5 +61,4 @@
 		- P+L Summary in debit
 		- Capital in credit
 		- Comment with memo #
-- **General Ledger**
-	- 
+- P+L is an OE account
