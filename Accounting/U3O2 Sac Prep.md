@@ -28,3 +28,21 @@
 - "Bank Balance at end"
 ## Income Statement
 ![[Pasted image 20240602150723.png]]
+- Revenue
+	- Sales revenue
+	- Sales returns
+- Les Cost of Goods Sold
+	- Cost of Sales
+	- Freight Inwards
+- **Gross Profit**
+- Add inventory gain
+- Less inventory write-down
+- **Adjusted Gross Profit**
+- Add other revenues
+	- Discount revenue
+- ***No Label Total***
+- Less other expenses
+	- All expenses
+	- Freight out
+	- Wages
+- **Net Profit**
