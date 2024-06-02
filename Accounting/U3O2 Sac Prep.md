@@ -46,3 +46,21 @@
 	- Freight out
 	- Wages
 - **Net Profit**
+## Profit and Loss Summary
+![[Pasted image 20240602152649.png]]
+- P+L is an OE account
+- **General Journal**
+	- Revenue
+		- Revenues in debit
+		- P+L Summary in credit
+		- Comment "Closing revenues acc to P+L Summary"
+	- Expenses
+		- P+L Summary in debit
+		- Expenses in credit
+		- Comment "Closing expenses acc to P+L Summary"
+	- Transfer
+		- P+L Summary in debit
+		- Capital in credit
+		- Comment with memo #
+- **General Ledger**
+	- 
