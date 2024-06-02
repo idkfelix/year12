@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d4c4e5077c8dcc6",
+            "id": "6f10c6740259b5e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Accounting/U3O2 Sac Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,23 +62,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
     "children": [
       {
-        "id": "acb5728953cb37b8",
+        "id": "2503d8d211717162",
         "type": "tabs",
         "children": [
           {
-            "id": "60e7f0bda9f45d63",
+            "id": "85e5254876aa9d7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Accounting/U3O2 Sac Prep.md"
               }
             }
           }
@@ -97,40 +98,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4c4e5077c8dcc6",
+  "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
-    "Maths/Matrices.md",
-    "Maths/Data Analysis.md",
-    "English/Practice SACs/Garment Gab.md",
-    "English/Born A Crime/Born_a_Crime.pdf",
+    "Accounting/attachments/Pasted image 20240602150723.png",
+    "Accounting/attachments/Pasted image 20240602150648.png",
     "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT1/Project Proposal.md",
-    "SoftDev/SAT1/Meeting Notes.md",
-    "English/Protests/Speak Truth To Power.md",
+    "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Statements.md",
-    "Maths/Recursion & Financial.md",
-    "SoftDev/SAT1/pdfs/SRS.pdf",
-    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
-    "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
+    "Maths/Matrices.md",
+    "English/Practice SACs/Garment Gab.md",
+    "SoftDev/DesignStage.zip",
+    "SoftDev/DesignStage.zip.tmp",
     "SoftDev/SAT1/pdfs/Design.pdf",
-    "SoftDev/SAT1/pdfs",
-    "SoftDev/SAT1/gantt/Notelass.gan",
-    "SoftDev/SAT1/gantt",
-    "SoftDev/SAT1/design/notelass.svg",
-    "SoftDev/SAT1/design/Login.png",
-    "SoftDev/SAT1/design/Home.png",
-    "SoftDev/SAT1/design/Editor.png",
+    "SoftDev/SAT1/SRS.md",
+    "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/design/Data-Diagram.png",
-    "SoftDev/SAT1/design/Components.png",
+    "SoftDev/SAT1/design/diagram.png.crdownload",
     "SoftDev/SAT1/design/Alt.png",
-    "SoftDev/SAT1/design",
+    "SoftDev/SAT1/design/Home.png",
+    "SoftDev/SAT1/design/Alt.png.crdownload",
+    "SoftDev/SAT1/design/Editor.png",
+    "SoftDev/SAT1/design/Editor.png.crdownload",
+    "SoftDev/SAT1/design/Home.png.crdownload",
+    "SoftDev/SAT1/design/Login.png",
+    "SoftDev/SAT1/design/Login.png.crdownload",
+    "SoftDev/SAT1/design/Components.png",
+    "SoftDev/SAT1/Meeting Notes.md",
+    "SoftDev/SAT1/attachments/Notelass.pdf",
+    "SoftDev/SAT1/attachments",
+    "SoftDev/SAT1/Development Model Justification.md",
+    "English/Protests/Speak Truth To Power.md",
+    "SoftDev/SAT1/design/notelass.svg",
+    "Maths/Recursion & Financial.md",
+    "conflict-files-obsidian-git.md",
+    "Maths/Data Smoothing.md",
+    "Maths/Data Analysis.md",
+    "Media/SAT/Genre & Style.md",
     "Accounting/classwork/Net Profit Margin.md",
-    "Accounting/classwork/Net Profit Margin.pdf",
     "Media/SAT/Outcome 3.md",
-    "English/Protests/Protest SAC.md",
-    "SoftDev/Unit3 Key Terms.md",
-    "README.md",
-    "English/Analytical Response.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
 }

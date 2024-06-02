@@ -1,0 +1,30 @@
+## Cash Flow Statement
+![[Pasted image 20240602150648.png]]
+- Debits before Credits
+- Credits in brackets
+- Operations
+	- Debit
+		- Sales
+		- GST Received
+		- Receipts from Acc Rec
+	- Credit
+		- Payments to Acc Pay
+		- Inventory
+		- Wages
+		- Bills
+		- GST Paid
+		- GST Settlement
+		- Interest
+	- "Net Cash Flows from Operations"
+- Investing
+	- Non Current Assets
+	- "Net Cash Flows from Investing Activities"
+- Financing
+	- Loans / Payments
+	- Capital / Drawings
+	- "Net Cash Flows from Financing Activities"
+- "Net Increase (Decrease in Cash Position)"
+- "Add Back Balance at Start"
+- "Bank Balance at end"
+## Income Statement
+![[Pasted image 20240602150723.png]]
