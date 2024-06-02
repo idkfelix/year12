@@ -301,6 +301,21 @@ $$
 - Linear Regression - straight line
 - $y=a+bx$
 	- $RV=y\text{ intercept}+\text{gradient/slope }EV$
+## Smoothing
+- Median
+	- $x = \text{middle point of range around current data}$ 
+		- $x=3$  with a smoothing of $5$ includes one data either side $2,3,4$
+	- $y=\text{value of middle y value in range}$
+- Seasonal
+	- Smooths any reoccurring change each year
+	- Finds a trend line from seasonal data
+$$
+\begin{align*}
+\text{Seasonal Index} &= \frac{\text{Season Value}}{\text{Mean of all Seasons}}\\\\
+\text{Deseasonalised Figure} &= \frac{\text{Actual figure}}{\text{Seasonal Index}}\\\\
+\text{Actual Figure} &= \text{Deseasonalised Figure} \cdot \text{Seasonal Index}
+\end{align*}
+$$
 ## Correlation & Causation
 - Common Response
 	- Causes both $EV$ and $RV$

@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f10c6740259b5e2",
+            "id": "1d4c4e5077c8dcc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT1/Design.md",
-                "mode": "preview",
+                "file": "Maths/Matrices.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -69,16 +69,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2503d8d211717162",
+        "id": "acb5728953cb37b8",
         "type": "tabs",
         "children": [
           {
-            "id": "85e5254876aa9d7b",
+            "id": "60e7f0bda9f45d63",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/Design.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -97,39 +97,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f10c6740259b5e2",
+  "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "SoftDev/DesignStage.zip",
-    "SoftDev/DesignStage.zip.tmp",
-    "SoftDev/SAT1/pdfs/Design.pdf",
-    "SoftDev/SAT1/SRS.md",
-    "SoftDev/SAT1/Project Proposal.md",
-    "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT1/design/Data-Diagram.png",
-    "SoftDev/SAT1/design/diagram.png.crdownload",
-    "SoftDev/SAT1/design/Alt.png",
-    "SoftDev/SAT1/design/Home.png",
-    "SoftDev/SAT1/design/Alt.png.crdownload",
-    "SoftDev/SAT1/design/Editor.png",
-    "SoftDev/SAT1/design/Editor.png.crdownload",
-    "SoftDev/SAT1/design/Home.png.crdownload",
-    "SoftDev/SAT1/design/Login.png",
-    "SoftDev/SAT1/design/Login.png.crdownload",
-    "SoftDev/SAT1/design/Components.png",
-    "SoftDev/SAT1/Meeting Notes.md",
-    "SoftDev/SAT1/attachments/Notelass.pdf",
-    "SoftDev/SAT1/attachments",
-    "SoftDev/SAT1/Development Model Justification.md",
-    "English/Protests/Speak Truth To Power.md",
-    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
-    "SoftDev/SAT1/design/notelass.svg",
-    "Maths/Recursion & Financial.md",
-    "conflict-files-obsidian-git.md",
-    "Maths/Data Smoothing.md",
+    "Maths/Matrices.md",
     "Maths/Data Analysis.md",
-    "Media/SAT/Genre & Style.md",
+    "English/Practice SACs/Garment Gab.md",
+    "English/Born A Crime/Born_a_Crime.pdf",
+    "SoftDev/SAT1/Design.md",
+    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/SAT1/Meeting Notes.md",
+    "English/Protests/Speak Truth To Power.md",
+    "Media/SAT/Statements.md",
+    "Maths/Recursion & Financial.md",
+    "SoftDev/SAT1/pdfs/SRS.pdf",
+    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
+    "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
+    "SoftDev/SAT1/pdfs/Design.pdf",
+    "SoftDev/SAT1/pdfs",
+    "SoftDev/SAT1/gantt/Notelass.gan",
+    "SoftDev/SAT1/gantt",
+    "SoftDev/SAT1/design/notelass.svg",
+    "SoftDev/SAT1/design/Login.png",
+    "SoftDev/SAT1/design/Home.png",
+    "SoftDev/SAT1/design/Editor.png",
+    "SoftDev/SAT1/design/Data-Diagram.png",
+    "SoftDev/SAT1/design/Components.png",
+    "SoftDev/SAT1/design/Alt.png",
+    "SoftDev/SAT1/design",
     "Accounting/classwork/Net Profit Margin.md",
+    "Accounting/classwork/Net Profit Margin.pdf",
     "Media/SAT/Outcome 3.md",
+    "English/Protests/Protest SAC.md",
+    "SoftDev/Unit3 Key Terms.md",
+    "README.md",
+    "English/Analytical Response.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
 }
