@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -100,13 +98,13 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
+    "Accounting/attachments/Pasted image 20240602150723.png",
+    "Accounting/U3O2 Sac Prep.md",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "Maths/Matrices.md",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
     "Accounting/attachments/Pasted image 20240602152649.png",
-    "Accounting/attachments/Pasted image 20240602150723.png",
     "Accounting/attachments/Pasted image 20240602150648.png",
-    "Accounting/U3O2 Sac Prep.md",
     "Maths/Data Analysis.md",
     "English/Practice SACs/Garment Gab.md",
     "English/Born A Crime/Born_a_Crime.pdf",
@@ -130,7 +128,6 @@
     "SoftDev/SAT1/design/Data-Diagram.png",
     "SoftDev/SAT1/design/Components.png",
     "SoftDev/SAT1/design/Alt.png",
-    "SoftDev/SAT1/design",
     "Accounting/classwork/Net Profit Margin.md",
     "Media/SAT/Outcome 3.md",
     "English/Protests/Protest SAC.md",
