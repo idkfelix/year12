@@ -13,49 +13,72 @@ $$
  \end{bmatrix}
 }
 $$
-## Addition & Subtraction
-- To perform addition or subtraction all matrices must have the same order
-## Multiplication
-- **Scalar**
-	- Resulting matrix is the product of each element of input matrix with a single number
-	- $2 \cdot \begin{bmatrix} 1 &  2 & 3 \end{bmatrix} = \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}$
-- **Matrices**
-	- The columns ($n$) of the first matrix must match the rows ($m$) of the second
-	- The remaining row ($n$) and column ($m$) of the matrices will become the order
-	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix
-	- Row of first matrix is effectively transformed and overlaid then the sum of the aligning elements products form the new element
-$$
-\begin{align*}
-  C&=
-  \begin{bmatrix} 
-    1 & 3 \\ 2 & 6
-  \end{bmatrix}
-  \cdot
-  \begin{bmatrix} 
-    3 \\ 5
-  \end{bmatrix}\\
-  C&= \begin{bmatrix}
-    a_{1}b_{1} & a_{1}b_{2} \\
-    a_{2}b_{1} & a_{2}b_{2}
-  \end{bmatrix}\\
-  C&= \begin{bmatrix}
-    (1\cdot{3}+3\cdot{3}) & (1\cdot{5}+3\cdot{5})\\
-    (2\cdot{3}+6\cdot{3}) & (2\cdot{5}+6\cdot{5})
-  \end{bmatrix}\\
-  C&= \begin{bmatrix}
-    10 & 20\\
-    24 & 
-  \end{bmatrix}
-\end{align*}
-$$
-## Transposing
+## Transposition
 - The transpose of a matrix, $A$, is denoted $A^T$
 - A transposed matrix has the same elements just with rows and columns swapped
 - If matrix $A$ has an order of $m\cdot{n}$, then $A^T$ has an order of $n\cdot{m}$
 - Bottom row transposes to last column / first column transposes to first row
 $$
-\large{
+\large
   A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \qquad
   A^{T} = \begin{bmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{bmatrix}
-}
+$$
+## Addition & Subtraction
+- To perform addition or subtraction all matrices must have the same order
+- Elements are added or subtracted the same as regular numbers
+$$
+\large
+\begin{bmatrix}2 & 3 \\ 5 & 2\end{bmatrix}
++\begin{bmatrix}3 & 1 \\ 2 & 1\end{bmatrix}
+= \begin{bmatrix}5 & 4 \\ 7 & 3\end{bmatrix}
+$$
+## Multiplication
+- **Scalar**
+	- Resulting matrix is the product of each element of input matrix with a single number
+$$
+\huge
+\begin{bmatrix} 1 &  2 & 3 \end{bmatrix} 
+\cdot 2 
+= \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}
+$$
+- **Matrices**
+	- The columns ($n$) of the first matrix must match the rows ($m$) of the second
+	- The remaining row ($n$) and column ($m$) of the matrices will become the order
+	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix
+	- Row of first matrix is effectively transposed and overlaid then the sum of the aligning elements products form the new element
+$$
+\large
+\begin{align*}
+	C&=\begin{bmatrix} 
+		1 & 3 \\
+		2 & 6
+	\end{bmatrix}
+	\cdot
+	\begin{bmatrix} 
+		3 \\ 5
+	\end{bmatrix}
+	= \begin{bmatrix}
+		a_{1}b_{1} & a_{1}b_{2} \\
+		a_{2}b_{1} & a_{2}b_{2}
+	\end{bmatrix}\\ \\
+	C&= \begin{bmatrix}
+		(1\cdot{3}+3\cdot{3}) & (1\cdot{5}+3\cdot{5}) \\
+		(2\cdot{3}+6\cdot{3}) & (2\cdot{5}+6\cdot{5})
+	\end{bmatrix}
+	= \begin{bmatrix}
+		10 & 20 \\
+		24 & 40
+	\end{bmatrix}
+\end{align*}
+$$
+## Indices
+- Must be a square matrix to raise to use an index operation
+- Multiply matrix by itself to the index the same as a regular number
+$$
+\large
+A^{2} = AA =
+\begin{bmatrix} 4 & 3 \\ 6 & 5 \end{bmatrix}
+\begin{bmatrix} 4 & 3 \\ 6 & 5 \end{bmatrix}
+=
+\begin{bmatrix} 34 & 27 \\ 54 & 43 \end{bmatrix}
 $$

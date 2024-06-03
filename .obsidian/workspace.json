@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Media/SAT/Statements.md"
               }
             }
           }
@@ -111,10 +111,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee474e55ff57a2e5",
+  "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
-    "Media/SAT/Statements.md",
     "Maths/Matrices.md",
+    "Media/SAT/Outcome 3.md",
+    "Media/SAT/Statements.md",
     "Accounting/U3O2 Sac Prep.md",
     "Accounting/attachments/Pasted image 20240602150723.png",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
@@ -144,7 +145,6 @@
     "SoftDev/SAT1/design/Components.png",
     "SoftDev/SAT1/design/Alt.png",
     "Accounting/classwork/Net Profit Margin.md",
-    "Media/SAT/Outcome 3.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
     "README.md",
