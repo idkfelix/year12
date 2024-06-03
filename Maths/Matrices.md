@@ -20,9 +20,21 @@ $$
 	- Resulting matrix is the product of each element of input matrix with a single number
 	- $2 \cdot \begin{bmatrix} 1 &  2 & 3 \end{bmatrix} = \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}$
 - **Matrices**
-	- The column ($n$) of the first matrix must match the row ($m$) of the second
+	- The columns ($n$) of the first matrix must match the rows ($m$) of the second
 	- The remaining row ($n$) and column ($m$) of the matrices will become the order
-	- 
+	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix
+	- Row of first matrix is effectively transformed and overlaid then the sum of the aligning elements products form the new element
+$$
+\begin{align*}
+\begin{bmatrix} 
+  1 & 3 \\ 2 & 6
+\end{bmatrix}
+\cdot
+\begin{bmatrix} 
+  3 \\ 5
+\end{bmatrix}
+\end{align*}
+$$
 ## Transposing
 - The transpose of a matrix, $A$, is denoted $A^T$
 - A transposed matrix has the same elements just with rows and columns swapped
