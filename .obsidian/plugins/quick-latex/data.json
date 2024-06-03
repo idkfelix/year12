@@ -9,7 +9,7 @@
   "addAlignBlock_parameter": "align*",
   "autoAlignSymbols": "= > < \\le \\ge \\neq \\approx",
   "addCasesBlock_toggle": true,
-  "shiftEnter_toggle": false,
+  "shiftEnter_toggle": true,
   "addMatrixBlock_toggle": true,
   "addMatrixBlock_parameter": "bmatrix",
   "autoFraction_toggle": true,

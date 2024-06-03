@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ee474e55ff57a2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Matrices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d4c4e5077c8dcc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/U3O2 Sac Prep.md",
+                "file": "Media/SAT/Statements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/U3O2 Sac Prep.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -86,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -96,12 +111,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4c4e5077c8dcc6",
+  "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
-    "Accounting/attachments/Pasted image 20240602150723.png",
-    "Accounting/U3O2 Sac Prep.md",
-    "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
+    "Media/SAT/Statements.md",
     "Maths/Matrices.md",
+    "Accounting/U3O2 Sac Prep.md",
+    "Accounting/attachments/Pasted image 20240602150723.png",
+    "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
     "Accounting/attachments/Pasted image 20240602152649.png",
     "Accounting/attachments/Pasted image 20240602150648.png",
@@ -112,7 +128,6 @@
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
     "English/Protests/Speak Truth To Power.md",
-    "Media/SAT/Statements.md",
     "Maths/Recursion & Financial.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
