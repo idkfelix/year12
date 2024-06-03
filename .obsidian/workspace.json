@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,6 +100,7 @@
   },
   "active": "1d4c4e5077c8dcc6",
   "lastOpenFiles": [
+    "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "Maths/Matrices.md",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
     "Accounting/attachments/Pasted image 20240602152649.png",
