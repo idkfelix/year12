@@ -6,7 +6,7 @@
 - Elements are usually labelled as the lowercase version of their parent: $Aa$
 - Elements use subscript to define their row and column: $\large{a_{mn}}$
 $$
-\huge{
+\large{
   A = \begin{bmatrix}
     a_{11} & a_{12} & a_{13} \\
     a_{21} & a_{22} & a_{23}
@@ -36,7 +36,7 @@ $$
 - **Scalar**
 	- Resulting matrix is the product of each element of input matrix with a single number
 $$
-\huge
+\large
 \begin{bmatrix} 1 &  2 & 3 \end{bmatrix} 
 \cdot 2 
 = \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}

@@ -13,14 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/Statements.md",
+                "file": "Maths/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed091f5d6f5b4597",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/felix/Documents/year12",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/bash",
+                    "name": "bash",
+                    "platforms": {
+                      "darwin": false,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": false
+                  },
+                  "serial": {
+                    "columns": 169,
+                    "data": "[felix@laptop year12]$ git acp\r\nAborting commit due to empty commit message.\r\n[felix@laptop year12]$ git acp",
+                    "rows": 56
+                  }
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/SAT/Statements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,7 +133,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee474e55ff57a2e5",
+  "active": "ed091f5d6f5b4597",
   "lastOpenFiles": [
     "Maths/Matrices.md",
     "Media/SAT/Statements.md",
