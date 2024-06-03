@@ -53,7 +53,6 @@ $$
 		1 & 3 \\
 		2 & 6
 	\end{bmatrix}
-	\cdot
 	\begin{bmatrix} 
 		3 \\ 5
 	\end{bmatrix}
@@ -64,8 +63,8 @@ $$
 	C&= \begin{bmatrix}
 		(1\cdot{3}+3\cdot{3}) & (1\cdot{5}+3\cdot{5}) \\
 		(2\cdot{3}+6\cdot{3}) & (2\cdot{5}+6\cdot{5})
-	\end{bmatrix}
-	= \begin{bmatrix}
+	\end{bmatrix}\\ \\
+	C&=  \begin{bmatrix}
 		10 & 20 \\
 		24 & 40
 	\end{bmatrix}
