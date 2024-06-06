@@ -10,5 +10,12 @@ The coming of age genre features a narrative that primarily focuses on the growt
 # Techniques of Engagement
 I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine. Furthermore
 
-# Narrative
+# Distribution
+- printed zine
+- A5 booklet size
+- type of paper?
+- where can it be seen
+- 
 
+
+# Narrative
