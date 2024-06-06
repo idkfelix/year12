@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/Statements.md",
+                "file": "Accounting/Balance Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,14 +62,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "effdaea4514adc9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487a85c61e4588c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Accounting/Balance Sheet.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -81,11 +100,11 @@
   },
   "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
-    "README.md",
+    "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Statements.md",
+    "README.md",
     "Maths/Matrices.md",
     "Media/SAT/Outcome 3.md",
-    "Accounting/U3O2 Sac Prep.md",
     "Accounting/attachments/Pasted image 20240602150723.png",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
