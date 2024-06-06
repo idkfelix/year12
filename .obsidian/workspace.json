@@ -67,36 +67,9 @@
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
-    "children": [
-      {
-        "id": "acb5728953cb37b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60e7f0bda9f45d63",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Media/SAT/Statements.md"
-              }
-            }
-          },
-          {
-            "id": "b2a1cc1034dec52b",
-            "type": "leaf",
-            "state": {
-              "type": "CompassView",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -106,10 +79,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a1cc1034dec52b",
+  "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
-    "Maths/Matrices.md",
+    "README.md",
     "Media/SAT/Statements.md",
+    "Maths/Matrices.md",
     "Media/SAT/Outcome 3.md",
     "Accounting/U3O2 Sac Prep.md",
     "Accounting/attachments/Pasted image 20240602150723.png",
@@ -142,7 +116,6 @@
     "Accounting/classwork/Net Profit Margin.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
-    "README.md",
     "English/Analytical Response.md",
     "English/Practice SACs/Harrison Bergeron (Commentary).md"
   ]
