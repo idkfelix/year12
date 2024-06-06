@@ -81,8 +81,17 @@
                 "file": "Media/SAT/Statements.md"
               }
             }
+          },
+          {
+            "id": "b2a1cc1034dec52b",
+            "type": "leaf",
+            "state": {
+              "type": "CompassView",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +106,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60e7f0bda9f45d63",
+  "active": "b2a1cc1034dec52b",
   "lastOpenFiles": [
     "Maths/Matrices.md",
     "Media/SAT/Statements.md",
