@@ -81,3 +81,24 @@ A^{2} = AA =
 =
 \begin{bmatrix} 34 & 27 \\ 54 & 43 \end{bmatrix}
 $$
+## Determinant, Inverse & Identity
+- **Determinant**
+	- The determinant is a number associated with a matrix which determines weather or not a matrix has an inverse
+	- For a matrix to have an inverse its determinant must not equal zero
+	- The determinant of a square matrix is denote with a pole either side of the matrix $|A|$ or as the $det()$ function $det(A)$
+	- For a $2\cdot2$ matrix $A$ the determinant is the product elements diagonally top left to bottom right minus the product of elements top right to bottom left
+	- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
+- **Inverse Matrix**
+	- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$ and the product of itself and $A$ creates the identity matrix of $A$
+	- To find $A^{-1}$ a matrix derived from $A$ with the top left and bottom right elements swapped and the negative versions of the remaining elements is created then the product of it and $1$ over $|A|$ or $det(A)$ is used
+- **Identity Matrix**
+	- The identity matrix is denoted as $I$ in an expression 
+	- Formed as a square matrix with a diagonal stripe of $1$ from the top left corner to the bottom right corner
+	- The identity matrix of $A$ is the product of itself and its inverse: $I = AA^{-1}$
+$$
+\begin{align*}
+A&= \begin{bmatrix}2&2\\3&4\end{bmatrix} \quad
+|A|= 2\cdot4 - 3\cdot2 = 2\\
+ 
+\end{align*}
+$$

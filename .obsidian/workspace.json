@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Persuasive Techniques.md",
+                "file": "Maths/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Persuasive Techniques.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,12 +100,12 @@
   },
   "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
-    "Accounting/Balance Sheet.md",
+    "Maths/Matrices.md",
     "English/Persuasive Techniques.md",
+    "Accounting/Balance Sheet.md",
     "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Statements.md",
     "README.md",
-    "Maths/Matrices.md",
     "Media/SAT/Outcome 3.md",
     "Accounting/attachments/Pasted image 20240602150723.png",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
