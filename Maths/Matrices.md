@@ -96,9 +96,19 @@ $$
 	- Formed as a square matrix with a diagonal stripe of $1$ from the top left corner to the bottom right corner
 	- The identity matrix of $A$ is the product of itself and its inverse: $I = AA^{-1}$
 $$
+\large
 \begin{align*}
-A&= \begin{bmatrix}2&2\\3&4\end{bmatrix} \quad
-|A|= 2\cdot4 - 3\cdot2 = 2\\
- 
+&\text{Determinant} &&\text{Inverse Matrix}\\
+A&= \begin{bmatrix}2&2\\3&4\end{bmatrix} &
+\therefore A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{|A|} \\
+|A|&= 2\cdot4 - 3\cdot2 = 2 &
+A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{2} \\
+|A| &\neq 0 &
+A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix} \\
+&\text{Identity Matrix}\\
+\therefore I&= 
+  \begin{bmatrix}2&2\\3&4\end{bmatrix}
+  \begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}\\
+I&= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 \end{align*}
 $$
