@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "4d1e68004e859126",
+            "id": "226bc0fcc4927400",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -105,10 +105,11 @@
       "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee474e55ff57a2e5",
+  "active": "226bc0fcc4927400",
   "lastOpenFiles": [
     "Accounting/Balance Sheet.md",
     "English/persuasive techniques.md",
