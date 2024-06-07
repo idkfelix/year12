@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Balance Sheet.md",
+                "file": "English/persuasive techniques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,11 +79,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Balance Sheet.md"
+                "file": "English/persuasive techniques.md"
               }
             }
+          },
+          {
+            "id": "4d1e68004e859126",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,11 +104,14 @@
       "Compass:Compass": false,
       "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
+    "Accounting/Balance Sheet.md",
+    "English/persuasive techniques.md",
     "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Statements.md",
     "README.md",

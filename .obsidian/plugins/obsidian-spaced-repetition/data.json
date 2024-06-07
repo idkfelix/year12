@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "flashcardEasyText": "",
+    "flashcardGoodText": "",
+    "flashcardHardText": "",
+    "flashcardTags": [
+      ""
+    ],
+    "convertFoldersToDecks": true,
+    "cardCommentOnSameLine": false,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
+    "randomizeCardOrder": null,
+    "flashcardCardOrder": "DueFirstRandom",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "convertHighlightsToClozes": false,
+    "convertBoldTextToClozes": false,
+    "convertCurlyBracketsToClozes": false,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": false,
+    "tagsToReview": [
+      ""
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": false,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": true,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": true,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2024-06-07",
+  "buryList": [],
+  "historyDeck": null
+}
