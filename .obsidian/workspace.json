@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/persuasive techniques.md",
+                "file": "English/Persuasive Techniques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,40 +78,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/persuasive techniques.md"
+                "file": "English/Persuasive Techniques.md"
               }
             }
-          },
-          {
-            "id": "226bc0fcc4927400",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "Compass:Compass": false,
       "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "226bc0fcc4927400",
+  "active": "ee474e55ff57a2e5",
   "lastOpenFiles": [
     "Accounting/Balance Sheet.md",
-    "English/persuasive techniques.md",
+    "English/Persuasive Techniques.md",
     "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Statements.md",
     "README.md",
