@@ -8,7 +8,7 @@
   "addAlignBlock_toggle": true,
   "addAlignBlock_parameter": "align*",
   "autoAlignSymbols": "= > < \\le \\ge \\neq \\approx",
-  "addCasesBlock_toggle": true,
+  "addCasesBlock_toggle": false,
   "shiftEnter_toggle": false,
   "addMatrixBlock_toggle": true,
   "addMatrixBlock_parameter": "bmatrix",
@@ -17,9 +17,9 @@
   "autoSumLimit_toggle": true,
   "autoEncloseSup_toggle": true,
   "autoEncloseSub_toggle": true,
-  "encloseSelection_toggle": true,
+  "encloseSelection_toggle": false,
   "autoGreekCommandMathMode_toggle": true,
   "customShorthand_toggle": true,
-  "useTabtoComplete_toggle": true,
-  "customShorthand_parameter": "lg:::\\large{};\nhg:::\\huge{};\n\nqu:::\\quad;\n\nbb:::\\mathbb{};\nbf:::\\mathbf{};\nte:::\\text{};\n\ncd:::\\cdot;\nti:::\\times;\n\nsq:::\\sqrt{};\n\n\n"
+  "useTabtoComplete_toggle": false,
+  "customShorthand_parameter": "lg:::\\large;\nhg:::\\huge;\nqu:::\\quad;\nbb:::\\mathbb{};\nbf:::\\mathbf{};\nte:::\\text{};\ncd:::\\cdot;\nti:::\\times;\nsq:::\\sqrt{};\ntf:::\\therefore;\n\n"
 }

@@ -49,45 +49,43 @@ This repo contains all my markdown notes, classwork and resources for VCE year 1
 	- Installs and builds Quartz static website
 	- Pushed to "gh-pages" branch
 	- Hosted with GitHub pages
-
-## SAC Results
-| Unit   | **Software Dev:** | Score % | Study Score % |
-| ------ | ----------------- | ------- | ------------- |
-| U3 O1a | Functions         | 100     | 2             |
-| U3 O1b | Form Handling     | 97      | 4             |
-| U3 O1c | Forms & Files     |         | 4             |
-
-| Unit  | **General Maths:**  | Score % | Study Score % |
-| ----- | ------------------- | ------- | ------------- |
-| U3 O1 | Financial Recursion | 90.3    | 8             |
-| U3 O2 | Data Analysis       |         | 16            |
-| U4 O1 | Matricies           |         | 8             |
-| U4 O2 | Networks            |         | 8             |
-
-| Unit   | **English:**     | Score % | Study Score % |
-| ------ | ---------------- | ------- | ------------- |
-| U3 O1  | Born a Crime     |         | 10            |
-| U3 O2a | Protest          |         | 5             |
-| U3 O2b | Protest          |         | 5             |
-| U3 O2c | Commentary       |         | 5             |
-| U4 O1  | Oedipus Response |         | 10            |
-| U4 O2a | Analysing Args   |         | 10            |
-| U4 O2b | Oral of Prev     |         | 5             |
-
-| Unit   | **Accounting:**   | Score % | Study Score % |
-| ------ | ----------------- | ------- | ------------- |
-| U3 O1a | Recording Data    |         | 7.5           |
-| U3 O1b | Analysing Data    |         | 7.5           |
-| U3 O2  | Reports           |         | 10            |
-| U4 O1  | Extension of Prev |         | 12.5          |
-| U4 O2a | Budgeting         |         | 6.25          |
-| U4 O2b | Decision Making   |         | 6.25          |
-
-| Unit   | **Media:**          | Score % | Study Score % |
-| ------ | ------------------- | ------- | ------------- |
-| U3 O1a | Film Analysis       |         | 5             |
-| U3 O1b | Video Essay         |         | 5             |
-| U3 O2  | SAT - Portfolio     |         | 13.33         |
-| U3 O3  | SAT - Pre-Prod Plan |         | 13.33         |
-| U4 O1  | SAT - Product       |         | 13.33         |
-| U4 O2  | Written Report      |         | 10            |
+## SAC Weights
+| Unit   | **Software Dev:**   | Study Score % |
+| ------ | ------------------- | ------------- |
+| U3 O1a | Functions           | 2             |
+| U3 O1b | Form Handling       | 4             |
+| U3 O1c | Forms & Files       | 4             |
+| Unit   | **General Maths:**  | Study Score % |
+| U3 O1  | Financial Recursion | 8             |
+| U3 O2  | Data Analysis       | 16            |
+| U4 O1  | Matricies           | 8             |
+| U4 O2  | Networks            | 8             |
+| Unit   | **English:**        | Study Score % |
+| U3 O1  | Born a Crime        | 10            |
+| U3 O2a | Protest             | 5             |
+| U3 O2b | Protest             | 5             |
+| U3 O2c | Commentary          | 5             |
+| U4 O1  | Oedipus Response    | 10            |
+| U4 O2a | Analysing Args      | 10            |
+| U4 O2b | Oral of Prev        | 5             |
+| Unit   | **Accounting:**     | Study Score % |
+| U3 O1a | Recording Data      | 7.5           |
+| U3 O1b | Analysing Data      | 7.5           |
+| U3 O2  | Reports             | 10            |
+| U4 O1  | Extension of Prev   | 12.5          |
+| U4 O2a | Budgeting           | 6.25          |
+| U4 O2b | Decision Making     | 6.25          |
+| Unit   | **Media:**          | Study Score % |
+| U3 O1a | Film Analysis       | 5             |
+| U3 O1b | Video Essay         | 5             |
+| U3 O2  | SAT - Portfolio     | 13.33         |
+| U3 O3  | SAT - Pre-Prod Plan | 13.33         |
+| U4 O1  | SAT - Product       | 13.33         |
+| U4 O2  | Written Report      | 10            |
+## Exam Dates
+- **English:** Tue 29 Oct (09:00 - 12:15)
+- **General Maths:** Fri 1 Nov (14:00 - 15:45)
+- **General Maths:** Mon 4 Nov (14:00 - 15:45)
+- **Media:** Wed 13 Nov (11:45 - 14:00)
+- **Accounting:** Wed 13 Nov (15:00 - 17:15)
+- **Soft Dev:** Fri 15 Nov (15:00 - 17:15)
