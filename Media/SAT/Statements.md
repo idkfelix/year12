@@ -19,3 +19,4 @@ I will use style and mise en scene as my primary methods of audience engagement 
 
 
 # Narrative
+In the heart of Melbourne city a teenaged protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the 
