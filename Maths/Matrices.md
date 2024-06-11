@@ -1,3 +1,9 @@
+
+> [!FAQ] Glossary
+> - **Order**: the dimensions of a matrix, $height \cdot width$, or $\large m \cdot n$
+> - **Commutative**: the ability to rearrange an operation, $AB \neq BA$
+> - **Therefore**: represented as a $\large\therefore$ within an formula
+
 ## Matrix
 - Displays a collection of numerical elements in rows and columns
 - Matrices are usually labelled as a capital letters
@@ -46,6 +52,7 @@ $$
 	- The remaining row ($n$) and column ($m$) of the matrices will become the order
 	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix
 	- Row of first matrix is effectively transposed and overlaid then the sum of the aligning elements products form the new element
+	- Matrices multiplication is non-commutative (cannot be rearranged, except if both matrices are diagonal) 
 $$
 \large
 \begin{align*}
@@ -115,4 +122,6 @@ $$
 ## Binary Matrices
 - A binary matrix consists of only ones and zeros
 - **Permutation Matrix**
-	- A permutation matrix is a type of 
+	- Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column
+	- A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied
+	- Multiplying with a permutation matrix is commutative (order of numbers can be rearranged whilst producing the same result)
