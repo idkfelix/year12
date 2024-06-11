@@ -19,4 +19,7 @@ I will use style and mise en scene as my primary methods of audience engagement 
 
 
 # Narrative
-In the heart of Melbourne city a teenaged protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the 
+In the heart of Melbourne city a teenaged protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
+
+The protagonist is proposed the idea of having their skateboarding filmed with a camera one of their friends recently purchased in hopes of getting recognition among the competitive community of skateboarding. This idea starts as a small project for the group as they skate the classic spots around the city, until one day the protagonist imagines a risky trick 
+
