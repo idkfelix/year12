@@ -89,7 +89,7 @@ $$
 	- For a $2\cdot2$ matrix $A$ the determinant is the product elements diagonally top left to bottom right minus the product of elements top right to bottom left
 	- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
 - **Inverse Matrix**
-	- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$ and the product of itself and $A$ creates the identity matrix of $A$
+	- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$
 	- To find $A^{-1}$ a matrix derived from $A$ with the top left and bottom right elements swapped and the negative versions of the remaining elements is created then the product of it and $1$ over $|A|$ or $det(A)$ is used
 - **Identity Matrix**
 	- The identity matrix is denoted as $I$ in an expression 
@@ -112,3 +112,7 @@ A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix} \\
 I&= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 \end{align*}
 $$
+## Binary Matrices
+- A binary matrix consists of only ones and zeros
+- **Permutation Matrix**
+	- A permutation matrix is a type of 
