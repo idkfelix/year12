@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Protests/Hope.md",
+                "file": "Media/SAT/Statements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f93055dc4aeb496",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Protests/Hope.md"
+                "file": "Media/SAT/Statements.md"
               }
             }
           }
@@ -97,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,10 +97,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f93055dc4aeb496",
+  "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
-    "Accounting/U3O2 Sac Prep.md",
     "English/Protests/Hope.md",
+    "Accounting/U3O2 Sac Prep.md",
     "Media/SAT/Production Experiment/attachments/vlcsnap-2024-03-05-21h27m06s847.png",
     "Media/SAT/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034.png",
     "Media/SAT/Production Experiment/attachments/vlcsnap-2024-03-05-19h18m15s034 2.png",
