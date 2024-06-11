@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f93055dc4aeb496",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f10c6740259b5e2",
+  "active": "2f93055dc4aeb496",
   "lastOpenFiles": [
     "Accounting/U3O2 Sac Prep.md",
     "English/Protests/Hope.md",
