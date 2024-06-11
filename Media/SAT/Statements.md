@@ -6,6 +6,9 @@ My target audience is VCE students / teenagers who are engaged with the coming o
 My media product will be a coming of age drama narrative in the form of a printed zine. I've seen these genres produced in media products the follow a similar theme / style to my narrative on a minimal budget, hence I have found it to be the most appropriate path to follow in the production of my zine. These genres often stylistically are a product of their minimal budget, using old hardware with 3CCD sensors that add a level of grain and imperfection to the final image, for my zine I will opt to use 35mm film to recreate this effect through photography to provide authentic imperfection to the final product. Using this film for my photography will additionally provide a stylistic colour profile produced in the camera. 
 
 The coming of age genre features a narrative that primarily focuses on the growth and maturing of the protagonist and emphasises discussion and relationships between characters over action and suspense typical of most genres. These tropes inherently tie into the drama genre containing tropes of fictional sensationalised relationships and disagreements between the narratives characters. Between these genres they share various common tropes such as; the use of lighting and colour grading to promote emphasis of emotion in pivotal scenes, sudden key change in the protagonists life and (anti) happily ever after endings.
+# Techniques of Engagement
+I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine. Furthermore
+# Codes & Conventions
 # Narrative
 In the heart of Melbourne city a teenaged protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
 
@@ -18,18 +21,16 @@ In frustration the protagonist begins the push himself beyond his limits, throwi
 Fed up with recovery the protagonist decides to cut it short, lobbying his friend to come filming only to be met with concerns for his health. Unphased he sneaks out of the house to resume his attempts in the silent and empty space he had once shared in good times with friends. With no camera the protagonist is determined to land the trick, no longer for community approval, but to satisfy his own unbearable obsession. After many attempts his efforts are successful, as he rolls away from the trick a he feels a sense of great euphoria, only to be immediately contrasted by the the sombre realisation of the damage he's caused to not only himself but the friends who's approval he initially craved.
 
 The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
-# Techniques of Engagement
-I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine. Furthermore
-# Codes & Conventions
 # Treatment
-# Character Descriptions
-# Storyboard
+- logline
+- characters
+- synopsis (acts)
+# Storyboard / Composition
 # Locations
-# Costume
-# Composition
-# Content Outline
 # Props
+# Character Descriptions
+# Costume
 # Cast
-# Production Schedule
 # Distribution
 # Presentation
+# Production Schedule
