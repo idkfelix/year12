@@ -1,8 +1,10 @@
 > [!FAQ] Glossary
-> - **Order**: the dimensions of a matrix, $height \cdot width$, or $\large m \cdot n$
+> - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right
 > - **Counter diagonal**: a diagonal running from the top right to the bottom left
 > - **Commutative**: the ability to rearrange an operation, $AB \neq BA$
+> - **Binary Matrix**: a matrix that contains only $1$'s or $0$'s 
+
 ## Matrix
 - Displays a collection of numerical elements in rows and columns
 - Matrices are usually labelled as a capital letters
@@ -51,7 +53,7 @@ $$
 	- The remaining row ($n$) and column ($m$) of the matrices will become the order
 	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix
 	- Row of first matrix is effectively transposed and overlaid then the sum of the aligning elements products form the new element
-	- Matrices multiplication is non-commutative (cannot be rearranged, except if both matrices are diagonal) 
+	- Matrices multiplication is generally  non-commutative (cannot be rearranged, except if both matrices are diagonal) 
 $$
 \large
 \begin{align*}
@@ -118,11 +120,10 @@ A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix} \\
 I&= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 \end{align*}
 $$
-## Binary & Permutation Matrices
-- A binary matrix consists of only ones and zeros, or true and false values
+## Permutation Matrices
 - Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column, often denoted as the letter $P$ 
 - A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied
-- Multiplying with a permutation matrix is non-commutative however its arrangement is used for different purposes
+- Multiplying with a permutation matrix is non-commutative however its arrangement switches between rearranging rows or columns
 - Post multiplication, with the binary on the right, results in a column multiplication opposed to pre multiplication, with the binary on the left, resulting in a row permutation
 $$
 \large 
@@ -138,7 +139,6 @@ AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
 $$
 ## Communication Matrices
 - Communication matrices are a square binary matrices where the $1's$ represent the connections in a communication system, often denoted at $T$
-- These connection are bi-directional and work both ways
 - **One-step** communication links are a direct connection between two points represented by a singe $1$ in a communications matrix
 $$
 \large
