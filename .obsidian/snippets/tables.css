@@ -7,9 +7,7 @@ table{
   margin: 0px !important;
 }
 tr>td:nth-child(1){
-  width: 10%;
-  min-width: 10% !important;
-  max-width: 100% !important;
+  width: 30%;
   div:not(.*handle) {
     min-width: 100% !important;
     max-width: 100% !important;

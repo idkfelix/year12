@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f10c6740259b5e2",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "filename": "tables.css"
-              }
-            }
-          },
-          {
             "id": "dce8743ab920eec1",
             "type": "leaf",
             "state": {
@@ -72,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -88,15 +77,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media/SAT/Statements.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,7 +95,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6f10c6740259b5e2",
+  "active": "dce8743ab920eec1",
   "lastOpenFiles": [
     "Media/SAT/Statements.md",
     "Media/SAT/attachments/Pasted image 20240612220814.png",
