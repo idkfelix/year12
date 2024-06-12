@@ -6,9 +6,10 @@
   "enabledCssSnippets": [
     "pdf",
     "pdf-zoom",
-    "pdf-size",
     "misc",
     "pre",
-    "mermaid"
+    "mermaid",
+    "pdf-size",
+    "tables"
   ]
 }

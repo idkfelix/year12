@@ -11,16 +11,27 @@
             "id": "6f10c6740259b5e2",
             "type": "leaf",
             "state": {
+              "type": "css-editor-view",
+              "state": {
+                "filename": "tables.css"
+              }
+            }
+          },
+          {
+            "id": "dce8743ab920eec1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Media/SAT/Statements.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -95,8 +107,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6f10c6740259b5e2",
+  "active": "dce8743ab920eec1",
   "lastOpenFiles": [
+    "Media/SAT/Statements.md",
     "Media/SAT/attachments/Pasted image 20240612220814.png",
     "Media/SAT/attachments/Pasted image 20240612220717.png",
     "Media/SAT/attachments/Pasted image 20240612220606.png",
@@ -107,10 +120,8 @@
     "Media/SAT/attachments/Pasted image 20240612215452.png",
     "Media/SAT/attachments/Pasted image 20240612215403.png",
     "Maths/Matrices.md",
-    "Media/SAT/Statements.md",
     "Maths/Data Analysis.md",
     "Media/SAT/attachments/Pasted image 20240612125019.png",
-    "Media/SAT/attachments/Pasted image 20240612125652.png",
     "Media/SAT/attachments",
     "English/Protests/Hope.md",
     "Accounting/U3O2 Sac Prep.md",
