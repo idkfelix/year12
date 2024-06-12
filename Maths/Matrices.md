@@ -125,24 +125,16 @@ $$
 - Multiplying with a permutation matrix is non-commutative however its arrangement is used for different purposes
 - Post multiplication, with the binary on the right, results in a column multiplication opposed to pre multiplication, with the binary on the left, resulting in a row permutation
 $$
-\large PA=
-\begin{bmatrix}
-  0 & 0 & 1 \\ 
-  1 & 0 & 0 \\ 
-  0 & 1 & 0 \\
-\end{bmatrix}
-\cdot
-\begin{bmatrix}
-  a & b & c \\ 
-  d & e & f \\ 
-  g & h & i \\
-\end{bmatrix}
-=
-\begin{bmatrix}
-  g & h & i \\ 
-  a & b & c \\ 
-  d & e & f \\
-\end{bmatrix}
+\large 
+\begin{align*}
+PA= \begin{bmatrix} 0 & 0 & 1 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{bmatrix}
+\cdot\begin{bmatrix} 1 & 1 & 1 \\ 2 & 2 & 2 \\ 3 & 3 & 3 \end{bmatrix}
+&=\begin{bmatrix} 3 & 3 & 3 \\ 1 & 1 & 1 \\ 2 & 2 & 2 \end{bmatrix}
+\\\\
+AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
+\cdot\begin{bmatrix} 0 & 0 & 1 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{bmatrix}
+&=\begin{bmatrix} 3 & 1 & 2 \\ 3 & 1 & 2 \\ 3 & 1 & 2 \end{bmatrix}
+\end{align*}
 $$
 ## Communication Matrices
 - Communication matrices are a square binary matrices where the $1's$ represent the connections in a communication system, often denoted at $T$
