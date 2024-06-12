@@ -46,5 +46,10 @@ The final zine will be distributed by hand as the nature of its form associates 
 | **Skateboard x4** | ![[Pasted image 20240612125019.png\|200]] | A skateboard for each character in the narrative                  |
 | First Aid Kit     | ![[Pasted image 20240612125652.png\|200]] | Kit containing bandages and a sling for use in act 2 after injury |
 ## Costumes
+
+| Character       | Costume (Variation Allowed)                                              |
+| --------------- | ------------------------------------------------------------------------ |
+| The Protagonist | ![[Pasted image 20240612215403.png]]![[Pasted image 20240612215452.png]] |
+
 ## Locations
 # Production Schedule
