@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,8 +100,13 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Maths/Matrices.md",
     "Media/SAT/Statements.md",
+    "Media/SAT/attachments/Pasted image 20240612125652.png",
+    "Media/SAT/attachments/Pasted image 20240612124914.png",
+    "Media/SAT/attachments/Pasted image 20240612125019.png",
+    "Media/SAT/attachments/Pasted image 20240612124340.png",
+    "Media/SAT/attachments",
+    "Maths/Matrices.md",
     "conflict-files-obsidian-git.md",
     "English/Protests/Hope.md",
     "English/Persuasive Techniques.md",
@@ -126,14 +133,9 @@
     "SoftDev/SAT1/pdfs/Design.pdf",
     "SoftDev/SAT1/pdfs",
     "SoftDev/SAT1/gantt/Notelass.gan",
-    "SoftDev/SAT1/gantt",
     "SoftDev/SAT1/design/notelass.svg",
     "SoftDev/SAT1/design/Login.png",
     "SoftDev/SAT1/design/Home.png",
-    "SoftDev/SAT1/design/Editor.png",
-    "SoftDev/SAT1/design/Data-Diagram.png",
-    "SoftDev/SAT1/design/Components.png",
-    "SoftDev/SAT1/design/Alt.png",
     "Accounting/classwork/Net Profit Margin.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
