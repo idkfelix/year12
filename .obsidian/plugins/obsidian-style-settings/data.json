@@ -18,5 +18,8 @@
   "minimal-style@@folding-offset": 32,
   "minimal-style@@table-column-min-width": "6ch",
   "minimal-style@@trim-cols": false,
-  "minimal-style@@table-nowrap": false
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@h2-color@@light": "#333333",
+  "minimal-style@@h2-color@@dark": "#D1D1D1"
 }

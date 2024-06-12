@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Media/SAT/Statements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Media/SAT/Statements.md"
               }
             }
           }
@@ -97,7 +97,9 @@
   },
   "active": "6f10c6740259b5e2",
   "lastOpenFiles": [
+    "Maths/Matrices.md",
     "Media/SAT/Statements.md",
+    "Maths/Data Analysis.md",
     "Media/SAT/attachments/Pasted image 20240612125019.png",
     "Media/SAT/attachments/Pasted image 20240612125652.png",
     "Media/SAT/attachments/Pasted image 20240612124340.png",
@@ -121,7 +123,6 @@
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
     "SoftDev/SAT1/Design.md",
-    "Maths/Matrices.md",
     "English/Practice SACs/Garment Gab.md",
     "SoftDev/DesignStage.zip",
     "SoftDev/DesignStage.zip.tmp",
@@ -134,7 +135,6 @@
     "Maths/Recursion & Financial.md",
     "conflict-files-obsidian-git.md",
     "Maths/Data Smoothing.md",
-    "Maths/Data Analysis.md",
     "Media/SAT/Genre & Style.md",
     "Accounting/classwork/Net Profit Margin.md",
     "Media/SAT/Outcome 3.md",
