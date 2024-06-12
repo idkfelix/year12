@@ -96,9 +96,8 @@ $$
 - $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
 $$
 \large
-A= \begin{bmatrix}2&2\\3&4\end{bmatrix}
-= 2\cdot4 - 3\cdot2 = 2
-\qquad 2\neq 0
+A= \begin{bmatrix}2&2\\3&4\end{bmatrix}\qquad
+|A|= 2\cdot4 - 3\cdot2 = 2
 $$
 ## Inverse Matrix
 - The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
@@ -106,9 +105,9 @@ $$
 $$
 \large
 \begin{align*}
-A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{|A|}\\
-A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{2}\\
-A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}
+A^{-1}&= \begin{bmatrix}4&-2\\-3\phantom{-}&2\end{bmatrix}\cdot\frac{1}{|A|}\\
+&= \begin{bmatrix}4&-2\\-3\phantom{-}&2\end{bmatrix}\cdot\frac{1}{2}\\
+&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}
 \end{align*}
 $$
 ## Identity Matrix
@@ -160,4 +159,14 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 \cdot \begin{bmatrix}0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
-- 
+- The total number of one and two step links in a communications system, denoted at $T$, can be found by evaluating $T=C+C^2$
+$$
+T = C+C^{2} = 
+\begin{bmatrix}
+0 & 1 & 0 \\
+1 & 0 & 1 \\
+0 & 1 & 0
+\end{bmatrix}
++ \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
+=
+$$
