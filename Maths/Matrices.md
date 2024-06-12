@@ -2,9 +2,8 @@
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right.
 > - **Counter diagonal**: a diagonal running from the top right to the bottom left.
-> - **Commutative**: the ability to rearrange an operation, $AB \neq BA$.
+> - **Commutative**: the ability to rearrange an operation, i.e. $AB = BA$.
 > - **Binary Matrix**: a matrix that contains only $1$'s or $0$'s.
-
 
 ## Matrix
 - Displays a collection of numerical elements in rows and columns.
@@ -79,8 +78,8 @@ $$
 \end{align*}
 $$
 ## Indices
-- Must be a square matrix to raise to use an index operation.
-- Multiply matrix by itself to the index the same as a regular number.
+- Must be a square in order to raise matrix to a power.
+- Matrix is multiplied by itself many times as specified in the power.
 $$
 \large
 A^{2} = AA =
@@ -164,8 +163,8 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 $$
 - The total number of one and two step links in a communications system, commonly denoted at $T$, can be found by evaluating the sum of $C$ and $C^2$.
 $$
-\large T = C+C^{2} 
-= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
+\large T = C+C^{2}\qquad
+T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 + \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$

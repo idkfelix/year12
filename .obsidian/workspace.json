@@ -90,10 +90,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "Compass:Compass": false,
-      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "6f10c6740259b5e2",
