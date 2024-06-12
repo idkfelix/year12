@@ -57,8 +57,8 @@ The final zine will be distributed by hand as the nature of its form associates 
 
 ## Locations
 
-|     |     |
-| --- | --- |
-|     |     |
+| Location | Picture | Comments |
+| -------- | ------- | -------- |
+|          |         |          |
 
 # Production Schedule
