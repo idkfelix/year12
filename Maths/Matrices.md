@@ -1,6 +1,5 @@
 > [!FAQ] Glossary
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
-> - **Dot Product**: multiplication implying the transposition of the first matrix.
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right.
 > - **Counter diagonal**: a diagonal running from the top right to the bottom left.
 > - **Commutative**: the ability to rearrange an operation, $AB \neq BA$.
@@ -62,7 +61,7 @@ $$
 		1 & 3 \\
 		2 & 6
 	\end{bmatrix}
-	\begin{bmatrix} 
+	\cdot\begin{bmatrix} 
 		3 \\ 5
 	\end{bmatrix}
 	= \begin{bmatrix}
@@ -163,20 +162,11 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 \cdot \begin{bmatrix}0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
-- The total number of one and two step links in a communications system, commonly denoted at $T$, can be found by evaluating the sum $T=C+C^2$.
+- The total number of one and two step links in a communications system, commonly denoted at $T$, can be found by evaluating the sum of $C$ and $C^2$.
 $$
-\large
-T = C+C^{2} = 
-\begin{bmatrix}
-0 & 1 & 0 \\
-1 & 0 & 1 \\
-0 & 1 & 0
-\end{bmatrix}
+\large T = C+C^{2} 
+= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 + \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
-= 
-\begin{bmatrix}
-1 & 1 & 1 \\
-1 & 2 & 1 \\
-1 & 1 & 1
-\end{bmatrix}
+= \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
+## Dominance Matrices
