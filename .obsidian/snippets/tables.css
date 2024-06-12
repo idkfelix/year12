@@ -8,4 +8,8 @@ table{
 }
 td{
   min-width: 20% !important;
+  max-width: 100% !important;
+  .table-cell-wrapper {
+    min-width: 100% !important;
+  }
 }
