@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "636c283e158afef2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8186c9829b8dc76d",
+  "active": "636c283e158afef2",
   "lastOpenFiles": [
     "Media/SAT/Statements.md",
     "Maths/Matrices.md",
