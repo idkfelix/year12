@@ -138,7 +138,8 @@ AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
 \end{align*}
 $$
 ## Communication Matrices
-- Communication matrices are a square binary matrices where the $1's$ represent the connections in a communication system, often denoted at $T$
+- Communication matrices are a square binary matrices where the $1's$ represent the connections in a communication system, commonly denoted as $C$ 
+- These square matrices are generally symmetrically adjacent (drawing a line of symmetry along a diagonal) unless the communication is not mutual 
 - **One-step** communication links are a direct connection between two points represented by a singe $1$ in a communications matrix
 $$
 \large
