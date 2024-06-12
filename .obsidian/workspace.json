@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Media/SAT/Statements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "636c283e158afef2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -90,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Media/SAT/Statements.md"
               }
             }
           }
@@ -98,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,10 +96,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "636c283e158afef2",
+  "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Media/SAT/Statements.md",
     "Maths/Matrices.md",
+    "Media/SAT/Statements.md",
     "conflict-files-obsidian-git.md",
     "English/Protests/Hope.md",
     "English/Persuasive Techniques.md",

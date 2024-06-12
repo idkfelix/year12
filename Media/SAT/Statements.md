@@ -9,28 +9,30 @@ The coming of age genre features a narrative that primarily focuses on the growt
 # Techniques of Engagement
 I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine. Furthermore
 # Codes & Conventions
-# Narrative
-In the heart of Melbourne city a teenaged protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
+# Treatment & Narrative
+*`A teenage skateboarders dream of becoming a professional becomes an obsession as he becomes engulfed in the world of skating, ignorant to the alienation of those around him and his fading once vibrant relationships.`*
+## Act 1
+In the heart of Melbourne city a teenage protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
 
 The protagonist is proposed the idea of having their skateboarding filmed with a camera one of their friends recently purchased in hopes of getting recognition among the competitive community of skateboarding. This idea starts as a small project for the group as they skate the classic spots around the city, until one day the protagonist imagines a risky trick they are convinced will impress team managers enough to invite him as a professional. This thought becomes an obsession for the protagonist as he begins training every day, studying skate videos and skating more frequently in hopes of landing the trick.
-
+## Act 2
 Becoming a professional skateboards begins to overshadow everything in the protagonists life as he skips other activities with his friends to continue attempting this trick. With less and less friends by his side in their skate sessions the protagonist becomes ignorant to alienation of those around him and the fading relationships as it becomes apparent to his friends that all he obsesses over is a single skate trick. The enjoyment and community of the hobby starts to fade for the protagonist as he grows to despise the hobby, yet he wont let himself quit attempting to land this fabled skate trick.
 
 In frustration the protagonist begins the push himself beyond his limits, throwing himself into the trick in hopes of finally achieving his goal. By now all those around him but the filmer have left, annoyed by the little value their friendships mean to the protagonist, yet his obsession has left him blinded to the surrounding sentiment. This climaxes in a dangerous attempt of the trick in which the protagonist crashes onto the concrete breaking his wrist, with little option he's forced to take time off skating for recovery. Although this time off only grows his obsession of the trick as he analyses more skateboarding footage the trick feels so close, yet so far away.
-
+## Act 3
 Fed up with recovery the protagonist decides to cut it short, lobbying his friend to come filming only to be met with concerns for his health. Unphased he sneaks out of the house to resume his attempts in the silent and empty space he had once shared in good times with friends. With no camera the protagonist is determined to land the trick, no longer for community approval, but to satisfy his own unbearable obsession. After many attempts his efforts are successful, as he rolls away from the trick a he feels a sense of great euphoria, only to be immediately contrasted by the the sombre realisation of the damage he's caused to not only himself but the friends who's approval he initially craved.
 
 The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
-# Treatment
-- logline
-- characters
-- synopsis (acts)
-# Storyboard / Composition
+# Characters & Cast
+My narrative will consist of four main characters the protagonist, friend A / the filmer, friend B and friend C. All of these character are in their late teenage years and will remain unnamed as the medium used does not allow for dialog.
+## The Protagonist
+The protagonist goes about life with little worry as his day to day consists of hanging out with friends around Melbourne city. He's recently picked up skateboarding with his group of mates and has found great enjoyment in competitive community as him and his friends have rapidly improved. This causes the protagonist to start pushing himself further with the goal of becoming a professional skateboarder. Over time this goal manifests into an obsession over a challenging trick he cant land. The protagonist tunnel visions on this obsession, allowing it to overshadow the rest of his life eventually resulting in his ignorant alienation of those around him. This obsession slowly destroys the protagonists life and his love for skating begins to turn into a hatred of the hobby, of which he takes out on those around him furthering the alienation.
+## The Filmer
+Friend A is similar to the protagonist in that they've formed a bond over their great interest in skateboarding and its community. Friend A acquires a camera early in the narrative for filming skateboarding and begins to film the protagonist to help him achieve his goal of becoming a professional, from which point hes referred to as 'the filmer'. This dynamic conveys the filmer and the protagonist as the primary duo of the characters and begins to aid the alienation of other characters. The filmer delves deeper into the world of skateboarding with similar dreams of filming a local skate video, yet his commitment / obsession is nowhere near as severe as the protagonists. As a friend he only means well, supporting those around him with their best interest in mind, however is easily influenced by the protagonist into joining him in his ignorance.
+## Friend A&B
+Friend B and C both serve a similar purpose in the narrative as late teenage skateboarders they find the most enjoyment in doing the activity with friends rather than skating in a competitive nature. These friends quickly grow tired with the protagonist as his obsession begins to form, this feeling is reinforced by the similar mindset that appears in the filmer although he remains on good terms. Both characters are initially defined by their shared enjoyment of skateboarding with the filmer and protagonist, however as they feel alienated by the protagonist they are featured in less and less shots, only appearing disinterested or agitated around him as it is made clear the little value their previous friendship holds.
+# Composition & Layout
+# Props & Costume
+# Distribution & Presentation
 # Locations
-# Props
-# Character Descriptions
-# Costume
-# Cast
-# Distribution
-# Presentation
 # Production Schedule
