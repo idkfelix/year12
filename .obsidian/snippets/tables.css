@@ -6,10 +6,13 @@ table{
   padding: 0px !important;
   margin: 0px !important;
 }
-td{
-  min-width: 20% !important;
+tr>td:nth-child(1){
+  width: 10%;
+  min-width: 10% !important;
   max-width: 100% !important;
-  .table-cell-wrapper {
+  div:not(.*handle) {
     min-width: 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
 }
