@@ -1,4 +1,11 @@
-table .cm-table-widget {
+.cm-table-widget {
+  padding: 0px !important;
+}
+table{
   min-width: 100% !important;
-  margin: 0px;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+td{
+  min-width: 20% !important;
 }

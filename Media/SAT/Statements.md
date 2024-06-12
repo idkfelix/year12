@@ -40,6 +40,7 @@ My media product will be produced in the form of a printed zine. This zine will 
 The final zine will be distributed by hand as the nature of its form associates various costs with production and distribution. By employing this method of distribution the product should see greater results in audience engagement as a result of its personal nature, aligning with the themes and ideas of the narrative. However I will use common online promotion through social media for the zine with the use of a poster graphic, moreover this poster can be printed similarly to the product on a larger scale for physical promotion. This poster will capture the target audiences attention by conveying the themes of the narrative in a similar visual style to that of the zines content. On the poster there will be text content displaying information about the production such as, the title, credits, actors, format and instructions detailing how to obtain the zine.
 # Props, Costumes & Locations
 ## Props
+
 | Prop              |                  Picture                  | Notes                                                             |
 | ----------------- | :---------------------------------------: | ----------------------------------------------------------------- |
 | **AG-HVX200**     | ![[Pasted image 20240612124340.png\|200]] | Used as prop for the filmer and a focal point for various shots   |
