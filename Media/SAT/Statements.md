@@ -34,6 +34,8 @@ Friend A is similar to the protagonist in that they've formed a bond over their 
 ## Friend A&B
 Friend B and C both serve a similar purpose in the narrative as late teenage skateboarders they find the most enjoyment in doing the activity with friends rather than skating in a competitive nature. These friends quickly grow tired with the protagonist as his obsession begins to form, this feeling is reinforced by the similar mindset that appears in the filmer although he remains on good terms. Both characters are initially defined by their shared enjoyment of skateboarding with the filmer and protagonist, however as they feel alienated by the protagonist they are featured in less and less shots, only appearing disinterested or agitated around him as it is made clear the little value their previous friendship holds.
 # Composition & Layout
+# Distribution & Presentation
+My media product will be produced in the form of a printed zine. This zine will be of A5 size with 20 total pages including a front a back cover, these two pages will not contain any narrative content and will be used to engage the reader with the product. 
 # Props, Costumes & Locations
 ## Props
 | Prop              | Picture                                   | Notes                                                             |
@@ -41,5 +43,6 @@ Friend B and C both serve a similar purpose in the narrative as late teenage ska
 | **AG-HVX200**     | ![[Pasted image 20240612124340.png\|200]] | Used as prop for the filmer and a focal point for various shots   |
 | **Skateboard x4** | ![[Pasted image 20240612125019.png\|200]] | A skateboard for each character in the narrative                  |
 | First Aid Kit     | ![[Pasted image 20240612125652.png\|200]] | Kit containing bandages and a sling for use in act 2 after injury |
-# Distribution & Presentation
+## Costumes
+## Locations
 # Production Schedule
