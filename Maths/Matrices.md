@@ -1,9 +1,11 @@
 > [!FAQ] Glossary
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
+> - **Dot Product**: multiplication implying the transposition of the first matrix.
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right.
 > - **Counter diagonal**: a diagonal running from the top right to the bottom left.
 > - **Commutative**: the ability to rearrange an operation, $AB \neq BA$.
 > - **Binary Matrix**: a matrix that contains only $1$'s or $0$'s.
+
 
 ## Matrix
 - Displays a collection of numerical elements in rows and columns.
@@ -22,7 +24,7 @@ $$
 $$
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order.
-- Elements are added or subtracted the same as regular numbers.
+- Elements are added or subtracted the same as a normal evaluation.
 $$
 \large
 \begin{bmatrix}2 & 3 \\ 5 & 2\end{bmatrix}
@@ -84,7 +86,7 @@ $$
 \large
 A^{2} = AA =
 \begin{bmatrix} 4 & 3 \\ 6 & 5 \end{bmatrix}
-\begin{bmatrix} 4 & 3 \\ 6 & 5 \end{bmatrix}
+\cdot \begin{bmatrix} 4 & 3 \\ 6 & 5 \end{bmatrix}
 =
 \begin{bmatrix} 34 & 27 \\ 54 & 43 \end{bmatrix}
 $$
@@ -93,11 +95,13 @@ $$
 - For a matrix to have an inverse its determinant must not equal zero.
 - The determinant of a square matrix is denote with a pole either side of the matrix $|A|$ or as the $det()$ function $det(A)$.
 - For a $2\cdot2$ matrix $A$ the determinant is the product elements across the leading diagonal minus the product of elements across the counter diagonal.
-- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
 $$
 \large
+\begin{align*}
 A= \begin{bmatrix}2&2\\3&4\end{bmatrix}\qquad
-|A|= 2\cdot4 - 3\cdot2 = 2
+|A| &= a_{11} \cdot a_{22} - a_{12} \cdot a_{21}\\
+|A| &= 2\cdot4 - 3\cdot2 = 2
+\end{align*}
 $$
 ## Inverse Matrix
 - The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
@@ -159,8 +163,9 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 \cdot \begin{bmatrix}0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
-- The total number of one and two step links in a communications system, denoted at $T$, can be found by evaluating $T=C+C^2$
+- The total number of one and two step links in a communications system, commonly denoted at $T$, can be found by evaluating the sum $T=C+C^2$.
 $$
+\large
 T = C+C^{2} = 
 \begin{bmatrix}
 0 & 1 & 0 \\
@@ -168,5 +173,10 @@ T = C+C^{2} =
 0 & 1 & 0
 \end{bmatrix}
 + \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
-=
+= 
+\begin{bmatrix}
+1 & 1 & 1 \\
+1 & 2 & 1 \\
+1 & 1 & 1
+\end{bmatrix}
 $$
