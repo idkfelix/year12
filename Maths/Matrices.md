@@ -20,6 +20,23 @@ $$
  \end{bmatrix}
 }
 $$
+## Addition & Subtraction
+- To perform addition or subtraction all matrices must have the same order.
+- Elements are added or subtracted the same as regular numbers.
+$$
+\large
+\begin{bmatrix}2 & 3 \\ 5 & 2\end{bmatrix}
++\begin{bmatrix}3 & 1 \\ 2 & 1\end{bmatrix}
+= \begin{bmatrix}5 & 4 \\ 7 & 3\end{bmatrix}
+$$
+## Scalar Multiplication
+- Resulting matrix is the product of each element with a single number.
+$$
+\large
+\begin{bmatrix} 1 &  2 & 3 \end{bmatrix} 
+\cdot 2 
+= \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}
+$$
 ## Transposition
 - The transpose of a matrix, $A$, is denoted $A^T$.
 - A transposed matrix has the same elements just with rows and columns swapped.
@@ -30,30 +47,12 @@ $$
   A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \qquad
   A^{T} = \begin{bmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{bmatrix}
 $$
-## Addition & Subtraction
-- To perform addition or subtraction all matrices must have the same order.
-- Elements are added or subtracted the same as regular numbers.
-$$
-\large
-\begin{bmatrix}2 & 3 \\ 5 & 2\end{bmatrix}
-+\begin{bmatrix}3 & 1 \\ 2 & 1\end{bmatrix}
-= \begin{bmatrix}5 & 4 \\ 7 & 3\end{bmatrix}
-$$
-## Multiplication
-- **Scalar**
-	- Resulting matrix is the product of each element with a single number.
-$$
-\large
-\begin{bmatrix} 1 &  2 & 3 \end{bmatrix} 
-\cdot 2 
-= \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}
-$$
-- **Matrices**
-	- The columns ($n$) of the first matrix must match the rows ($m$) of the second.
-	- The remaining row ($n$) and column ($m$) of the matrices will become the order.
-	- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix.
-	- Row of first matrix is effectively transposed and overlaid then the sum of the aligning elements products form the new element.
-	- Matrices multiplication is generally  non-commutative (cannot be rearranged, except if both matrices are diagonal) .
+## Matrices Multiplication
+- The columns ($n$) of the first matrix must match the rows ($m$) of the second.
+- The remaining row ($n$) and column ($m$) of the matrices will become the order.
+- the position of each element in the resulting matrix is formed from its row in the first matrix and its column in the second matrix.
+- Row of first matrix is effectively transposed and overlaid then the sum of the aligning elements products form the new element.
+- Matrices multiplication is generally  non-commutative (cannot be rearranged, except if both matrices are diagonal) .
 $$
 \large
 \begin{align*}
@@ -89,36 +88,38 @@ A^{2} = AA =
 =
 \begin{bmatrix} 34 & 27 \\ 54 & 43 \end{bmatrix}
 $$
-## Determinant, Inverse & Identity
-- **Determinant**
-	- The determinant is a number associated with a matrix which determines weather or not a matrix has an inverse.
-	- For a matrix to have an inverse its determinant must not equal zero.
-	- The determinant of a square matrix is denote with a pole either side of the matrix $|A|$ or as the $det()$ function $det(A)$.
-	- For a $2\cdot2$ matrix $A$ the determinant is the product elements across the leading diagonal minus the product of elements across the counter diagonal.
-	- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
-- **Inverse Matrix**
-	- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
-	- $A^{-1}$ is found with the product of a new array derived from $A$ with elements on the leading diagonal swapped, the negative versions of each remaining elements and $1$ over $|A|$ or $det(A)$.
-- **Identity Matrix**
-	- The identity matrix is denoted as $I$ in an expression .
-	- A square matrix of all $0$'s and a stripe of $1$'s across the leading diagonal.
-	- The identity matrix of $A$ is the product of itself and its inverse: $I = AA^{-1}$
+## Determinant
+- The determinant is a number associated with a matrix which determines weather or not a matrix has an inverse.
+- For a matrix to have an inverse its determinant must not equal zero.
+- The determinant of a square matrix is denote with a pole either side of the matrix $|A|$ or as the $det()$ function $det(A)$.
+- For a $2\cdot2$ matrix $A$ the determinant is the product elements across the leading diagonal minus the product of elements across the counter diagonal.
+- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
+$$
+\large
+A= \begin{bmatrix}2&2\\3&4\end{bmatrix}
+= 2\cdot4 - 3\cdot2 = 2
+\qquad 2\neq 0
+$$
+## Inverse Matrix
+- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
+- $A^{-1}$ is found with the product of a new array derived from $A$ with elements on the leading diagonal swapped, the negative versions of each remaining elements and $1$ over $|A|$ or $det(A)$.
 $$
 \large
 \begin{align*}
-&\text{Determinant} &&\text{Inverse Matrix}\\
-A&= \begin{bmatrix}2&2\\3&4\end{bmatrix} &
-\therefore A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{|A|} \\
-|A|&= 2\cdot4 - 3\cdot2 = 2 &
-A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{2} \\
-|A| &\neq 0 &
-A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix} \\
-&\text{Identity Matrix}\\
-\therefore I&= 
-  \begin{bmatrix}2&2\\3&4\end{bmatrix}
-  \begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}\\
-I&= \begin{bmatrix}1&0\\0&1\end{bmatrix}
+A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{|A|}\\
+A^{-1}&= \begin{bmatrix}4&-2\\-3&2\end{bmatrix}\frac{1}{2}\\
+A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}
 \end{align*}
+$$
+## Identity Matrix
+- The identity matrix is denoted as $I$ in an expression .
+- A square matrix of all $0$'s and a stripe of $1$'s across the leading diagonal.
+- The identity matrix of $A$ is the product of itself and its inverse: $I = AA^{-1}$
+$$
+\large
+I= AA^{-1}\qquad
+I= \begin{bmatrix}2&2\\3&4\end{bmatrix} \cdot\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}\qquad
+I= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 $$
 ## Permutation Matrices
 - Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column, often denoted as the letter $P$.
