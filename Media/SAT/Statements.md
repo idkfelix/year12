@@ -47,9 +47,10 @@ The final zine will be distributed by hand as the nature of its form associates 
 | First Aid Kit     | ![[Pasted image 20240612125652.png\|200]] | Kit containing bandages and a sling for use in act 2 after injury |
 ## Costumes
 
-| Character       | Costume (Variation Allowed)                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| The Protagonist | ![[Pasted image 20240612215403.png]]![[Pasted image 20240612215452.png]] |
+| Character & Description | Costume (Variation Allowed)                                                                                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Protagonist (Act 1) | ![[Pasted image 20240612215618.png\|200]]![[Pasted image 20240612215403.png\|200]]![[Pasted image 20240612215654.png\|200]]![[Pasted image 20240612220027.png\|200]] |
+| The Protagonist (Act 2) | ![[Pasted image 20240612220320.png\|200]]![[Pasted image 20240612215403.png\|200]]![[Pasted image 20240612215654.png\|200]]                                          |
 
 ## Locations
 # Production Schedule
