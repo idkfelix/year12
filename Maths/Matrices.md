@@ -1,9 +1,8 @@
-
 > [!FAQ] Glossary
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $\large m \cdot n$
+> - **Leading diagonal**: a diagonal that runs from the top left to bottom right
+> - **Counter diagonal**: a diagonal running from the top right to the bottom left
 > - **Commutative**: the ability to rearrange an operation, $AB \neq BA$
-> - **Therefore**: represented as a $\large\therefore$ within an formula
-
 ## Matrix
 - Displays a collection of numerical elements in rows and columns
 - Matrices are usually labelled as a capital letters
@@ -93,14 +92,14 @@ $$
 	- The determinant is a number associated with a matrix which determines weather or not a matrix has an inverse
 	- For a matrix to have an inverse its determinant must not equal zero
 	- The determinant of a square matrix is denote with a pole either side of the matrix $|A|$ or as the $det()$ function $det(A)$
-	- For a $2\cdot2$ matrix $A$ the determinant is the product elements diagonally top left to bottom right minus the product of elements top right to bottom left
+	- For a $2\cdot2$ matrix $A$ the determinant is the product elements across the leading diagonal minus the product of elements across the counter diagonal
 	- $\large det(A) = |A| = a_{11} \cdot a_{22} - a_{12} \cdot a_{21}$
 - **Inverse Matrix**
 	- The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$
-	- To find $A^{-1}$ a matrix derived from $A$ with the top left and bottom right elements swapped and the negative versions of the remaining elements is created then the product of it and $1$ over $|A|$ or $det(A)$ is used
+	- $A^{-1}$ is found with the product of a new array derived from $A$ with elements on the leading diagonal swapped, the negative versions of each remaining elements and $1$ over $|A|$ or $det(A)$
 - **Identity Matrix**
 	- The identity matrix is denoted as $I$ in an expression 
-	- Formed as a square matrix with a diagonal stripe of $1$ from the top left corner to the bottom right corner
+	- A square matrix of all $0$'s and a stripe of $1$'s across the leading diagonal
 	- The identity matrix of $A$ is the product of itself and its inverse: $I = AA^{-1}$
 $$
 \large
@@ -119,9 +118,49 @@ A^{-1}&=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix} \\
 I&= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 \end{align*}
 $$
-## Binary Matrices
-- A binary matrix consists of only ones and zeros
-- **Permutation Matrix**
-	- Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column
-	- A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied
-	- Multiplying with a permutation matrix is commutative (order of numbers can be rearranged whilst producing the same result)
+## Binary & Permutation Matrices
+- A binary matrix consists of only ones and zeros, or true and false values
+- Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column, often denoted as the letter $P$ 
+- A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied
+- Multiplying with a permutation matrix is non-commutative however its arrangement is used for different purposes
+- Post multiplication, with the binary on the right, results in a column multiplication opposed to pre multiplication, with the binary on the left, resulting in a row permutation
+$$
+\large PA=
+\begin{bmatrix}
+  0 & 0 & 1 \\ 
+  1 & 0 & 0 \\ 
+  0 & 1 & 0 \\
+\end{bmatrix}
+\cdot
+\begin{bmatrix}
+  a & b & c \\ 
+  d & e & f \\ 
+  g & h & i \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+  g & h & i \\ 
+  a & b & c \\ 
+  d & e & f \\
+\end{bmatrix}
+$$
+## Communication Matrices
+- Communication matrices are a square binary matrices where the $1's$ represent the connections in a communication system, often denoted at $T$
+- These connection are bi-directional and work both ways
+- **One-step** communication links are a direct connection between two points represented by a singe $1$ in a communications matrix
+$$
+\large
+\begin{align*}
+&\text{One-Step Matrix}\\
+P &= 
+\begin{bmatrix}
+0 & 1 & 0 \\
+1 & 0 & 1 \\
+0 & 1 & 0
+\end{bmatrix}
+\end{align*}
+$$
+- **Two-step** communication links are two points connected via a middle point, this can be found by squaring a communication matrix indicating all two-step links
+- Redundant links of a two-step matrix, where the sender and receiver are the same, can be identified as any non-zero values across the leading diagonal
+$$
+$$
