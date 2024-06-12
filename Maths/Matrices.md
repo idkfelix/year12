@@ -143,20 +143,20 @@ $$
 - **One-step** communication links are a direct connection between two points represented by a singe $1$ in a communications matrix.
 $$
 \large
-\begin{align*}
-&\text{One-Step Matrix}\\
-P &= 
+C = 
 \begin{bmatrix}
 0 & 1 & 0 \\
 1 & 0 & 1 \\
 0 & 1 & 0
 \end{bmatrix}
-\end{align*}
 $$
-- **Two-step** communication links are two points connected via a middle point, this can be found by squaring a communication matrix, of which any element in the new matrix not equal to $0$ represents a meaningful two-step communication link.
+- **Two-step** communication matrix, denoted as $C^2$, represents links where two points are connected via a middle point, this can be found by squaring a one-step matrix.
+- Any element of a two-step matrix not equal to $0$ represents a meaningful two-step communication link (i.e. not redundant).
 - Two-step communication matrices can have redundant link where the sender and receiver are the same, these can be identified as any element not equal to $0$ across the leading diagonal of the matrix.
 $$
-
+\large 
+C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
+\cdot \begin{bmatrix}0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
+= \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
-$$
-$$
+- 
