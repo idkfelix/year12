@@ -10,7 +10,8 @@ The coming of age genre features a narrative that primarily focuses on the growt
 I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine.
 # Codes & Conventions
 # Treatment & Narrative
-*`A teenage skateboarders dream of becoming a professional becomes an obsession as he becomes engulfed in the world of skating, ignorant to the alienation of those around him and his fading once vibrant relationships.`*
+## Logline
+*A teenage skateboarders dream of becoming a professional becomes an obsession as he becomes engulfed in the world of skating, ignorant to the alienation of those around him and his fading once vibrant relationships.*
 ## Act 1
 In the heart of Melbourne city a teenage protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
 
@@ -24,6 +25,7 @@ Fed up with recovery the protagonist decides to cut it short, lobbying his frien
 
 The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
 # Characters & Cast
+## Summary
 My narrative will consist of four main characters the protagonist, friend A / the filmer, friend B and friend C. All of these character are in their late teenage years and will remain unnamed as the medium used does not allow for dialog.
 ## The Protagonist
 The protagonist goes about life with little worry as his day to day consists of hanging out with friends around Melbourne city. He's recently picked up skateboarding with his group of mates and has found great enjoyment in competitive community as him and his friends have rapidly improved. This causes the protagonist to start pushing himself further with the goal of becoming a professional skateboarder. Over time this goal manifests into an obsession over a challenging trick he cant land. The protagonist tunnel visions on this obsession, allowing it to overshadow the rest of his life eventually resulting in his ignorant alienation of those around him. This obsession slowly destroys the protagonists life and his love for skating begins to turn into a hatred of the hobby, of which he takes out on those around him furthering the alienation.
@@ -33,6 +35,7 @@ Friend A is similar to the protagonist in that they've formed a bond over their 
 Friend B and C both serve a similar purpose in the narrative as late teenage skateboarders they find the most enjoyment in doing the activity with friends rather than skating in a competitive nature. These friends quickly grow tired with the protagonist as his obsession begins to form, this feeling is reinforced by the similar mindset that appears in the filmer although he remains on good terms. Both characters are initially defined by their shared enjoyment of skateboarding with the filmer and protagonist, however as they feel alienated by the protagonist they are featured in less and less shots, only appearing disinterested or agitated around him as it is made clear the little value their previous friendship holds.
 # Composition & Layout
 # Props, Costumes & Locations
+## Props
 | Prop              | Picture                                   | Notes                                                             |
 | ----------------- | ----------------------------------------- | ----------------------------------------------------------------- |
 | **AG-HVX200**     | ![[Pasted image 20240612124340.png\|200]] | Used as prop for the filmer and a focal point for various shots   |
