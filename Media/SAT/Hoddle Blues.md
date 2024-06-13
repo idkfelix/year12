@@ -20,7 +20,7 @@ Opening the narrative the protagonist and his friends will be depicted as a tigh
 ## Setting
 To maintain accuracy and continuity with the culture of skateboarding the narrative will be set in the central business district of Melbourne city, renowned internationally as the capital of skateboarding in Australia, due to it's distinct architecture ambient lighting and abundance of skate spots it best represents the scenery of skateboarding media the characters of the narrative aim to produce. Additionally by utilising these historic skate spots as locations for my zine its final media product should feature a sense of familiarity to the target audience as a result of skateboarding cultures heavy focus on the location media is shot at and the reoccurrence of prominent skate spots over the decades.
 # Treatment & Narrative
-## Logline
+## Hoddle Blues
 *A teenage skateboarders dream of becoming a professional becomes an obsession as he becomes engulfed in the world of skating, ignorant to the alienation of those around him and his fading once vibrant relationships.*
 ## Act 1
 In the heart of Melbourne city a teenage protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
