@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/Statements.md",
-                "mode": "preview",
+                "file": "English/Protests/Oral Presentation.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/SAT/Statements.md"
+                "file": "English/Protests/Oral Presentation.md"
               }
             }
           }
@@ -98,8 +98,8 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Media/SAT/Statements.md",
+    "conflict-files-obsidian-git.md",
     "English/Protests/Oral Presentation.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
