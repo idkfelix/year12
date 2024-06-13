@@ -10,3 +10,4 @@
 		- Is being used as a scapegoat due to its lack of general understanding 
 - AI will not continue to grow exponentially as advertised to consumers
 	- Moore's law, theory from intel co-founder of transistor density and processing power doubling every year, has been disproven over the past few years as physical limits have been reached.
+https://arxiv.org/pdf/2211.04325
