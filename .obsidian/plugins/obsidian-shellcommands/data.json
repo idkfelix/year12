@@ -30,7 +30,7 @@
       },
       "shells": {},
       "alias": "Build Website",
-      "icon": "network",
+      "icon": "server",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -52,7 +52,7 @@
       },
       "output_channel_order": "stdout-first",
       "output_handling_mode": "buffered",
-      "execution_notification_mode": null,
+      "execution_notification_mode": "permanent",
       "events": {},
       "debounce": null,
       "command_palette_availability": "enabled",

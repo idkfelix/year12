@@ -70,11 +70,11 @@
     "type": "split",
     "children": [
       {
-        "id": "effdaea4514adc9d",
+        "id": "0321e8cb894d6bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "487a85c61e4588c7",
+            "id": "9b18170a73aa95cd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -93,9 +93,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "Compass:Compass": false,
-      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "8186c9829b8dc76d",
