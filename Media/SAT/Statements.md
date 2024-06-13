@@ -9,6 +9,8 @@ The coming of age genre features a narrative that primarily focuses on the growt
 # Techniques of Engagement
 I will use style and mise en scene as my primary methods of audience engagement for my zine. I have opted to use mise en scene specifically as my product will prominently consist of photography meaning that the engaging features of the zine need to be conveyed in still frames. Mise en scene historically has been used to achieve this as the props and elements each frame contains can create eye catching focal points and intrigue the viewer allow me to convey depth to the narrative of the zine without dialogue or motion. Style of the zine will be my focus for initially engaging the reader with the narrative through the construction of a unique visual style. This style should have elements resembling that of media products featuring similar themes / narratives to my zine, by employing this technique I aim to capture an audience who will further engage with the story and messaging conveyed throughout the zine.
 # Codes & Conventions
+## Camera
+A key code I will utilise in my media product is camera due to its stylistic intention. To shoot my zine I intend to use a Canon BF-10 35mm point and shoot film camera. Although this camera lacks many controls of a modern DSLR camera or SLR film camera it makes up for this 
 # Treatment & Narrative
 ## Logline
 *A teenage skateboarders dream of becoming a professional becomes an obsession as he becomes engulfed in the world of skating, ignorant to the alienation of those around him and his fading once vibrant relationships.*
