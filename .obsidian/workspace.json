@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Media/SAT/Statements.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -100,25 +98,29 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Media/SAT/Statements.md",
-    "Media/SAT/attachments/Pasted image 20240612125652.png",
-    "Media/SAT/attachments/Pasted image 20240612124914.png",
-    "Media/SAT/attachments/Pasted image 20240612125019.png",
-    "Media/SAT/attachments/Pasted image 20240612124340.png",
+    "English/Protests/Oral Presentation.md",
+    "Media/SAT/attachments/Pasted image 20240612233606.png",
+    "Media/SAT/attachments/Pasted image 20240612233506.png",
+    "Media/SAT/attachments/Pasted image 20240612233441.png",
+    "Media/SAT/attachments/Pasted image 20240612233359.png",
+    "Media/SAT/attachments/Pasted image 20240612220814.png",
+    "Media/SAT/attachments/Pasted image 20240612220717.png",
+    "Media/SAT/attachments/Pasted image 20240612220606.png",
+    "Media/SAT/attachments/Pasted image 20240612220320.png",
+    "Media/SAT/attachments/Pasted image 20240612220027.png",
+    "Media/SAT/attachments/Pasted image 20240612215654.png",
     "Media/SAT/attachments",
     "Maths/Matrices.md",
-    "conflict-files-obsidian-git.md",
     "English/Protests/Hope.md",
     "English/Persuasive Techniques.md",
     "Accounting/Balance Sheet.md",
     "Accounting/U3O2 Sac Prep.md",
     "README.md",
     "Media/SAT/Outcome 3.md",
-    "Accounting/attachments/Pasted image 20240602150723.png",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
-    "Accounting/attachments/Pasted image 20240602152649.png",
-    "Accounting/attachments/Pasted image 20240602150648.png",
     "Maths/Data Analysis.md",
     "English/Practice SACs/Garment Gab.md",
     "English/Born A Crime/Born_a_Crime.pdf",
@@ -133,9 +135,6 @@
     "SoftDev/SAT1/pdfs/Design.pdf",
     "SoftDev/SAT1/pdfs",
     "SoftDev/SAT1/gantt/Notelass.gan",
-    "SoftDev/SAT1/design/notelass.svg",
-    "SoftDev/SAT1/design/Login.png",
-    "SoftDev/SAT1/design/Home.png",
     "Accounting/classwork/Net Profit Margin.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
