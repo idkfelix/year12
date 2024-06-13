@@ -1,3 +1,5 @@
+>Topic: Misinformation surrounding artificial intelligence 
+
 > Popular cultures portrayal of AI has skewed public perception of its technical advancements and dangers
 
 - AI will not continue to grow exponentially as advertised to consumers
@@ -7,6 +9,7 @@
 	- Many recent 'developments' are just repackaged existing technologies
 - Public misunderstanding of AI and how its effecting them
 	- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8976224/
+	- [Only 2 in 4 Australians believe AI's benefits outweigh its risks](https://espace.library.uq.edu.au/view/UQ:00d3c94)
 	- Debunking 7news article of myki attack
 - Real dangers of AI
 	- Melbourne school girl deep fakes
