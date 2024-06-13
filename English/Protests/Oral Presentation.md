@@ -9,9 +9,6 @@
 	- Many recent 'developments' are just repackaged existing technologies
 - Public misunderstanding of AI and how its effecting them
 	- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8976224/
-	- [Only 2 in 4 Australians believe AI's benefits outweigh its risks](https://espace.library.uq.edu.au/view/UQ:00d3c94)
-	- Debunking 7news article of myki attack
-- Real dangers of AI
-	- Melbourne school girl deep fakes
-	- Scamming techniques
-	- Integrity of the scholarly system. 
+	- [Only 2 in 5 Australians](https://espace.library.uq.edu.au/view/UQ:00d3c94) recognise themselves as having an understanding of AI and use cases, compared to the 4 in 5 average of other countries in the Australasia region. \[University of Queensland 2023]
+	- [7 News](https://www.youtube.com/watch?v=fsPtyuwwLuo) attributes the 'superpower of AI' to explain a recent cyber attack on PTV Myki cards.
+		- Debunking the 
