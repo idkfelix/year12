@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/General Ledger.md",
+                "file": "Maths/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/General Ledger.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -97,6 +97,7 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
+    "Accounting/General Ledger.md",
     "Accounting/Inventory.md",
     "Accounting/General Journal.md",
     "Accounting/Balance Sheet.md",
@@ -141,7 +142,6 @@
     "Accounting/classwork/Net Profit Margin.md",
     "English/Protests/Protest SAC.md",
     "SoftDev/Unit3 Key Terms.md",
-    "English/Analytical Response.md",
-    "English/Practice SACs/Harrison Bergeron (Commentary).md"
+    "English/Analytical Response.md"
   ]
 }
