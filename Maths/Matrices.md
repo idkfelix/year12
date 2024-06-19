@@ -141,7 +141,7 @@ AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
 $$
 ## Communication Matrices
 - Communication matrices, denoted as $C$, are a square binary matrices where each $1$ represent a connection in a communication system between row and column.
-- These square matrices are generally symmetrically adjacent (drawing a line of symmetry along the leading diagonal) unless the communication is not mutual.
+- These square matrices are generally symmetrically adjacent (drawing a line of symmetry along the leading diagonal).
 - **One-step** communication links are a direct connection between two points represented by a singe $1$ in a communications matrix.
 $$
 \large
@@ -169,3 +169,6 @@ T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
 ## Dominance Matrices
+- Represents one way connections on a square matrix
+- Unlike a communication matrix it is not a symmetrical matrix
+- 
