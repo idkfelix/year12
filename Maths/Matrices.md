@@ -169,7 +169,21 @@ T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
 ## Dominance Matrices
-- Represents one way connections on a square binary matrix, commonly denoted as the letter $T$
+- Represents one way connections on a square binary matrix, commonly denoted as the letter $D$
 - Rows and columns represent start and end of a one way connection similar to a communications matrix, this is read on the matrix's rows with $1$'s representing a dominance over the column
 - Unlike a communication matrix it is not a symmetrical matrix as each communication link only works one way
-- **One-Step Dominance Scores** can be found by summing each row of a dominance matrix 
+- **One-Step Dominance Scores** are found by summing each row of a dominance matrix 
+$$
+D = \begin{bmatrix}
+  0 & 0 & 1 & 1 & 0 \\ 
+  1 & 0 & 1 & 0 & 1 \\ 
+  0 & 0 & 0 & 1 & 0 \\ 
+  0 & 1 & 0 & 0 & 0 \\ 
+  1 & 0 & 1 & 1 & 0 \\ 
+\end{bmatrix} \quad
+\begin{matrix}
+2 \\ 3 \\ 1 \\ 1 \\ 3
+\end{matrix}
+$$
+- **Two-Step Dominance Scores** are found similar to a connections matrix by squaring $D$, denoted as $D^{2}$
+- 
