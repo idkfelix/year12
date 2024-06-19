@@ -161,7 +161,7 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 \cdot \begin{bmatrix}0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
-- The total number of one and two step links in a communications system, commonly denoted at $T$, can be found by evaluating the sum of $C$ and $C^2$.
+- The total number of one and two step links in a communications system, commonly denoted as $T$, can be found by evaluating the sum of $C$ and $C^2$.
 $$
 \large T = C+C^{2}\qquad
 T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
@@ -169,7 +169,7 @@ T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
 ## Dominance Matrices
-- Represents one way connections on a square matrix
-- Rows and columns represent start and end of a connection link similar to a communications matrix
+- Represents one way connections on a square binary matrix, commonly denoted as the letter $T$
+- Rows and columns represent start and end of a one way connection similar to a communications matrix, this is read on the matrix's rows with $1$'s representing a dominance over the column
 - Unlike a communication matrix it is not a symmetrical matrix as each communication link only works one way
-- **One-Step** dominance matrix
+- **One-Step Dominance Scores** can be found by summing each row of a dominance matrix 
