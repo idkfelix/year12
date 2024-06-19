@@ -170,5 +170,6 @@ T= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 $$
 ## Dominance Matrices
 - Represents one way connections on a square matrix
-- Unlike a communication matrix it is not a symmetrical matrix
-- 
+- Rows and columns represent start and end of a connection link similar to a communications matrix
+- Unlike a communication matrix it is not a symmetrical matrix as each communication link only works one way
+- **One-Step** dominance matrix
