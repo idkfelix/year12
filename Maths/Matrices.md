@@ -174,6 +174,7 @@ $$
 - Unlike a communication matrix it is not a symmetrical matrix as each communication link only works one way
 - **One-Step Dominance Scores** are found by summing each row of a dominance matrix 
 $$
+\large
 D = \begin{bmatrix}
   0 & 0 & 1 & 1 & 0 \\ 
   1 & 0 & 1 & 0 & 1 \\ 
