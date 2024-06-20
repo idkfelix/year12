@@ -13,13 +13,6 @@ Many of the public's first exposure to the concept of artificial intelligence ha
 
 However recent research and the trends of similar past phenomena have shown with a high degree of certainty that current methods of development cannot achieve AGI, moreover cannot even reasonably sustain its current rate of growth. A renowned phenomenon observed by and named after Intel co-founder, Gordon Moore, stated  'The number of transistors in an integrated circuit, \[or computer chip], will double every year,'  due to a historical trend of transistor size reduction. This was later revised to every two years, from which its projection remained true for many years, however at the height of its speculation in 2005 Moore admitted the trend was not sustainable and failed to recognise physical limitations of production. This would be realised in recent years as development of hardware powering modern AI technology significantly significantly slowed causing an almost plateau in recent advancements. 
 
-
-
-
-
-
-
-
 The phenomenon of advancement in search of AGI perpetrated through popular culture has further been opposed recently through a renowned research paper published by 'Avixr' into the sustainability of AI growth. The paper concluded that AI's primary means for advancement, training data, will almost certainly limit the abilities of AI within the near future. Analysis conducted revealed that in order to train any speculated AGI five to six orders of magnitude more training data produced by humans would be required to even come near the goal, moreover if our current AI continued to advance at its speculated exponential rate all existing training data would be exhausted by the year 2028. This research and analysis of historical growth sustainability has show the uncertainty and baselessness of these proposed timelines and predictions that are advertised to consumers with the promise of AGI. Furthermore the imagery used of extraordinary Intelligence has only perpetrated hysteria similar to that at the time of early computer chip development, skewing public perception of the technology and its dangers.
 
 ## The Real Dangers
