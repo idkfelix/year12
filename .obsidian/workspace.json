@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "638297c42325c14e",
+        "id": "8c9a9b086aa75a07",
         "type": "tabs",
         "children": [
           {
-            "id": "dce8743ab920eec1",
+            "id": "827ad405c0529fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT1/Design.md",
+                "file": "English/Protests/Oral Draft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT1/Design.md"
+                "file": "English/Protests/Oral Draft.md"
               }
             }
           }
@@ -95,8 +95,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "dce8743ab920eec1",
+  "active": "827ad405c0529fc9",
   "lastOpenFiles": [
+    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/design/Components.png",
     "Media/SAT/Hoddle Blues.md",
     "English/Protests/Oral Draft.md",
@@ -110,7 +111,6 @@
     "Media/SAT/attachments/Pasted image 20240612220606.png",
     "Media/SAT/attachments/Pasted image 20240612220320.png",
     "Media/SAT/attachments/Pasted image 20240612220027.png",
-    "Media/SAT/attachments/Pasted image 20240612215654.png",
     "Maths/Matrices.md",
     "Maths/Data Analysis.md",
     "Media/SAT/attachments",
@@ -125,7 +125,6 @@
     "English/Persuasive Techniques.md",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
-    "SoftDev/SAT1/Design.md",
     "English/Practice SACs/Garment Gab.md",
     "SoftDev/DesignStage.zip",
     "SoftDev/DesignStage.zip.tmp",
