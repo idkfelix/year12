@@ -1,4 +1,4 @@
-## Hook
+## Intro
 Over the past decade we have seen the historic rise of AI technology from simple chatbots, to image recognition, and now seemingly a goldmine of endless capabilities, yet our perception of this modern marvel has been skewed by popular culture and more than ever the misunderstanding of artificial intelligence, its capabilities and in turn its dangers is at an all time high among Australians. The craze we've witnessed surrounding this magical technology has been fuelled by sensationalised depictions in media and the lack of comprehensive education on the subject, allowing consumers to be fed misinformation and form a widespread mistrust across the country. As I would consider myself, a well informed student on the subject, I aim to shed light on this complex issue and dispel public misunderstanding for you, the consumer, to reconcile fears of the technology, understand its limitations and be informed of its real dangers.
 
 ## Public Misunderstanding
