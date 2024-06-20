@@ -6,7 +6,6 @@
       {
         "id": "91fcfe000cbe0f4e",
         "type": "tabs",
-        "dimension": 61.034115138592746,
         "children": [
           {
             "id": "02fe161955c0e348",
@@ -15,26 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "English/Protests/Oral Final.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8c9a9b086aa75a07",
-        "type": "tabs",
-        "dimension": 38.965884861407254,
-        "children": [
-          {
-            "id": "827ad405c0529fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Protests/Oral Presentation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
