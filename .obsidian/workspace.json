@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
-                "mode": "preview",
+                "file": "English/Protests/Oral Draft.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "English/Protests/Oral Draft.md"
               }
             }
           }
@@ -98,6 +99,8 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
+    "Maths/Matrices.md",
+    "English/Protests/Oral Draft.md",
     "Accounting/General Ledger.md",
     "Accounting/Inventory.md",
     "Accounting/General Journal.md",
@@ -118,7 +121,6 @@
     "Media/SAT/attachments/Pasted image 20240612220027.png",
     "Media/SAT/attachments/Pasted image 20240612215654.png",
     "Media/SAT/attachments",
-    "Maths/Matrices.md",
     "English/Protests/Hope.md",
     "English/Persuasive Techniques.md",
     "Accounting/U3O2 Sac Prep.md",
@@ -142,7 +144,6 @@
     "SoftDev/SAT1/gantt/Notelass.gan",
     "Accounting/classwork/Net Profit Margin.md",
     "English/Protests/Protest SAC.md",
-    "SoftDev/Unit3 Key Terms.md",
-    "English/Analytical Response.md"
+    "SoftDev/Unit3 Key Terms.md"
   ]
 }
