@@ -211,6 +211,6 @@ T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
 \cdot\text{ 15\% of fish in pond A today will be in pond B tommorow}
 }
 $$
-- 
+- Transition matrices can be used to predict future and past states based on the values of a given state using:  $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
 ## Leslie Matrix
 - A Leslie matrix, denoted as $L$, is a niche application of a transition matrix that can be used to model the growth of a population and its age distribution over time.
