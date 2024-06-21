@@ -192,4 +192,10 @@ $$
 	- Within a scenario there is a regular time interval between states
 	- States are denoted as $S_n$ where $n$ refers to the state number, this is an integer starting from $0$ or the 'initial state'
 	- A state matrix is represented as a single row or column with adjacent labels
-- **Transition Diagram** s
+- **Transition Diagram** is a network that represents the data of a transition matrix
+	- Nodes in the diagram represent each state in the matrix
+	- Arrows between nodes show probability of transition to another state
+	- If an arrow between nodes is not present it indicates a probability of $0$
+- A **state-transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
+- Rows and columns are symmetrically labelled with each state.
+- Elements represent a one way probability of a transi
