@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91fcfe000cbe0f4e",
+        "id": "bd62102d8b0b14fb",
         "type": "tabs",
         "children": [
           {
-            "id": "02fe161955c0e348",
+            "id": "8186c9829b8dc76d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,19 +62,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
     "children": [
       {
-        "id": "2503d8d211717162",
+        "id": "0321e8cb894d6bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "85e5254876aa9d7b",
+            "id": "9b18170a73aa95cd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -87,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -97,13 +96,22 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "02fe161955c0e348",
+  "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
     "English/Protests/Oral Presentation.md",
     "English/Protests/Oral Final.md",
-    "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT1/design/Components.png",
+    "Accounting/General Journal.md",
+    "SoftDev/SAT1/design/Notelass.fig",
+    "Accounting/U3O2 Sac Prep.md",
+    "English/Protests/Oral Draft.md",
+    "Maths/Matrices.md",
+    "Accounting/General Ledger.md",
+    "Accounting/Inventory.md",
+    "Accounting/Balance Sheet.md",
+    "Accounting/Accounts Turnover.md",
     "Media/SAT/Hoddle Blues.md",
+    "Media/SAT/Statements.md",
+    "conflict-files-obsidian-git.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
     "Media/SAT/attachments/Pasted image 20240612233441.png",
@@ -113,35 +121,27 @@
     "Media/SAT/attachments/Pasted image 20240612220606.png",
     "Media/SAT/attachments/Pasted image 20240612220320.png",
     "Media/SAT/attachments/Pasted image 20240612220027.png",
-    "Maths/Matrices.md",
-    "Maths/Data Analysis.md",
+    "Media/SAT/attachments/Pasted image 20240612215654.png",
     "Media/SAT/attachments",
     "English/Protests/Hope.md",
-    "Accounting/U3O2 Sac Prep.md",
-    "Media/SAT/Production Experiment/Production Experiment 2.pdf",
-    "Media/SAT/Production Experiment/Production Experiment 1.md",
-    "Media/SAT/Production Experiment/Production Experiment 1.pdf",
-    "Media/SAT/Production Experiment/Production Experiment 2.md",
-    "Media/SAT/Production Experiment/attachments",
-    "Media/SAT/Production Experiment",
     "English/Persuasive Techniques.md",
+    "README.md",
+    "Media/SAT/Outcome 3.md",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
-    "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
+    "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
+    "Maths/Data Analysis.md",
     "English/Practice SACs/Garment Gab.md",
-    "SoftDev/DesignStage.zip",
-    "SoftDev/DesignStage.zip.tmp",
-    "SoftDev/SAT1/pdfs/Design.pdf",
-    "SoftDev/SAT1/SRS.md",
+    "English/Born A Crime/Born_a_Crime.pdf",
+    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
-    "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
     "Maths/Recursion & Financial.md",
-    "conflict-files-obsidian-git.md",
-    "Maths/Data Smoothing.md",
-    "Media/SAT/Genre & Style.md",
-    "Accounting/classwork/Net Profit Margin.md",
-    "Media/SAT/Outcome 3.md",
-    "English/Practice SACs/Harrison Bergeron (Commentary).md"
+    "SoftDev/SAT1/pdfs/SRS.pdf",
+    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
+    "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
+    "SoftDev/SAT1/pdfs/Design.pdf",
+    "SoftDev/SAT1/pdfs",
+    "Accounting/classwork/Net Profit Margin.md"
   ]
 }

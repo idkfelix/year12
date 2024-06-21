@@ -22,3 +22,11 @@ However there are extreme examples of artificial intelligence been used in harmf
 
 ## Conclusion
 By and large popular culture has perpetrated an speculative image dangerous artificial intelligence, causing a sentiment of public mistrust in the technology and misunderstanding of how it effects you, as an Australian consumer. Despite this perception, it is crucial to recognise the limitations and capabilities of current and future AI to dispel fear and hysteria being used to mislead consumers. It is crucial to identify and separate science fiction sensationalism from real modern technology, and it is crucial to understand how artificial intelligence can be used maliciously against you. So to combat pop-cultures marketed misinformation surrounding the technology and become an informed consumer.
+
+## Bibliography
+https://arxiv.org/abs/2211.04325
+https://www.youtube.com/watch?v=fsPtyuwwLuo
+https://espace.library.uq.edu.au/view/UQ:00d3c94
+https://svelte.dev/repl/9c76ed2562764d418ec429f0bfc04a10?version=4.2.18
+https://en.wikipedia.org/wiki/Moore%27s_law
+https://www.donga.com/en/article/all/20240410/4871995/1#:~:text=During%20an%20interview%20on%20X,revised%20this%20timeline%20significantly%20earlier.
