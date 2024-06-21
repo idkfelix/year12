@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=fsPtyuwwLuo
 https://espace.library.uq.edu.au/view/UQ:00d3c94
 https://svelte.dev/repl/9c76ed2562764d418ec429f0bfc04a10?version=4.2.18
 https://en.wikipedia.org/wiki/Moore%27s_law
-https://www.donga.com/en/article/all/20240410/4871995/1#:~:text=During%20an%20interview%20on%20X,revised%20this%20timeline%20significantly%20earlier.
+https://www.donga.com/en/article/all/20240410/4871995/1#:~:text=During%20an%20interview%20on%20X,revised%20this%20timeline%20significantly%20earlier
