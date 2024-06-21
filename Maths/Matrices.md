@@ -187,3 +187,4 @@ D = \begin{bmatrix}
 $$
 - **Two-Step Dominance Scores** are found similar to a connections matrix by squaring $D$, denoted as $D^{2}$
 - 
+## Transition Matrices
