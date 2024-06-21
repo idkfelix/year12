@@ -200,11 +200,17 @@ $$
 - Rows and columns are symmetrically labelled with each state.
 - Elements represent a one way probability of a transition from one state to another in the form of a proportion or $\large\frac{probability\%}{100}$
 $$
+\displaylines{
 \begin{align*}
+&\quad\begin{matrix}A \quad & B\end{matrix}\\
+T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
+\begin{matrix}A\\B\end{matrix}
+\end{align*}\\\\
+
 \cdot\text{ 10\% of fish in pond A today will be in pond A tommorow} \\
-\cdot\text{ 15\% of fish in pond A today will be in pond B tommorow} \\
-T&= \begin{bmatrix}0.10 & \end{bmatrix}
-\end{align*}
+\cdot\text{ 15\% of fish in pond A today will be in pond B tommorow}
+}
 $$
+- 
 ## Leslie Matrix
 - A Leslie matrix, denoted as $L$, is a niche application of a transition matrix that can be used to model the growth of a population and its age distribution over time.
