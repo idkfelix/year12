@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Protests/Oral Final.md",
-                "mode": "source",
+                "file": "Maths/Matrices.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Protests/Oral Final.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -99,8 +97,8 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "English/Protests/Oral Presentation.md",
     "English/Protests/Oral Final.md",
+    "English/Protests/Oral Presentation.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT1/design/Notelass.fig",
     "Accounting/U3O2 Sac Prep.md",
