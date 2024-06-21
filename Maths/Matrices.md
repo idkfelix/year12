@@ -187,4 +187,8 @@ D = \begin{bmatrix}
 $$
 - **Two-Step Dominance Scores** are found similar to a connections matrix by squaring $D$, denoted as $D^{2}$
 - 
-## Transition Matrices
+## State-Transition Matrices
+- A state refers to a snapshot of data at a point in time
+- Within a scenario there is a regular time interval between states
+- Sates are denoted as $S_n$ where $n$ refers to the state number, this is an integer starting from $0$ or the 'initial state'
+- A state 
