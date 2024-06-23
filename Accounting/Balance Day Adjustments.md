@@ -1,0 +1,11 @@
+- Prepaid Expense
+	- Paying an expense for many cycles in advance
+	- Current Asset
+- Unearned Revenue
+	- Receiving prepaid expenses from a business
+	- Current Liability
+- Accrued \[Expense]
+	- An expense that has been incurred but not yet paid
+	- Current Liability
+- Revenue
+	- Value that has been earned by the business but not necessarily paid
