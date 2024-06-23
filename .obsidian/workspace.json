@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Balance Day Adjustments.md",
+                "file": "Maths/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Balance Day Adjustments.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,8 +97,8 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Maths/Matrices.md",
     "Accounting/Balance Day Adjustments.md",
+    "Maths/Matrices.md",
     "English/Protests/Oral Final.md",
     "English/Protests/Oral Presentation.md",
     "Accounting/General Journal.md",
