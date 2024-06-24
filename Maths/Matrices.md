@@ -200,9 +200,10 @@ $$
 \usepackage{tikz-cd}
 
 \begin{document}
-\begin{tikzcd}[row sep=2.5em]
+\Large\begin{tikzcd}[row sep=2.5em]
 
-A \ar[loop l]
+A \ar[loop left, "10\%"] \ar[r, "90\%"] & 
+B \ar[loop right, "85\%"] \ar[bend, "15\%"]
 
 \end{tikzcd}
 \end{document}
