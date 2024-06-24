@@ -242,8 +242,16 @@ $$
 $$
 \large\displaylines{
 \begin{align*}
-&\quad\begin{matrix}0 \quad & 1 \quad & 2\end{matrix}\\
-T= &\begin{bmatrix}F_ & 0.15 \\ 0.90 & 0.85\end{bmatrix}
-\begin{matrix}A\\B\end{matrix}
+&\quad\begin{matrix}0 & 1 & 2\end{matrix}\\
+L= &\begin{bmatrix}
+  F_0 & F_1 & F_{3}\\
+  P_0 & 0 & 0  \\
+  0 & P_1 & 0
+\end{bmatrix}
+\begin{matrix}
+  \text{fertility rate}\qquad\qquad\\
+  \text{survival rate from 0-1}\\
+  \text{survival rate from 1-2}
+\end{matrix}
 \end{align*}}
 $$
