@@ -192,6 +192,9 @@ $$
 	- Within a scenario there is a regular time interval between states
 	- States are denoted as $S_n$ where $n$ refers to the state number, this is an integer starting from $0$ or the 'initial state'
 	- A state matrix is represented as a single row or column with adjacent labels
+$$
+\large S_{n}=\begin{bmatrix}0.14 \\ 0.26 \\ 0.60\end{bmatrix}
+$$
 - **Transition Diagram** is a network that represents the data of a transition matrix
 	- Nodes in the diagram represent each state in the matrix
 	- Arrows between nodes show probability of transition to another state
@@ -200,28 +203,24 @@ $$
 \usepackage{tikz-cd}
 
 \begin{document}
-\Large\begin{tikzcd}[row sep=2.5em]
+\huge\begin{tikzcd}[row sep=2.5em]
 
-A \ar[loop left, "10\%"] \ar[r, "90\%"] & 
-B \ar[loop right, "85\%"] \ar[bend, "15\%"]
+A \ar[loop left, "10\%"] \ar[r, bend left, "90\%"] & 
+B \ar[loop right, "85\%"] \ar[l, bend left, "15\%"]
 
 \end{tikzcd}
 \end{document}
 ```
 - A **state-transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
-- Rows and columns are symmetrically labelled with each state.
-- Elements represent a one way probability of a transition from one state to another in the form of a proportion or $\large\frac{probability\%}{100}$
+- Each column of the matrix should sum to $1$ as it is split into the probabilities of transitioning to each row or state.
+- All transition matrices should indicated which of the rows and columns are 'from' and 'to' as they are not always column to row.
 $$
-\displaylines{
+\large\displaylines{
 \begin{align*}
 &\quad\begin{matrix}A \quad & B\end{matrix}\\
 T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
 \begin{matrix}A\\B\end{matrix}
-\end{align*}\\\\
-
-\cdot\text{ 10\% of fish in pond A today will be in pond A tommorow} \\
-\cdot\text{ 15\% of fish in pond A today will be in pond B tommorow}
-}
+\end{align*}}
 $$
 - Transition matrices can be used to predict future and past states based on the values of a given state using:  $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
 ## Leslie Matrix
