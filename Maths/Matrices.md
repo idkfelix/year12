@@ -211,7 +211,7 @@ B \ar[loop right, "85\%"] \ar[l, bend left, "15\%"]
 \end{tikzcd}
 \end{document}
 ```
-- A **state-transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
+- A **transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
 - Each column of the matrix should sum to $1$ as it is split into the probabilities of transitioning to each row or state.
 - All transition matrices should indicated which of the rows and columns are 'from' and 'to' as they are not always column to row.
 $$
@@ -239,4 +239,11 @@ $$
 - A Leslie matrix, denoted as $L$, is a niche application of a transition matrix that can be used to model the growth of a population and its age distribution over time.
 - When applying a Leslie matrix to a population, only the females are considered
 - In contrast to a standard transition matrix, the columns of a Leslie matrix do not sum to $1$
-- 
+$$
+\large\displaylines{
+\begin{align*}
+&\quad\begin{matrix}0 \quad & 1 \quad & 2\end{matrix}\\
+T= &\begin{bmatrix}F_ & 0.15 \\ 0.90 & 0.85\end{bmatrix}
+\begin{matrix}A\\B\end{matrix}
+\end{align*}}
+$$
