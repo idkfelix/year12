@@ -222,6 +222,21 @@ T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
 \begin{matrix}A\\B\end{matrix}
 \end{align*}}
 $$
-- Transition matrices can be used to predict future and past states based on the values of a given state using:  $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
+- Transition matrices can be used to predict future and past states based on the values of a given state with the following formulas
+	- $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
+	- $S_{n}=T^{n}\cdot{S_{n}}$
+$$
+\large S_{1}= TS_{0} = 
+\begin{bmatrix}0.8 & 0.1 \\ 0.2 & 0.9\end{bmatrix}
+\begin{bmatrix}50 \\ 40\end{bmatrix}
+= \begin{bmatrix}
+ 0.8\cdot50+0.1\cdot40 \\
+ 0.2\cdot50+0.1\cdot40
+\end{bmatrix}
+= \begin{bmatrix}44 \\ 46\end{bmatrix}
+$$
 ## Leslie Matrix
 - A Leslie matrix, denoted as $L$, is a niche application of a transition matrix that can be used to model the growth of a population and its age distribution over time.
+- When applying a Leslie matrix to a population, only the females are considered
+- In contrast to a standard transition matrix, the columns of a Leslie matrix do not sum to $1$
+- 
