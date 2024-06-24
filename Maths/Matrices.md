@@ -196,6 +196,17 @@ $$
 	- Nodes in the diagram represent each state in the matrix
 	- Arrows between nodes show probability of transition to another state
 	- If an arrow between nodes is not present it indicates a probability of $0$
+```tikz
+\usepackage{tikz-cd}
+
+\begin{document}
+\begin{tikzcd}[row sep=2.5em]
+
+A \ar[loop l]
+
+\end{tikzcd}
+\end{document}
+```
 - A **state-transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
 - Rows and columns are symmetrically labelled with each state.
 - Elements represent a one way probability of a transition from one state to another in the form of a proportion or $\large\frac{probability\%}{100}$
