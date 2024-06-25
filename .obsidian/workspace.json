@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Accounting/review questions/CH12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Accounting/review questions/CH12.md"
               }
             }
           }
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,8 +99,9 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Accounting/Balance Day Adjustments.md",
     "Maths/Matrices.md",
+    "Accounting/review questions/CH12.md",
+    "Accounting/Balance Day Adjustments.md",
     "English/Protests/Oral Final.md",
     "English/Protests/Oral Presentation.md",
     "Accounting/General Journal.md",
@@ -141,7 +144,6 @@
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
     "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
     "SoftDev/SAT1/pdfs/Design.pdf",
-    "SoftDev/SAT1/pdfs",
-    "Accounting/classwork/Net Profit Margin.md"
+    "SoftDev/SAT1/pdfs"
   ]
 }
