@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "469aed34f394aa00",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8186c9829b8dc76d",
+  "active": "469aed34f394aa00",
   "lastOpenFiles": [
     "Accounting/review questions/CH12.md",
     "Maths/Matrices.md",
