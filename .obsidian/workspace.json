@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
-                "mode": "preview",
+                "file": "Media/notes/26-6-24.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "469aed34f394aa00",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Media/notes/26-6-24.md"
               }
             }
           }
@@ -106,10 +95,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "469aed34f394aa00",
+  "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Accounting/review questions/CH12.md",
+    "Media/notes/26-6-24.md",
     "Maths/Matrices.md",
+    "Accounting/review questions/CH12.md",
     "Accounting/Balance Day Adjustments.md",
     "English/Protests/Oral Final.md",
     "English/Protests/Oral Presentation.md",
@@ -148,7 +138,6 @@
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
     "English/Protests/Speak Truth To Power.md",
-    "Maths/Recursion & Financial.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
     "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
