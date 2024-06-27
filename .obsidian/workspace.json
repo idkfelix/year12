@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/notes/26-6-24.md",
-                "mode": "source",
+                "file": "Maths/Matrices.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/notes/26-6-24.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
