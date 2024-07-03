@@ -228,7 +228,7 @@ T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
 $$
 - Transition matrices can be used to predict future and past states based on the values of a given state with the following formulas
 	- $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
-	- $S_{n}=T^{n}\cdot{S_{n}}$
+	- $S_{n}=T^{n}\cdot{S_{0}}$
 $$
 \large S_{1}= TS_{0} = 
 \begin{bmatrix}0.8 & 0.1 \\ 0.2 & 0.9\end{bmatrix}
