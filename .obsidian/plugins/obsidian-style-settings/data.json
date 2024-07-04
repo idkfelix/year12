@@ -21,5 +21,6 @@
   "minimal-style@@table-nowrap": false,
   "minimal-style@@callouts-style": "callouts-outlined",
   "minimal-style@@h2-color@@light": "#333333",
-  "minimal-style@@h2-color@@dark": "#D1D1D1"
+  "minimal-style@@h2-color@@dark": "#D1D1D1",
+  "minimal-style@@h2-l": true
 }
