@@ -77,6 +77,10 @@ $$
 	\end{bmatrix}
 \end{align*}
 $$
+## Division
+- $\large\frac{A}{B}=A \cdot B^{-1}\text{ or }B^{-1}\cdot A$
+- $AB^{-1}$ solves for $XB=A$
+- $B^{-1}A$ solves for $BX=A$
 ## Indices
 - Must be a square in order to raise matrix to a power.
 - Matrix is multiplied by itself many times as specified in the power.
@@ -165,9 +169,7 @@ $$
 $$
 \large
 T = C+C^{2} \qquad
-T = \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
-+ \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
-= \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
+T = \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix} + \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix} = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
 ## Dominance Matrices
 - Represents one way connections on a square binary matrix, commonly denoted as the letter $D$
@@ -189,3 +191,71 @@ D = \begin{bmatrix}
 $$
 - **Two-Step Dominance Scores** are found similar to a connections matrix by squaring $D$, denoted as $D^{2}$
 - 
+## State-Transition Matrices
+- **State** refers to a snapshot of data at a point in time
+	- Within a scenario there is a regular time interval between states
+	- States are denoted as $S_n$ where $n$ refers to the state number, this is an integer starting from $0$ or the 'initial state'
+	- A state matrix is represented as a single row or column with adjacent labels
+$$
+\large S_{n}=\begin{bmatrix}0.14 \\ 0.26 \\ 0.60\end{bmatrix}
+$$
+- **Transition Diagram** is a network that represents the data of a transition matrix
+	- Nodes in the diagram represent each state in the matrix
+	- Arrows between nodes show probability of transition to another state
+	- If an arrow between nodes is not present it indicates a probability of $0$
+```tikz
+\usepackage{tikz-cd}
+
+\begin{document}
+\huge\begin{tikzcd}[row sep=2.5em]
+
+A \ar[loop left, "10\%"] \ar[r, bend left, "90\%"] & 
+B \ar[loop right, "85\%"] \ar[l, bend left, "15\%"]
+
+\end{tikzcd}
+\end{document}
+```
+- A **transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
+- Each column of the matrix should sum to $1$ as it is split into the probabilities of transitioning to each row or state.
+- All transition matrices should indicated which of the rows and columns are 'from' and 'to' as they are not always column to row.
+$$
+\large\displaylines{
+\begin{align*}
+&\quad\begin{matrix}A \quad & B\end{matrix}\\
+T= &\begin{bmatrix}0.10 & 0.15 \\ 0.90 & 0.85\end{bmatrix}
+\begin{matrix}A\\B\end{matrix}
+\end{align*}}
+$$
+- Transition matrices can be used to predict future and past states based on the values of a given state with the following formulas
+	- $S_{0} = \text{initial state matrix}$, $S_{n+1}=T\cdot{S_{n}}$
+	- $S_{n}=T^{n}\cdot{S_{0}}$
+$$
+\large S_{1}= TS_{0} = 
+\begin{bmatrix}0.8 & 0.1 \\ 0.2 & 0.9\end{bmatrix}
+\begin{bmatrix}50 \\ 40\end{bmatrix}
+= \begin{bmatrix}
+ 0.8\cdot50+0.1\cdot40 \\
+ 0.2\cdot50+0.1\cdot40
+\end{bmatrix}
+= \begin{bmatrix}44 \\ 46\end{bmatrix}
+$$
+## Leslie Matrix
+- A Leslie matrix, denoted as $L$, is a niche application of a transition matrix that can be used to model the growth of a population and its age distribution over time.
+- When applying a Leslie matrix to a population, only the females are considered
+- In contrast to a standard transition matrix, the columns of a Leslie matrix do not sum to $1$
+$$
+\large\displaylines{
+\begin{align*}
+&\quad\begin{matrix}0 & 1 & 2\end{matrix}\\
+L= &\begin{bmatrix}
+  F_0 & F_1 & F_{3}\\
+  P_0 & 0 & 0  \\
+  0 & P_1 & 0
+\end{bmatrix}
+\begin{matrix}
+  \text{fertility rate}\qquad\qquad\\
+  \text{survival rate from 0-1}\\
+  \text{survival rate from 1-2}
+\end{matrix}
+\end{align*}}
+$$
