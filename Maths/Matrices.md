@@ -78,9 +78,10 @@ $$
 \end{align*}
 $$
 ## Division
+- Division is not possible with matrices, however this is related to inverse matrices (a matrix to the power of $-1$) and can be used to effectively divide a matrix with the product of a terms inverse.   
 - $\large\frac{A}{B}=A \cdot B^{-1}\text{ or }B^{-1}\cdot A$
-- $AB^{-1}$ solves for $XB=A$
-- $B^{-1}A$ solves for $BX=A$
+- $\large AB^{-1}$ solves for $XB=A$
+- $\large B^{-1}A$ solves for $BX=A$
 ## Indices
 - Must be a square in order to raise matrix to a power.
 - Matrix is multiplied by itself many times as specified in the power.
