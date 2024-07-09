@@ -14,34 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Maths/Matrices.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4d21406a088ee26e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "54c3ef6abd549875",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "filename": "pdf break.css"
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +95,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4d21406a088ee26e",
+  "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
     "Maths/Matrices.md",
     "English/Protests/Oral Final.md",
