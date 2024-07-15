@@ -198,7 +198,19 @@ D = \begin{bmatrix}
 \end{matrix}
 $$
 - **Two-Step Dominance Scores** are found similar to a connections matrix by squaring $D$, denoted as $D^{2}$
-- 
+$$
+\large
+\text{TODO!  } D^2 = \begin{bmatrix}
+  0 & 0 & 1 & 1 & 0 \\ 
+  1 & 0 & 1 & 0 & 1 \\ 
+  0 & 0 & 0 & 1 & 0 \\ 
+  0 & 1 & 0 & 0 & 0 \\ 
+  1 & 0 & 1 & 1 & 0 \\ 
+\end{bmatrix} \quad
+\begin{matrix}
+2 \\ 3 \\ 1 \\ 1 \\ 3
+\end{matrix}
+$$
 <div style="page-break-after: always;"></div>
 ## State-Transition Matrices
 - **State** refers to a snapshot of data at a point in time
