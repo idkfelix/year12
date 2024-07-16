@@ -27,3 +27,5 @@
 - Ad reach to >30% of all internet users *
 - 49.4% female user base
 - 50.6% male user base
+# Influence of media and audiences
+- many media producers will seek input from audiences in the production and distribution of media products, as a result of the changing relationship between media and audiences
