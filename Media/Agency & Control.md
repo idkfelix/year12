@@ -8,10 +8,14 @@
 - Expensive barrier to entry for media producers
 - Monopoly on some markets
 - Producers and widely regarded as trustworthy sources
-- Scheduled 
+- Scheduled programming
+- Expensive consumer equipment required
 # Web 2.0 Era
 - Audiences are now also active producers not just passive customers
 - Two way communication in media
 - Audiences have access to a variety of platforms
 - Media has helped globalize the world
-- 
+- On demand streaming services
+- Targeted ads and media based on user data
+- Inexpensive barrier to entry
+# Case Study - Instagram
