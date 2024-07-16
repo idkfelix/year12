@@ -19,3 +19,10 @@
 - Targeted ads and media based on user data
 - Inexpensive barrier to entry
 # Case Study - Instagram
+- 1.628 billion active users
+- 4th most active social media users
+- 1 in 5 people on earth use Instagram
+- Ad reach to >30% of all internet users
+- 49.4% female user base
+- 50.6% male user base
+- 
