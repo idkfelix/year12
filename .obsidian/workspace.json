@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Media/Agency & Control.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Media/Agency & Control.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -99,8 +97,9 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
-    "Media/notes/26-6-24.md",
     "Maths/Matrices.md",
+    "Media/Agency & Control.md",
+    "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
     "Accounting/Balance Day Adjustments.md",
     "English/Protests/Oral Final.md",
@@ -139,7 +138,6 @@
     "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
-    "English/Protests/Speak Truth To Power.md",
     "SoftDev/SAT1/pdfs/SRS.pdf",
     "SoftDev/SAT1/pdfs/Project Proposal.pdf",
     "SoftDev/SAT1/pdfs/Development Model Justification.pdf",
