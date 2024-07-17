@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -99,10 +98,10 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
+    "Maths/Matrices.md",
     "Media/Agency & Control.md",
     "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
-    "Maths/Matrices.md",
     "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
     "Accounting/Balance Day Adjustments.md",
