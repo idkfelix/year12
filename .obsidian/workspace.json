@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Data Analysis.md",
+                "file": "Maths/Matrices.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -99,6 +97,7 @@
   },
   "active": "8186c9829b8dc76d",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
     "Maths/Matrices.md",
     "Media/Agency & Control.md",
     "Media/attachments/Pasted image 20240717093528.png",
@@ -135,7 +134,6 @@
     "Media/SAT/Outcome 3.md",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
-    "Maths/Data Analysis.md",
     "English/Practice SACs/Garment Gab.md",
     "English/Born A Crime/Born_a_Crime.pdf",
     "SoftDev/SAT1/Design.md",
