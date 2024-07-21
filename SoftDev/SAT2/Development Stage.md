@@ -64,3 +64,12 @@ To conduct testing throughout the development of Notelass I will brainstorm test
 | A valid and correct session id will be provided in the interface and the user submit (baseline)      | Continuation to the Home Page | Continuation to the Home Page                                  |
 | A series of random characters will be entered as a session id and submitted (validation)             | Redirection to Login Page     | Redirection to Login Page                                      |
 | A valid but expired compass session id will be entered and submitted. (API validation)               | Redirection to Login Page     | Redirection to Login Page                                      |
+**Test 2 - Opening a new note**
+
+| Test Condition                                                                     | Expected Result                                                                          | Actual Result                                                                            |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Clicking a lesson on the current day with a known lesson plan available (baseline) | The editor opens in side by side view of a blank note and lesson plan                    | The editor opens in side by side view of a blank note and lesson plan                    |
+| Clicking a lesson on the current day without a lesson plan (fallback test)         | The editor opens in side by side view of a blank note and an indicator of no lesson plan | The editor opens in side by side view of a blank note and an indicator of no lesson plan |
+| Clicking a lesson plan from many months ago with a lesson plan (date check)        | The editor opens in side by side view of a blank note and lesson plan                    | The editor opens in side by side view of a blank note and lesson plan                    |
+| Manually entering a non-existent lesson Id into the URL (validation check)         | The editor displays an error to the user and doesn't allow for the note to be edited     | The editor displays an error to the user and doesn't allow for the note to be edited     |
+## Development Design 
