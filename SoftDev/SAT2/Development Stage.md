@@ -19,4 +19,24 @@ After discussion with the client the projects proposed revision tools involving 
 	- [ ] Button on navigation bar to to access the documentation as a new user
 	- [ ] Home button available on navigation bar for already authenticated users to access the main website without logging in once again
 	- [ ] Minimal user interface identifiable as a tool for compass
-		- [ ] Similar to 
+		- [ ] Similar color scheme to compass
+		- [ ] Interface arrangement to that of the compass LMS
+- [ ] **Home Page**
+	- [ ] Side Panel displaying commonly checked information from compass
+		- [ ] Panel Displaying the current days lessons 
+		- [ ] Lessons are clickable to open a new note
+		- [ ] Date can be incremented back / forwards to see other timetables
+		- [ ] Timetable is displayed sequentially
+		- [ ] Panel containing the users upcoming / recent learning tasks
+		- [ ] Learning tasks display their due date as a reminder
+		- [ ] Panel for viewing recently edited notes
+		- [ ] Recently edited notes display their date and subject
+	- [ ] Panels within the side panel can be toggled on and off by the user
+	- [ ] Navigation bar displays a sign out button at all times when authenticated
+	- [ ] Main content of the page displays a table with all of the users notes
+	- [ ] Notes can be sorted by date, lesson or subject
+	- [ ] Notes can be filtered by subject or date
+	- [ ] Clicking on a note in the table opens it for editing by the user
+- [ ] **Editor Page**
+	- [ ] The editor is opened in a side by side view with the selected lesson plan
+	- [ ] The lesson plan is formate
