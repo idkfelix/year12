@@ -39,4 +39,22 @@ After discussion with the client the projects proposed revision tools involving 
 	- [ ] Clicking on a note in the table opens it for editing by the user
 - [ ] **Editor Page**
 	- [ ] The editor is opened in a side by side view with the selected lesson plan
-	- [ ] The lesson plan is formate
+	- [ ] The lesson plan is formatted correctly with all rich text style as in compass
+	- [ ] The plan panel is displayed in read only
+	- [ ] The lesson plan panel features a title displaying the subject and lesson date
+	- [ ] A user can toggle the lesson plan panel on and of while taking notes
+	- [ ] The main editor has live text formatting as the user types
+	- [ ] A menu bar is attached to the top of the editor at all times
+	- [ ] The bar has familiar buttons for the user
+		- [ ] Drop-down to save or delete a document
+		- [ ] Options to insert various headings or titles
+		- [ ] Formatting drop-down applies to selected text
+	- [ ] Common key combinations can be used to apply formatting to text
+	- [ ] Markdown syntax can be used to format titles, text, lists, etc.
+	- [ ] A user can use LaTeX formatting within their notes
+	- [ ] LaTeX is live rendered alongside common rich text / markdown
+## Testing
+
+| Test Condition | Result  Description | Result |
+| -------------- | ------------------- | ------ |
+|                |                     |        |
