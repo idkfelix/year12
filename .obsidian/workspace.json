@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38d5e1399a81e479",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8186c9829b8dc76d",
+  "active": "38d5e1399a81e479",
   "lastOpenFiles": [
     "Maths/Data Analysis.md",
     "Maths/Matrices.md",
