@@ -54,7 +54,13 @@ After discussion with the client the projects proposed revision tools involving 
 	- [ ] A user can use LaTeX formatting within their notes
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Testing
+To conduct testing throughout the development of Notelass I will brainstorm test conditions with the client for critical functionality of the solution to document and correct it results.
 
-| Test Condition | Result  Description | Result |
-| -------------- | ------------------- | ------ |
-|                |                     |        |
+**Test 1 - Login Page**
+
+| Test Condition                                                                                       | Expected Result               | Actual Result                                                  |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- |
+| No session id will be provided in the interface and the user will just click login (existence check) | Redirection to Login Page     | 500 server error (an incorrect test condition had to be fixed) |
+| A valid and correct session id will be provided in the interface and the user submit (baseline)      | Continuation to the Home Page | Continuation to the Home Page                                  |
+| A series of random characters will be entered as a session id and submitted (validation)             | Redirection to Login Page     | Redirection to Login Page                                      |
+| A valid but expired compass session id will be entered and submitted. (API validation)               | Redirection to Login Page     | Redirection to Login Page                                      |
