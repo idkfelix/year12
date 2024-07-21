@@ -9,6 +9,14 @@ A critical change to the usage of the website that had to be implemented through
 The original outline for the project proposed using a dummy or test compass user for the use case and requirements testing to protect user data and privacy. However this practice has proven not possible as all users attendance data from compass is automatically sent to the education department and without the explicit preexisting  functionality to create dummy accounts within compass I have had to conduct testing of the product using my own credentials and therefore have retracted information in the test results for my own privacy.
 
 After discussion with the client the projects proposed revision tools involving the use of AI will be removed from the scope of the project. This change comes as the schools updated strict policy on the usage of artificial intelligence will likely come in conflict with this extra functionality of the Notelass tool and therefore is not a change that can be compromised on to preserve the original scope of the project. However due to my software development methodology's integration of an agile workflow throughout design and development this reduction has been easily corrected for in earlier sprints.
-## Updated Non-Functional Requirements
+## Updated Evaluation Criteria
+*The following evaluation criteria has been documented after further discussion with the client following the aforementioned changes to the projects design and development.*
 
-- [ ] Login
+- [ ] **Login Page**
+	- [ ] Single clearly labeled field for user to enter their compass session Id
+	- [ ] Login button located under the field for the user to validate their session Id and continue to app
+	- [ ] Clearly branded navigation bar with large format Notelass logo
+	- [ ] Button on navigation bar to to access the documentation as a new user
+	- [ ] Home button available on navigation bar for already authenticated users to access the main website without logging in once again
+	- [ ] Minimal user interface identifiable as a tool for compass
+		- [ ] Similar to 
