@@ -20,7 +20,6 @@ $$
  \end{bmatrix}
 }
 $$
-<div style="page-break-after: always;"></div>
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order.
 - Elements are added or subtracted the same as a normal evaluation.
@@ -48,7 +47,6 @@ $$
   A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \qquad
   A^{T} = \begin{bmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{bmatrix}
 $$
-<div style="page-break-after: always;"></div>
 ## Matrices Multiplication
 - The columns ($n$) of the first matrix must match the rows ($m$) of the second.
 - The remaining row ($n$) and column ($m$) of the matrices will become the order.
@@ -84,7 +82,6 @@ $$
 - $\large\frac{A}{B}=A \cdot B^{-1}\text{ or }B^{-1}\cdot A$
 - $\large AB^{-1}$ solves for $XB=A$
 - $\large B^{-1}A$ solves for $BX=A$
-<div style="page-break-after: always;"></div>
 ## Indices
 - Must be a square in order to raise matrix to a power.
 - Matrix is multiplied by itself many times as specified in the power.
@@ -109,7 +106,6 @@ A= \begin{bmatrix}2&2\\3&4\end{bmatrix}\qquad
 |A| &= 2\cdot4 - 3\cdot2 = 2
 \end{align*}
 $$
-<div style="page-break-after: always;"></div>
 ## Inverse Matrix
 - The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
 - $A^{-1}$ is found with the product of a new array derived from $A$ with elements on the leading diagonal swapped, the negative versions of each remaining elements and $1$ over $|A|$ or $det(A)$.
@@ -131,7 +127,6 @@ I= AA^{-1}\qquad
 I= \begin{bmatrix}2&2\\3&4\end{bmatrix} \cdot\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}\qquad
 I= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 $$
-<div style="page-break-after: always;"></div>
 ## Permutation Matrices
 - Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column, often denoted as the letter $P$.
 - A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied.
@@ -149,7 +144,6 @@ AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
 &=\begin{bmatrix} 3 & 1 & 2 \\ 3 & 1 & 2 \\ 3 & 1 & 2 \end{bmatrix}
 \end{align*}
 $$
-<div style="page-break-after: always;"></div>
 ## Communication Matrices
 - Communication matrices, denoted as $C$, are a square binary matrices where each $1$ represent a connection in a communication system between row and column.
 - These square matrices are generally symmetrically adjacent (drawing a line of symmetry along the leading diagonal).
@@ -178,7 +172,6 @@ $$
 T = C+C^{2} \qquad
 T = \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix} + \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix} = \begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}
 $$
-<div style="page-break-after: always;"></div>
 ## Dominance Matrices
 - Represents one way connections on a square binary matrix, commonly denoted as the letter $D$
 - Rows and columns represent start and end of a one way connection similar to a communications matrix, this is read on the matrix's rows with $1$'s representing a dominance over the column
@@ -211,7 +204,6 @@ $$
 2 \\ 3 \\ 1 \\ 1 \\ 3
 \end{matrix}
 $$
-<div style="page-break-after: always;"></div>
 ## State-Transition Matrices
 - **State** refers to a snapshot of data at a point in time
 	- Within a scenario there is a regular time interval between states
@@ -239,7 +231,6 @@ B \ar[loop right, "85\%"] \ar[l, bend left, "15\%"]
 
 - A **transition matrix** is a square matrix representing probability between changes in a scenarios states, denoted as $T$
 - Each column of the matrix should sum to $1$ as it is split into the probabilities of transitioning to each row or state.
-<div style="page-break-after: always;"></div>
 
 - All transition matrices should indicated which of the rows and columns are 'from' and 'to' as they are not always column to row.
 $$
@@ -289,4 +280,10 @@ $$
 - Do not infer anything past the information on a transition matrix, context is only used to refer to elements
 - Investigate total of state matrices will only require the sum off all states and not unique instances
 - Explicitly mention each element in a state matrix when referring to its results and in comparison to another state
+- When asked to use a matrix multiplication in order to sum rows of columns of array use a col / row of ones. 
+	- $A\cdot{\text{Col Matrix}}$ to sum rows
+	- $\text{Row Matrix}\cdot{A}$ to sum columns
+- Use brief paragraphs to respond to analysis questions
+- Always label the units used in the matrix
+- Don't include possibilities of further analysis / discussion relating information not in the question during responses
 - 
