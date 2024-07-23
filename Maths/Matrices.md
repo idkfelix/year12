@@ -283,3 +283,10 @@ L= &\begin{bmatrix}
 \end{matrix}
 \end{align*}}
 $$
+## Tips
+- Communications matrix should always have a leading stripe of zeros
+- Explicitly mention every member of a dominance matrix when writing about results and comparison
+- Do not infer anything past the information on a transition matrix, context is only used to refer to elements
+- Investigate total of state matrices will only require the sum off all states and not unique instances
+- Explicitly mention each element in a state matrix when referring to its results and in comparison to another state
+- 
