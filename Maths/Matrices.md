@@ -1,3 +1,20 @@
+<div style="text-align: center; font-family: Georgia, serif; margin: 5px">
+	<h1 style="font-size:75px">Matrices</h1>
+	<h2>Felix Coulthard</h2>
+</div>
+
+$$
+\Huge\begin{bmatrix}
+  0 & 0 & 1 & 1 & 0 \\ 
+  1 & 0 & 1 & 0 & 1 \\ 
+  0 & 0 & 0 & 1 & 0 \\ 
+  0 & 1 & 0 & 0 & 0 \\ 
+  1 & 0 & 1 & 1 & 0 \\ 
+\end{bmatrix}
+$$
+
+<div style="page-break-after: always;"></div>
+
 > [!FAQ] Glossary
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right.
@@ -21,6 +38,7 @@ $$
 }
 $$
 <div style="page-break-after: always;"></div>
+
 ## Addition & Subtraction
 - To perform addition or subtraction all matrices must have the same order.
 - Elements are added or subtracted the same as a normal evaluation.
@@ -108,6 +126,7 @@ A= \begin{bmatrix}2&2\\3&4\end{bmatrix}\qquad
 \end{align*}
 $$
 <div style="page-break-after: always;"></div>
+
 ## Inverse Matrix
 - The inverse matrix is denoted as the negative power or $A^{-1}$ of $A$.
 - $A^{-1}$ is found with the product of a new array derived from $A$ with elements on the leading diagonal swapped, the negative versions of each remaining elements and $1$ over $|A|$ or $det(A)$.
@@ -130,6 +149,7 @@ I= \begin{bmatrix}2&2\\3&4\end{bmatrix} \cdot\begin{bmatrix}2&-1\\-1.5&1\end{bma
 I= \begin{bmatrix}1&0\\0&1\end{bmatrix}
 $$
 <div style="page-break-after: always;"></div>
+
 ## Permutation Matrices
 - Permutation matrices is a type of binary matrix of which it only contains a single $1$ in each row and column, often denoted as the letter $P$.
 - A matrix of this kind can be used to rearrange the positions of various elements within another matrix when they are multiplied.
@@ -148,6 +168,7 @@ AP= \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix}
 \end{align*}
 $$
 <div style="page-break-after: always;"></div>
+
 ## Communication Matrices
 - Communication matrices, denoted as $C$, are a square binary matrices where each $1$ represent a connection in a communication system between row and column.
 - These square matrices are generally symmetrically adjacent (drawing a line of symmetry along the leading diagonal).
@@ -171,6 +192,7 @@ C^{2}= \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
 = \begin{bmatrix} 1 & 0 & 1 \\ 0 & 2 & 0 \\ 1 & 0 & 1 \end{bmatrix}
 $$
 <div style="page-break-after: always;"></div>
+
 - The total number of one and two step links in a communications system, commonly denoted as $T$, can be found by evaluating the sum of $C+C^2$.
 $$
 \large
@@ -197,6 +219,7 @@ D = \begin{bmatrix}
 $$
 - **Two-Step Dominance Scores** are found with the method of a connections matrix by squaring $D$, denoted as $D^{2}$
 <div style="page-break-after: always;"></div>
+
 ## State-Transition Matrices
 - **State** refers to a snapshot of data at a point in time
 	- Within a scenario there is a regular time interval between states
@@ -267,6 +290,7 @@ L= &\begin{bmatrix}
 \end{align*}}
 $$
 <div style="page-break-after: always;"></div>
+
 ## Tips
 - Communications matrix should always have a leading stripe of zeros
 - Explicitly mention every member of a dominance matrix when writing about results and comparison
@@ -279,3 +303,5 @@ $$
 - Use brief paragraphs to respond to analysis questions
 - Always label the units used in the matrix
 - Don't include possibilities of further analysis / discussion relating information not in the question during responses
+
+<div style="page-break-after: always;"></div>
