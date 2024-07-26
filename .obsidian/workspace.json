@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "README.md"
               }
             }
           }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,6 +98,7 @@
   },
   "active": "62f0ee0a7f7e2c42",
   "lastOpenFiles": [
+    "Maths/Matrices.md",
     "Maths/Matrices.pdf",
     "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT1/Design.md",
@@ -104,7 +106,6 @@
     "SoftDev/SAT2/demo1.png",
     "SoftDev/SAT2",
     "Maths/Data Analysis.md",
-    "Maths/Matrices.md",
     "Media/Agency & Control.md",
     "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
@@ -141,7 +142,6 @@
     "English/Practice SACs/Garment Gab.md",
     "English/Born A Crime/Born_a_Crime.pdf",
     "SoftDev/SAT1/pdfs/SRS.pdf",
-    "SoftDev/SAT1/pdfs/Project Proposal.pdf",
-    "SoftDev/SAT1/pdfs/Development Model Justification.pdf"
+    "SoftDev/SAT1/pdfs/Project Proposal.pdf"
   ]
 }
