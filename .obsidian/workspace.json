@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "SoftDev/SAT2/Development Stage.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SoftDev/SAT2/Development Stage.md"
               }
             }
           }
@@ -92,12 +92,12 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "62f0ee0a7f7e2c42",
   "lastOpenFiles": [
+    "README.md",
     "Maths/Matrices.md",
     "Maths/Matrices.pdf",
     "SoftDev/SAT2/Development Stage.md",
@@ -135,7 +135,6 @@
     "Media/SAT/attachments",
     "English/Protests/Hope.md",
     "English/Persuasive Techniques.md",
-    "README.md",
     "Media/SAT/Outcome 3.md",
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
