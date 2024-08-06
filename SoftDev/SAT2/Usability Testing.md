@@ -66,10 +66,12 @@ The time taken on the first task further reinforces the need to add some extra i
 | user immediately understood the required input for login and fetched their session id from compass to fill out the form. | user took some time navigating through their daily schedule to find a class to open a new note for, but knew how to navigate through dates. | user initially attempted to format their note entirely in LaTeX (due to their current method of note taking) but quickly realized the limitations of its implementation and completed the rest of the task with markdown | User quickly identified the button to show the lesson plan and demonstrated toggling it on and off | User quickly understood the task and navigated between the home screen and the task in the home page | User initially look at the navigation bar for the file management menu, however quickly realized the correct menu and button |
 ## Satisfaction
 
-| User     | Satisfaction | Feedback                                                              |
-| -------- | ------------ | --------------------------------------------------------------------- |
-| Amateur  | 7            | The Notelass has a nice design and worked fine once i was logged in b |
-| Novice   | 9            |                                                                       |
-| Advanced | 8            |                                                                       |
+| User     | Satisfaction | Feedback                                                                                                                                                                                                                                                                               |
+| -------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Amateur  | 7            | The Notelass has a nice design and worked fine once i was logged in but the way of logging in wasn't very easy and the Maths stuff in notes didn't make much sense but I wouldn't personally use it anyways.                                                                           |
+| Novice   | 9            | I couldn't figure out the sign in, but I'm sure that can be fixed with some instructions. The actual note taking was super familiar to what I currently use and the integration with Compass was very useful.                                                                          |
+| Advanced | 8            | The websites session id login works great as a way to protect user credentials, the integration for compass is seamless and everything loads very fast. I appreciate the support for markdown and LaTeX in notes, but i wish there was some form of key-binds to speed up my workflow. |
+| **Mean** | 8            | -                                                                                                                                                                                                                                                                                      |
 
 # Conclusion
+Over the usability testing resulted in a majority of positive feedback, however the data collected in the study clearly indicated which parts of the applications core functionality needs improvement, primarily in the form of further user documentation and tool tips. Specifi
