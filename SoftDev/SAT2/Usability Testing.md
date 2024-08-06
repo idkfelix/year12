@@ -28,6 +28,7 @@ After observed completion / attempt of each of the outlined tasks the participan
 - Difficult (4)
 - Hard (5)
 # Results
+
 ## Difficulty
 
 | Task #     | 1           | 2        | 3           | 4    | 5    | 6        |
