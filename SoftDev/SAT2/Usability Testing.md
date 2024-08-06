@@ -7,8 +7,13 @@ Tests were conducted on three fellow students with no prior knowledge of the app
 
 Throughout the testing the participating users are referred to by their self recognized skill level, frequency of Compass use and current note taking methods:
 
-| Name          | Technical Literacy                                                                                                                         | Current Note Taking                                                              | Use of Compass |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------- |
-| Amatuer User  | Rarely uses laptop or computer outside of school and mostly exclusively for web browsing and social media.                                 |                                                                                  |                |
-| Novice User   | Daily use of personal laptop or computer and self proclaimed proficient in Microsoft office word.                                          | Recently adopted Obsidian as a note taking application (markdown WYSIWYG editor) |                |
-| Advanced User | Daily drives Debian based operating system for 4 years, casually develops programs with python and takes software development VCE subject. | Uses LaTeX language for note taking in the Vim editor.                           |                |
+| Name          | Technical Literacy                                                                                                                         | Current Note Taking                                                                    | Use of Compass                                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Amatuer User  | Rarely uses laptop or computer outside of school and mostly exclusively for web browsing and social media.                                 | Mostly pen and paper note taking, however occasionally uses google docs to take notes. | Basic viewing of lesson plans, uploading assignments and access of class resources                                          |
+| Novice User   | Daily use of personal laptop or computer and self proclaimed proficient in Microsoft office word.                                          | Recently adopted Obsidian as a note taking application (markdown WYSIWYG editor).      | Often use of Compass website and mobile application for schedule, assignments and class information                         |
+| Advanced User | Daily drives Debian based operating system for 4 years, casually develops programs with python and takes software development VCE subject. | Uses LaTeX language to generate PDF notes from the Vi / Vim editor.                    | Only uses compass website for assignment submission and access to class resources, uses synced calendar to access schedule. |
+# Tasks
+All participants were required to complete the following tasks representative of Notelass' core functionality and user interface throughout their usability testing:
+- Login to Notelass using your session id from compass
+- Open a new note for a lesson in your schedule from one week ago
+- Write a note with 
