@@ -14,6 +14,11 @@ Throughout the testing the participating users are referred to by their self rec
 | Advanced User | Daily drives Debian based operating system for 4 years, casually develops programs with python and takes software development VCE subject. | Uses LaTeX language to generate PDF notes from the Vi / Vim editor.                    | Only uses compass website for assignment submission and access to class resources, uses synced calendar to access schedule. |
 # Tasks
 All participants were required to complete the following tasks representative of Notelass' core functionality and user interface throughout their usability testing:
-- Login to Notelass using your session id from compass
-- Open a new note for a lesson in your schedule from one week ago
-- Write a note with 
+- \[1] Login to Notelass using your session id from compass
+- \[2] Open a new note for a lesson in your schedule from one week ago
+- \[3] Write a note with two types of headings, a list and if familiar a latex equation
+- \[4] View the selected lesson's associated lesson plan side by side to the editor
+- \[5] Navigate to the home page before re-opening the previous note
+- \[5] Delete the previously created note 
+After observed completion / attempt of each of the outlined tasks the participant was required to complete a questionnaire with a multiple choice question about the difficulty of each task, an overall satisfaction    
+# Results
