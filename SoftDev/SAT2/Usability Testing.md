@@ -1,4 +1,5 @@
 # Introduction
 Notelass is a note taking application that integrates with the LMS software 'Compass' commonly used among Australian secondary schools and students. The application allows students to take notes in class using markdown syntax and the LaTeX notation language within a real time WYSIWYG editor linked to each lesson instance within compass for easy organisation. Notelass additionally features tools for viewing class resources, upcoming tasks and a calendar of the users lessons.
 
-As the user base of Compass and inherently Notelass is primarily composed of secondary school students the user testing has been conducted by three students currently using compass with varying 
+As the user base of Compass and inherently Notelass is primarily composed of secondary school students the usability testing has been conducted on three students currently using compass with varying levels of self recognized technical literacy in order to cover the widest range of potential end users. To gather data from this testing observed completion of task and a short questionnaire have been utilized to time the execution of tasks, monitor user errors, judge perceived difficulty and measure user satisfaction with the application.
+# Methodology
