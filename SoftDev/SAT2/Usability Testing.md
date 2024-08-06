@@ -30,9 +30,27 @@ After observed completion / attempt of each of the outlined tasks the participan
 # Results
 ## Difficulty
 
+| Task #     | 1           | 2        | 3           | 4    | 5    | 6        |
+| ---------- | ----------- | -------- | ----------- | ---- | ---- | -------- |
+| Amateur    | 3           | 2        | 4           | 1    | 2    | 2        |
+| Novice     | 5           | 1        | 3           | 1    | 1    | 1        |
+| Advanced   | 1           | 2        | 2           | 1    | 1    | 2        |
+| **Mean**   | 3           | 1.67     | 3           | 1    | 1.34 | 1.67     |
+| **Rating** | Challenging | Moderate | Challenging | Easy | Easy | Moderate |
+## Time Taken
+
+| Task #   | 1    | 2   | 3   | 4   | 5   | 6   |
+| -------- | ---- | --- | --- | --- | --- | --- |
+| Amateur  | 53s  | 29s | 95s | 5s  | 22s | 34s |
+| Novice   | 114s | 22s | 63s | 7s  | 14s | 15s |
+| Advanced | 24s  | 32s | 41s | 3s  | 16s | 29s |
+| **Mean** | 175s |     |     |     |     |     |
+
+## Observations
+
 | Task #   | 1   | 2   | 3   | 4   | 5   | 6   |
 | -------- | --- | --- | --- | --- | --- | --- |
-| Amateur  | 3   | 2   | 4   | 1   | 2   | 2   |
-| Novice   | 5   | 1   | 3   | 1   | 1   | 1   |
-| Advanced | 1   | 2   | 2   | 1   | 1   | 2   |
-| **MEAN** |     |     |     |     |     |     |
+| Amateur  |     |     |     |     |     |     |
+| Novice   |     |     |     |     |     |     |
+| Advanced |     |     |     |     |     |     |
+
