@@ -28,31 +28,31 @@ After observed completion / attempt of each of the outlined tasks the participan
 - Difficult (4)
 - Hard (5)
 # Results
-
+> \* indicates did not finish
 ## Difficulty
 
 | Task #     | 1           | 2        | 3           | 4    | 5    | 6        |
 | ---------- | ----------- | -------- | ----------- | ---- | ---- | -------- |
-| Amateur    | 3           | 2        | 4           | 1    | 2    | 2        |
-| Novice     | 5           | 1        | 3           | 1    | 1    | 1        |
+| Amateur    | 3           | 2        | 4*          | 1    | 2    | 2        |
+| Novice     | 5*          | 1        | 3*          | 1    | 1    | 1        |
 | Advanced   | 1           | 2        | 2           | 1    | 1    | 2        |
 | **Mean**   | 3           | 1.67     | 3           | 1    | 1.34 | 1.67     |
 | **Rating** | Challenging | Moderate | Challenging | Easy | Easy | Moderate |
-Overall the most difficult task for users to complete was the sign in with a session id as most users would not be familiar with the process of getting a session id from a websites cookies. Additionally the rating for the note styling task was quite high as all besides the advanced user were not familiar with the LaTeX language and had to skit over that section of the task. These indicated that further tool tips and instructions will be required within the applications user interface.
+Overall the most difficult task for users to complete was the sign in with a session id as most users would not be familiar with the process of getting a session id from a websites cookies. The Novice user did require some assistance to complete this task in order to complete the remaining testing. Additionally the rating for the note styling task was quite high as all besides the advanced user were not familiar with the LaTeX language and had to skit over that section of the task. These indicated that further tool tips and instructions will be required within the applications user interface.
 ## Time Taken
 
 | Task #   | 1      | 2      | 3      | 4   | 5     | 6   |
 | -------- | ------ | ------ | ------ | --- | ----- | --- |
-| Amateur  | 53s    | 29s    | 95s    | 5s  | 22s   | 34s |
-| Novice   | 114s   | 22s    | 63s    | 7s  | 14s   | 15s |
+| Amateur  | 53s    | 29s    | 95s*   | 5s  | 22s   | 34s |
+| Novice   | 114s*  | 22s    | 63s*   | 7s  | 14s   | 15s |
 | Advanced | 24s    | 32s    | 41s    | 3s  | 16s   | 29s |
 | **Mean** | 63.67s | 27.67s | 66.34s | 5s  | 17.34 | 26  |
-
+The time taken on the first task further reinforces the need to add some extra instruction to this step as indicated from the mean although two of the three users were able to complete the task it still required an average of 63.67 seconds to figure out. Besides this the rest of the time recorded for each task across the board shows the application being fast and simple to use in accordance with the project requirements. 
 ## Observations
 
-| Task #   | 1   | 2   | 3   | 4   | 5   | 6   |
-| -------- | --- | --- | --- | --- | --- | --- |
-| Amateur  |     |     |     |     |     |     |
-| Novice   |     |     |     |     |     |     |
-| Advanced |     |     |     |     |     |     |
+| Task #   | 1                                                                                                                                                                                                      | 2   | 3   | 4   | 5   | 6   |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
+| Amateur  | took a short time to understand what the input field required but was able to locate the session id on their own and submit the login form, this is potentially the case from their heavy browser use. |     |     |     |     |     |
+| Novice   |                                                                                                                                                                                                        |     |     |     |     |     |
+| Advanced |                                                                                                                                                                                                        |     |     |     |     |     |
 
