@@ -37,14 +37,15 @@ After observed completion / attempt of each of the outlined tasks the participan
 | Advanced   | 1           | 2        | 2           | 1    | 1    | 2        |
 | **Mean**   | 3           | 1.67     | 3           | 1    | 1.34 | 1.67     |
 | **Rating** | Challenging | Moderate | Challenging | Easy | Easy | Moderate |
+Overall the most difficult task for users to complete was the sign in with a session id as most users would not be familiar with the process of getting a session id from a websites cookies. Additionally the rating for the note styling task was quite high as all besides the advanced user were not familiar with the LaTeX language and had to skit over that section of the task. These indicated that further tool tips and instructions will be required within the applications user interface.
 ## Time Taken
 
-| Task #   | 1    | 2   | 3   | 4   | 5   | 6   |
-| -------- | ---- | --- | --- | --- | --- | --- |
-| Amateur  | 53s  | 29s | 95s | 5s  | 22s | 34s |
-| Novice   | 114s | 22s | 63s | 7s  | 14s | 15s |
-| Advanced | 24s  | 32s | 41s | 3s  | 16s | 29s |
-| **Mean** | 175s |     |     |     |     |     |
+| Task #   | 1      | 2      | 3      | 4   | 5     | 6   |
+| -------- | ------ | ------ | ------ | --- | ----- | --- |
+| Amateur  | 53s    | 29s    | 95s    | 5s  | 22s   | 34s |
+| Novice   | 114s   | 22s    | 63s    | 7s  | 14s   | 15s |
+| Advanced | 24s    | 32s    | 41s    | 3s  | 16s   | 29s |
+| **Mean** | 63.67s | 27.67s | 66.34s | 5s  | 17.34 | 26  |
 
 ## Observations
 
