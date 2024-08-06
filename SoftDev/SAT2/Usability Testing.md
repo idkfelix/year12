@@ -9,7 +9,7 @@ Throughout the testing the participating users are referred to by their self rec
 
 | Name          | Technical Literacy                                                                                                                         | Current Note Taking                                                                    | Use of Compass                                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Amatuer User  | Rarely uses laptop or computer outside of school and mostly exclusively for web browsing and social media.                                 | Mostly pen and paper note taking, however occasionally uses google docs to take notes. | Basic viewing of lesson plans, uploading assignments and access of class resources                                          |
+| Amateur User  | Rarely uses laptop or computer outside of school and mostly exclusively for web browsing and social media.                                 | Mostly pen and paper note taking, however occasionally uses google docs to take notes. | Basic viewing of lesson plans, uploading assignments and access of class resources                                          |
 | Novice User   | Daily use of personal laptop or computer and self proclaimed proficient in Microsoft office word.                                          | Recently adopted Obsidian as a note taking application (markdown WYSIWYG editor).      | Often use of Compass website and mobile application for schedule, assignments and class information                         |
 | Advanced User | Daily drives Debian based operating system for 4 years, casually develops programs with python and takes software development VCE subject. | Uses LaTeX language to generate PDF notes from the Vi / Vim editor.                    | Only uses compass website for assignment submission and access to class resources, uses synced calendar to access schedule. |
 # Tasks
@@ -19,6 +19,20 @@ All participants were required to complete the following tasks representative of
 - \[3] Write a note with two types of headings, a list and if familiar a latex equation
 - \[4] View the selected lesson's associated lesson plan side by side to the editor
 - \[5] Navigate to the home page before re-opening the previous note
-- \[5] Delete the previously created note 
-After observed completion / attempt of each of the outlined tasks the participant was required to complete a questionnaire with a multiple choice question about the difficulty of each task, an overall satisfaction    
+- \[6] Delete the previously created note 
+
+After observed completion / attempt of each of the outlined tasks the participant was required to complete a questionnaire with a multiple choice question about the difficulty of each task, an overall satisfaction score out of 10 for the applications usability and a written section for any addition feedback. The difficulty options provided were as follows:
+- Easy (1)
+- Moderate (2)
+- Challenging (3)
+- Difficult (4)
+- Hard (5)
 # Results
+## Difficulty
+
+| Task #   | 1   | 2   | 3   | 4   | 5   | 6   |
+| -------- | --- | --- | --- | --- | --- | --- |
+| Amateur  | 3   | 2   | 4   | 1   | 2   | 2   |
+| Novice   | 5   | 1   | 3   | 1   | 1   | 1   |
+| Advanced | 1   | 2   | 2   | 1   | 1   | 2   |
+| **MEAN** |     |     |     |     |     |     |
