@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT2/Development Stage.md",
-                "mode": "preview",
+                "file": "SoftDev/SAT2/Usability Testing.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT2/Development Stage.md"
+                "file": "SoftDev/SAT2/Usability Testing.md"
               }
             }
           }
@@ -98,10 +99,11 @@
   },
   "active": "62f0ee0a7f7e2c42",
   "lastOpenFiles": [
+    "SoftDev/SAT2/Development Stage.md",
+    "SoftDev/SAT2/Usability Testing.md",
     "README.md",
     "Maths/Matrices.md",
     "Maths/Matrices.pdf",
-    "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT1/Design.md",
     "SoftDev/SAT2/demo2.png",
     "SoftDev/SAT2/demo1.png",
