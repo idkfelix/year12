@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -96,7 +97,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4b2d8d63845fa205",
+  "active": "50cbc2a740a04e16",
   "lastOpenFiles": [
     "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/Evaluation.md",

@@ -98,3 +98,4 @@ This evaluation will be conducted over two weeks in individual sessions with the
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Development Model
 
+During the initial proposal of the development for my 
