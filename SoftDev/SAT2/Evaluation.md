@@ -41,4 +41,4 @@
 	- [ ] A user can use LaTeX formatting within their notes
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Evaluation Strategy
-To evaluate my software solution I will create create various criteria tables for myself, the client and user testing participants,
+To evaluate my software solution I will create create various criteria tables for myself, the client and user testing participants, corresponding to the the chosen development model's efficiency and effectiveness in production, the implementation's usability within its intended environment, and its satisfaction of the clients functional and non-functional requirements.
