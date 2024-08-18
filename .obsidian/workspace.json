@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,13 +99,15 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
-    "Accounting/U3O2 Sac Prep.md",
+    "SoftDev/SAT2/attachments/demo1.png",
+    "SoftDev/SAT2/attachments/demo2.png",
+    "SoftDev/SAT2/attachments",
     "SoftDev/SAT2/Evaluation.md",
-    "SoftDev/SAT2/Usability Testing.pdf",
+    "SoftDev/SAT2/pdfs",
     "SoftDev/SAT2/Usability Testing.md",
-    "SoftDev/SAT2/demo2.png",
     "SoftDev/SAT2/Development Stage.md",
-    "SoftDev/SAT2/demo1.png",
+    "Accounting/U3O2 Sac Prep.md",
+    "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2",
     "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
@@ -133,15 +137,12 @@
     "Media/SAT/Production Experiment/attachments",
     "Media/SAT/Production Experiment",
     "English/Persuasive Techniques.md",
-    "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
-    "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
     "English/Practice SACs/Garment Gab.md",
     "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
     "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
-    "Maths/Recursion & Financial.md",
-    "conflict-files-obsidian-git.md"
+    "Maths/Recursion & Financial.md"
   ]
 }
