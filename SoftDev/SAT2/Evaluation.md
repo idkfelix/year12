@@ -98,4 +98,4 @@ This evaluation will be conducted over two weeks in individual sessions with the
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Development Model
 
-During the initial proposal of the development for my 
+During the initial proposal of the development for my software solution I committed to a traditional waterfall development model with nested sprints in the design and development stages, a feature typical of the agile development model. This model, although chosen primarily to satisfy the assessment timeline of the project, proved quite beneficial through its iterative design and development, giving the scope and requirements of the project some level of flexibility during critical reviews.  

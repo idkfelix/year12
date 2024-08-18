@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -97,12 +96,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "50cbc2a740a04e16",
+  "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
-    "SoftDev/SAT2/Development Stage.md",
-    "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/Usability Testing.md",
     "SoftDev/Unit3 Key Terms.md",
+    "SoftDev/SAT1/Development Model Justification.md",
+    "SoftDev/SAT1/SRS.md",
+    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/SAT2/Evaluation.md",
+    "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/attachments/demo1.png",
     "SoftDev/SAT2/attachments/demo2.png",
     "SoftDev/SAT2/attachments",
@@ -139,10 +141,7 @@
     "Media/SAT/Production Experiment",
     "English/Persuasive Techniques.md",
     "English/Practice SACs/Garment Gab.md",
-    "SoftDev/SAT1/SRS.md",
-    "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Meeting Notes.md",
-    "SoftDev/SAT1/Development Model Justification.md",
     "English/Protests/Speak Truth To Power.md",
     "Maths/Recursion & Financial.md"
   ]
