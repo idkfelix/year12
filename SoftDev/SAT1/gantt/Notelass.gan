@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-03-31" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
+<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-04-28" view-index="0" gantt-divider-location="336" resource-divider-location="300" version="3.2.3230" locale="en_AU">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Name" width="191" order="0"/>
-        <field id="tpd4" name="Begin date" width="72" order="1"/>
-        <field id="tpd5" name="End date" width="72" order="2"/>
+        <field id="tpd3" name="Name" width="182" order="0"/>
+        <field id="tpd4" name="Begin date" width="69" order="1"/>
+        <field id="tpd5" name="End date" width="69" order="2"/>
         <field id="tpd14" name="Task color" width="20" order="3"/>
         <option id="taskLabelUp" value="name"/>
         <option id="taskLabelRight" value=""/>
@@ -13,7 +13,7 @@
         </option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="209" order="0"/>
+        <field id="0" name="Name" width="208" order="0"/>
         <field id="1" name="Default role" width="87" order="1"/>
     </view>
     <!-- -->
@@ -40,20 +40,20 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-27" duration="138" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
-            <task id="0" name="Analysis" meeting="false" start="2024-03-27" duration="35" complete="0" expand="true">
+        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-27" duration="141" complete="100" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+            <task id="0" name="Analysis" color="#000000" meeting="false" start="2024-03-27" duration="35" complete="100" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
                 <depend id="1" type="2" difference="0" hardness="Strong"/>
-                <task id="40" name="Client Meeting" color="#8cb6ce" meeting="false" start="2024-03-27" duration="7" complete="0" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
+                <task id="40" name="Client Meeting" color="#8cb6ce" meeting="false" start="2024-03-27" duration="7" complete="100" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
                     <depend id="5" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="5" name="Requirements" color="#8cb6ce" meeting="false" start="2024-04-03" duration="14" complete="0" thirdDate="2024-03-31" thirdDate-constraint="0" expand="true">
+                <task id="5" name="Requirements" color="#8cb6ce" meeting="false" start="2024-04-03" duration="14" complete="100" thirdDate="2024-03-31" thirdDate-constraint="0" expand="true">
                     <depend id="6" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="6" name="Scope" color="#8cb6ce" meeting="false" start="2024-04-17" duration="14" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
+                <task id="6" name="Scope" color="#8cb6ce" meeting="false" start="2024-04-17" duration="14" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="1" name="Design" meeting="false" start="2024-05-01" duration="27" complete="0" expand="true">
+            <task id="1" name="Design" meeting="false" start="2024-05-01" duration="37" complete="100" expand="true">
                 <depend id="2" type="2" difference="0" hardness="Strong"/>
-                <task id="18" name="Core" color="#ff7f7f" meeting="false" start="2024-05-01" duration="10" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                <task id="18" name="Core" color="#ff7f7f" meeting="false" start="2024-05-01" duration="13" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
                     <notes>
                         <![CDATA[Standards for code and UI
 App routes
@@ -62,7 +62,7 @@ Markdown Notes Editor
 Data Flow Diagram for core usage]]>
                     </notes>
                     <depend id="22" type="2" difference="0" hardness="Strong"/>
-                    <task id="8" name="Visual Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="3" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+                    <task id="8" name="Visual Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="3" complete="100" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
                         <notes>
                             <![CDATA[Colour Scheme
 Style Standard]]>
@@ -70,9 +70,9 @@ Style Standard]]>
                         <depend id="35" type="2" difference="0" hardness="Strong"/>
                         <depend id="36" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="36" name="App Layout UI / UX" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
-                    <task id="35" name="Core Components UI" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
-                    <task id="32" name="Code Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="4" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true">
+                    <task id="36" name="App Layout UI / UX" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
+                    <task id="35" name="Core Components UI" color="#8cb6ce" meeting="false" start="2024-05-04" duration="10" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
+                    <task id="32" name="Code Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="4" complete="100" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true">
                         <notes>
                             <![CDATA[Naming conventions
 Syntax formatting
@@ -80,12 +80,12 @@ Syntax formatting
                         </notes>
                         <depend id="33" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="33" name="App Architecture" color="#8cb6ce" meeting="false" start="2024-05-05" duration="4" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true">
+                    <task id="33" name="App Architecture" color="#8cb6ce" meeting="false" start="2024-05-05" duration="4" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true">
                         <depend id="34" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="34" name="Data flow diagram" color="#8cb6ce" meeting="false" start="2024-05-09" duration="2" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
+                    <task id="34" name="Data flow diagram" color="#8cb6ce" meeting="false" start="2024-05-09" duration="2" complete="100" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="22" name="Compass Integration" color="#a9ff7f" meeting="false" start="2024-05-11" duration="12" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                <task id="22" name="Compass Integration" color="#a9ff7f" meeting="false" start="2024-05-14" duration="21" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
                     <notes>
                         <![CDATA[Documentation of Compass API
 Metadata Struture for Notes
@@ -98,63 +98,48 @@ UI Components for Compass Features:
 ]]>
                     </notes>
                     <depend id="9" type="2" difference="0" hardness="Strong"/>
-                    <depend id="19" type="2" difference="0" hardness="Strong"/>
-                    <task id="23" name="Compass API Documentation" color="#8cb6ce" meeting="false" start="2024-05-11" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="false">
+                    <task id="23" name="Compass API Documentation" color="#8cb6ce" meeting="false" start="2024-05-14" duration="14" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="false">
                         <depend id="38" type="2" difference="0" hardness="Strong"/>
                         <depend id="39" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="38" name="Compass Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-16" duration="2" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
-                    <task id="39" name="Note Metadata Structure" color="#8cb6ce" meeting="false" start="2024-05-16" duration="2" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true">
+                    <task id="38" name="Compass Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-28" duration="2" complete="100" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
+                    <task id="39" name="Note Metadata Structure" color="#8cb6ce" meeting="false" start="2024-05-28" duration="2" complete="100" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true">
                         <depend id="37" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="37" name="Integration Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-18" duration="5" complete="0" thirdDate="2024-04-02" thirdDate-constraint="0" expand="true"/>
+                    <task id="37" name="Integration Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-30" duration="5" complete="100" thirdDate="2024-04-02" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="9" name="Evaluation Criteria" color="#8cb6ce" meeting="false" start="2024-05-23" duration="3" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
-                <task id="19" name="Extras" color="#007fbf" meeting="false" start="2024-05-23" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
-                    <task id="41" name="Generative AI Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-23" duration="2" complete="0" thirdDate="2024-05-25" thirdDate-constraint="0" expand="true"/>
-                    <task id="20" name="Revision Tool Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-23" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
-                </task>
+                <task id="9" name="Evaluation Criteria" color="#8cb6ce" meeting="false" start="2024-06-04" duration="3" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="2" name="Development" meeting="false" start="2024-05-28" duration="48" complete="0" expand="true">
+            <task id="2" name="Development" meeting="false" start="2024-06-07" duration="41" complete="100" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
-                <task id="25" name="Core" color="#ff0000" meeting="false" start="2024-05-28" duration="14" complete="0" thirdDate="2024-04-04" thirdDate-constraint="0" expand="true">
+                <task id="25" name="Core" color="#ff0000" meeting="false" start="2024-06-07" duration="17" complete="100" thirdDate="2024-04-04" thirdDate-constraint="0" expand="true">
                     <depend id="12" type="2" difference="0" hardness="Strong"/>
                     <depend id="29" type="2" difference="0" hardness="Strong"/>
-                    <task id="42" name="App Shell + Routes" color="#8cb6ce" meeting="false" start="2024-05-28" duration="7" complete="0" thirdDate="2024-05-28" thirdDate-constraint="0" expand="true">
+                    <task id="42" name="App Shell + Routes" color="#8cb6ce" meeting="false" start="2024-06-07" duration="10" complete="100" thirdDate="2024-05-28" thirdDate-constraint="0" expand="true">
                         <depend id="43" type="2" difference="0" hardness="Strong"/>
                         <depend id="44" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="43" name="Editor Component" color="#8cb6ce" meeting="false" start="2024-06-04" duration="4" complete="0" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
-                    <task id="44" name="Core Components" color="#8cb6ce" meeting="false" start="2024-06-04" duration="7" complete="0" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
+                    <task id="43" name="Editor Component" color="#8cb6ce" meeting="false" start="2024-06-17" duration="4" complete="100" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
+                    <task id="44" name="Core Components" color="#8cb6ce" meeting="false" start="2024-06-17" duration="7" complete="100" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-06-11" duration="14" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
-                    <depend id="26" type="2" difference="0" hardness="Strong"/>
+                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-06-24" duration="24" complete="100" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                     <depend id="50" type="2" difference="0" hardness="Strong"/>
-                    <task id="46" name="Compass API Intergration" color="#8cb6ce" meeting="false" start="2024-06-11" duration="7" complete="0" thirdDate="2024-06-11" thirdDate-constraint="0" expand="true">
+                    <task id="46" name="Compass API Intergration" color="#8cb6ce" meeting="false" start="2024-06-24" duration="10" complete="100" thirdDate="2024-06-11" thirdDate-constraint="0" expand="true">
                         <depend id="45" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="45" name="Compass Data Components" color="#8cb6ce" meeting="false" start="2024-06-18" duration="7" complete="0" thirdDate="2024-06-18" thirdDate-constraint="0" expand="true"/>
+                    <task id="45" name="Compass Data Components" color="#8cb6ce" meeting="false" start="2024-07-04" duration="14" complete="100" thirdDate="2024-06-18" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="50" name="MVP" color="#8cb6ce" meeting="true" start="2024-06-25" duration="0" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true"/>
-                <task id="26" name="Extras" color="#00a9ff" meeting="false" start="2024-06-25" duration="20" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
-                    <task id="49" name="AI Intergration" color="#8cb6ce" meeting="false" start="2024-06-25" duration="4" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true">
-                        <depend id="47" type="2" difference="0" hardness="Strong"/>
-                    </task>
-                    <task id="47" name="Revision Route" color="#8cb6ce" meeting="false" start="2024-06-29" duration="2" complete="0" thirdDate="2024-06-29" thirdDate-constraint="0" expand="true">
-                        <depend id="48" type="2" difference="0" hardness="Strong"/>
-                    </task>
-                    <task id="48" name="Revsion Tools" color="#8cb6ce" meeting="false" start="2024-07-01" duration="14" complete="0" thirdDate="2024-07-01" thirdDate-constraint="0" expand="true"/>
-                </task>
-                <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-06-11" duration="31" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
+                <task id="50" name="MVP" color="#8cb6ce" meeting="true" start="2024-07-18" duration="0" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true"/>
+                <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-06-24" duration="10" complete="100" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="15" name="Evaluation" meeting="false" start="2024-07-15" duration="28" complete="0" expand="true">
+            <task id="15" name="Evaluation" meeting="false" start="2024-07-18" duration="28" complete="100" expand="true">
                 <depend id="51" type="2" difference="0" hardness="Strong"/>
-                <task id="16" name="Client Evaluation" color="#8cb6ce" meeting="false" start="2024-07-15" duration="14" complete="0" thirdDate="2024-07-15" thirdDate-constraint="0" expand="true">
+                <task id="16" name="Client Evaluation" color="#8cb6ce" meeting="false" start="2024-07-18" duration="14" complete="100" thirdDate="2024-07-15" thirdDate-constraint="0" expand="true">
                     <depend id="17" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="17" name="Criteria Reflection" color="#8cb6ce" meeting="false" start="2024-07-29" duration="14" complete="0" thirdDate="2024-07-25" thirdDate-constraint="0" expand="true"/>
+                <task id="17" name="Criteria Reflection" color="#8cb6ce" meeting="false" start="2024-08-01" duration="14" complete="100" thirdDate="2024-07-25" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="51" name="Completion" color="#8cb6ce" meeting="true" start="2024-08-12" duration="0" complete="0" thirdDate="2024-08-12" thirdDate-constraint="0" expand="true"/>
+            <task id="51" name="Completion" color="#8cb6ce" meeting="true" start="2024-08-15" duration="0" complete="0" thirdDate="2024-08-12" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources/>
