@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -99,13 +98,14 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
+    "SoftDev/SAT2/Development Stage.md",
+    "SoftDev/SAT2/Evaluation.md",
+    "SoftDev/SAT2/Usability Testing.md",
+    "SoftDev/Unit3 Key Terms.md",
     "SoftDev/SAT2/attachments/demo1.png",
     "SoftDev/SAT2/attachments/demo2.png",
     "SoftDev/SAT2/attachments",
-    "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/pdfs",
-    "SoftDev/SAT2/Usability Testing.md",
-    "SoftDev/SAT2/Development Stage.md",
     "Accounting/U3O2 Sac Prep.md",
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2",
