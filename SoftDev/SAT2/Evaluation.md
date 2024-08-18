@@ -41,7 +41,7 @@
 	- [ ] A user can use LaTeX formatting within their notes
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Evaluation Strategy
-To evaluate my software solution I will create create various criteria tables for myself, the client and user testing participants, corresponding to the the chosen development model's efficiency and effectiveness in production, the implementation's usability within its intended environment, and its satisfaction of the clients functional and non-functional requirements. 
+To evaluate my software solution I will create create various criteria tables and surveys for the client and user testing participants, corresponding to the the chosen development model's efficiency and effectiveness in production, the implementation's usability within its intended environment, and its satisfaction of the clients functional and non-functional requirements. 
 
 This evaluation will be conducted over two weeks in individual sessions with the user participants to document user satisfaction and a meeting with the client to discuss the outcome of the project and the satisfactory completion of its requirements. Additionally I will separately conduct further evaluation of the software and its development model to document its practical efficiency and effectiveness.
 ## User Satisfaction
@@ -69,32 +69,32 @@ This evaluation will be conducted over two weeks in individual sessions with the
 		- [x] Panel Displaying the current days lessons 
 		- [x] Lessons are clickable to open a new note
 		- [x] Date can be incremented back / forwards to see other timetables
-		- [ ] Timetable is displayed sequentially
-		- [ ] Panel containing the users upcoming / recent learning tasks
+		- [x] Timetable is displayed sequentially
+		- [x] Panel containing the users upcoming / recent learning tasks
 		- [ ] Learning tasks display their due date as a reminder
-		- [ ] Panel for viewing recently edited notes
+		- [x] Panel for viewing recently edited notes
 		- [ ] Recently edited notes display their date and subject
-	- [ ] Panels within the side panel can be toggled on and off by the user
-	- [ ] Navigation bar displays a sign out button at all times when authenticated
-	- [ ] Main content of the page displays a table with all of the users notes
-	- [ ] Notes can be sorted by date, lesson or subject
+	- [x] Panels within the side panel can be toggled on and off by the user
+	- [x] Navigation bar displays a sign out button at all times when authenticated
+	- [x] Main content of the page displays a table with all of the users notes
+	- [x] Notes can be sorted by date, lesson or subject
 	- [ ] Notes can be filtered by subject or date
-	- [ ] Clicking on a note in the table opens it for editing by the user
+	- [x] Clicking on a note in the table opens it for editing by the user
 - [x] **Editor Page**
-	- [ ] The editor is opened in a side by side view with the selected lesson plan
-	- [ ] The lesson plan is formatted correctly with all rich text style as in compass
-	- [ ] The plan panel is displayed in read only
-	- [ ] The lesson plan panel features a title displaying the subject and lesson date
-	- [ ] A user can toggle the lesson plan panel on and of while taking notes
-	- [ ] The main editor has live text formatting as the user types
-	- [ ] A menu bar is attached to the top of the editor at all times
-	- [ ] The bar has familiar buttons for the user
-		- [ ] Drop-down to save or delete a document
-		- [ ] Options to insert various headings or titles
-		- [ ] Formatting drop-down applies to selected text
+	- [x] The editor is opened in a side by side view with the selected lesson plan
+	- [x] The lesson plan is formatted correctly with all rich text style as in compass
+	- [x] The plan panel is displayed in read only
+	- [x] The lesson plan panel features a title displaying the subject and lesson date
+	- [x] A user can toggle the lesson plan panel on and of while taking notes
+	- [x] The main editor has live text formatting as the user types
+	- [x] A menu bar is attached to the top of the editor at all times
+	- [x] The bar has familiar buttons for the user
+		- [x] Drop-down to save or delete a document
+		- [x] Options to insert various headings or titles
+		- [x] Formatting drop-down applies to selected text
 	- [ ] Common key combinations can be used to apply formatting to text
-	- [ ] Markdown syntax can be used to format titles, text, lists, etc.
-	- [ ] A user can use LaTeX formatting within their notes
+	- [x] Markdown syntax can be used to format titles, text, lists, etc.
+	- [x] A user can use LaTeX formatting within their notes
 	- [ ] LaTeX is live rendered alongside common rich text / markdown
 ## Development Model
 
