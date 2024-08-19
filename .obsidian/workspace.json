@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91a5d8141cf59b99",
+        "id": "455e6c6c7e9807c0",
         "type": "tabs",
         "children": [
           {
-            "id": "62f0ee0a7f7e2c42",
+            "id": "fde9ddce6b7bf929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT2/Usability Testing.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT2/Usability Testing.md"
+                "file": "README.md"
               }
             }
           }
@@ -95,10 +95,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f0ee0a7f7e2c42",
+  "active": "fde9ddce6b7bf929",
   "lastOpenFiles": [
-    "SoftDev/SAT2/Usability Testing.pdf",
     "SoftDev/SAT2/Usability Testing.md",
+    "SoftDev/SAT2/Usability Testing.pdf",
     "SoftDev/SAT2/Development Stage.md",
     "README.md",
     "Maths/Matrices.md",
@@ -141,7 +141,6 @@
     "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
     "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
     "English/Born A Crime/Born_a_Crime.pdf",
-    "SoftDev/SAT1/pdfs/SRS.pdf",
-    "SoftDev/SAT1/pdfs/Project Proposal.pdf"
+    "SoftDev/SAT1/pdfs/SRS.pdf"
   ]
 }
