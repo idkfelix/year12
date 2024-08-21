@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,10 +98,19 @@
   },
   "active": "fde9ddce6b7bf929",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "SoftDev/SAT2/pdfs/Evaluation.pdf",
+    "SoftDev/SAT2/Development Stage.md",
+    "SoftDev/SAT2/pdfs/Usability Testing.pdf",
+    "SoftDev/SAT2/pdfs",
+    "SoftDev/SAT2/attachments/demo2.png",
+    "SoftDev/SAT2/attachments/demo1.png",
+    "SoftDev/SAT2/attachments",
+    "SoftDev/SAT2/Planning Report.md",
+    "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/Usability Testing.md",
     "SoftDev/SAT2/Usability Testing.pdf",
-    "SoftDev/SAT2/Development Stage.md",
-    "README.md",
     "Maths/Matrices.md",
     "Maths/Matrices.pdf",
     "SoftDev/SAT1/Design.md",
@@ -126,21 +136,12 @@
     "Accounting/Accounts Turnover.md",
     "Media/SAT/Hoddle Blues.md",
     "Media/SAT/Statements.md",
-    "conflict-files-obsidian-git.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
     "Media/SAT/attachments/Pasted image 20240612233441.png",
     "Media/SAT/attachments/Pasted image 20240612233359.png",
     "Media/SAT/attachments/Pasted image 20240612220814.png",
-    "Media/SAT/attachments/Pasted image 20240612220717.png",
-    "Media/SAT/attachments/Pasted image 20240612220606.png",
     "Media/SAT/attachments",
-    "English/Protests/Hope.md",
-    "English/Persuasive Techniques.md",
-    "Media/SAT/Outcome 3.md",
-    "Accounting/classwork/Felix 2024 Unit 3 SAC 2 excel answer file.xlsx",
-    "SoftDev/SAT1/design/Practice SAC 3 Answer.docx",
-    "English/Born A Crime/Born_a_Crime.pdf",
-    "SoftDev/SAT1/pdfs/SRS.pdf"
+    "English/Protests/Hope.md"
   ]
 }
