@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Accounting/General Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Accounting/General Journal.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,10 +95,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50cbc2a740a04e16",
+  "active": "f02e329d0dc971a2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "SoftDev/SAT2/pdfs/Evaluation.pdf",
     "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
