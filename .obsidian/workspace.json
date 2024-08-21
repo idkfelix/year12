@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/SAT2/Planning Report.md",
+                "file": "SoftDev/SAT2/Project Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/SAT2/Planning Report.md"
+                "file": "SoftDev/SAT2/Project Review.md"
               }
             }
           }
@@ -97,11 +97,12 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
+    "SoftDev/SAT1/Design.md",
+    "SoftDev/SAT2/Project Review.md",
+    "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
     "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/Usability Testing.md",
-    "SoftDev/SAT2/Planning Report.md",
     "conflict-files-obsidian-git.md",
-    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/Project Proposal.md",
     "SoftDev/SAT1/Development Model Justification.md",
@@ -140,8 +141,6 @@
     "Media/SAT/Production Experiment/Production Experiment 1.md",
     "Media/SAT/Production Experiment/Production Experiment 1.pdf",
     "Media/SAT/Production Experiment/Production Experiment 2.md",
-    "Media/SAT/Production Experiment/attachments",
-    "English/Persuasive Techniques.md",
-    "English/Practice SACs/Garment Gab.md"
+    "English/Persuasive Techniques.md"
   ]
 }
