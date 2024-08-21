@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,10 +97,10 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "SoftDev/SAT2/Planning Report.md",
     "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/Usability Testing.md",
+    "SoftDev/SAT2/Planning Report.md",
+    "conflict-files-obsidian-git.md",
     "SoftDev/SAT1/Design.md",
     "SoftDev/SAT1/SRS.md",
     "SoftDev/SAT1/Project Proposal.md",
