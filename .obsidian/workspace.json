@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -96,7 +97,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f02e329d0dc971a2",
+  "active": "50cbc2a740a04e16",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
