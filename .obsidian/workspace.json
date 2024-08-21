@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba6dabecd5072113",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4b2d8d63845fa205",
+  "active": "ba6dabecd5072113",
   "lastOpenFiles": [
     "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/pdfs/Evaluation.pdf",
