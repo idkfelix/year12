@@ -10,5 +10,7 @@
 
 >Blind who now has eyes, beggar who now is rich, he will grope his way toward a foreign soil, a stick tapping before him step by step. 
 
+> And if you find I’ve lied from this day onward call the prophet blind
 
+> 
 
