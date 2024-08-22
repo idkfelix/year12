@@ -6,8 +6,9 @@
 
 > this fortune-teller peddling lies, eyes peeled for his own profit—seer blind in his craft!
 
-> 
+> you mock my blindness? Let me tell you this. You with your precious eyes, you’re blind to the corruption of your life
 
+>Blind who now has eyes, beggar who now is rich, he will grope his way toward a foreign soil, a stick tapping before him step by step. 
 
 
 

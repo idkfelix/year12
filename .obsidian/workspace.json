@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3cbb24937af0057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "English/Oedipus - Blindness.md"
               }
             }
           }
@@ -101,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -110,10 +97,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3cbb24937af0057",
+  "active": "546fbe3c9e6e0242",
   "lastOpenFiles": [
-    "English/Oedipus - Blindness.md",
     "conflict-files-obsidian-git.md",
+    "English/Oedipus - Blindness.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
     "README.md",
