@@ -12,5 +12,5 @@
 
 > And if you find I’ve lied from this day onward call the prophet blind
 
-> 
+> blind to the ones you longed to see, to know! Blind qfrom this hour on! Blind in the darkness—blind!
 
