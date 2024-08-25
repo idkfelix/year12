@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/U3O2 Sac Prep.md",
-                "mode": "source",
+                "file": "Maths/Data Analysis.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/U3O2 Sac Prep.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -99,8 +97,8 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
-    "Accounting/Net Realisable Value.md",
     "Accounting/U3O2 Sac Prep.md",
+    "Accounting/Net Realisable Value.md",
     "SoftDev/SAT2/Project Review.md",
     "English/Oedipus - Blindness.md",
     "SoftDev/SAT2/Usability Testing.md",
