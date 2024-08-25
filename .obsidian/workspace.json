@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Recursion & Financial.md",
+                "file": "Maths/Matrices.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Recursion & Financial.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -97,6 +97,7 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
+    "Maths/Recursion & Financial.md",
     "Maths/Data Analysis.md",
     "Accounting/U3O2 Sac Prep.md",
     "Accounting/Net Realisable Value.md",
@@ -141,7 +142,6 @@
     "English/Protests/Hope.md",
     "Media/SAT/Production Experiment/Production Experiment 2.pdf",
     "Media/SAT/Production Experiment/Production Experiment 1.md",
-    "Media/SAT/Production Experiment/Production Experiment 1.pdf",
-    "Media/SAT/Production Experiment/Production Experiment 2.md"
+    "Media/SAT/Production Experiment/Production Experiment 1.pdf"
   ]
 }
