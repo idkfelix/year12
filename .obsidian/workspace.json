@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
+                "file": "Maths/Data Analysis.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -97,6 +97,7 @@
   },
   "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
+    "Maths/Matrices.md",
     "Maths/Recursion & Financial.md",
     "Maths/Data Analysis.md",
     "Accounting/U3O2 Sac Prep.md",
@@ -124,7 +125,6 @@
     "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
     "Media/Agency & Control.md",
-    "Maths/Matrices.md",
     "English/Protests/Oral Final.md",
     "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
