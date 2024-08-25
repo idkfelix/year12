@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ee114b22d48b95",
+        "id": "693d5068db144f72",
         "type": "tabs",
         "children": [
           {
-            "id": "546fbe3c9e6e0242",
+            "id": "4b2d8d63845fa205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Oedipus - Blindness.md",
+                "file": "Accounting/U3O2 Sac Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,24 +62,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
     "children": [
       {
-        "id": "0321e8cb894d6bb8",
+        "id": "2503d8d211717162",
         "type": "tabs",
         "children": [
           {
-            "id": "9b18170a73aa95cd",
+            "id": "85e5254876aa9d7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Oedipus - Blindness.md"
+                "file": "Accounting/U3O2 Sac Prep.md"
               }
             }
           }
@@ -87,63 +86,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "546fbe3c9e6e0242",
+  "active": "4b2d8d63845fa205",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "English/Oedipus - Blindness.md",
-    "Accounting/General Journal.md",
+    "Accounting/Net Realisable Value.md",
+    "Accounting/U3O2 Sac Prep.md",
     "SoftDev/SAT2/Project Review.md",
-    "README.md",
-    "SoftDev/SAT2/pdfs/Evaluation.pdf",
-    "SoftDev/SAT2/Development Stage.md",
-    "SoftDev/SAT2/pdfs/Usability Testing.pdf",
-    "SoftDev/SAT2/pdfs",
-    "SoftDev/SAT2/attachments/demo2.png",
-    "SoftDev/SAT2/attachments/demo1.png",
-    "SoftDev/SAT2/attachments",
-    "SoftDev/SAT2/Planning Report.md",
-    "SoftDev/SAT2/Evaluation.md",
+    "English/Oedipus - Blindness.md",
     "SoftDev/SAT2/Usability Testing.md",
-    "SoftDev/SAT2/Usability Testing.pdf",
-    "Maths/Matrices.md",
-    "Maths/Matrices.pdf",
+    "SoftDev/SAT2/Evaluation.md",
+    "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT2/demo2.png",
-    "SoftDev/SAT2/demo1.png",
+    "SoftDev/SAT1/Development Model Justification.md",
+    "SoftDev/SAT1/Meeting Notes.md",
+    "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
+    "conflict-files-obsidian-git.md",
+    "SoftDev/SAT1/SRS.md",
+    "SoftDev/SAT1/Project Proposal.md",
+    "SoftDev/SAT2/pdfs/Evaluation.pdf",
+    "SoftDev/Unit3 Key Terms.md",
+    "SoftDev/SAT2/attachments/demo1.png",
+    "SoftDev/SAT2/attachments/demo2.png",
+    "SoftDev/SAT2/attachments",
+    "SoftDev/SAT2/pdfs",
+    "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2",
-    "Maths/Data Analysis.md",
-    "Media/Agency & Control.md",
     "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
+    "Media/Agency & Control.md",
+    "Maths/Matrices.md",
+    "English/Protests/Oral Final.md",
     "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
     "Accounting/Balance Day Adjustments.md",
-    "English/Protests/Oral Final.md",
     "English/Protests/Oral Presentation.md",
-    "SoftDev/SAT1/design/Notelass.fig",
-    "Accounting/U3O2 Sac Prep.md",
-    "English/Protests/Oral Draft.md",
-    "Accounting/General Ledger.md",
-    "Accounting/Inventory.md",
-    "Accounting/Balance Sheet.md",
-    "Accounting/Accounts Turnover.md",
+    "SoftDev/SAT1/design/Components.png",
     "Media/SAT/Hoddle Blues.md",
-    "Media/SAT/Statements.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
     "Media/SAT/attachments/Pasted image 20240612233441.png",
     "Media/SAT/attachments/Pasted image 20240612233359.png",
     "Media/SAT/attachments/Pasted image 20240612220814.png",
-    "Media/SAT/attachments"
+    "Media/SAT/attachments/Pasted image 20240612220717.png",
+    "Maths/Data Analysis.md",
+    "Media/SAT/attachments",
+    "English/Protests/Hope.md",
+    "Media/SAT/Production Experiment/Production Experiment 2.pdf",
+    "Media/SAT/Production Experiment/Production Experiment 1.md",
+    "Media/SAT/Production Experiment/Production Experiment 1.pdf",
+    "Media/SAT/Production Experiment/Production Experiment 2.md"
   ]
 }
