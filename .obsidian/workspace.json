@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Matrices.md",
-                "mode": "source",
+                "file": "Maths/Data Analysis.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Matrices.md"
+                "file": "Maths/Data Analysis.md"
               }
             }
           }
@@ -111,8 +111,8 @@
   },
   "active": "aec38295a5bd5e39",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Maths/Matrices.md",
+    "conflict-files-obsidian-git.md",
     "Maths/Recursion & Financial.md",
     "Maths/Data Analysis.md",
     "English/Oedipus - Blindness.md",
