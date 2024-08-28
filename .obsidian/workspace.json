@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d51a54888d3042a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -106,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Maths/Matrices.md"
               }
             }
           }
@@ -123,10 +109,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d51a54888d3042a3",
+  "active": "aec38295a5bd5e39",
   "lastOpenFiles": [
-    "Maths/Matrices.md",
     "conflict-files-obsidian-git.md",
+    "Maths/Matrices.md",
     "Maths/Recursion & Financial.md",
     "Maths/Data Analysis.md",
     "English/Oedipus - Blindness.md",
