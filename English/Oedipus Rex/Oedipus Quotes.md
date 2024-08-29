@@ -27,9 +27,8 @@ Exodus: 
 - “Swept away on a dark tide” -Oedipus
 - “Blind to the truth”
 - Line 30 “Our city— look around you, see with your own eyes— our ship pitches wildly, cannot lift her head 30 from the depths, the red waves of death . . .”
->  Line 1540 “Dark, horror of darkness, my darkness, drowning, swirling around me crashing wave on wave—unspeakable, irresistible headwind, fatal harbour! Oh again, the misery, all at once, over and over the stabbing dagger, stab of memory raking me insane.”
-
->  Line 1682 Now what a black sea of terror has overwhelmed him.
+- Line 1540 “Dark, horror of darkness, my darkness, drowning, swirling around me crashing wave on wave—unspeakable, irresistible headwind, fatal harbour! Oh again, the misery, all at once, over and over the stabbing dagger, stab of memory raking me insane.”
+- Line 1682 Now what a black sea of terror has overwhelmed him.
 ## Sophocles authorial intent
 Play is crucial for reinforcing power of God’s – Written at a time where society of ancient Greece started to question the sovereignty/divinity of God. Why Sophocles' exalted the powers of God’s and the overarching theme of divine destiny and emptiness of human efforts. 
 - Written at a time of “intellectual revolution”

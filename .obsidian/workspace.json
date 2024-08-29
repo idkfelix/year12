@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Oedipus Quotes.md",
+                "file": "English/Oedipus Rex/Practice Response.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5ed15543624fd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61812ef12144ddac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Oedipus Rex/Oedipus Quotes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Oedipus Quotes.md"
+                "file": "English/Oedipus Rex/Practice Response.md"
               }
             }
           }
@@ -86,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,12 +118,17 @@
   },
   "active": "635af3d5e3fbda7b",
   "lastOpenFiles": [
-    "English/Oedipus Quotes.md",
+    "English/Oedipus Rex/Oedipus Quotes.md",
+    "English/Oedipus Rex/Practice Response.md",
+    "English/Oedipus Rex/Oedipus - Blindness.md",
+    "English/Oedipus Rex",
+    "English/Oedipus Rex.md",
+    "English/Techniques/Analytical Response.md",
+    "English/Techniques",
     "Maths/Data Analysis.md",
     "Maths/Matrices.md",
     "conflict-files-obsidian-git.md",
     "Maths/Recursion & Financial.md",
-    "English/Oedipus - Blindness.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
     "README.md",
@@ -130,18 +156,13 @@
     "Accounting/Balance Day Adjustments.md",
     "English/Protests/Oral Final.md",
     "English/Protests/Oral Presentation.md",
-    "SoftDev/SAT1/design/Notelass.fig",
     "Accounting/U3O2 Sac Prep.md",
     "English/Protests/Oral Draft.md",
     "Accounting/General Ledger.md",
-    "Accounting/Inventory.md",
-    "Accounting/Balance Sheet.md",
-    "Accounting/Accounts Turnover.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
     "Media/SAT/attachments/Pasted image 20240612233441.png",
     "Media/SAT/attachments/Pasted image 20240612233359.png",
-    "Media/SAT/attachments/Pasted image 20240612220814.png",
-    "Media/SAT/attachments"
+    "Media/SAT/attachments/Pasted image 20240612220814.png"
   ]
 }
