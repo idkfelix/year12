@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ee114b22d48b95",
+        "id": "36511640b47fcbd6",
         "type": "tabs",
         "children": [
           {
-            "id": "546fbe3c9e6e0242",
+            "id": "635af3d5e3fbda7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Recursion & Financial.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aec38295a5bd5e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Data Analysis.md",
-                "mode": "preview",
+                "file": "English/Oedipus Quotes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Data Analysis.md"
+                "file": "English/Oedipus Quotes.md"
               }
             }
           }
@@ -109,12 +95,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aec38295a5bd5e39",
+  "active": "635af3d5e3fbda7b",
   "lastOpenFiles": [
+    "English/Oedipus Quotes.md",
+    "Maths/Data Analysis.md",
     "Maths/Matrices.md",
     "conflict-files-obsidian-git.md",
     "Maths/Recursion & Financial.md",
-    "Maths/Data Analysis.md",
     "English/Oedipus - Blindness.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
@@ -150,7 +137,6 @@
     "Accounting/Inventory.md",
     "Accounting/Balance Sheet.md",
     "Accounting/Accounts Turnover.md",
-    "Media/SAT/Hoddle Blues.md",
     "Media/SAT/attachments/Pasted image 20240612233606.png",
     "Media/SAT/attachments/Pasted image 20240612233506.png",
     "Media/SAT/attachments/Pasted image 20240612233441.png",

@@ -23,5 +23,6 @@
   "propertiesInDocument": "source",
   "showIndentGuide": true,
   "showLineNumber": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "spellcheck": true
 }
