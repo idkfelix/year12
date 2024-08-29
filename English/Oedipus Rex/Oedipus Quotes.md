@@ -46,7 +46,7 @@ Simple terms : Sophocles intends to bring the contemporary audiences attention a
 - (Oedipus tries to evade the god’s prophecy) “you cannot equal the gods” - Priest 
 - No skill in the world, nothing human can penetrate the future.
 - “None of your power follows you through life” -Creon 
-## Denial and fear (Sarah and Esha)
+## Denial and fear
 - “Stop—in the name of god, if you love your own life, call off this search!” - Jocasta 
 - “I am afraid, Jocasta” - Oedipus
 - “It’s all chance, chance rules out lives” - Jocasta → Jocasta’s dismisses the Gods out of fear,,.  , . ,
