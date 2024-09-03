@@ -92,3 +92,6 @@ Simple terms : Sophocles intends to bring the contemporary audiences attention a
 ## Foreshadowing and omens
 - Oedipus declares to the public that he himself is “a stranger to the story of Laius’ murder as stranger to the deed”. This foreshadows, for modern audiences, that all is not as it seems.
 - Oedipus tells Tiresias that he is “blind in mind and ears as well as eyes”
+
+<hr>
+# Extra
