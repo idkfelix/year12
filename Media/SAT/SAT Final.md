@@ -61,6 +61,11 @@
 > Once again, I think there's a lot done right with your photo's. I think they came out well, tell a clear narrative, and catch a certain vibe/aesthetic that remains consistent throughout. There might be some nitty gritty stuff that could be improved on but there was nothing that was overly noticeable for me that could be Improved on.
 
 > I think the things I have said above are apart of the general feedback, maybe make it seems like he is isolating away from his friends, because it doesn’t really seem like he is addicted or obsessed as you stated in the main idea o the photos.
+
+> If you wanted to keep it more concise you could remove one of the shots of lying on the ground with the broken skateboard. Unless I'm missing something it makes me question why there are two shots of the same thing which might distract from your original intention.
+
+> Maybe elaborate a bit more on the narrative with the images alone, otherwise the images look pretty good, and the story is coherent.
+
 # Post-Production
 
 
