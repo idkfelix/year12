@@ -69,7 +69,12 @@
 # Post-Production
 ![[Pasted image 20240905102317.png]]
 ![[Pasted image 20240905101946.png]]
+![[Pasted image 20240905102630.png]]
 ![[Pasted image 20240905102224.png]]
+![[Pasted image 20240905102405.png]]
+![[Pasted image 20240905102916.png]]
+![[Pasted image 20240905103014.png]]
+![[Pasted image 20240905103142.png]]
 
 # Reflection Questions
 1. What did you intend to create? Did you achieve your intention? 
