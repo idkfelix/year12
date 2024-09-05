@@ -102,36 +102,22 @@ To bind the final Zine I used a long arm stapler to reach the spine of the a5 si
 ![[IMG_0702.jpeg]]
 
 # Reflection Questions
->1. What did you intend to create? Did you achieve your intention? 
+>What did you intend to create? Did you achieve your intention? 
 
 I intended to create a short narrative zine about skateboarding and self isolation / obsession, featuring a group of friends in a dramatic coming of age genre. I feel that I've come close to this intention with my final product although with a modified narrative to account for my unplanned reduction of available cast. 
    
->2. While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
+>While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
 
 One strength that I had whilst on shoot was casting my protagonist as a talented skateboarder who could consistently land tricks for the expensive film I was shooting on and emulate realistic slams, giving dramatic shots an extra layer of emphasis. One weakness that I had was a very undependable supporting cast that don't know how to use a calendar or stick to arrangements critical to the production schedule.  
    
->3. Did you use your pre-production plan during the production and post-production phases? How? 
+>Did you use your pre-production plan during the production and post-production phases? How? 
 
-Having a pre-production plan set out a clear timeline and set of tasks that I needed to complete throughout the production and post production of my zine, allowing me to properly manage my time and focus more on 
+Having a pre-production plan set out a clear timeline and set of tasks that I needed to complete throughout the production and post production of my zine, allowing me to properly manage my time and focus more on the process involved.
    
->4. Did you rely on others while on shoot? What roles did they take on? 
-   
->5. Have you used the appropriate equipment/material/techniques to create your media product? Did you use more equipment/software than you planned for? 
-   
->6. Was there a better/different way to do things that you hadn’t thought about before? 
-   
->7. Does something need to change that is too difficult to change? 
-   
->8. Describe one production and post-production technique/skill that you learnt during this process. 
-   
->9. Explain how you used codes and conventions to convey the genre of your product. Refer to your preproduction plan for this. 
+>Did you rely on others while on shoot? What roles did they take on? 
 
->10. What major changes to the structure and/or aesthetics did you make overall? 
+I relied on others for acting, however other than that I personally did all of the camera work myself and as my product was print there was no need photo audio assistance or lighting due to the setting of the narrative.
 
->11. How did you undertake a process of feedback including getting feedback from you teacher, peers and others? 
+>Describe one production and post-production technique/skill that you learnt during this process. 
 
->12. Reflecting on your surveys and feedback throughout the process, what suggestions (visual, stylistic, narrative, layout, content etc) were made that motivated you to make changes? Was it based on feedback from your audience, peers and/or your own reflections? 
-
->13. How has this helped refine/resolve your media product? 
-
->14. How does your final product appeal to your target audience?
+During production I learnt the process of capturing motion blur in camera on 35mm film by framing and tracking the subject in action shots. Throughout the post production of my zine I learnt the techniques of proper ink density management in preparation for printing and how to utilise bleeds with crop marks to get a professional finish on the booklet.
