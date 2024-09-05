@@ -1,0 +1,3 @@
+Julie Cross, an editor at News Corp Australia, has written an opinion piece in support of a recent proposal and concerns regarding a bipartisan push by the Australian government to increase the age restriction on social media from 13 to 16 in a contentious approach to address high rates of mental health problems in young teens across the country. Cross adopts a tone of urgency with great conviction throughout the piece, using strong language and hyperbole to incite an emotive reaction of fear and concern from the reader. This stance is supported through her proposed concerns of social media platforms addictiveness  and influence on the target audience's, made up of Australian parents, children and the harm they may face on the platform.
+
+An opinion piece 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f530fd10aaa07faf",
+        "id": "33947ca756d7c768",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b8b4c8fdd08f91",
+            "id": "9d068882aa5796d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/classwork/Financial Data Comparison.md",
+                "file": "English/Rewritten Paragraph.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,16 +69,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0321e8cb894d6bb8",
+        "id": "1c888193f77c24ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9b18170a73aa95cd",
+            "id": "f0deae2859e8463d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/classwork/Financial Data Comparison.md"
+                "file": "English/Rewritten Paragraph.md"
               }
             }
           }
@@ -95,11 +95,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9b8b4c8fdd08f91",
+  "active": "9d068882aa5796d9",
   "lastOpenFiles": [
-    "Media/SAT/SAT Final.md",
-    "Accounting/classwork/Financial Data Comparison.md",
     "conflict-files-obsidian-git.md",
+    "English/Rewritten Paragraph.md",
+    "Accounting/classwork/Financial Data Comparison.md",
+    "Media/TikTok and its effect on Media.md",
+    "Media/SAT/SAT Final.md",
     "Media/SAT/attachments/Pasted image 20240905104500.png",
     "Media/SAT/attachments/Pasted image 20240905103142.png",
     "Media/SAT/attachments/Pasted image 20240905103014.png",
@@ -140,8 +142,6 @@
     "Media/attachments",
     "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
-    "Accounting/Balance Day Adjustments.md",
-    "English/Protests/Oral Final.md",
-    "English/Protests/Oral Presentation.md"
+    "Accounting/Balance Day Adjustments.md"
   ]
 }

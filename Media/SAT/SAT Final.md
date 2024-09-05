@@ -1,19 +1,16 @@
 # Modified Treatment
 ## Act 1
-In the heart of Melbourne city a teenage protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
+The narrative opens with an impressionable teenage walking into a skate shop for the first time. He's seen staring in awe at the TV in the shop that's playing classic skate videos for customers to enjoy whilst shopping, browsing the beginner skateboards and learning about all the skateboard parts he can buy. Seeing his infatuation with the hobby a shop employee offers him an old skateboard they had laying around the shop for him to get a feel for the sport. The protagonist eagerly accepts the gift and heads straight to the local skatepark.
 
-The protagonist is proposed the idea of having their skateboarding filmed with a camera one of their friends recently purchased in hopes of getting recognition among the competitive community of skateboarding. This idea starts as a small project for the group as they skate the classic spots around the city, until one day the protagonist imagines a risky trick they are convinced will impress team managers enough to invite him as a professional. This thought becomes an obsession for the protagonist as he begins training every day, studying skate videos and skating more frequently in hopes of landing the trick.
+At the skatepark the protagonist can be seen finding his feet at skateboarding, trying out some beginner tricks and learning the ropes as he obviously struggles with the technical aspects of the sport, but has total commitment to improving. In between shots of the protagonist skateboarding he's pictured texting friends about his new found love for the sport and excitement over free skateboard, even planning to go skating with friends already into skateboarding over the following days.
 ## Act 2
-Becoming a professional skateboards begins to overshadow everything in the protagonists life as he skips other activities with his friends to continue attempting this trick. With less and less friends by his side in their skate sessions the protagonist becomes ignorant to alienation of those around him and the fading relationships as it becomes apparent to his friends that all he obsesses over is a single skate trick. The enjoyment and community of the hobby starts to fade for the protagonist as he grows to despise the hobby, yet he wont let himself quit attempting to land this fabled skate trick.
+Returning to the skatepark alone after some time, the protagonist has spent countless hours practicing in the time since he's received the skateboard. He's shown executing more technical tricks with ease as he rolls around in his now worn out clothes, it's become clear of his deep passion for the sport. This visit however, the protagonist isn't seen talking to friends in any shots on his phone, instead opting to turn his device onto silent, ignoring the friends he was initially so keen to go skating with. 
 
-In frustration the protagonist begins the push himself beyond his limits, throwing himself into the trick in hopes of finally achieving his goal. By now all those around him but the filmer have left, annoyed by the little value their friendships mean to the protagonist, yet his obsession has left him blinded to the surrounding sentiment. This climaxes in a dangerous attempt of the trick in which the protagonist crashes onto the concrete breaking his wrist, with little option he's forced to take time off skating for recovery. Although this time off only grows his obsession of the trick as he analyses more skateboarding footage the trick feels so close, yet so far away.
+As his skateboarding session comes to an end, the protagonist is seen rolling up to the big stair set of the skatepark, only to stop last second, unsure of his ability to successfully land a trick down it, he dreams of becoming a pro skateboarder by filming himself land it. This thought lingers with the protagonist as he walks past the skate shop, past closing hours as he's been out skating late, once again staring into the TV through the window in awe of the pro skateboarders it pictures. This continues even later into his day as he sits around in a carpark watching skate videos on his phone as he continues to practice late into the night.
 ## Act 3
-Fed up with recovery the protagonist decides to cut it short, lobbying his friend to come filming only to be met with concerns for his health. Unphased he sneaks out of the house to resume his attempts in the silent and empty space he had once shared in good times with friends. With no camera the protagonist is determined to land the trick, no longer for community approval, but to satisfy his own unbearable obsession. After many attempts his efforts are successful, as he rolls away from the trick a he feels a sense of great euphoria, only to be immediately contrasted by the the sombre realisation of the damage he's caused to not only himself but the friends who's approval he initially craved.
+Now completely obsessed with the idea of landing a trick down the daunting stair set in hopes of going pro, the protagonist arrives at the skatepark and immediately sets up his phone to record himself as he skips any warm up and begins size up the obstacle. The protagonist throws himself down the drop slamming onto the hard pavement in front of his phone, only to get back up and is pictured repeating the same painful routine over and over.
 
-The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
-# Production
-
-
+After much struggle the protagonist launches off the top of the stair set, positioned perfectly over the skateboard, moments away from settling his obsession and landing the trick that plagued his thoughts since the moment he imagined it. The protagonist hits the ground snapping his worn out deck, crushing his ankle in the process. Laying in pain he's pictured screaming from the agony with his phone by his side, barren of any contact from his seemingly close friends. the protagonist clutches his leg as he realises the real cost of his actions in not just physical harm but the self-isolation he's ignorantly sent himself into, now being left to fend for himself.
 # Audience Feedback
 ## Is the narrative coherent?
 > I think your narrative and the story line's progression is relatively clear, but the act annotations would make it easier for audiences to understand.
@@ -89,43 +86,38 @@ https://gitlab.com/velvetyne/vg5000
 ![[Pasted image 20240905102224.png]]
 The pages of my zine are laid out into spreads in the software with a single shot per page, fit along the x axis to the set page margins.
 ![[Pasted image 20240905102405.png]]
-
+As some of the shots featuring a phone throughout the narrative came out invisible on the film scans I edited them in photoshop with screenshots of a phone screen overlaid onto the original scan.
 ![[Pasted image 20240905102916.png]]
+I started by drawing a mask to the phone screen in the image, including a large feather as the original screen still works around the edges, then mapping out the corners of the screenshot to the corners of the mast to get the correct perspective on the image. 
 ![[Pasted image 20240905103014.png]]
+To effectively blend the new screen onto the image I converted the masked screenshot into its own smart object, allowing me to apply a noise modifier on top of the layer to match the natural grain produced from the film. Then with the use of the screen blending option, lowering the opacity of the screenshot, and an exposure modifier, I composed the shot to highlight the phone screen, but still let its reflection shine through so as to not look too fake.
 ![[Pasted image 20240905103142.png]]
+The print setup for the zine required multi page per sheet printing in order to efficiently produce the A5 pages, InDesign provided some options for this need with configuration for printers marks such as crops, registration and colour bars, which I later used in the binding process.
 ![[Pasted image 20240905104500.png]]
-
+On my first test print I trialled a 4-up print (4 pages per side) on and A4 sheet to test its effectiveness before committing to an A3 print, however I found the cropping and stapling process to be significantly harder to align. 
 ![[IMG_0700.jpeg]]
-
+To account for this discovery in the test run I opted to print a more traditional 2-up layout which fits 4 A5 pages to each double sided A4 sheet. This proved a lot easier to work with, in part due to my final paper stock choice of uncoated 80gsm sheets for the 5 inner pages and a sing 200gsm sheet for the cover page (and first / last picture as the zine is designed as a self cover product)
 ![[IMG_0701.jpeg]]
-
+To bind the final Zine I used a long arm stapler to reach the spine of the a5 size, although the particular stapler I used was quite old and no longer had proper guides to align pages, causing some staples to fall off center.
 ![[IMG_0702.jpeg]]
 
 # Reflection Questions
-1. What did you intend to create? Did you achieve your intention? 
-   
-2. While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
-   
-3. Did you use your pre-production plan during the production and post-production phases? How? 
-   
-4. Did you rely on others while on shoot? What roles did they take on? 
-   
-5. Have you used the appropriate equipment/material/techniques to create your media product? Did you use more equipment/software than you planned for? 
-   
-6. Was there a better/different way to do things that you hadn’t thought about before? 
-   
-7. Does something need to change that is too difficult to change? 
-   
-8. Describe one production and post-production technique/skill that you learnt during this process. 
-   
-9. Explain how you used codes and conventions to convey the genre of your product. Refer to your preproduction plan for this. 
+>What did you intend to create? Did you achieve your intention? 
 
-10. What major changes to the structure and/or aesthetics did you make overall? 
+I intended to create a short narrative zine about skateboarding and self isolation / obsession, featuring a group of friends in a dramatic coming of age genre. I feel that I've come close to this intention with my final product although with a modified narrative to account for my unplanned reduction of available cast. 
+   
+>While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
 
-11. How did you undertake a process of feedback including getting feedback from you teacher, peers and others? 
+One strength that I had whilst on shoot was casting my protagonist as a talented skateboarder who could consistently land tricks for the expensive film I was shooting on and emulate realistic slams, giving dramatic shots an extra layer of emphasis. One weakness that I had was a very undependable supporting cast that don't know how to use a calendar or stick to arrangements critical to the production schedule.  
+   
+>Did you use your pre-production plan during the production and post-production phases? How? 
 
-12. Reflecting on your surveys and feedback throughout the process, what suggestions (visual, stylistic, narrative, layout, content etc) were made that motivated you to make changes? Was it based on feedback from your audience, peers and/or your own reflections? 
+Having a pre-production plan set out a clear timeline and set of tasks that I needed to complete throughout the production and post production of my zine, allowing me to properly manage my time and focus more on the process involved.
+   
+>Did you rely on others while on shoot? What roles did they take on? 
 
-13. How has this helped refine/resolve your media product? 
+I relied on others for acting, however other than that I personally did all of the camera work myself and as my product was print there was no need photo audio assistance or lighting due to the setting of the narrative.
 
-14. How does your final product appeal to your target audience?
+>Describe one production and post-production technique/skill that you learnt during this process. 
+
+During production I learnt the process of capturing motion blur in camera on 35mm film by framing and tracking the subject in action shots. Throughout the post production of my zine I learnt the techniques of proper ink density management in preparation for printing and how to utilise bleeds with crop marks to get a professional finish on the booklet.
