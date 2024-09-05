@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8740d0a08b462abe",
+        "id": "f530fd10aaa07faf",
         "type": "tabs",
         "children": [
           {
-            "id": "1d31cafb10e39f42",
+            "id": "f9b8b4c8fdd08f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Media/SAT/SAT Final.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Media/SAT/SAT Final.md"
               }
             }
           }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -96,7 +95,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d31cafb10e39f42",
+  "active": "f9b8b4c8fdd08f91",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Media/SAT/attachments/Pasted image 20240905104500.png",

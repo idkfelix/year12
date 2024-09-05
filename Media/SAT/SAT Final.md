@@ -16,7 +16,7 @@ The teens story concludes as he lays on the ground in unbearable pain from the i
 
 # Audience Feedback
 ## Is the narrative coherent?
-> I think your narrative and the storyline's progression is relatively clear, but the act annotations would make it easier for audiences to understand.
+> I think your narrative and the story line's progression is relatively clear, but the act annotations would make it easier for audiences to understand.
 
 > It’s really clear - especially laid out in order like they were, I didn’t have any trouble understanding the narrative.
 
@@ -24,7 +24,7 @@ The teens story concludes as he lays on the ground in unbearable pain from the i
 
 > It's clear that the protagonist gets obsessed with skateboarding and is doing all he can to improve, just not entirely sure if it's clear that it's an obsession, maybe if you made it clear that he's ignoring his friend by showing that there's a ton of missed notifications or something along those lines, again that's up to you.
 
-> The narrative is recognizable, although it would probably be a lot better once there are the annotations. The change in the outfit is an interesting element.
+> The narrative is recognisable, although it would probably be a lot better once there are the annotations. The change in the outfit is an interesting element.
 
 > For a collection of photos, I think it clearly and coherently show's us your narrative in a way that's easy to follow.
 
@@ -77,6 +77,7 @@ The teens story concludes as he lays on the ground in unbearable pain from the i
 > Maybe elaborate a bit more on the narrative with the images alone, otherwise the images look pretty good, and the story is coherent.
 
 # Post-Production
+
 ![[Pasted image 20240905102317.png]]
 ![[Pasted image 20240905101946.png]]
 https://gitlab.com/velvetyne/vg5000
