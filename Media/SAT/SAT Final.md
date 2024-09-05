@@ -87,7 +87,9 @@ For my covers and act titles I've chosen to use the free and open source font VG
 https://gitlab.com/velvetyne/vg5000
 ![[Pasted image 20240905102630.png]]
 ![[Pasted image 20240905102224.png]]
+The pages of my zine are laid out into spreads in the software with a single shot per page, fit along the x axis to the set page margins.
 ![[Pasted image 20240905102405.png]]
+
 ![[Pasted image 20240905102916.png]]
 ![[Pasted image 20240905103014.png]]
 ![[Pasted image 20240905103142.png]]
