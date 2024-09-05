@@ -19,7 +19,9 @@ Historically media has been a finite source of content for audiences to receive 
 
 Named after the technology of the time following the invention of modern broadcasting equipment, media access in the broadcast era became some of the first widely available low latency information transfer the world had seen. This was quickly adopted by production studios to capture large shares of the market divided into sections of the then limited transmission wavelength frequencies.
 ## Audience Relationships
-Although widely available, consumer equipment of the time still came with a hefty price tag, creating a barrier to entry for consumers to view media and with an even higher cost,  a giant barrier to entry for producers and production companies of the time to setup studios capable of
+Although widely available, consumer equipment of the time still came with a hefty price tag, creating a barrier to entry for consumers to view media and with an even higher cost,  a giant barrier to entry for producers and production companies of the time to setup studios capable of transmitting to audiences. This led to a dynamic of trust been formed between producers and audiences, who had no ability to share their own and had very little to no say in the content being published, over the authenticity of information being put out by producers. Moreover producers had to monetize their productions by offering advertising slots in between programming, partners in which would hold these producers accountable to keeping their content in the best interest of the viewer or audience. 
+
+
 ## Regulation & Costs
 
 # The Advent of TikTok
