@@ -15,9 +15,11 @@
 # Introduction
 
 # Traditional Media
-Historically media has been a finite source of content for audiences to receive information, news and messages from producers through early methods of communication such as newsprint, radio, film and television, all defining features of the broadcast era. This era represents the time before widespread popularity and access to the Internet over highspeed connections capable of transferring the large amounts of data that make up todays media landscape. Named after the technology of the time following the invention of modern broadcasting equipment,  
-## Audience Relationships
+Historically media has been a finite source of content for audiences to receive information, news and messages from producers through early methods of communication such as newsprint, radio, film and television, all defining features of the broadcast era. This era represents the time before widespread popularity and access to the Internet over highspeed connections capable of transferring the large amounts of data that make up todays media landscape. 
 
+Named after the technology of the time following the invention of modern broadcasting equipment, media access in the broadcast era became some of the first widely available low latency information transfer the world had seen. This was quickly adopted by production studios to capture large shares of the market divided into sections of the then limited transmission wavelength frequencies.
+## Audience Relationships
+Although widely available, consumer equipment of the time still came with a hefty price tag, creating a barrier to entry for consumers to view media and with an even higher cost,  a giant barrier to entry for producers and production companies of the time to setup studios capable of
 ## Regulation & Costs
 
 # The Advent of TikTok
