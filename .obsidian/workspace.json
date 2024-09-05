@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Video Essay/TikTok and its influence in the transition from Traditional Media to Web 2.0.md",
+                "file": "Media/TikTok and its effect on Media.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,15 +78,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Video Essay/TikTok and its influence in the transition from Traditional Media to Web 2.0.md"
+                "file": "Media/TikTok and its effect on Media.md"
+              }
+            }
+          },
+          {
+            "id": "1a57bafa3d60d5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Agency & Control.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 715.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -98,7 +112,7 @@
   "active": "284379c3c5c87854",
   "lastOpenFiles": [
     "Media/Agency & Control.md",
-    "Media/Video Essay/TikTok and its influence in the transition from Traditional Media to Web 2.0.md",
+    "Media/TikTok and its effect on Media.md",
     "Media/SAT/SAT Final.md",
     "Accounting/classwork/u4o2 class.md",
     "Media/SAT/Intention.md",
