@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ed15543624fd16",
+        "id": "8740d0a08b462abe",
         "type": "tabs",
         "children": [
           {
-            "id": "61812ef12144ddac",
+            "id": "1d31cafb10e39f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Oedipus Rex/Oedipus Quotes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Oedipus Rex/Oedipus Quotes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,10 +89,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61812ef12144ddac",
+  "active": "1d31cafb10e39f42",
   "lastOpenFiles": [
-    "English/Oedipus Rex/Practice Response.md",
     "English/Oedipus Rex/Oedipus Quotes.md",
+    "English/Oedipus Rex/Practice Response.md",
     "English/Oedipus Rex/Oedipus - Blindness.md",
     "English/Oedipus Rex",
     "English/Oedipus Rex.md",
