@@ -95,11 +95,11 @@ I started by drawing a mask to the phone screen in the image, including a large 
 ![[Pasted image 20240905103014.png]]
 To effectively blend the new screen onto the image I converted the masked screenshot into its own smart object, allowing me to apply a noise modifier on top of the layer to match the natural grain produced from the film. Then with the use of the screen blending option, lowering the opacity of the screenshot, and an exposure modifier, I composed the shot to highlight the phone screen, but still let its reflection shine through so as to not look too fake.
 ![[Pasted image 20240905103142.png]]
-The print setup for the zine required
+The print setup for the zine required multi page per sheet printing in order to efficiently produce the A5 pages, InDesign provided some options for this need with configuration for printers marks such as crops, registration and colour bars, which I later used in the binding process.
 ![[Pasted image 20240905104500.png]]
-
+On my first test print I trialled a 4-up print (4 pages per side) on and A4 sheet to test its effectiveness before committing to an A3 print, however I found the cropping and stapling process to be significantly harder to align. 
 ![[IMG_0700.jpeg]]
-
+To account for this discovery in the test run I opted to print a more traditional 2-up layout which fits 4 A5 pages to each double sided A4 sheet. This proved a lot easier to work with, in part due to my final paper stock choice of uncoated 80gsm sheets for the 5 inner pages and a sing 200gsm sheet for the cover page (and first / last picture as the zin)
 ![[IMG_0701.jpeg]]
 
 ![[IMG_0702.jpeg]]
