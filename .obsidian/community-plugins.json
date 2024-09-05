@@ -7,5 +7,6 @@
   "obsidian-minimal-settings",
   "obsidian-shellcommands",
   "css-editor",
-  "reference-generator"
+  "reference-generator",
+  "oz-clear-unused-images"
 ]

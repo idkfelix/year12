@@ -1,6 +1,16 @@
-# Modified Plan
+# Modified Treatment
+## Act 1
+In the heart of Melbourne city a teenage protagonist has found great excitement in the world of skateboarding with a group of friends. The protagonist finds the challenge and creativity of the hobby rewarding as he delves further into the community watching skateboarding videos and reading local magazines, he dreams of one day becoming a professional skateboarder.
 
+The protagonist is proposed the idea of having their skateboarding filmed with a camera one of their friends recently purchased in hopes of getting recognition among the competitive community of skateboarding. This idea starts as a small project for the group as they skate the classic spots around the city, until one day the protagonist imagines a risky trick they are convinced will impress team managers enough to invite him as a professional. This thought becomes an obsession for the protagonist as he begins training every day, studying skate videos and skating more frequently in hopes of landing the trick.
+## Act 2
+Becoming a professional skateboards begins to overshadow everything in the protagonists life as he skips other activities with his friends to continue attempting this trick. With less and less friends by his side in their skate sessions the protagonist becomes ignorant to alienation of those around him and the fading relationships as it becomes apparent to his friends that all he obsesses over is a single skate trick. The enjoyment and community of the hobby starts to fade for the protagonist as he grows to despise the hobby, yet he wont let himself quit attempting to land this fabled skate trick.
 
+In frustration the protagonist begins the push himself beyond his limits, throwing himself into the trick in hopes of finally achieving his goal. By now all those around him but the filmer have left, annoyed by the little value their friendships mean to the protagonist, yet his obsession has left him blinded to the surrounding sentiment. This climaxes in a dangerous attempt of the trick in which the protagonist crashes onto the concrete breaking his wrist, with little option he's forced to take time off skating for recovery. Although this time off only grows his obsession of the trick as he analyses more skateboarding footage the trick feels so close, yet so far away.
+## Act 3
+Fed up with recovery the protagonist decides to cut it short, lobbying his friend to come filming only to be met with concerns for his health. Unphased he sneaks out of the house to resume his attempts in the silent and empty space he had once shared in good times with friends. With no camera the protagonist is determined to land the trick, no longer for community approval, but to satisfy his own unbearable obsession. After many attempts his efforts are successful, as he rolls away from the trick a he feels a sense of great euphoria, only to be immediately contrasted by the the sombre realisation of the damage he's caused to not only himself but the friends who's approval he initially craved.
+
+The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
 # Production
 
 
@@ -76,7 +86,7 @@ https://gitlab.com/velvetyne/vg5000
 ![[Pasted image 20240905102916.png]]
 ![[Pasted image 20240905103014.png]]
 ![[Pasted image 20240905103142.png]]
-
+![[Pasted image 20240905104500.png]]
 
 ![[IMG_0700.jpeg]]
 
