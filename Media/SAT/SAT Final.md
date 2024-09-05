@@ -10,7 +10,7 @@ As his skateboarding session comes to an end, the protagonist is seen rolling up
 ## Act 3
 Now completely obsessed with the idea of landing a trick down the daunting stair set in hopes of going pro, the protagonist arrives at the skatepark and immediately sets up his phone to record himself as he skips any warm up and begins size up the obstacle. The protagonist throws himself down the drop slamming onto the hard pavement in front of his phone, only to get back up and is pictured repeating the same painful routine over and over.
 
-After much struggle the protagonist launches off the top of the stair set, positioned perfectly over the skateboard, moments away from settling his obsession and landing the trick that plagued his thoughts since the moment he imagined it. The protagonist hits the ground snapping his worn out deck, crushing his ankle in the process. Laying in pain he's pictured screaming from the agony with his phone by his side, barren of any contact from his seemingly close friends, the protagonist clutches his leg as he realises the real cost of his actions not just in physical harm but the 
+After much struggle the protagonist launches off the top of the stair set, positioned perfectly over the skateboard, moments away from settling his obsession and landing the trick that plagued his thoughts since the moment he imagined it. The protagonist hits the ground snapping his worn out deck, crushing his ankle in the process. Laying in pain he's pictured screaming from the agony with his phone by his side, barren of any contact from his seemingly close friends. the protagonist clutches his leg as he realises the real cost of his actions in not just physical harm but the self-isolation he's ignorantly sent himself into, now being left to fend for himself.
 # Audience Feedback
 ## Is the narrative coherent?
 > I think your narrative and the story line's progression is relatively clear, but the act annotations would make it easier for audiences to understand.
@@ -102,30 +102,36 @@ To bind the final Zine I used a long arm stapler to reach the spine of the a5 si
 ![[IMG_0702.jpeg]]
 
 # Reflection Questions
-1. What did you intend to create? Did you achieve your intention? 
-   
-2. While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
-   
-3. Did you use your pre-production plan during the production and post-production phases? How? 
-   
-4. Did you rely on others while on shoot? What roles did they take on? 
-   
-5. Have you used the appropriate equipment/material/techniques to create your media product? Did you use more equipment/software than you planned for? 
-   
-6. Was there a better/different way to do things that you hadn’t thought about before? 
-   
-7. Does something need to change that is too difficult to change? 
-   
-8. Describe one production and post-production technique/skill that you learnt during this process. 
-   
-9. Explain how you used codes and conventions to convey the genre of your product. Refer to your preproduction plan for this. 
+>1. What did you intend to create? Did you achieve your intention? 
 
-10. What major changes to the structure and/or aesthetics did you make overall? 
+I intended to create a short narrative zine about skateboarding and self isolation / obsession, featuring a group of friends in a dramatic coming of age genre. I feel that I've come close to this intention with my final product although with a modified narrative to account for my unplanned reduction of available cast. 
+   
+>2. While out on shoot explain one strength and one weaknesses of your management of the production schedule? This can include cast/crew management, locations, equipment, footage etc. 
 
-11. How did you undertake a process of feedback including getting feedback from you teacher, peers and others? 
+One strength that I had whilst on shoot was casting my protagonist as a talented skateboarder who could consistently land tricks for the expensive film I was shooting on and emulate realistic slams, giving dramatic shots an extra layer of emphasis. One weakness that I had was a very undependable supporting cast that don't know how to use a calendar or stick to arrangements critical to the production schedule.  
+   
+>3. Did you use your pre-production plan during the production and post-production phases? How? 
 
-12. Reflecting on your surveys and feedback throughout the process, what suggestions (visual, stylistic, narrative, layout, content etc) were made that motivated you to make changes? Was it based on feedback from your audience, peers and/or your own reflections? 
+Having a pre-production plan set out a clear timeline and set of tasks that I needed to complete throughout the production and post production of my zine, allowing me to properly manage my time and focus more on 
+   
+>4. Did you rely on others while on shoot? What roles did they take on? 
+   
+>5. Have you used the appropriate equipment/material/techniques to create your media product? Did you use more equipment/software than you planned for? 
+   
+>6. Was there a better/different way to do things that you hadn’t thought about before? 
+   
+>7. Does something need to change that is too difficult to change? 
+   
+>8. Describe one production and post-production technique/skill that you learnt during this process. 
+   
+>9. Explain how you used codes and conventions to convey the genre of your product. Refer to your preproduction plan for this. 
 
-13. How has this helped refine/resolve your media product? 
+>10. What major changes to the structure and/or aesthetics did you make overall? 
 
-14. How does your final product appeal to your target audience?
+>11. How did you undertake a process of feedback including getting feedback from you teacher, peers and others? 
+
+>12. Reflecting on your surveys and feedback throughout the process, what suggestions (visual, stylistic, narrative, layout, content etc) were made that motivated you to make changes? Was it based on feedback from your audience, peers and/or your own reflections? 
+
+>13. How has this helped refine/resolve your media product? 
+
+>14. How does your final product appeal to your target audience?
