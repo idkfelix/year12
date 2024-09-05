@@ -15,7 +15,7 @@
 # Introduction
 
 # Traditional Media
-Historically media has been a finite 
+Historically media has been a finite source of content for audiences to receive information, news and messages from producers through early methods of communication such as newsprint, radio, film and television, all defining features of the broadcast era. This era represents the time before widespread popularity and access to the Internet over highspeed connections capable of transferring the large amounts of data that make up todays media landscape. Named after the technology of the time following the invention of modern broadcasting equipment,  
 ## Audience Relationships
 
 ## Regulation & Costs
