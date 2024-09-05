@@ -89,10 +89,13 @@ https://gitlab.com/velvetyne/vg5000
 ![[Pasted image 20240905102224.png]]
 The pages of my zine are laid out into spreads in the software with a single shot per page, fit along the x axis to the set page margins.
 ![[Pasted image 20240905102405.png]]
-
+As some of the shots featuring a phone throughout the narrative came out invisible on the film scans I edited them in photoshop with screenshots of a phone screen overlaid onto the original scan.
 ![[Pasted image 20240905102916.png]]
+I started by drawing a mask to the phone screen in the image, including a large feather as the original screen still works around the edges, then mapping out the corners of the screenshot to the corners of the mast to get the correct perspective on the image. 
 ![[Pasted image 20240905103014.png]]
+To effectively blend the new screen onto the image I converted the masked screenshot into its own smart object, allowing me to apply a noise modifier on top of the layer to match the natural grain produced from the film. Then with the use of the screen blending option, lowering the opacity of the screenshot, and an exposure modifier, I composed the shot to highlight the phone screen, but still let its reflection shine through so as to not look too fake.
 ![[Pasted image 20240905103142.png]]
+The print setup for the zine required
 ![[Pasted image 20240905104500.png]]
 
 ![[IMG_0700.jpeg]]
