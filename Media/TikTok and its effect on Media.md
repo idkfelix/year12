@@ -3,6 +3,7 @@
 	<h2>Introduction</h2>
 	<h2>Traditional Media</h2>
 	<h3>Audience Relationships</h3>
+	<h3>Anti-Competition</h3>
 	<h3>Regulation</h3>
 	<h2>The Advent of TikTok</h2>
 	<h3>Audience Production</h3>
@@ -20,15 +21,13 @@ Named after the technology of the time following the invention of modern broadca
 ## Audience Relationships
 Although widely available, consumer equipment of the time still came with a hefty price tag, creating a barrier to entry for consumers to view media and with an even higher cost,  a giant barrier to entry for producers and production companies of the time to setup studios capable of transmitting to audiences. This led to a dynamic of trust been formed between producers and audiences, who had no ability to share their own and had very little to no say in the content being published, over the authenticity of information being put out by producers. Moreover producers had to monetize their productions by offering advertising slots in between scheduled programming, partners in which would hold these producers accountable to keeping their content in the best interest of the viewer or audience. 
 
+## Anti-Competition
 Part of this one way relationship between producers and audiences of the time came it part from the monopolisation and anti-competitive practices production companies and media organisations utilised during the traditional broadcast era. This came in the form of local and state level broadcasters holding licences to large sections of transmission frequencies, allowing them to push social and political messages to the population of the region with little debate or contest due to the limited discussion accessible for audiences to converse critically of promoted ideals within published media. Additionally small producers creating media promoting emerging views with little investment or capital funding were often pushed out of the industry by large organisations.
 ## Regulation
 Traditionally governments and regulating bodies have had a great deal of oversight in the production of media in order to protect the interests of audiences and hold production companies and media organisations accountable to the content they publish. This regulation has been harsh with large fines and penalties handed out to producers to punish and prevent the spread of misinformation, harmful content or messaging deemed dangerous under newly created legislation. Historically these measures have proved effective in the regulation of media throughout the broadcast era, although never definitively combatting anti-competitive practices of the time.
-
 
 # The Advent of TikTok
 
 ## Audience Production
 
 ## Issues of Regulation
-
-# Conclusion
