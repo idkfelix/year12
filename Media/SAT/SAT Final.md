@@ -11,9 +11,6 @@ In frustration the protagonist begins the push himself beyond his limits, throwi
 Fed up with recovery the protagonist decides to cut it short, lobbying his friend to come filming only to be met with concerns for his health. Unphased he sneaks out of the house to resume his attempts in the silent and empty space he had once shared in good times with friends. With no camera the protagonist is determined to land the trick, no longer for community approval, but to satisfy his own unbearable obsession. After many attempts his efforts are successful, as he rolls away from the trick a he feels a sense of great euphoria, only to be immediately contrasted by the the sombre realisation of the damage he's caused to not only himself but the friends who's approval he initially craved.
 
 The teens story concludes as he lays on the ground in unbearable pain from the injuries sustained throughout his quest and misery in the realisation all his efforts amounted to no benefit, only the destruction of his relationships and health.
-# Production
-
-
 # Audience Feedback
 ## Is the narrative coherent?
 > I think your narrative and the story line's progression is relatively clear, but the act annotations would make it easier for audiences to understand.
@@ -99,9 +96,9 @@ The print setup for the zine required multi page per sheet printing in order to 
 ![[Pasted image 20240905104500.png]]
 On my first test print I trialled a 4-up print (4 pages per side) on and A4 sheet to test its effectiveness before committing to an A3 print, however I found the cropping and stapling process to be significantly harder to align. 
 ![[IMG_0700.jpeg]]
-To account for this discovery in the test run I opted to print a more traditional 2-up layout which fits 4 A5 pages to each double sided A4 sheet. This proved a lot easier to work with, in part due to my final paper stock choice of uncoated 80gsm sheets for the 5 inner pages and a sing 200gsm sheet for the cover page (and first / last picture as the zin)
+To account for this discovery in the test run I opted to print a more traditional 2-up layout which fits 4 A5 pages to each double sided A4 sheet. This proved a lot easier to work with, in part due to my final paper stock choice of uncoated 80gsm sheets for the 5 inner pages and a sing 200gsm sheet for the cover page (and first / last picture as the zine is designed as a self cover product)
 ![[IMG_0701.jpeg]]
-
+To bind the final Zine I used a long arm stapler to reach the spine of the a5 size, although the particular stapler I used was quite old and no longer had proper guides to align pages, causing some staples to fall off center.
 ![[IMG_0702.jpeg]]
 
 # Reflection Questions
