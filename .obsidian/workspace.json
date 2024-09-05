@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/SAT/SAT Final.md",
+                "file": "Accounting/classwork/u4o2 class.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/SAT/SAT Final.md"
+                "file": "Accounting/classwork/u4o2 class.md"
               }
             }
           }
@@ -86,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -97,6 +99,8 @@
   },
   "active": "f9b8b4c8fdd08f91",
   "lastOpenFiles": [
+    "Media/SAT/SAT Final.md",
+    "Accounting/classwork/u4o2 class.md",
     "conflict-files-obsidian-git.md",
     "Media/SAT/attachments/Pasted image 20240905104500.png",
     "Media/SAT/attachments/Pasted image 20240905103142.png",
@@ -108,7 +112,6 @@
     "Media/SAT/attachments/Pasted image 20240905102224.png",
     "Media/SAT/attachments/Pasted image 20240905101946.png",
     "Media/SAT/attachments/IMG_0702.jpeg",
-    "Media/SAT/SAT Final.md",
     "Media/SAT/Intention.md",
     "English/Oedipus Rex/Oedipus Quotes.md",
     "English/Oedipus Rex/Practice Response.md",
