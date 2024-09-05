@@ -29,7 +29,7 @@ Traditionally governments and regulating bodies have had a great deal of oversig
 # The Advent of TikTok
 As the media landscape has transitioned from traditional forms of media and industry structure to that of the modern web 2.0 a key change in the way media is consumed and produced has come around from the dot com boom in the form of social media websites and services. These platforms have allowed users to create, share and discuss media at little to no cost on widely available and cheaply produced hardware, leading to a huge influx of fresh content available across the internet, promoting a shift in the way audiences interact with producers and posing concerning issues to the way regulators effectively oversee the publication of media.
 
-One of the biggest social media platforms, only being released globally in 2019, is TikTok, an app produced by the Chinese internet giant ByteDance. TikTok is 
+One of the biggest social media platform influences on this trend, only being released globally in 2016, is TikTok, an app produced by the Chinese internet giant ByteDance. TikTok is a short form video app that promotes user generated content through an algorithm designed to create viral trends, helping it grow to 1.8 billion active monthly users and in recent years consistently outrank the search engine google.com as the number one website globally. However due to its origins from a company in which the Chinese Communist Party hold a 1% golden share that allows them to 
 ## Audience Production
 
 ## Issues of Regulation
