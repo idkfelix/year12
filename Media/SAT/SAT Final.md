@@ -67,7 +67,9 @@
 > Maybe elaborate a bit more on the narrative with the images alone, otherwise the images look pretty good, and the story is coherent.
 
 # Post-Production
-
+![[Pasted image 20240905102317.png]]
+![[Pasted image 20240905101946.png]]
+![[Pasted image 20240905102224.png]]
 
 # Reflection Questions
 1. What did you intend to create? Did you achieve your intention? 
