@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/classwork/u4o2 class.md",
+                "file": "Accounting/classwork/Financial Data Comparison.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/classwork/u4o2 class.md"
+                "file": "Accounting/classwork/Financial Data Comparison.md"
               }
             }
           }
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -100,7 +98,7 @@
   "active": "f9b8b4c8fdd08f91",
   "lastOpenFiles": [
     "Media/SAT/SAT Final.md",
-    "Accounting/classwork/u4o2 class.md",
+    "Accounting/classwork/Financial Data Comparison.md",
     "conflict-files-obsidian-git.md",
     "Media/SAT/attachments/Pasted image 20240905104500.png",
     "Media/SAT/attachments/Pasted image 20240905103142.png",
