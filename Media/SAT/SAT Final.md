@@ -77,7 +77,7 @@ The teens story concludes as he lays on the ground in unbearable pain from the i
 > Maybe elaborate a bit more on the narrative with the images alone, otherwise the images look pretty good, and the story is coherent.
 
 # Post-Production
-
+To layout my zine from the scanned film photos I've chosen to use Adobe InDesign as it will handle the print options  
 ![[Pasted image 20240905102317.png]]
 ![[Pasted image 20240905101946.png]]
 https://gitlab.com/velvetyne/vg5000
