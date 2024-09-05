@@ -11,8 +11,13 @@
             "id": "1d31cafb10e39f42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -91,6 +98,19 @@
   },
   "active": "1d31cafb10e39f42",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Media/SAT/attachments/Pasted image 20240905104500.png",
+    "Media/SAT/attachments/Pasted image 20240905103142.png",
+    "Media/SAT/attachments/Pasted image 20240905103014.png",
+    "Media/SAT/attachments/Pasted image 20240905102916.png",
+    "Media/SAT/attachments/Pasted image 20240905102630.png",
+    "Media/SAT/attachments/Pasted image 20240905102405.png",
+    "Media/SAT/attachments/Pasted image 20240905102317.png",
+    "Media/SAT/attachments/Pasted image 20240905102224.png",
+    "Media/SAT/attachments/Pasted image 20240905101946.png",
+    "Media/SAT/attachments/IMG_0702.jpeg",
+    "Media/SAT/SAT Final.md",
+    "Media/SAT/Intention.md",
     "English/Oedipus Rex/Oedipus Quotes.md",
     "English/Oedipus Rex/Practice Response.md",
     "English/Oedipus Rex/Oedipus - Blindness.md",
@@ -100,7 +120,6 @@
     "English/Techniques",
     "Maths/Data Analysis.md",
     "Maths/Matrices.md",
-    "conflict-files-obsidian-git.md",
     "Maths/Recursion & Financial.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
@@ -109,8 +128,6 @@
     "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2/pdfs",
-    "SoftDev/SAT2/attachments/demo2.png",
-    "SoftDev/SAT2/attachments/demo1.png",
     "SoftDev/SAT2/attachments",
     "SoftDev/SAT2/Planning Report.md",
     "SoftDev/SAT2/Evaluation.md",
@@ -118,24 +135,13 @@
     "SoftDev/SAT2/Usability Testing.pdf",
     "Maths/Matrices.pdf",
     "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT2/demo2.png",
-    "SoftDev/SAT2/demo1.png",
     "SoftDev/SAT2",
     "Media/Agency & Control.md",
-    "Media/attachments/Pasted image 20240717093528.png",
     "Media/attachments",
     "Media/notes/26-6-24.md",
     "Accounting/review questions/CH12.md",
     "Accounting/Balance Day Adjustments.md",
     "English/Protests/Oral Final.md",
-    "English/Protests/Oral Presentation.md",
-    "Accounting/U3O2 Sac Prep.md",
-    "English/Protests/Oral Draft.md",
-    "Accounting/General Ledger.md",
-    "Media/SAT/attachments/Pasted image 20240612233606.png",
-    "Media/SAT/attachments/Pasted image 20240612233506.png",
-    "Media/SAT/attachments/Pasted image 20240612233441.png",
-    "Media/SAT/attachments/Pasted image 20240612233359.png",
-    "Media/SAT/attachments/Pasted image 20240612220814.png"
+    "English/Protests/Oral Presentation.md"
   ]
 }
