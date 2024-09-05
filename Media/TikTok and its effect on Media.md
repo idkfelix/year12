@@ -27,7 +27,9 @@ Part of this one way relationship between producers and audiences of the time ca
 Traditionally governments and regulating bodies have had a great deal of oversight in the production of media in order to protect the interests of audiences and hold production companies and media organisations accountable to the content they publish. This regulation has been harsh with large fines and penalties handed out to producers to punish and prevent the spread of misinformation, harmful content or messaging deemed dangerous under newly created legislation. Historically these measures have proved effective in the regulation of media throughout the broadcast era, although never definitively combatting anti-competitive practices of the time.
 
 # The Advent of TikTok
-As the media landscape has transitioned from traditional forms of media and industry structure to that of the modern web 2.0 a key change in the way media is consumed and produced has come around from the dot com boom in the form of social media websites and services. These platforms have allowed users to create, share and discuss media at little to no cost on widely available and cheaply produced hardware, leading to a huge influx of fresh content available across the internet, in turn promoting a large shift in the way media 
+As the media landscape has transitioned from traditional forms of media and industry structure to that of the modern web 2.0 a key change in the way media is consumed and produced has come around from the dot com boom in the form of social media websites and services. These platforms have allowed users to create, share and discuss media at little to no cost on widely available and cheaply produced hardware, leading to a huge influx of fresh content available across the internet, promoting a shift in the way audiences interact with producers and posing concerning issues to the way regulators effectively oversee the publication of media.
+
+One of the biggest social media platforms, only being released globally in 2019, is TikTok, an app produced by the Chinese internet giant ByteDance. TikTok is 
 ## Audience Production
 
 ## Issues of Regulation
