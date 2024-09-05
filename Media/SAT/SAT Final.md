@@ -77,9 +77,13 @@ The teens story concludes as he lays on the ground in unbearable pain from the i
 > Maybe elaborate a bit more on the narrative with the images alone, otherwise the images look pretty good, and the story is coherent.
 
 # Post-Production
-To layout my zine from the scanned film photos I've chosen to use Adobe InDesign as it will handle the print options  
+To layout my zine from the scanned film photos I've chosen to use Adobe InDesign as it will handle the complex print configuration I require.
+
+I started by creating a new document with 24 pages (including covers) to layout my chosen 22 photos for the final product
 ![[Pasted image 20240905102317.png]]
+The setup for my zine layout is configured to be an A5 page size with a large margin around each edge to frame the images and provide ample space act titles. Additionally the document is configured with a ~3mm bleed to allow cropping whilst still keeping the pages black background fill to neatly fill the edges. 
 ![[Pasted image 20240905101946.png]]
+For my covers and act titles I've chosen to use the free and open source font VG5000 from Velvetyne, a french typography organisation as it provides a large selection of 8 bit accent glyphs and characters to draw visual interest to my zine.
 https://gitlab.com/velvetyne/vg5000
 ![[Pasted image 20240905102630.png]]
 ![[Pasted image 20240905102224.png]]
