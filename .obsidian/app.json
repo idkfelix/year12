@@ -22,7 +22,7 @@
   "foldHeading": true,
   "propertiesInDocument": "source",
   "showIndentGuide": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "newLinkFormat": "shortest",
   "spellcheck": true
 }
