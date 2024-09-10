@@ -7,5 +7,7 @@
 # Types of Graphs
 - **Undirected**: a graph where the edges between vertices work in both directions
 - **Directed**: a graph in which edges only work in one direction, making some vertices unreachable for other vertices.
-- **Simple**: a simple graph has no loops or multiple edges between the same pair of vertices. Each vertex has a degree of at most $\large n-1$ .
+- **Simple**: a simple graph has no loops or multiple edges between the same pair of vertices. 
+	- Each vertex has a degree of at most $\large n-1$ .
+	- The graph has a maximum number of edges of $n\frac{n-1}{2}$
 - **Complete**: a complete graph 
