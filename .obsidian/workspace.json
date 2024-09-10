@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Networks.md",
+                "file": "Maths/Graphs & Networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Networks.md"
+                "file": "Maths/Graphs & Networks.md"
               }
             }
           }
@@ -99,7 +99,7 @@
   },
   "active": "692fb223bf739a98",
   "lastOpenFiles": [
-    "Maths/Networks.md",
+    "Maths/Graphs & Networks.md",
     "English/Rewritten Paragraph.md",
     "conflict-files-obsidian-git.md",
     "Accounting/classwork/Financial Data Comparison.md",
