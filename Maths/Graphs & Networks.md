@@ -9,5 +9,8 @@
 - **Directed**: a graph in which edges only work in one direction, making some vertices unreachable for other vertices.
 - **Simple**: a simple graph has no loops or multiple edges between the same pair of vertices. 
 	- Each vertex has a degree of at most $\large n-1$ .
-	- The graph has a maximum number of edges of $n\frac{n-1}{2}$
-- **Complete**: a complete graph 
+	- The graph has a maximum number of edges of $\huge\frac{n(n-1)}{2}$
+- **Complete**: a complete graph is a simple graph where all vertices are connected directly to all other vertices. A graph of this kind will utilise the maximum number of edges possible for a simple graph of its vertices.
+- **Connected**: a graph is connected if it is possible to move from any vertex of the graph to any other vertex of the graph using edges.
+- **Network**: a network is a *weighted* graph where the weights are physical quantities. This graph may or may not be directed.
+- **Planar**: a graph that can be drawn on a plane with no intersecting 
