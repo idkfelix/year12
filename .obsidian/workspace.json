@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9a9c7799eb1f1d",
+        "id": "eff42a43f2cad261",
         "type": "tabs",
         "children": [
           {
-            "id": "284379c3c5c87854",
+            "id": "692fb223bf739a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/TikTok and its effect on Media.md",
+                "file": "Maths/Networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,105 +58,92 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
     "type": "split",
     "children": [
       {
-        "id": "2503d8d211717162",
+        "id": "1c888193f77c24ee",
         "type": "tabs",
         "children": [
           {
-            "id": "85e5254876aa9d7b",
+            "id": "f0deae2859e8463d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/TikTok and its effect on Media.md"
-              }
-            }
-          },
-          {
-            "id": "1a57bafa3d60d5e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media/Agency & Control.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Maths/Networks.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 715.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "284379c3c5c87854",
+  "active": "692fb223bf739a98",
   "lastOpenFiles": [
+    "Maths/Networks.md",
     "English/Rewritten Paragraph.md",
+    "conflict-files-obsidian-git.md",
     "Accounting/classwork/Financial Data Comparison.md",
-    "Media/Agency & Control.md",
     "Media/TikTok and its effect on Media.md",
     "Media/SAT/SAT Final.md",
-    "Accounting/classwork/u4o2 class.md",
-    "Media/SAT/Intention.md",
-    "Media/SAT/attachments/IMG_0700.jpeg",
     "Media/SAT/attachments/Pasted image 20240905104500.png",
-    "Media/SAT/attachments/Pasted image 20240905104114.png",
-    "Media/SAT/attachments/IMG_0703.jpeg",
-    "Media/SAT/attachments/IMG_0702.jpeg",
-    "Media/SAT/attachments/IMG_0701.jpeg",
-    "Media/SAT/attachments/IMG_0704.jpeg",
     "Media/SAT/attachments/Pasted image 20240905103142.png",
     "Media/SAT/attachments/Pasted image 20240905103014.png",
-    "Media/SAT/attachments/Pasted image 20240905102931.png",
-    "Maths/Data Analysis.md",
-    "English/Techniques/Analytical Response.md",
-    "English/Techniques/Persuasive Techniques.md",
-    "English/Techniques",
+    "Media/SAT/attachments/Pasted image 20240905102916.png",
+    "Media/SAT/attachments/Pasted image 20240905102630.png",
+    "Media/SAT/attachments/Pasted image 20240905102405.png",
+    "Media/SAT/attachments/Pasted image 20240905102317.png",
+    "Media/SAT/attachments/Pasted image 20240905102224.png",
+    "Media/SAT/attachments/Pasted image 20240905101946.png",
+    "Media/SAT/attachments/IMG_0702.jpeg",
+    "Media/SAT/Intention.md",
+    "English/Oedipus Rex/Oedipus Quotes.md",
     "English/Oedipus Rex/Practice Response.md",
     "English/Oedipus Rex/Oedipus - Blindness.md",
-    "English/Oedipus Rex/Oedipus Quotes.md",
     "English/Oedipus Rex",
+    "English/Oedipus Rex.md",
+    "English/Techniques/Analytical Response.md",
+    "English/Techniques",
+    "Maths/Data Analysis.md",
     "Maths/Matrices.md",
     "Maths/Recursion & Financial.md",
-    "Accounting/U3O2 Sac Prep.md",
-    "Accounting/Net Realisable Value.md",
+    "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
-    "English/Oedipus - Blindness.md",
-    "SoftDev/SAT2/Usability Testing.md",
-    "SoftDev/SAT2/Evaluation.md",
-    "SoftDev/SAT2/Development Stage.md",
-    "SoftDev/SAT1/Design.md",
-    "SoftDev/SAT1/Development Model Justification.md",
-    "SoftDev/SAT1/Meeting Notes.md",
-    "SoftDev/SAT1/design/~$actice SAC 3 Answer.docx",
-    "conflict-files-obsidian-git.md",
+    "README.md",
     "SoftDev/SAT2/pdfs/Evaluation.pdf",
-    "SoftDev/SAT2/attachments",
-    "SoftDev/SAT2/pdfs",
+    "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
+    "SoftDev/SAT2/pdfs",
+    "SoftDev/SAT2/attachments",
+    "SoftDev/SAT2/Planning Report.md",
+    "SoftDev/SAT2/Evaluation.md",
+    "SoftDev/SAT2/Usability Testing.md",
+    "SoftDev/SAT2/Usability Testing.pdf",
+    "Maths/Matrices.pdf",
+    "SoftDev/SAT1/Design.md",
     "SoftDev/SAT2",
+    "Media/Agency & Control.md",
     "Media/attachments",
-    "Media/SAT/attachments"
+    "Media/notes/26-6-24.md",
+    "Accounting/review questions/CH12.md"
   ]
 }
