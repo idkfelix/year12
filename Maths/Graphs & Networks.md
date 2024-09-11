@@ -4,6 +4,8 @@
 - **Loop**: a loop is an edge that connects a vertex to itself
 - **Graph**: a graph is a collection of vertices that may be connected to each other using edges is a specific way
 - **Degree**: the degree of a vertex is the number of edges connected to itself. A *loop* counts as 2 edges for the degree of the vertex
+- **Walk**: a walk is an alternating sequences of vertices and edges
+- **Traversable**: a graph is considered traversable if there is a walk that can be drawn around the graph without doubling over any edge
 # Types of Graphs
 - **Undirected**: a graph where the edges between vertices work in both directions
 - **Directed**: a graph in which edges only work in one direction, making some vertices unreachable for other vertices.
@@ -23,5 +25,12 @@
 	- $e=v+f-2$
 	- $v=2+e-f$
 	- $f=2+e-v$
-# Traversable Graphs
-- **Traversable**: a graph is traversable if there is a walk that can be drawn around the graph 
+# Walks
+- **Trail**: a trail is a walk that does not repeat any edges, but can pass through a vertex more than once.
+- **Path**: a path is a walk that does not repeat vertices, hence does not repeat any edges either.
+- **Circuit**: a circuit is a trail that starts and ends at the same vertex with no repeated edges.
+- **Cycle**: a cycle is a path that begins and ends at the same vertex with no repeated vertices.
+# Eulerian
+- **Eulerian Trail**: an Eulerian trail is a trail which uses every edge exactly once
+- **Eulerian Circuit**: an Eulerian circuit is an Eulerian trail which starts and ends at the same vertex
+- A connected graph has an Euler circuit if and only if every vertex on the 
