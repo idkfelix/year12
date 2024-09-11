@@ -71,4 +71,11 @@
 	1. Create a table with the first row being the starting vertex and the columns being all other vertices in the network.
 	2. In the row list the weights for each connected vertex in their corresponding column, leaving a dash if there is no connection.
 	3. Draw a box around the value with the lowest weight and copy the boxed value down to the next row, labelling the row as the chosen vertex.
-	4. Once again fill out the column values of connected vertices using the combined weight of the edge and the boxed value. If a possible value has a value in any row above that is less that the new value use that instead. If there
+	4. Once again fill out the column values of connected vertices using the combined weight of the edge and the boxed value. If a possible value has a value in any row above that is less that the new value use that instead. If there is no connection but there is a value in a row above use that instead.
+	5. Repeat steps three and four until the destination vertex is chosen as the lowest value in a row, this is the final length of the shortest path.
+	6. To find the route of the path work backwards through the table moving up to when the chosen of each row value first appeared marking the order of vertices taken.
+## Activity Network
+- **Precedence Table**: this table details the activities required to complete a project, the activities that immediately precede them, and the duration of each activity.
+- If a activity has no immediate predecessors (activities only connecting to starting vertex), a dash is written in the table.
+- Activities are not represented as vertices, rather edges as they are just a weight.
+- Dijkstra's algorithm can be used once again to determine the Earliest Start Time (EST) and 
