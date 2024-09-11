@@ -66,4 +66,9 @@
 	6. Draw a bipartite graph with an edge for every zero value in the table.
 	7. Make the allocation and calculate minimum cost from the original weights,
 ## Shortest Path
-- Shortest path problems 
+- Shortest path problems are about determining the path with the least total weight between two vertices.
+- **Dijkstra's Algorithm**: Dijkstra's algorithm is used to determine the length and route of the shortest path between two vertices in a network
+	1. Create a table with the first row being the starting vertex and the columns being all other vertices in the network.
+	2. In the row list the weights for each connected vertex in their corresponding column, leaving a dash if there is no connection.
+	3. Draw a box around the value with the lowest weight and copy the boxed value down to the next row, labelling the row as the chosen vertex.
+	4. Once again fill out the column values of connected vertices using the combined weight of the edge and the boxed value. If a possible value has a value in any row above that is less that the new value use that instead. If there
