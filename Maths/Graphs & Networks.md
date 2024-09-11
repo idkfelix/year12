@@ -78,4 +78,10 @@
 - **Precedence Table**: this table details the activities required to complete a project, the activities that immediately precede them, and the duration of each activity.
 - If a activity has no immediate predecessors (activities only connecting to starting vertex), a dash is written in the table.
 - Activities are not represented as vertices, rather edges as they are just a weight.
-- Dijkstra's algorithm can be used once again to determine the Earliest Start Time (EST) and 
+- Dijkstra's algorithm can be used once again to determine the Earliest Start Time (EST) and Latest Start Time (LST) of each activity. 
+- **EST**: the latest 'earliest finish time' or  out of the activities predecessors.
+- **EFT**: EST plus the activities duration
+- **LST**:
+- **LFT**: the earliest 'latest  time' or **EFT** (EST plus the activities duration) out of its predecessors.
+- **Float**: the difference between and activities EST and LST. This represents how long an activity can be delayed without effecting the timeline / critical path.
+- **Critical Path** the critical path of a project is the sequence of activities whose EST and LST are equal to each other (float of zero).
