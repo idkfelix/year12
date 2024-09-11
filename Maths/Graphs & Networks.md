@@ -49,3 +49,8 @@
 	1. Choose an arbitrary vertex to begin the spanning tree from
 	2. Choose the edge with the smallest weight leading to a connected vertex
 	3. Choose the edge with the smallest weight leading from any connected vertex that does not lead to a vertex that is already connected
+## Flow Graph
+- A flow graph is a directed network where the weights represent flow rate. this graph has a source vertex that represents incoming flow and a sink vertex that all directed edges eventually flow to. 
+- **Cuts**: a cut is a line the intersects edges such that it block all flow to the sink.
+- **Capacity**: the capacity of a cut is the sum of all intersected forward flowing edges that it blocks.
+- **Minimum Cut**: the minimum cut of a flow graph is a cut that 
