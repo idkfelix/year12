@@ -4,7 +4,6 @@
 - **Loop**: a loop is an edge that connects a vertex to itself
 - **Graph**: a graph is a collection of vertices that may be connected to each other using edges is a specific way
 - **Degree**: the degree of a vertex is the number of edges connected to itself. A *loop* counts as 2 edges for the degree of the vertex
-- **Walk**: a walk is an alternating sequences of vertices and edges
 # Types of Graphs
 - **Undirected**: a graph where the edges between vertices work in both directions
 - **Directed**: a graph in which edges only work in one direction, making some vertices unreachable for other vertices.
@@ -19,5 +18,10 @@
 - A graph is planar if it can be drawn on a plane with no overlapping edges, only intersecting at their connected vertices
 - **Faces**: an area if finite or infinite space bounded by an alternating sequence of vertices and edges (a walk). This includes the infinitely large face bound by the outermost part of the graph.
 - **Euler's Formula**: for a *connected* planar graph, the sum of vertices and faces is equal to two more than the number of edges
-	- $v+f=e+2$
-	- $v=$
+	- $\bf{v+f=e+2}$
+	- $2=v+f-e$
+	- $e=v+f-2$
+	- $v=2+e-f$
+	- $f=2+e-v$
+# Traversable Graphs
+- **Traversable**: a graph is traversable if there is a walk that can be drawn around the graph 
