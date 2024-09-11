@@ -40,4 +40,12 @@
 - **Hamiltonian Cycle**; a Hamiltonian cycle is a Hamiltonian path, using every vertex exactly once, that starts and ends with the same vertex
 - Vertices with a degree of $1$ must be the start or end of a Hamiltonian path
 - If there are more than two vertices with a degree of $1$ in a graph, a Hamiltonian path cannot exist.
-- Vertices with a degree of 2 must have both its edges included in the Hamiltonian path 
+- Vertices with a degree of 2 must have both its edges included in the Hamiltonian path or circuit.
+## Spanning Trees
+- A tree is a simple, connected graph with no cycles. It uses the smallest number of edges to connect the graph. A tree with $\large n$ vertices has $\large n-1$ edges.
+- A graph is connected if and only if it has a spanning tree.
+- **Minimum Spanning Tree**: the minimum spanning tree of a graph is a spanning tree of the graph with the smallest total weight.
+- **Prim's Algorithm**: a method to determine the minimum spanning tree of a graph
+	1. Choose an arbitrary vertex to begin the spanning tree from
+	2. Choose the edge with the smallest weight leading to a connected vertex
+	3. Choose the edge with the smallest weight leading from any connected vertex that does not lead to a vertex that is already connected
