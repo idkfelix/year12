@@ -79,9 +79,11 @@
 - If a activity has no immediate predecessors (activities only connecting to starting vertex), a dash is written in the table.
 - Activities are not represented as vertices, rather edges as they are just a weight.
 - Dijkstra's algorithm can be used once again to determine the Earliest Start Time (EST) and Latest Start Time (LST) of each activity. 
-- **EST**: the latest 'earliest finish time' or  out of the activities predecessors.
-- **EFT**: EST plus the activities duration
-- **LST**:
-- **LFT**: the earliest 'latest  time' or **EFT** (EST plus the activities duration) out of its predecessors.
+	- **EFT**: an activities EST plus its duration
+	- **EST**: the latest EFT out of the activities predecessors.
+	- **LFT**: the earliest LST out of its successors.
+	- **LST**: an activities LFT minus its duration
 - **Float**: the difference between and activities EST and LST. This represents how long an activity can be delayed without effecting the timeline / critical path.
 - **Critical Path** the critical path of a project is the sequence of activities whose EST and LST are equal to each other (float of zero).
+- **Crashing**: project crashing is shortening the length of a project by reducing the duration of activities along the critical path for an associated cost. 
+- Crashing along the critical path reduces the will reduce the float time of other predecessors and if fully consumed the critical path may change, hence it is favourable to reduce the duration of a critical path's activity predecessor where its other predecessors have a large float.
