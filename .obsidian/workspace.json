@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Maths/Graphs & Networks.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,6 +98,9 @@
   },
   "active": "692fb223bf739a98",
   "lastOpenFiles": [
+    "Maths/Data Analysis.md",
+    "Maths/Recursion & Financial.md",
+    "Maths/Matrices.md",
     "Maths/Graphs & Networks.md",
     "English/Rewritten Paragraph.md",
     "conflict-files-obsidian-git.md",
@@ -122,9 +125,6 @@
     "English/Oedipus Rex.md",
     "English/Techniques/Analytical Response.md",
     "English/Techniques",
-    "Maths/Data Analysis.md",
-    "Maths/Matrices.md",
-    "Maths/Recursion & Financial.md",
     "Accounting/General Journal.md",
     "SoftDev/SAT2/Project Review.md",
     "README.md",
