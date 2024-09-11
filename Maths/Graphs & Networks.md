@@ -15,7 +15,6 @@
 - **Complete**: a complete graph is a simple graph where all vertices are connected directly to all other vertices. A graph of this kind will utilise the maximum number of edges possible for a simple graph of its vertices.
 - **Connected**: a graph is connected if it is possible to move from any vertex of the graph to any other vertex of the graph using edges.
 - **Network**: a network is a *weighted* graph where the weights are physical quantities. This graph may or may not be directed.
-
 ## Planar Graphs
 - A graph is planar if it can be drawn on a plane with no overlapping edges, only intersecting at their connected vertices
 - **Faces**: an area if finite or infinite space bounded by an alternating sequence of vertices and edges (a walk). This includes the infinitely large face bound by the outermost part of the graph.
@@ -53,4 +52,10 @@
 - A flow graph is a directed network where the weights represent flow rate. this graph has a source vertex that represents incoming flow and a sink vertex that all directed edges eventually flow to. 
 - **Cuts**: a cut is a line the intersects edges such that it block all flow to the sink.
 - **Capacity**: the capacity of a cut is the sum of all intersected forward flowing edges that it blocks.
-- **Minimum Cut**: the minimum cut of a flow graph is a cut that 
+- **Minimum Cut**: the minimum cut of a flow graph is a cut that blocks all flow with the smallest total capacity.
+- **Maximum Flow**: the maximum flow of a flow graph is equal to the capacity of said flow graphs minimum cut.
+## Allocation
+- **Bipartite Graph**: a bipartite graph is a graph whose vertices can be split into two groups where the the vertices are only connected to vertices in the other group.
+- As a matrix the bipartite graph is represented with resources as rows and allocation targets as columns
+- **Hungarian Algorithm**: the Hungarian algorithm is used to find the minimum allocation cost of a bipartite graph.
+	1. 
