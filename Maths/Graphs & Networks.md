@@ -56,6 +56,14 @@
 - **Maximum Flow**: the maximum flow of a flow graph is equal to the capacity of said flow graphs minimum cut.
 ## Allocation
 - **Bipartite Graph**: a bipartite graph is a graph whose vertices can be split into two groups where the the vertices are only connected to vertices in the other group.
-- As a matrix the bipartite graph is represented with resources as rows and allocation targets as columns
-- **Hungarian Algorithm**: the Hungarian algorithm is used to find the minimum allocation cost of a bipartite graph.
-	1. 
+- As a table the bipartite graph is represented with resources as rows and allocation targets as columns
+- **Hungarian Algorithm**: the Hungarian algorithm is used to find the minimum allocation cost from weighted data.
+	1. Subtract the lowest value in each row from every value in that row.
+	2. If the minimum number of lines required to cover all zeros is equal to the number of allocations to be made, jump to step 6.
+	3. If a column does not contain a zero, subtract the lowest value in the column from every value in that column.
+	4. If the minimum number of lines required to cover all zeros is equal to the number of allocations to be made, jump to step 6.
+	5. Add the smallest uncovered value from the previous step to all values covered by two lines. Subtract the same value from all uncovered values.
+	6. Draw a bipartite graph with an edge for every zero value in the table.
+	7. Make the allocation and calculate minimum cost from the original weights,
+## Shortest Path
+- Shortest path problems 
