@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Graphs & Networks.md",
+                "file": "English/Oedipus Rex/Oedipus Quotes.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Graphs & Networks.md"
+                "file": "English/Oedipus Rex/Oedipus Quotes.md"
               }
             }
           }
@@ -98,10 +98,10 @@
   },
   "active": "692fb223bf739a98",
   "lastOpenFiles": [
+    "Maths/Graphs & Networks.md",
     "Maths/Data Analysis.md",
     "Maths/Recursion & Financial.md",
     "Maths/Matrices.md",
-    "Maths/Graphs & Networks.md",
     "English/Rewritten Paragraph.md",
     "conflict-files-obsidian-git.md",
     "Accounting/classwork/Financial Data Comparison.md",
