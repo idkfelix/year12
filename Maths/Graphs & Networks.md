@@ -2,7 +2,6 @@
 	<h1 style="font-size:75px">Graphs & Networks</h1>
 	<h2>Felix Coulthard</h2>
 </div>
-<div style="page-break-after: always;"></div>
 ## Basics
 - **Vertex**: an object represented by a point on the graph
 - **Edge**: an edge is a connection between two vertices represented by a line
@@ -102,4 +101,5 @@
 - **Critical Path** the critical path of a project is the sequence of activities whose EST and LST are equal to each other (float of zero).
 - **Crashing**: project crashing is shortening the length of a project by reducing the duration of activities along the critical path for an associated cost. 
 - Crashing along the critical path reduces the will reduce the float time of other predecessors and if fully consumed the critical path may change.
+<div style="page-break-after: always;"></div>
 <div style="page-break-after: always;"></div>
