@@ -148,4 +148,16 @@
 	- Enabling anti-virus protections
 ## Social Engineering
 - **Baiting**: offering a user something enticing in exchange for credentials or sensitive data
-- **Quid Pro Quo**: requesting credentials or sensitive data in exchange for a se
+- **Quid Pro Quo**: requesting credentials or sensitive data in exchange for a service
+- **Pretexting**: creating a false trust with a victim to gain login credentials
+- **Tailgating / Piggybacking**: physically following an authorised person into a secure area
+
+- Implementing policies and procedures across an organisation can set clear guidelines to identify and prevent social engineering attacks
+- Software such as email clients can help filter out social engineering attempts
+- To prevent social engineering attacks security awareness training is a **Proactive Approach**, the key components of this training include:
+	- Identifying / Recognising social engineering tactics
+	- Understanding the risks / consequences of falling victim
+	- Learning best practices for prevention
+	- Implementing reporting procedures for attempted attacks
+	- Regularly refreshing employees on their training
+- To prepare for incidents that may occur as a **Reactive Approach**, incident response training  
