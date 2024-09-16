@@ -123,7 +123,7 @@
 	- Email Spoofing: forging email headers to mislead targeted victims by taking advantage of unenforced DKIM or SPF records.
 	- Caller ID Spoofing: although legal in Australia, scammers can use caller ID spoofing to mislead targeted victims
 - To prevent MitM attacks, organisations can implement rigid email security solutions, force SSL on all requests, educate employees on the attacks and rotate credentials.
-
+## Mitigating Data Breaches
 - **Preventing data breaches** is advised by the **Australian Cyber Security Center** to use strong password protection strategies and raise staff awareness on the importance of protecting credentials.
 - The **ACSC** state that credentials are typically stolen when:
 	- A user is tricked into entering their credentials into a dummy website
@@ -143,4 +143,8 @@
 - To mitigate data breaches from **cyber security incidents** the ACSC advise the following:
 	- Use multi-factor authentication for all remote access to business systems
 	- Look out for unusual account activity or suspicious logins
-	- 
+	- Encourage users to think carefully before entering credentials
+	- Keep OS, browser and plugins up to date
+	- Enabling anti-virus protections
+## Social Engineering
+- 
