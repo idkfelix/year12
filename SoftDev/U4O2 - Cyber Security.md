@@ -1,15 +1,3 @@
-## Software
-- **Types of Software**
-	- Systems software: an operating system or device driver
-	- Programming software: tools for writing software, IDE, GCC, etc.
-	- Applications: programs / websites which help users complete tasks
-	- Embedded Software: used to control machines and devices
-
-- **Reasons for Development**
-	- Custom software: created to meet the specific needs of a user
-	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
-	- Personal: created to automate mundane tasks or entertainment or educational purposes
-
 ## Data Characteristics
 - **Validation** checks that the correct type of data is entered
 - **Verification** checks the data is actually what you require 
@@ -23,7 +11,17 @@
 - **Validity**: data that is formatted correctly and is usable by those accessing it
 - **Uniqueness**: a data sources assurance against unintended duplicate records.
 - **Accessibility**: users that need the data can access it
+## Software Characteristics
+- **Types of Software**
+	- Systems software: an operating system or device driver
+	- Programming software: tools for writing software, IDE, GCC, etc.
+	- Applications: programs / websites which help users complete tasks
+	- Embedded Software: used to control machines and devices
 
+- **Reasons for Development**
+	- Custom software: created to meet the specific needs of a user
+	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
+	- Personal: created to automate mundane tasks or entertainment or educational purposes
 ## Organisations
 - **Goals**: used by organisations to state long term intentions or purposes
 - **Objectives**: define shorter term measurable actions or tasks that contribute to these set goals
@@ -224,5 +222,15 @@
 - **Single Factor**: this authentication requires a user to possess one piece of information to identify themselves to a piece of software, such as a pin or password
 - **Two Factor**: requiring two pieces of information from a user to authenticate, this method vastly improves software security, commonly implemented as a one time code used to login in addition to a password or biometric authentication
 - **Multi Factor**: even more secure than two factor authentication, this requires a user to provide two or more pieces of information to authenticate from different categories. these factors can include:
-	- A password
-	- 
+	- A Username and Password
+	- Fingerprints or Facial Recognition
+	- One Time Code
+	- Limited time PIN
+- **Authorisation** is the process of checking what level of access and permission a user, external service or device has
+- Systems should be designed on a principle of deny by default for every resource, requiring manual approval for user access 
+## Version Control
+- **Version Control**, also known as **Source Control**, is a management strategy to track and store changes to software development files that follows the development project from beginning to end-of-life.
+- This enables a large team of developers, designers and team members to contribute to the same project at the same time, often in separate branches on larger projects
+- Version control provides a logical method that preserves the individual contributions of team members without overwriting another developers work
+- Version control systems:
+- 
