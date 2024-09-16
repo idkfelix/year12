@@ -147,4 +147,5 @@
 	- Keep OS, browser and plugins up to date
 	- Enabling anti-virus protections
 ## Social Engineering
-- 
+- **Baiting**: offering a user something enticing in exchange for credentials or sensitive data
+- **Quid Pro Quo**: requesting credentials or sensitive data in exchange for a se
