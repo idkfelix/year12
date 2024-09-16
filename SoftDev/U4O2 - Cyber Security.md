@@ -179,4 +179,25 @@
 	9. Using component with known vulnerabilities
 	10. Insufficient logging and monitoring
 - **Cross Site Scripting**: XSS is a type of vulnerability in web applications that allow for users to publicly publish HTML content without proper sanitisation, creating an opportunity to publish malicious JS that executes on other users web browsers.
-- Preventing XSS requires a website to escape special characters, validate input types, encode special characters and disable client side JS o 
+- Preventing XSS requires a website to escape special characters, validate input types, encode special characters and disable client side JS on published content. 
+- **SQL injection**: the improper sanitisation of input fields that are used in SQL queries that allows for malicious queries to be inserted compromising a database 
+## Security Controls
+- **Physical Controls** include anything that's used to prevent or detect unauthorised access to physical areas, systems, or assets, such as:
+	- fences, gates and guards
+	- security badges, access cards, biometric access controls
+	- CCTV, motion sensors, surveillance cameras and security lighting
+	- fire suppression and environmental controls
+- **Software Controls** include software mechanisms used to protect assets, such as:
+	- authentication solutions
+	- firewalls and antivirus software
+	- intrusion detection and protection systems
+	- constrained interfaces
+	- access control lists
+	- encryption measures
+- These controls can
+- **Administrative Controls** are policies, procedures, or guidelines that define personnel or business practices in accordance with the organisations security goals. These can apply to:
+	- Employee hiring and termination
+	- Equipment and internet usage
+	- Physical access to facilities
+	- Separation of duties
+	- Data classification
