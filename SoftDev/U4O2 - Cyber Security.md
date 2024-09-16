@@ -104,4 +104,10 @@
 	- Clearing: writing nonsensical data to a drive to bury sensitive or important data
 	- Purging: writing random data over the entire drive to protect from a lab attack
 	- Degaussing (magnetic media): removing the data by demagnetising the media 
-	- Destruction: the most extreme form ensure
+	- Destruction: the most extreme form ensures media is drastically altered and can never by reused by physically destroying the storage media
+## Data Breaches
+- A data breach is when private, sensitive, protected or confidential information is exposed to, copied by, transmitted to, shared with, or stolen by an unauthorised person
+- **Fax Machines**: still used in the health industry, if a number is dialled wrong or a previous fax is forgotten, data could be transmitted to an unauthorised person.
+- **Email**: email addresses can easily be mistyped leading to private or sensitive data being misdirected to an unauthorised person
+- **IoT**: these devices can be exploited due to weak credentials or insecure software
+- 
