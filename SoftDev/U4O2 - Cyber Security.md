@@ -84,14 +84,24 @@
 ## Data Disposal
 - Data disposal refers to to the destruction, transfer, damage or alteration of data
 - According to the **Victorian Information Privacy Principles**, organisation are required to take reasonable steps to destroy or permanently de-identify personal info if its no long needed for any purpose.
-- Under the **Public Records Act**, public records cannot be destroyed unless authorised.
-- This authorisation can only be issued by **The Public Records Office Victoria (PROV)**, which will be classified under one of the following authorisations:
-	- Normal Administrative Practice (NAP) - Used by organisations to destroy certain records as apart of normal day to day practices
-		- Transitory messages, for example, calendars, personal emails
-		- Rough working papers, for example or rough meeting notes.
-		- Drafts not intended for further reference, in paper or electronic form
-		- Copies retained for reference purposes only
-		- Published material not included in the organisation’s records.
+
+- Under the **Public Records Act**, public records cannot be destroyed unless authorised by the **Public Records Office Victoria (PROV)**, which will be classified under one of the following authorisations:
+	- Normal Administrative Practice (NAP)
 	- Retention and Disposal Authority (RDA)
 	- Single Instance Disposal Authority (SIDA)
-- 
+- the NAP disposal is used by organisations to destroy certain records as apart of normal day to day practices that does not require further authorisation:
+	- Transitory messages, for example, calendars, personal emails
+	- Rough working papers, for example or rough meeting notes.
+	- Drafts not intended for further reference, in paper or electronic form
+	- Copies retained for reference purposes only
+	- Published material not included in the organisation’s records.
+
+- Physical data such as papers, photographs and films can be destroyed with the following methods:
+	- Shredding: normal office shredding or cross shredding for sensitive documents
+	- Pulping: pulped paper is reduced to fibres
+	- Burning: only used as a last resort in an appropriate industrial facility
+- Digital data deletion is more complex as traditional deletion only removes the file drives pointer to the data, hence sanitisation is required for permanent deletion:
+	- Clearing: writing nonsensical data to a drive to bury sensitive or important data
+	- Purging: writing random data over the entire drive to protect from a lab attack
+	- Degaussing (magnetic media): removing the data by demagnetising the media 
+	- Destruction: the most extreme form ensure
