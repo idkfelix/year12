@@ -160,4 +160,23 @@
 	- Learning best practices for prevention
 	- Implementing reporting procedures for attempted attacks
 	- Regularly refreshing employees on their training
-- To prepare for incidents that may occur as a **Reactive Approach**, incident response training  
+- To prepare for incidents that may occur as a **Reactive Approach**, incident response training should cover:
+	- Identifying signs of an attack such as unusual system activity
+	- Containment and isolation to prevent further damage
+	- Evidenced collection and preservation for legal purposes
+	- Notification and communication to appropriate personal
+	- Remediation and recovery to restore systems to their pre-incident state
+## Software Security
+- The **Open Web Application Security Project (OWASP)** identify the top ten web application security risks as:
+	1. Injection
+	2. Broken authentication
+	3. Sensitive data exposure
+	4. XML external entities (XXE)
+	5. Broken access control
+	6. Security misconfiguration
+	7. Cross-site scripting (XSS)
+	8. Insecure deserialization
+	9. Using component with known vulnerabilities
+	10. Insufficient logging and monitoring
+- **Cross Site Scripting**: XSS is a type of vulnerability in web applications that allow for users to publicly publish HTML content without proper sanitisation, creating an opportunity to publish malicious JS that executes on other users web browsers.
+- Preventing XSS requires a website to escape special characters, validate input types, encode special characters and disable client side JS o 
