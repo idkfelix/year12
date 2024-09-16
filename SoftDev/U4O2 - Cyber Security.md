@@ -217,5 +217,12 @@
 - **Brute Force Attack**: a type of basic cryptographic attack involves trying random private keys until the correct string is found, although this is ineffective against long keys.
 ## SSL & TLS
 - **SSL (Secure Socket Layer)** and **TLS (Transport Layer Security)**, are protocols for establishing authenticated and encrypted links between networked computers
-- This works by binding the identities of each entity to cryptographic public/private key pairs
-- A major flaw
+- This works by binding each entity to cryptographic public/private key pairs
+- A major flaw in SSL allowing users to fake certificate data caused the creation of is successor and replacement TLS. This was achieved by intercepting a response with a fake certificate that allowed a user to reply with his own public key and encryption for the entire session.
+## Authentication & Authorisation
+- **Authentication** is the process of identifying user and validating who they claim to be. This is most commonly achieved with the use of a username / password pair of credentials.
+- **Single Factor**: this authentication requires a user to possess one piece of information to identify themselves to a piece of software, such as a pin or password
+- **Two Factor**: requiring two pieces of information from a user to authenticate, this method vastly improves software security, commonly implemented as a one time code used to login in addition to a password or biometric authentication
+- **Multi Factor**: even more secure than two factor authentication, this requires a user to provide two or more pieces of information to authenticate from different categories. these factors can include:
+	- A password
+	- 
