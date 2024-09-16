@@ -7,6 +7,8 @@
 	- Custom software: created to meet the specific needs of a user
 	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
 	- Personal: created to automate mundane tasks or entertainment or educational purposes
+
+## Organisations
 - **Goals**: used by organisations to state long term intentions or purposes
 - **Objectives**: define shorter term measurable actions or tasks that contribute to these set goals
 - Organisations must decide **which types of software are required** to support the business based on many factors:
@@ -16,8 +18,16 @@
 - Use of software can **enhance business processes** by:
 	- improving productivity through increased efficiency and quality
 	- managing information to enhance decision making 
-	- cost reduction by improving efficiency by automating processes
+	- cost reduction by improving efficiency and automating processes
 	- facilitating collaboration with remote teams
-	- accelerating growth by enabling innovation, integration and collaboration
+	- accelerating growth by enabling innovation and integration 
 	- improving sales and customer service
-	- increasing customer engagement and direct communication with customers
+	- increasing engagement and communication with customers
+## Data Integrity
+- Data integrity relates to data being **Valid, Accurate and Consistent**
+- Has two different meanings
+	- As a **state** defines a data set that is both valid and accurate
+	- As a **process** it describes measures used to ensure validity and accuracy of a data set.
+- **Validation** checks that the correct type of data is entered
+- **Verification** checks the data is actually what you require 
+- 
