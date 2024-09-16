@@ -77,4 +77,21 @@
 	- Full restoration of backups is tested at least once when initially implemented and each time fundamental information technology infrastructure changes occur
 	- Partial restoration of backups is tested on a quarterly or more frequent basis
 ## Archiving Data
+- Data that is important, but doesn't need to be accessed frequently can be archived
 - Whereas backups are created for data recovery purposes, archives are designed for long-term storage of data and is not intended as a recovery mechanism.
+- Data archiving involves identifying data that is no longer active and moving it to long term storage systems.
+- This data is often retained to meet regulatory requirements.
+## Data Disposal
+- Data disposal refers to to the destruction, transfer, damage or alteration of data
+- According to the **Victorian Information Privacy Principles**, organisation are required to take reasonable steps to destroy or permanently de-identify personal info if its no long needed for any purpose.
+- Under the **Public Records Act**, public records cannot be destroyed unless authorised.
+- This authorisation can only be issued by **The Public Records Office Victoria (PROV)**, which will be classified under one of the following authorisations:
+	- Normal Administrative Practice (NAP) - Used by organisations to destroy certain records as apart of normal day to day practices
+		- Transitory messages, for example, calendars, personal emails
+		- Rough working papers, for example or rough meeting notes.
+		- Drafts not intended for further reference, in paper or electronic form
+		- Copies retained for reference purposes only
+		- Published material not included in the organisation’s records.
+	- Retention and Disposal Authority (RDA)
+	- Single Instance Disposal Authority (SIDA)
+- 
