@@ -209,4 +209,13 @@
 - **Secure Software Design**: threat modelling is an important part of secure software design, used to identify at risk components of software
 - **Secure Programming Practices**: once a secure software design has been identified, secure practices must be followed throughout development activities
 - **Software Testing**: release candidates must be thoroughly and dynamically tested / scanned for vulnerabilities before reaching production
-- **Vulnerability Disclosure Program**: implementing a program for users to responsibility report vulnerabilities can be used to proactively address insecure  
+- **Vulnerability Disclosure Program**: implementing a program for users to responsibility report vulnerabilities can be used to proactively address insecure components of a system
+## Encryption
+- **Encryption** is the process of taking plain text and scrambling it into an unreadable format, called ciphertext
+- **Symmetric Encryption**: also known as **private-key**, this uses a single password to encrypt and decrypt data. Communicating parties must both have the same key
+- **Asymmetric Encryption**: also known as **public-key**, uses two keys for encryption and decryption. A public key, which is shared among users, encrypts the data. A private key decrypts the data. Only the receiving party has access to the private key.
+- **Brute Force Attack**: a type of basic cryptographic attack involves trying random private keys until the correct string is found, although this is ineffective against long keys.
+## SSL & TLS
+- **SSL (Secure Socket Layer)** and **TLS (Transport Layer Security)**, are protocols for establishing authenticated and encrypted links between networked computers
+- This works by binding the identities of each entity to cryptographic public/private key pairs
+- A major flaw
