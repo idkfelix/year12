@@ -55,4 +55,7 @@
 	- Backups are stored for between one to three months
 	- Partial restoration of backups is tested at least once a year
 - **Level 2**
-	- Backups of important infora
+	- Backups of important information, software and configuration settings are performed weekly
+	- Backups are stored offline, or online but in a non-rewritable and non-erasable manner.
+	- Backups are stored for between one to three months
+	- Full restoration of backups is tested at 
