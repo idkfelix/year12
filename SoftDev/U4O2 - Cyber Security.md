@@ -110,6 +110,7 @@
 - **Fax Machines**: still used in the health industry, if a number is dialled wrong or a previous fax is forgotten, data could be transmitted to an unauthorised person.
 - **Email**: email addresses can easily be mistyped leading to private or sensitive data being misdirected to an unauthorised person
 - **IoT**: these devices can be exploited due to weak credentials or insecure software
+- **Invoice Scamming**: impersonating a business or intercepting emailed invoices with altered banking details to steal payments from customers
 
 - **MitM**: man in the middle attacks impersonate both victimised parties acting as if they are each of the intended recipients to relay malicious data
 	- MitM attacks often use SSL striping to downgrade victims certificates
@@ -119,4 +120,7 @@
 	- Wi-Fi Eavesdropping: passive traffic monitoring on an open network
 	- Session Hijacking: using a stolen session authentication for a web service
 	- DNS Spoofing: poisoning a target networks DNS records to redirect victims
-	- IP Spoofing: 
+	- IP Spoofing: posing as a victims target IP address on the network to intercept data
+	- Email Spoofing: forging email headers to mislead targeted victims by taking advantage of unenforced DKIM or SPF records.
+	- Caller ID Spoofing: although legal in Australia, scammers can use caller ID spoofing to mislead targeted victims
+- To prevent MitM attacks, organisations can implement rigid email security solutions, force SSL on all requests, educate employees on the attacks and rotate credentials.
