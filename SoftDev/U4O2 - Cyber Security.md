@@ -111,7 +111,6 @@
 - **Email**: email addresses can easily be mistyped leading to private or sensitive data being misdirected to an unauthorised person
 - **IoT**: these devices can be exploited due to weak credentials or insecure software
 - **Invoice Scamming**: impersonating a business or intercepting emailed invoices with altered banking details to steal payments from customers
-
 - **MitM**: man in the middle attacks impersonate both victimised parties acting as if they are each of the intended recipients to relay malicious data
 	- MitM attacks often use SSL striping to downgrade victims certificates
 	- Evil twin attacks are impersonate a secure network to monitor victims traffic
@@ -124,3 +123,12 @@
 	- Email Spoofing: forging email headers to mislead targeted victims by taking advantage of unenforced DKIM or SPF records.
 	- Caller ID Spoofing: although legal in Australia, scammers can use caller ID spoofing to mislead targeted victims
 - To prevent MitM attacks, organisations can implement rigid email security solutions, force SSL on all requests, educate employees on the attacks and rotate credentials.
+
+- **Preventing data breaches** is advised by the **Australian Cyber Security Center** to use strong password protection strategies and raise staff awareness on the importance of protecting credentials.
+- The **ACSC** state that credentials are typically stolen when:
+	- A user is tricked into entering their credentials into a dummy website
+	- A brute force attack is performed against a service that doesn't enforce minimum password requirements
+	- A service is compromised and credentials are stolen and tested across many sites
+	- A users system is compromised by malware designed to steal credentials
+- Under the **Privacy Act 1988** a
+- **Phishing Attacks** are where confidential information is stolen by sending fraudulent messages to victims
