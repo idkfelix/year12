@@ -110,4 +110,13 @@
 - **Fax Machines**: still used in the health industry, if a number is dialled wrong or a previous fax is forgotten, data could be transmitted to an unauthorised person.
 - **Email**: email addresses can easily be mistyped leading to private or sensitive data being misdirected to an unauthorised person
 - **IoT**: these devices can be exploited due to weak credentials or insecure software
-- 
+
+- **MitM**: man in the middle attacks impersonate both victimised parties acting as if they are each of the intended recipients to relay malicious data
+	- MitM attacks often use SSL striping to downgrade victims certificates
+	- Evil twin attacks are impersonate a secure network to monitor victims traffic
+- Some common types of MitM attacks include:
+	- Email Hijacking: using a compromised email account to mislead adjacent parties
+	- Wi-Fi Eavesdropping: passive traffic monitoring on an open network
+	- Session Hijacking: using a stolen session authentication for a web service
+	- DNS Spoofing: poisoning a target networks DNS records to redirect victims
+	- IP Spoofing: 
