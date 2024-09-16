@@ -11,10 +11,12 @@
 ## Organisations
 - **Goals**: used by organisations to state long term intentions or purposes
 - **Objectives**: define shorter term measurable actions or tasks that contribute to these set goals
+
 - Organisations must decide **which types of software are required** to support the business based on many factors:
 	- If generic commercial / OSS will cover their use case?
 	- Must custom software be developed for their requirements?
 	- Does the chosen software sufficiently meet their security standards?
+	
 - Use of software can **enhance business processes** by:
 	- improving productivity through increased efficiency and quality
 	- managing information to enhance decision making 
@@ -28,6 +30,7 @@
 - Has two different meanings
 	- As a **state** defines a data set that is both valid and accurate
 	- As a **process** it describes measures used to ensure validity and accuracy of a data set.
+	
 - **Validation** checks that the correct type of data is entered
 - **Verification** checks the data is actually what you require 
 - **Accuracy**: accurate data is correct and complete
@@ -41,4 +44,5 @@
 - **Uniqueness**: a data sources assurance against unintended duplicate records.
 - **Accessibility**: users that need the data can access it
 
--
+- **Secure Information** process characteristics
+	- **Protected**: user authentication, passwords, firewalls, anti-malware and physical protections should be in place to restrict access to data.
