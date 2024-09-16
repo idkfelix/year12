@@ -31,4 +31,14 @@
 - **Validation** checks that the correct type of data is entered
 - **Verification** checks the data is actually what you require 
 - **Accuracy**: accurate data is correct and complete
-- **Correctness**: information that matches its real world 
+- **Correctness**: information that matches its real world representation
+- **Completeness**: every part of the data is recorded, critical to decision making
+- **Appropriateness**: data that can be accessed with reasonable restrictions
+- **Relevance**: the stored data is relevant to those collecting it
+- **Timeliness**: data is accessible and available as required.   
+- **Consistency**: multiple sources of the same data should match up 
+- **Validity**: data that is formatted correctly and is usable by those accessing it
+- **Uniqueness**: a data sources assurance against unintended duplicate records.
+- **Accessibility**: users that need the data can access it
+
+-
