@@ -30,4 +30,5 @@
 	- As a **process** it describes measures used to ensure validity and accuracy of a data set.
 - **Validation** checks that the correct type of data is entered
 - **Verification** checks the data is actually what you require 
-- 
+- **Accuracy**: accurate data is correct and complete
+- **Correctness**: information that matches its real world 
