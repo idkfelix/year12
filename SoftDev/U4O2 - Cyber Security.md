@@ -7,4 +7,17 @@
 	- Custom software: created to meet the specific needs of a user
 	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
 	- Personal: created to automate mundane tasks or entertainment or educational purposes
-- 
+- **Goals**: used by organisations to state long term intentions or purposes
+- **Objectives**: define shorter term measurable actions or tasks that contribute to these set goals
+- Organisations must decide **which types of software are required** to support the business based on many factors:
+	- If generic commercial / OSS will cover their use case?
+	- Must custom software be developed for their requirements?
+	- Does the chosen software sufficiently meet their security standards?
+- Use of software can **enhance business processes** by:
+	- improving productivity through increased efficiency and quality
+	- managing information to enhance decision making 
+	- cost reduction by improving efficiency by automating processes
+	- facilitating collaboration with remote teams
+	- accelerating growth by enabling innovation, integration and collaboration
+	- improving sales and customer service
+	- increasing customer engagement and direct communication with customers
