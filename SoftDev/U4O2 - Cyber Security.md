@@ -205,3 +205,8 @@
 	- Separation of duties
 	- Data classification
 ## Secure Software Development
+- **Development Environments**: segregating development, testing and production environments can limit the spread of malicious code
+- **Secure Software Design**: threat modelling is an important part of secure software design, used to identify at risk components of software
+- **Secure Programming Practices**: once a secure software design has been identified, secure practices must be followed throughout development activities
+- **Software Testing**: release candidates must be thoroughly and dynamically tested / scanned for vulnerabilities before reaching production
+- **Vulnerability Disclosure Program**: implementing a program for users to responsibility report vulnerabilities can be used to proactively address insecure  
