@@ -53,4 +53,6 @@
 - **Level 1**
 	- Backups of important information, software and configuration settings are performed monthly
 	- Backups are stored for between one to three months
-	- Partial restoration of backups is 
+	- Partial restoration of backups is tested at least once a year
+- **Level 2**
+	- Backups of important infora
