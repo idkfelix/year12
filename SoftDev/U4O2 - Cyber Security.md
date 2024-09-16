@@ -5,4 +5,6 @@
 	- Embedded Software: used to control machines and devices
 - **Reasons for Development**
 	- Custom software: created to meet the specific needs of a user
-	- Commercial & OSS: made to meed 
+	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
+	- Personal: created to automate mundane tasks or entertainment or educational purposes
+- 
