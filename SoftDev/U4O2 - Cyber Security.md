@@ -133,11 +133,14 @@
 - Under the **Privacy Act 1988** phishing attacks are classified into the following:
 	- **Phishing Attacks** are where confidential information is stolen by broadly sending fraudulent messages to victims
 	- **Spear Phishing Attacks** are social engineering attacks used to target individuals with personalised bait messages based on publicly available information.
-- To mitigate data breaches from poor password management the ACSC advise the following:
+- To mitigate data breaches from **poor password management** the ACSC advise the following:
 	- Regular rotation of credentials
 	- Using long complex passwords
 	- Implementing a lockout for multiple failed logins
 	- Discourage the reuse of passwords across services
 	- Discourage passwords made up of dictionary terms
 	- Not using a pattern across new passwords
-- 
+- To mitigate data breaches from **cyber security incidents** the ACSC advise the following:
+	- Use multi-factor authentication for all remote access to business systems
+	- Look out for unusual account activity or suspicious logins
+	- 
