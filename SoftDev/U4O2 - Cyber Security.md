@@ -46,3 +46,4 @@
 
 - **Secure Information** process characteristics
 	- **Protected**: user authentication, passwords, firewalls, anti-malware and physical protections should be in place to restrict access to data.
+	- **Confidential**: 
