@@ -8,6 +8,20 @@
 	- Commercial & OSS: made to meet a broad set of *perceived* needs of potential users
 	- Personal: created to automate mundane tasks or entertainment or educational purposes
 
+## Data Characteristics
+- **Validation** checks that the correct type of data is entered
+- **Verification** checks the data is actually what you require 
+- **Accuracy**: accurate data is correct and complete
+- **Correctness**: information that matches its real world representation
+- **Completeness**: every part of the data is recorded, critical to decision making
+- **Appropriateness**: data that can be accessed with reasonable restrictions
+- **Relevance**: the stored data is relevant to those collecting it
+- **Timeliness**: data is accessible and available as required.   
+- **Consistency**: multiple sources of the same data should match up 
+- **Validity**: data that is formatted correctly and is usable by those accessing it
+- **Uniqueness**: a data sources assurance against unintended duplicate records.
+- **Accessibility**: users that need the data can access it
+
 ## Organisations
 - **Goals**: used by organisations to state long term intentions or purposes
 - **Objectives**: define shorter term measurable actions or tasks that contribute to these set goals
@@ -30,20 +44,13 @@
 - Has two different meanings
 	- As a **state** defines a data set that is both valid and accurate
 	- As a **process** it describes measures used to ensure validity and accuracy of a data set.
-	
-- **Validation** checks that the correct type of data is entered
-- **Verification** checks the data is actually what you require 
-- **Accuracy**: accurate data is correct and complete
-- **Correctness**: information that matches its real world representation
-- **Completeness**: every part of the data is recorded, critical to decision making
-- **Appropriateness**: data that can be accessed with reasonable restrictions
-- **Relevance**: the stored data is relevant to those collecting it
-- **Timeliness**: data is accessible and available as required.   
-- **Consistency**: multiple sources of the same data should match up 
-- **Validity**: data that is formatted correctly and is usable by those accessing it
-- **Uniqueness**: a data sources assurance against unintended duplicate records.
-- **Accessibility**: users that need the data can access it
-
 - **Secure Information** process characteristics
 	- **Protected**: user authentication, passwords, firewalls, anti-malware and physical protections should be in place to restrict access to data.
-	- **Confidential**: 
+	- **Confidential**: per the privacy and protection act 2014, sensitive information should only be made available on a need to know basis
+	- **Risk Managed**: backups should be taken regularly in case of data loss, safety equipment such as ventilation, fire extinguishers and alarms should be used in data centres to prevent catastrophic data loss.
+## Back Ups
+- The Australian government recommends the **Essential Eight Maturity Model**. All businesses should be aiming for maturity level three
+- **Level 1**
+	- Backups of important information, software and configuration settings are performed monthly
+	- Backups are stored for between one to three months
+	- Partial restoration of backups is 
