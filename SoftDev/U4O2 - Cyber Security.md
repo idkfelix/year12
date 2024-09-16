@@ -231,6 +231,31 @@
 ## Version Control
 - **Version Control**, also known as **Source Control**, is a management strategy to track and store changes to software development files that follows the development project from beginning to end-of-life.
 - This enables a large team of developers, designers and team members to contribute to the same project at the same time, often in separate branches on larger projects
-- Version control provides a logical method that preserves the individual contributions of team members without overwriting another developers work
+- Version control provides a logical method that preserves the individual contributions of team members without overwriting another developers work (diff files)
 - Version control systems:
-- 
+	- Improve team productivity and enable collaboration
+	- Enhance team communication with a reliable solution
+	- Reduce development errors and conflicts
+	- Reduce development time and increase successful deployments
+	- Improve customer satisfaction with reliable software versions
+- To effectively use version control, frequent commits should be made and documented to provide detail on a changes to the software
+- Version control protects source code from both catastrophe and the casual degradation of human error and unintended consequences
+- Software teams that do not use any form of version control may face problems such as:
+	- not knowing which changes that have been made and available to users, or 
+	- the creation of incompatible changes between two unrelated pieces of work that must then be painstakingly untangled and reworked.
+## Software Updates
+- A **Software Update**, sometimes called a patch is not the same as an **Upgrade**, instead it enhances the current version of the software or application
+- Software update usually provides:
+	- Fixes to features that are not working as intended
+	- Minor bug fixes & software enhancements
+	- Fixes against security issues concerns
+	- Add or improve the operation of current or new hardware
+- Software updates are the first line of defence against malicious actors and software 
+- Patches and updates should be applied to the following:
+	- Operating systems
+	- Firewalls & antivirus software
+	- Internet browsers
+	- Device drivers & firmware
+	- Applications / Desktop software
+
+# TODO: [Week 12](https://lms.vsvonline.vic.edu.au/mod/book/view.php?id=138957&chapterid=141967)
