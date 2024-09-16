@@ -1,0 +1,8 @@
+- **Types of Software**
+	- Systems software: an operating system or device driver
+	- Programming software: tools for writing software, IDE, GCC, etc.
+	- Applications: programs / websites which help users complete tasks
+	- Embedded Software: used to control machines and devices
+- **Reasons for Development**
+	- Custom software: created to meet the specific needs of a user
+	- Commercial & OSS: 
