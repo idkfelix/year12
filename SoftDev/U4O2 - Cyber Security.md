@@ -182,6 +182,10 @@
 - Preventing XSS requires a website to escape special characters, validate input types, encode special characters and disable client side JS on published content. 
 - **SQL injection**: the improper sanitisation of input fields that are used in SQL queries that allows for malicious queries to be inserted compromising a database 
 ## Security Controls
+- Information security is aimed at protecting the assets of an organisation. This security is through various controls that can be classified into one of the following:
+	- **Preventative** security controls: designed to prevent cyber security incidents
+	- **Detective** security controls: aimed at detecting a cyber security breach attempt or successful breach while it is in progress and alerting appropriate personnel
+	- **Corrective** security controls: used after an incident to minimise data loss, damage to systems and restore critical systems as quickly as possible.
 - **Physical Controls** include anything that's used to prevent or detect unauthorised access to physical areas, systems, or assets, such as:
 	- fences, gates and guards
 	- security badges, access cards, biometric access controls
@@ -192,12 +196,12 @@
 	- firewalls and antivirus software
 	- intrusion detection and protection systems
 	- constrained interfaces
-	- access control lists
+	- access logs and audits
 	- encryption measures
-- These controls can
 - **Administrative Controls** are policies, procedures, or guidelines that define personnel or business practices in accordance with the organisations security goals. These can apply to:
 	- Employee hiring and termination
 	- Equipment and internet usage
 	- Physical access to facilities
 	- Separation of duties
 	- Data classification
+## Secure Software Development
