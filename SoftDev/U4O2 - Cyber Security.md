@@ -275,7 +275,21 @@
 	- Data leaks
 	- Loss of data
 	- Service disruption
+## Evaluating Security Strategies
 - To evaluate security strategies used to treat risks, the following must be considered before implementation:
 	- **Identify Objectives**: the risk's environment must first be clearly set in order to create a list of measurable goals in its prevention
 	- **Current Capabilities**: understand to what extent the set objectives are already being met and does not require improvement
-	- **Areas for Improvement**:
+	- **Areas for Improvement**: identifying what new capabilities are required and must be implemented to satisfy all objectives of the business
+- Some key aspects of this evaluation include:
+	- **Threat Assessment**: considering all factors in a potential risk
+	- **Risk Analysis**: evaluating the potential impact and likelihood associated with a risk
+	- **Security Controls**: reviewing the mechanisms in place and their effectiveness
+	- **Code Review and Analysis**: assessing code for potential variabilities
+	- **Security Testing**: conducting penetration test and vulnerability scans on a system
+	- **Secure Architecture**: reviewing the entire system to ensure consistent protection
+	- **Secure Development**: evaluating the effectiveness and assurance of practices
+	- **Third-party components**: reviewing third party code security
+	- **Security Training**: reviewing the comprehension of secure practices among users
+	- **Incident Response Readiness**:  assessing current procedures for an incident
+	- **Compliance and Regulations**: evaluating the compliance of relevant regulations
+	- **Continuous Improvement**: ensuring 
