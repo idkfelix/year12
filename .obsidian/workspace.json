@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "b18085701087ccdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18cae1242c5c54ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoftDev/U4O2 Sac Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "afedb3ba67f8edee",
         "type": "tabs",
         "children": [
@@ -14,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "SoftDev/U4O2 - Cyber Security.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/U4O2 - Cyber Security.md"
+                "file": "SoftDev/U4O2 Sac Notes.md"
               }
             }
           }
@@ -96,10 +115,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5311ad72b8edc9f5",
+  "active": "18cae1242c5c54ec",
   "lastOpenFiles": [
-    "SoftDev/Untitled.md",
+    "Maths/Matrices.md",
+    "SoftDev/U4O2 Sac Notes.md",
     "SoftDev/U4O2 - Cyber Security.md",
+    "SoftDev/Untitled.md",
     "Accounting/U3O2 Sac Prep.md",
     "Accounting/Inventory.md",
     "Accounting/General Journal.md",
@@ -108,7 +129,6 @@
     "Maths/Graphs & Networks.md",
     "Maths/Data Analysis.md",
     "Maths/Recursion & Financial.md",
-    "Maths/Matrices.md",
     "English/Rewritten Paragraph.md",
     "conflict-files-obsidian-git.md",
     "Accounting/classwork/Financial Data Comparison.md",
@@ -139,7 +159,6 @@
     "SoftDev/SAT2/pdfs",
     "SoftDev/SAT2/attachments",
     "SoftDev/SAT2/Planning Report.md",
-    "SoftDev/SAT2/Evaluation.md",
     "SoftDev/SAT2/Usability Testing.pdf",
     "Maths/Matrices.pdf",
     "SoftDev/SAT2",
