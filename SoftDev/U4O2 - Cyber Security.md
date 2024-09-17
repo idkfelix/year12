@@ -257,5 +257,25 @@
 	- Internet browsers
 	- Device drivers & firmware
 	- Applications / Desktop software
-
-# TODO: [Week 12](https://lms.vsvonline.vic.edu.au/mod/book/view.php?id=138957&chapterid=141967)
+## Risk Management
+- **Risk Management** is the assessment of potential dangers to an organisation, and the implementation of processes or technology to reduce those dangers.
+- After a potential danger has been identified, the following steps are:
+	- Identify the risks
+	- Assess the risks (likelihood of occurrence and consequences)
+	- Evaluate the risks (acceptable or unacceptable)
+	- Treat the risks
+- **Threats** in cyber security may be one of the following
+	- Natural disasters
+	- System failure
+	- Human error
+	- Adversarial threats
+- **Human and adversarial threats** include:
+	- Unauthorized access
+	- Misuse of information
+	- Data leaks
+	- Loss of data
+	- Service disruption
+- To evaluate security strategies used to treat risks, the following must be considered before implementation:
+	- **Identify Objectives**: the risk's environment must first be clearly set in order to create a list of measurable goals in its prevention
+	- **Current Capabilities**: understand to what extent the set objectives are already being met and does not require improvement
+	- **Areas for Improvement**:
