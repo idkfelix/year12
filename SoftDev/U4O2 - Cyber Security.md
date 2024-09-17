@@ -292,4 +292,25 @@
 	- **Security Training**: reviewing the comprehension of secure practices among users
 	- **Incident Response Readiness**:  assessing current procedures for an incident
 	- **Compliance and Regulations**: evaluating the compliance of relevant regulations
-	- **Continuous Improvement**: ensuring 
+	- **Continuous Improvement**: ensuring software is kept up to date with new threats 
+## Risk Minimisation
+- A **risk management strategy** is a framework or plan designed to identify, assess, and prioritise risks within development. Having a strategy alone does not manage risks
+- **Techniques** that can minimise risks include:
+	- a software audit to ensure software meets legal and technical requirements
+	- security, vulnerability or penetration testing ensures that vulnerabilities are identified and not present on release
+	- security and compliance checks ensure third-party software won’t introduce vulnerabilities
+	- security coding practice training for developers minimises risk as it places security at the forefront of their minds
+	
+- **Software Auditing** assesses a pieces of software and may be conducted internally or externally so as to:
+	- uncover any issues or problems early; it is simpler and costs less to fix an issue earlier in the project 
+	- improve performance, scalability and reliability 
+	- review any necessary or unnecessary testing 
+	- ensure the application can be maintained and extended in the future 
+	- make sure you use the appropriate technology for the job 
+	- satisfy legal and licensing requirements.
+- A typical software audit process will usually:
+	- document all uses and demands of the software 
+	- test the software for standards compliance, also known as pen testing 
+	- identify assets necessary for the operation of the software, including large limits 
+	- identify security configurations and compare with acceptable security settings 
+	- consider levels of user training necessary for the operation of the software.
