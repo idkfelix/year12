@@ -3,6 +3,8 @@
  "you pray to the gods? Let me answer your prayers." What role does pride play in 'Oedipus The King'?
 # Oedipus' Hubris
 - Oedipus' fatal flaw is his pride throughout the narrative
-- Often acts in a questionanle manner in order to preserve his image 
+- Often acts in a questionable manner in order to preserve his image in front of the people of Thebes
 # Jocasta's Pride
+- Jocasta protects her pride through ignorance
+- Original defiance of the gods in attempting to kill Oedipus to break the prophecy
 # Messaging from Sophocles
