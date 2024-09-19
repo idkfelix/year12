@@ -300,9 +300,10 @@
 	- security, vulnerability or penetration testing ensures that vulnerabilities are identified and not present on release
 	- security and compliance checks ensure third-party software won’t introduce vulnerabilities
 	- security coding practice training for developers minimises risk as it places security at the forefront of their minds
-	
+
+## Software Auditing
 - **Software Auditing** assesses a pieces of software and may be conducted internally or externally so as to:
-	- uncover any issues or problems early; it is simpler and costs less to fix an issue earlier in the project 
+	- uncover any issues or problems early
 	- improve performance, scalability and reliability 
 	- review any necessary or unnecessary testing 
 	- ensure the application can be maintained and extended in the future 
@@ -314,3 +315,30 @@
 	- identify assets necessary for the operation of the software, including large limits 
 	- identify security configurations and compare with acceptable security settings 
 	- consider levels of user training necessary for the operation of the software.
+## Testing Strategies
+- **Unit Testing:** Testing individual components or functions in isolation to ensure they work as intended
+- **Integration Testing:** Testing interactions between different components or modules to ensure they integrate correctly
+- **Functional Testing:** Evaluating the software's features and functionalities to ensure they meet specified requirements
+- **User Acceptance Testing (UAT):** Involves end-users testing the software to ensure it meets their final needs and expectations
+- **Performance Testing:** Assessing the software's responsiveness, stability, and scalability under different conditions.
+- **Penetration testing**, also known as pen test, identifies security vulnerabilities in web applications, achieved by challenging each component of a system
+
+- Tests may fall into one of the following **approaches**:
+	- **Scenario-based Testing:** Creating test cases that mimic real-world scenarios to validate that the software functions as expected. 
+	- **White-box Testing:** functionality tests that ensure every possible path is covered
+	- **Black-box Testing:** Testing the software without knowledge of its internal logic, focusing on validating functionality from a user's perspective. 
+## Application Security (AppSec)
+- **Application Security** is the process of making applications more secure by finding, fixing, and preventing vulnerabilities throughout each development stage.
+- AppSec tools are usually grouped into the following categories:
+	- **Static Application Security Testing (SAST)**: tools to analyse source code and prevent vulnerabilities, this is used in a white-box approach 
+	- **Dynamic Application Security Testing (DAST)**: also known as **vulnerability scanners** these tools attempt attacks in a black-box approach
+	- **Interactive Application Security Testing (IAST)**: testing that's conduced from within the app in development to analyse logic vulnerabilities 
+	- **Run-time Application Security Protection (RASP)**: run from within the application at production run-time, this responds to and defends live attacks.
+- **Fuzzing**: a black-box testing technique, which consists of finding implementation bugs using malformed/semi-malformed data injection in an automated fashion
+- **Software Instrumentation**: involves adding extra code to an application to monitoring behaviour, often used to debug performance
+- **Web Application Firewalls (WAFs)**: a type of firewall used to manage HTTP traffic for web applications and block malicious requests using common attacks 
+## Third-Party Risk
+- **Third-Party Software** includes libraries, platforms, APIs, SDKs, software tools, and applications developed by other organisations
+- While you may go to great lengths to ensure the security of your own code, you cannot assume that your third-party software has been properly secured
+- **Software composition analysis (SCA)**: tools that perform automated scans of an application’s code base to identify open source software usage. This checks for known vulnerabilities and compliance with dependency licencing
+- Third party software components and vendors for out-sourced services, should only be given the minimum amount of sensitive data to do their job
