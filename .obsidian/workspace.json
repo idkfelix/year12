@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftDev/U4O2 - Cyber Security.md",
-                "mode": "preview",
+                "file": "English/Oedipus Practice Plans.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftDev/U4O2 - Cyber Security.md"
+                "file": "English/Oedipus Practice Plans.md"
               }
             }
           }
@@ -98,9 +98,10 @@
   },
   "active": "5311ad72b8edc9f5",
   "lastOpenFiles": [
+    "SoftDev/U4O2 - Cyber Security.md",
+    "English/Oedipus Practice Plans.md",
     "SoftDev/U4O2 Sac Notes.md",
     "Maths/Matrices.md",
-    "SoftDev/U4O2 - Cyber Security.md",
     "SoftDev/Untitled.md",
     "Accounting/U3O2 Sac Prep.md",
     "Accounting/Inventory.md",
@@ -139,7 +140,6 @@
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2/pdfs",
     "SoftDev/SAT2/attachments",
-    "SoftDev/SAT2/Planning Report.md",
     "SoftDev/SAT2/Usability Testing.pdf",
     "Maths/Matrices.pdf",
     "SoftDev/SAT2",
