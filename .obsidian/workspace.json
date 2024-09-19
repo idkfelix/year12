@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Oedipus Practice Plans.md",
+                "file": "English/Oedipus Rex/Oedipus Quotes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Oedipus Practice Plans.md"
+                "file": "English/Oedipus Rex/Oedipus Quotes.md"
               }
             }
           }
@@ -98,8 +99,8 @@
   },
   "active": "5311ad72b8edc9f5",
   "lastOpenFiles": [
-    "SoftDev/U4O2 - Cyber Security.md",
     "English/Oedipus Practice Plans.md",
+    "SoftDev/U4O2 - Cyber Security.md",
     "SoftDev/U4O2 Sac Notes.md",
     "Maths/Matrices.md",
     "SoftDev/Untitled.md",
