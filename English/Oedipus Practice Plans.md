@@ -10,3 +10,4 @@
 - Original defiance of the gods in attempting to kill Oedipus to break the prophecy
 # Messaging from Sophocles
 - Presents the popular fable as a cautionary tale for the original ancient Greek audiences who watched to learn moral values
+

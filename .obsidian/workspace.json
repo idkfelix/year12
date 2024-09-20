@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4258d8a840644fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Oedipus Practice Plan 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "a3977f455caa1958",
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Oedipus Practice Plans.md"
+                "file": "English/Oedipus Practice Plan 2.md"
               }
             }
           }
@@ -97,10 +110,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62b7f6df15cdf7e6",
+  "active": "4258d8a840644fa9",
   "lastOpenFiles": [
-    "English/Oedipus Rex/Oedipus Quotes.md",
+    "English/Oedipus Practice Plan 2.md",
     "English/Oedipus Practice Plans.md",
+    "English/Oedipus Rex/Oedipus Quotes.md",
     "SoftDev/U4O2 - Cyber Security.md",
     "SoftDev/U4O2 Sac Notes.md",
     "Maths/Matrices.md",
@@ -137,7 +151,6 @@
     "SoftDev/SAT2/Project Review.md",
     "README.md",
     "SoftDev/SAT2/pdfs/Evaluation.pdf",
-    "SoftDev/SAT2/Development Stage.md",
     "SoftDev/SAT2/pdfs/Usability Testing.pdf",
     "SoftDev/SAT2/pdfs",
     "SoftDev/SAT2/attachments",
