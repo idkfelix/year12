@@ -1,7 +1,3 @@
-<div style="text-align: center; font-family: Georgia, serif; margin: 5px">
-	<h1 style="font-size:75px">Graphs & Networks</h1>
-	<h2>Felix Coulthard</h2>
-</div>
 ## Basics
 - **Vertex**: an object represented by a point on the graph
 - **Edge**: an edge is a connection between two vertices represented by a line

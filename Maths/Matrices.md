@@ -1,20 +1,3 @@
-<div style="text-align: center; font-family: Georgia, serif; margin: 5px">
-	<h1 style="font-size:75px">Matrices</h1>
-	<h2>Felix Coulthard</h2>
-</div>
-
-$$
-\Huge\begin{bmatrix}
-  0 & 0 & 1 & 1 & 0 \\ 
-  1 & 0 & 1 & 0 & 1 \\ 
-  0 & 0 & 0 & 1 & 0 \\ 
-  0 & 1 & 0 & 0 & 0 \\ 
-  1 & 0 & 1 & 1 & 0 \\ 
-\end{bmatrix}
-$$
-
-<div style="page-break-after: always;"></div>
-
 > [!FAQ] Glossary
 > - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
 > - **Leading diagonal**: a diagonal that runs from the top left to bottom right.
