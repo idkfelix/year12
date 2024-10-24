@@ -26,6 +26,11 @@
 	- **Nominal**
 		- Non orderable
 		- Descriptive string
+## Significant Figures
+- All non-zero digits are significant
+- All leading and trailing zeros are not significant
+- Single zero before decimal point is not significant
+- Zeros between non-zero digits are significant
 ## Symbols
 $$
 \begin{align}
