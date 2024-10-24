@@ -20,7 +20,7 @@ jobs:
         run: |
           cd .quartz
           npm i
-          npmx quartz build -d ../
+          npx quartz build -d ../
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
