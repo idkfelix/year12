@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>U4O2 - Cyber Security</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="U4O2 - Cyber Security"/><meta property="og:description" content="Data Characteristics Validation checks that the correct type of data is entered Verification checks the data is actually what you require Accuracy: accurate data is correct and ..."/><meta property="og:image" content="https://idkfelix.github.io/year12/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Data Characteristics Validation checks that the correct type of data is entered Verification checks the data is actually what you require Accuracy: accurate data is correct and ..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="SoftDev/U4O2---Cyber-Security"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Felix's Notes</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button" id="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><button class="darkmode" id="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="explorer desktop-only"><button type="button" id="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="true" data-tree="[{&quot;path&quot;:&quot;Accounting&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Accounting/classwork&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Accounting/review-questions&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Born-A-Crime&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Oedipus-Rex&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Practice-SACs&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Protests&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;English/Techniques&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Maths&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/notes&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/SAT&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/SAT/Production-Experiment&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;Media/Video-Essay&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/SAT1&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/SAT2&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week1&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week2&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week3&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week4&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week5&quot;,&quot;collapsed&quot;:true},{&quot;path&quot;:&quot;SoftDev/Weekly-Activities/Unit3/Week6&quot;,&quot;collapsed&quot;:true}]" aria-controls="explorer-content" aria-expanded="false"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-content"><ul class="overflow" id="explorer-ul"><li><div class="folder-outer open"><ul style="padding-left:0;" class="content" data-folderul><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Accounting"><button class="folder-button"><span class="folder-title">Accounting</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Accounting"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Accounting/classwork"><button class="folder-button"><span class="folder-title">classwork</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Accounting/classwork"><li><a href="../Accounting/classwork/Financial-Data-Comparison" data-for="Accounting/classwork/Financial-Data-Comparison">Financial Data Comparison</a></li><li><a href="../Accounting/classwork/Net-Profit-Margin" data-for="Accounting/classwork/Net-Profit-Margin">Net Profit Margin</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Accounting/review-questions"><button class="folder-button"><span class="folder-title">review questions</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Accounting/review-questions"><li><a href="../Accounting/review-questions/CH8" data-for="Accounting/review-questions/CH8">CH8</a></li><li><a href="../Accounting/review-questions/CH12" data-for="Accounting/review-questions/CH12">CH12</a></li></ul></div></li><li><a href="../Accounting/Accounts-Turnover" data-for="Accounting/Accounts-Turnover">Accounts Turnover</a></li><li><a href="../Accounting/Balance-Day-Adjustments" data-for="Accounting/Balance-Day-Adjustments">Balance Day Adjustments</a></li><li><a href="../Accounting/Balance-Sheet" data-for="Accounting/Balance-Sheet">Balance Sheet</a></li><li><a href="../Accounting/General-Journal" data-for="Accounting/General-Journal">General Journal</a></li><li><a href="../Accounting/General-Ledger" data-for="Accounting/General-Ledger">General Ledger</a></li><li><a href="../Accounting/Inventory" data-for="Accounting/Inventory">Inventory</a></li><li><a href="../Accounting/Net-Realisable-Value" data-for="Accounting/Net-Realisable-Value">Net Realisable Value</a></li><li><a href="../Accounting/U3O2-Sac-Prep" data-for="Accounting/U3O2-Sac-Prep">U3O2 Sac Prep</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English"><button class="folder-button"><span class="folder-title">English</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Born-A-Crime"><button class="folder-button"><span class="folder-title">Born A Crime</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Born-A-Crime"><li><a href="../English/Born-A-Crime/Part-II-Questions" data-for="English/Born-A-Crime/Part-II-Questions">Part II Questions</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Oedipus-Rex"><button class="folder-button"><span class="folder-title">Oedipus Rex</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Oedipus-Rex"><li><a href="../English/Oedipus-Rex/Oedipus---Blindness" data-for="English/Oedipus-Rex/Oedipus---Blindness">Oedipus - Blindness</a></li><li><a href="../English/Oedipus-Rex/Oedipus-Quotes" data-for="English/Oedipus-Rex/Oedipus-Quotes">Oedipus Quotes</a></li><li><a href="../English/Oedipus-Rex/Practice-Response" data-for="English/Oedipus-Rex/Practice-Response">Practice Response</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Practice-SACs"><button class="folder-button"><span class="folder-title">Practice SACs</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Practice-SACs"><li><a href="../English/Practice-SACs/BaC-Analytical" data-for="English/Practice-SACs/BaC-Analytical">BaC Analytical</a></li><li><a href="../English/Practice-SACs/Garment-Gab" data-for="English/Practice-SACs/Garment-Gab">Garment Gab</a></li><li><a href="../English/Practice-SACs/Harrison-Bergeron-(Commentary)" data-for="English/Practice-SACs/Harrison-Bergeron-(Commentary)">Harrison Bergeron (Commentary)</a></li><li><a href="../English/Practice-SACs/Listen-(Mardi-Gras)" data-for="English/Practice-SACs/Listen-(Mardi-Gras)">Listen (Mardi Gras)</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Protests"><button class="folder-button"><span class="folder-title">Protests</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Protests"><li><a href="../English/Protests/Hong-Kong-Umbrellas" data-for="English/Protests/Hong-Kong-Umbrellas">Hong Kong Umbrellas</a></li><li><a href="../English/Protests/Hope" data-for="English/Protests/Hope">Hope</a></li><li><a href="../English/Protests/Oral-Final" data-for="English/Protests/Oral-Final">Oral Final</a></li><li><a href="../English/Protests/Oral-Presentation" data-for="English/Protests/Oral-Presentation">Oral Presentation</a></li><li><a href="../English/Protests/Speak-Truth-To-Power" data-for="English/Protests/Speak-Truth-To-Power">Speak Truth To Power</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="English/Techniques"><button class="folder-button"><span class="folder-title">Techniques</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="English/Techniques"><li><a href="../English/Techniques/Analytical-Response" data-for="English/Techniques/Analytical-Response">Analytical Response</a></li><li><a href="../English/Techniques/Persuasive-Techniques" data-for="English/Techniques/Persuasive-Techniques">Persuasive Techniques</a></li></ul></div></li><li><a href="../English/Oedipus-Practice-Plan-2" data-for="English/Oedipus-Practice-Plan-2">Oedipus Practice Plan 2</a></li><li><a href="../English/Oedipus-Practice-Plans" data-for="English/Oedipus-Practice-Plans">Oedipus Practice Plans</a></li><li><a href="../English/Rewritten-Paragraph" data-for="English/Rewritten-Paragraph">Rewritten Paragraph</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Maths"><button class="folder-button"><span class="folder-title">Maths</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Maths"><li><a href="../Maths/Data-Analysis" data-for="Maths/Data-Analysis">Data Analysis</a></li><li><a href="../Maths/Graphs--and--Networks" data-for="Maths/Graphs--and--Networks">Graphs &amp; Networks</a></li><li><a href="../Maths/Matrices" data-for="Maths/Matrices">Matrices</a></li><li><a href="../Maths/Recursion--and--Financial" data-for="Maths/Recursion--and--Financial">Recursion &amp; Financial</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media"><button class="folder-button"><span class="folder-title">Media</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/notes"><button class="folder-button"><span class="folder-title">notes</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/notes"><li><a href="../Media/notes/21-2-24" data-for="Media/notes/21-2-24">21-2-24</a></li><li><a href="../Media/notes/26-6-24" data-for="Media/notes/26-6-24">26-6-24</a></li><li><a href="../Media/notes/29-2-24" data-for="Media/notes/29-2-24">29-2-24</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/SAT"><button class="folder-button"><span class="folder-title">SAT</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/SAT"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/SAT/Production-Experiment"><button class="folder-button"><span class="folder-title">Production Experiment</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/SAT/Production-Experiment"><li><a href="../Media/SAT/Production-Experiment/Production-Experiment-1" data-for="Media/SAT/Production-Experiment/Production-Experiment-1">Production Experiment 1</a></li><li><a href="../Media/SAT/Production-Experiment/Production-Experiment-2" data-for="Media/SAT/Production-Experiment/Production-Experiment-2">Production Experiment 2</a></li></ul></div></li><li><a href="../Media/SAT/Intention" data-for="Media/SAT/Intention">Intention</a></li><li><a href="../Media/SAT/SAT-Final" data-for="Media/SAT/SAT-Final">SAT Final</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="Media/Video-Essay"><button class="folder-button"><span class="folder-title">Video Essay</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="Media/Video-Essay"><li><a href="../Media/Video-Essay/Bibliography" data-for="Media/Video-Essay/Bibliography">Bibliography</a></li><li><a href="../Media/Video-Essay/Script" data-for="Media/Video-Essay/Script">Script</a></li><li><a href="../Media/Video-Essay/Terminology" data-for="Media/Video-Essay/Terminology">Terminology</a></li></ul></div></li><li><a href="../Media/Agency--and--Control" data-for="Media/Agency--and--Control">Agency &amp; Control</a></li><li><a href="../Media/TikTok-and-its-effect-on-Media" data-for="Media/TikTok-and-its-effect-on-Media">TikTok and its effect on Media</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev"><button class="folder-button"><span class="folder-title">SoftDev</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/SAT1"><button class="folder-button"><span class="folder-title">SAT1</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/SAT1"><li><a href="../SoftDev/SAT1/Design" data-for="SoftDev/SAT1/Design">Design</a></li><li><a href="../SoftDev/SAT1/Development-Model-Justification" data-for="SoftDev/SAT1/Development-Model-Justification">Development Model Justification</a></li><li><a href="../SoftDev/SAT1/Meeting-Notes" data-for="SoftDev/SAT1/Meeting-Notes">Meeting Notes</a></li><li><a href="../SoftDev/SAT1/Project-Proposal" data-for="SoftDev/SAT1/Project-Proposal">Project Proposal</a></li><li><a href="../SoftDev/SAT1/SRS" data-for="SoftDev/SAT1/SRS">SRS</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/SAT2"><button class="folder-button"><span class="folder-title">SAT2</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/SAT2"><li><a href="../SoftDev/SAT2/Development-Stage" data-for="SoftDev/SAT2/Development-Stage">Development Stage</a></li><li><a href="../SoftDev/SAT2/Evaluation" data-for="SoftDev/SAT2/Evaluation">Evaluation</a></li><li><a href="../SoftDev/SAT2/Project-Review" data-for="SoftDev/SAT2/Project-Review">Project Review</a></li><li><a href="../SoftDev/SAT2/Usability-Testing" data-for="SoftDev/SAT2/Usability-Testing">Usability Testing</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities"><button class="folder-button"><span class="folder-title">Weekly Activities</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3"><button class="folder-button"><span class="folder-title">Unit3</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week1"><button class="folder-button"><span class="folder-title">Week1</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week1"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week1/Week-1" data-for="SoftDev/Weekly-Activities/Unit3/Week1/Week-1">Week 1</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week2"><button class="folder-button"><span class="folder-title">Week2</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week2"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week2/Week-2" data-for="SoftDev/Weekly-Activities/Unit3/Week2/Week-2">Week 2</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week3"><button class="folder-button"><span class="folder-title">Week3</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week3"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week3/Week-3" data-for="SoftDev/Weekly-Activities/Unit3/Week3/Week-3">Week 3</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week4"><button class="folder-button"><span class="folder-title">Week4</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week4"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week4/Week-4" data-for="SoftDev/Weekly-Activities/Unit3/Week4/Week-4">Week 4</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week5"><button class="folder-button"><span class="folder-title">Week5</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week5"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week5/Week-5" data-for="SoftDev/Weekly-Activities/Unit3/Week5/Week-5">Week 5</a></li></ul></div></li><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div data-folderpath="SoftDev/Weekly-Activities/Unit3/Week6"><button class="folder-button"><span class="folder-title">Week6</span></button></div></div><div class="folder-outer "><ul style="padding-left:1.4rem;" class="content" data-folderul="SoftDev/Weekly-Activities/Unit3/Week6"><li><a href="../SoftDev/Weekly-Activities/Unit3/Week6/Week-6" data-for="SoftDev/Weekly-Activities/Unit3/Week6/Week-6">Week 6</a></li></ul></div></li></ul></div></li></ul></div></li><li><a href="../SoftDev/U4O2---Cyber-Security" data-for="SoftDev/U4O2---Cyber-Security">U4O2 - Cyber Security</a></li><li><a href="../SoftDev/U4O2-Sac-Notes" data-for="SoftDev/U4O2-Sac-Notes">U4O2 Sac Notes</a></li><li><a href="../SoftDev/Unit3-Key-Terms" data-for="SoftDev/Unit3-Key-Terms">Unit3 Key Terms</a></li></ul></div></li><li><a href="../README" data-for="README">README</a></li></ul></div></li><li id="explorer-end"></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../SoftDev/">SoftDev</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>U4O2 - Cyber Security</a></div></nav><h1 class="article-title">U4O2 - Cyber Security</h1><p show-comma="true" class="content-meta"><span>Oct 24, 2024</span><span>19 min read</span></p></div></div><article class="popover-hint"><h2 id="data-characteristics">Data Characteristics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-characteristics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Validation</strong> checks that the correct type of data is entered</li>
+<li><strong>Verification</strong> checks the data is actually what you require</li>
+<li><strong>Accuracy</strong>: accurate data is correct and complete</li>
+<li><strong>Correctness</strong>: information that matches its real world representation</li>
+<li><strong>Completeness</strong>: every part of the data is recorded, critical to decision making</li>
+<li><strong>Appropriateness</strong>: data that can be accessed with reasonable restrictions</li>
+<li><strong>Relevance</strong>: the stored data is relevant to those collecting it</li>
+<li><strong>Timeliness</strong>: data is accessible and available as required.</li>
+<li><strong>Consistency</strong>: multiple sources of the same data should match up</li>
+<li><strong>Validity</strong>: data that is formatted correctly and is usable by those accessing it</li>
+<li><strong>Uniqueness</strong>: a data sources assurance against unintended duplicate records.</li>
+<li><strong>Accessibility</strong>: users that need the data can access it</li>
+</ul>
+<h2 id="software-characteristics">Software Characteristics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#software-characteristics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>
+<p><strong>Types of Software</strong></p>
+<ul>
+<li>Systems software: an operating system or device driver</li>
+<li>Programming software: tools for writing software, IDE, GCC, etc.</li>
+<li>Applications: programs / websites which help users complete tasks</li>
+<li>Embedded Software: used to control machines and devices</li>
+</ul>
+</li>
+<li>
+<p><strong>Reasons for Development</strong></p>
+<ul>
+<li>Custom software: created to meet the specific needs of a user</li>
+<li>Commercial &amp; OSS: made to meet a broad set of <em>perceived</em> needs of potential users</li>
+<li>Personal: created to automate mundane tasks or entertainment or educational purposes</li>
+</ul>
+</li>
+</ul>
+<h2 id="organisations">Organisations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#organisations" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>
+<p><strong>Goals</strong>: used by organisations to state long term intentions or purposes</p>
+</li>
+<li>
+<p><strong>Objectives</strong>: define shorter term measurable actions or tasks that contribute to these set goals</p>
+</li>
+<li>
+<p>Organisations must decide <strong>which types of software are required</strong> to support the business based on many factors:</p>
+<ul>
+<li>If generic commercial / OSS will cover their use case?</li>
+<li>Must custom software be developed for their requirements?</li>
+<li>Does the chosen software sufficiently meet their security standards?</li>
+</ul>
+</li>
+<li>
+<p>Use of software can <strong>enhance business processes</strong> by:</p>
+<ul>
+<li>improving productivity through increased efficiency and quality</li>
+<li>managing information to enhance decision making</li>
+<li>cost reduction by improving efficiency and automating processes</li>
+<li>facilitating collaboration with remote teams</li>
+<li>accelerating growth by enabling innovation and integration</li>
+<li>improving sales and customer service</li>
+<li>increasing engagement and communication with customers</li>
+</ul>
+</li>
+</ul>
+<h2 id="data-integrity">Data Integrity<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-integrity" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Data integrity relates to data being <strong>Valid, Accurate and Consistent</strong></li>
+<li>Has two different meanings
+<ul>
+<li>As a <strong>state</strong> defines a data set that is both valid and accurate</li>
+<li>As a <strong>process</strong> it describes measures used to ensure validity and accuracy of a data set.</li>
+</ul>
+</li>
+<li><strong>Secure Information</strong> process characteristics
+<ul>
+<li><strong>Protected</strong>: user authentication, passwords, firewalls, anti-malware and physical protections should be in place to restrict access to data.</li>
+<li><strong>Confidential</strong>: per the privacy and protection act 2014, sensitive information should only be made available on a need to know basis</li>
+<li><strong>Risk Managed</strong>: backups should be taken regularly in case of data loss, safety equipment such as ventilation, fire extinguishers and alarms should be used in data centres to prevent catastrophic data loss.</li>
+</ul>
+</li>
+</ul>
+<h2 id="back-ups">Back Ups<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#back-ups" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>The 3-2-1 Rule</strong> is the most well known and recommended back up strategies
+<ul>
+<li>Keep at least three copies of any important data, the original and two backups</li>
+<li>Keep the files or data on two different media types</li>
+<li>Keep one copy offsite</li>
+</ul>
+</li>
+<li>Over time an improved model of the 3-2-1 rule has been developed
+<ul>
+<li>Keep at least three copies of any important files or data</li>
+<li>Keep the files or data on two different media types</li>
+<li>Keep one copy offsite and offline</li>
+<li>Keep one copy offsite in the cloud</li>
+</ul>
+</li>
+<li>The Australian government recommends the <strong>Essential Eight Maturity Model</strong>. All businesses should be aiming for maturity level three</li>
+<li><strong>Level 1</strong>
+<ul>
+<li>Backups of important information, software and configuration settings are performed monthly</li>
+<li>Backups are stored for between one to three months</li>
+<li>Partial restoration of backups is tested at least once a year</li>
+</ul>
+</li>
+<li><strong>Level 2</strong>
+<ul>
+<li>Backups of important information, software and configuration settings are performed weekly</li>
+<li>Backups are stored offline, or online but in a non-rewritable and non-erasable manner.</li>
+<li>Partial restoration of backups is tested on a bi-annual or more frequent basis</li>
+<li>Full restoration of backups is tested at least once when initially implemented</li>
+</ul>
+</li>
+<li><strong>Level 3</strong>
+<ul>
+<li>Backups of important information, software and configuration settings are performed at least daily</li>
+<li>Full restoration of backups is tested at least once when initially implemented and each time fundamental information technology infrastructure changes occur</li>
+<li>Partial restoration of backups is tested on a quarterly or more frequent basis</li>
+</ul>
+</li>
+</ul>
+<h2 id="archiving-data">Archiving Data<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#archiving-data" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Data that is important, but doesn’t need to be accessed frequently can be archived</li>
+<li>Whereas backups are created for data recovery purposes, archives are designed for long-term storage of data and is not intended as a recovery mechanism.</li>
+<li>Data archiving involves identifying data that is no longer active and moving it to long term storage systems.</li>
+<li>This data is often retained to meet regulatory requirements.</li>
+</ul>
+<h2 id="data-disposal">Data Disposal<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-disposal" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>
+<p>Data disposal refers to to the destruction, transfer, damage or alteration of data</p>
+</li>
+<li>
+<p>According to the <strong>Victorian Information Privacy Principles</strong>, organisation are required to take reasonable steps to destroy or permanently de-identify personal info if its no long needed for any purpose.</p>
+</li>
+<li>
+<p>Under the <strong>Public Records Act</strong>, public records cannot be destroyed unless authorised by the <strong>Public Records Office Victoria (PROV)</strong>, which will be classified under one of the following authorisations:</p>
+<ul>
+<li>Normal Administrative Practice (NAP)</li>
+<li>Retention and Disposal Authority (RDA)</li>
+<li>Single Instance Disposal Authority (SIDA)</li>
+</ul>
+</li>
+<li>
+<p>the NAP disposal is used by organisations to destroy certain records as apart of normal day to day practices that does not require further authorisation:</p>
+<ul>
+<li>Transitory messages, for example, calendars, personal emails</li>
+<li>Rough working papers, for example or rough meeting notes.</li>
+<li>Drafts not intended for further reference, in paper or electronic form</li>
+<li>Copies retained for reference purposes only</li>
+<li>Published material not included in the organisation’s records.</li>
+</ul>
+</li>
+<li>
+<p>Physical data such as papers, photographs and films can be destroyed with the following methods:</p>
+<ul>
+<li>Shredding: normal office shredding or cross shredding for sensitive documents</li>
+<li>Pulping: pulped paper is reduced to fibres</li>
+<li>Burning: only used as a last resort in an appropriate industrial facility</li>
+</ul>
+</li>
+<li>
+<p>Digital data deletion is more complex as traditional deletion only removes the file drives pointer to the data, hence sanitisation is required for permanent deletion:</p>
+<ul>
+<li>Clearing: writing nonsensical data to a drive to bury sensitive or important data</li>
+<li>Purging: writing random data over the entire drive to protect from a lab attack</li>
+<li>Degaussing (magnetic media): removing the data by demagnetising the media</li>
+<li>Destruction: the most extreme form ensures media is drastically altered and can never by reused by physically destroying the storage media</li>
+</ul>
+</li>
+</ul>
+<h2 id="data-breaches">Data Breaches<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-breaches" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>A data breach is when private, sensitive, protected or confidential information is exposed to, copied by, transmitted to, shared with, or stolen by an unauthorised person</li>
+<li><strong>Fax Machines</strong>: still used in the health industry, if a number is dialled wrong or a previous fax is forgotten, data could be transmitted to an unauthorised person.</li>
+<li><strong>Email</strong>: email addresses can easily be mistyped leading to private or sensitive data being misdirected to an unauthorised person</li>
+<li><strong>IoT</strong>: these devices can be exploited due to weak credentials or insecure software</li>
+<li><strong>Invoice Scamming</strong>: impersonating a business or intercepting emailed invoices with altered banking details to steal payments from customers</li>
+<li><strong>MitM</strong>: man in the middle attacks impersonate both victimised parties acting as if they are each of the intended recipients to relay malicious data
+<ul>
+<li>MitM attacks often use SSL striping to downgrade victims certificates</li>
+<li>Evil twin attacks are impersonate a secure network to monitor victims traffic</li>
+</ul>
+</li>
+<li>Some common types of MitM attacks include:
+<ul>
+<li>Email Hijacking: using a compromised email account to mislead adjacent parties</li>
+<li>Wi-Fi Eavesdropping: passive traffic monitoring on an open network</li>
+<li>Session Hijacking: using a stolen session authentication for a web service</li>
+<li>DNS Spoofing: poisoning a target networks DNS records to redirect victims</li>
+<li>IP Spoofing: posing as a victims target IP address on the network to intercept data</li>
+<li>Email Spoofing: forging email headers to mislead targeted victims by taking advantage of unenforced DKIM or SPF records.</li>
+<li>Caller ID Spoofing: although legal in Australia, scammers can use caller ID spoofing to mislead targeted victims</li>
+</ul>
+</li>
+<li>To prevent MitM attacks, organisations can implement rigid email security solutions, force SSL on all requests, educate employees on the attacks and rotate credentials.</li>
+</ul>
+<h2 id="mitigating-data-breaches">Mitigating Data Breaches<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mitigating-data-breaches" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Preventing data breaches</strong> is advised by the <strong>Australian Cyber Security Center</strong> to use strong password protection strategies and raise staff awareness on the importance of protecting credentials.</li>
+<li>The <strong>ACSC</strong> state that credentials are typically stolen when:
+<ul>
+<li>A user is tricked into entering their credentials into a dummy website</li>
+<li>A brute force attack is performed against a service that doesn’t enforce minimum password requirements</li>
+<li>A service is compromised and credentials are stolen and tested across many sites</li>
+<li>A users system is compromised by malware designed to steal credentials</li>
+</ul>
+</li>
+<li>Under the <strong>Privacy Act 1988</strong> phishing attacks are classified into the following:
+<ul>
+<li><strong>Phishing Attacks</strong> are where confidential information is stolen by broadly sending fraudulent messages to victims</li>
+<li><strong>Spear Phishing Attacks</strong> are social engineering attacks used to target individuals with personalised bait messages based on publicly available information.</li>
+</ul>
+</li>
+<li>To mitigate data breaches from <strong>poor password management</strong> the ACSC advise the following:
+<ul>
+<li>Regular rotation of credentials</li>
+<li>Using long complex passwords</li>
+<li>Implementing a lockout for multiple failed logins</li>
+<li>Discourage the reuse of passwords across services</li>
+<li>Discourage passwords made up of dictionary terms</li>
+<li>Not using a pattern across new passwords</li>
+</ul>
+</li>
+<li>To mitigate data breaches from <strong>cyber security incidents</strong> the ACSC advise the following:
+<ul>
+<li>Use multi-factor authentication for all remote access to business systems</li>
+<li>Look out for unusual account activity or suspicious logins</li>
+<li>Encourage users to think carefully before entering credentials</li>
+<li>Keep OS, browser and plugins up to date</li>
+<li>Enabling anti-virus protections</li>
+</ul>
+</li>
+</ul>
+<h2 id="social-engineering">Social Engineering<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#social-engineering" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>
+<p><strong>Baiting</strong>: offering a user something enticing in exchange for credentials or sensitive data</p>
+</li>
+<li>
+<p><strong>Quid Pro Quo</strong>: requesting credentials or sensitive data in exchange for a service</p>
+</li>
+<li>
+<p><strong>Pretexting</strong>: creating a false trust with a victim to gain login credentials</p>
+</li>
+<li>
+<p><strong>Tailgating / Piggybacking</strong>: physically following an authorised person into a secure area</p>
+</li>
+<li>
+<p>Implementing policies and procedures across an organisation can set clear guidelines to identify and prevent social engineering attacks</p>
+</li>
+<li>
+<p>Software such as email clients can help filter out social engineering attempts</p>
+</li>
+<li>
+<p>To prevent social engineering attacks security awareness training is a <strong>Proactive Approach</strong>, the key components of this training include:</p>
+<ul>
+<li>Identifying / Recognising social engineering tactics</li>
+<li>Understanding the risks / consequences of falling victim</li>
+<li>Learning best practices for prevention</li>
+<li>Implementing reporting procedures for attempted attacks</li>
+<li>Regularly refreshing employees on their training</li>
+</ul>
+</li>
+<li>
+<p>To prepare for incidents that may occur as a <strong>Reactive Approach</strong>, incident response training should cover:</p>
+<ul>
+<li>Identifying signs of an attack such as unusual system activity</li>
+<li>Containment and isolation to prevent further damage</li>
+<li>Evidenced collection and preservation for legal purposes</li>
+<li>Notification and communication to appropriate personal</li>
+<li>Remediation and recovery to restore systems to their pre-incident state</li>
+</ul>
+</li>
+</ul>
+<h2 id="software-security">Software Security<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#software-security" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>The <strong>Open Web Application Security Project (OWASP)</strong> identify the top ten web application security risks as:
+<ol>
+<li>Injection</li>
+<li>Broken authentication</li>
+<li>Sensitive data exposure</li>
+<li>XML external entities (XXE)</li>
+<li>Broken access control</li>
+<li>Security misconfiguration</li>
+<li>Cross-site scripting (XSS)</li>
+<li>Insecure deserialization</li>
+<li>Using component with known vulnerabilities</li>
+<li>Insufficient logging and monitoring</li>
+</ol>
+</li>
+<li><strong>Cross Site Scripting</strong>: XSS is a type of vulnerability in web applications that allow for users to publicly publish HTML content without proper sanitisation, creating an opportunity to publish malicious JS that executes on other users web browsers.</li>
+<li>Preventing XSS requires a website to escape special characters, validate input types, encode special characters and disable client side JS on published content.</li>
+<li><strong>SQL injection</strong>: the improper sanitisation of input fields that are used in SQL queries that allows for malicious queries to be inserted compromising a database</li>
+</ul>
+<h2 id="security-controls">Security Controls<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#security-controls" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Information security is aimed at protecting the assets of an organisation. This security is through various controls that can be classified into one of the following:
+<ul>
+<li><strong>Preventative</strong> security controls: designed to prevent cyber security incidents</li>
+<li><strong>Detective</strong> security controls: aimed at detecting a cyber security breach attempt or successful breach while it is in progress and alerting appropriate personnel</li>
+<li><strong>Corrective</strong> security controls: used after an incident to minimise data loss, damage to systems and restore critical systems as quickly as possible.</li>
+</ul>
+</li>
+<li><strong>Physical Controls</strong> include anything that’s used to prevent or detect unauthorised access to physical areas, systems, or assets, such as:
+<ul>
+<li>fences, gates and guards</li>
+<li>security badges, access cards, biometric access controls</li>
+<li>CCTV, motion sensors, surveillance cameras and security lighting</li>
+<li>fire suppression and environmental controls</li>
+</ul>
+</li>
+<li><strong>Software Controls</strong> include software mechanisms used to protect assets, such as:
+<ul>
+<li>authentication solutions</li>
+<li>firewalls and antivirus software</li>
+<li>intrusion detection and protection systems</li>
+<li>constrained interfaces</li>
+<li>access logs and audits</li>
+<li>encryption measures</li>
+</ul>
+</li>
+<li><strong>Administrative Controls</strong> are policies, procedures, or guidelines that define personnel or business practices in accordance with the organisations security goals. These can apply to:
+<ul>
+<li>Employee hiring and termination</li>
+<li>Equipment and internet usage</li>
+<li>Physical access to facilities</li>
+<li>Separation of duties</li>
+<li>Data classification</li>
+</ul>
+</li>
+</ul>
+<h2 id="secure-software-development">Secure Software Development<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#secure-software-development" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Development Environments</strong>: segregating development, testing and production environments can limit the spread of malicious code</li>
+<li><strong>Secure Software Design</strong>: threat modelling is an important part of secure software design, used to identify at risk components of software</li>
+<li><strong>Secure Programming Practices</strong>: once a secure software design has been identified, secure practices must be followed throughout development activities</li>
+<li><strong>Software Testing</strong>: release candidates must be thoroughly and dynamically tested / scanned for vulnerabilities before reaching production</li>
+<li><strong>Vulnerability Disclosure Program</strong>: implementing a program for users to responsibility report vulnerabilities can be used to proactively address insecure components of a system</li>
+</ul>
+<h2 id="encryption">Encryption<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#encryption" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Encryption</strong> is the process of taking plain text and scrambling it into an unreadable format, called ciphertext</li>
+<li><strong>Symmetric Encryption</strong>: also known as <strong>private-key</strong>, this uses a single password to encrypt and decrypt data. Communicating parties must both have the same key</li>
+<li><strong>Asymmetric Encryption</strong>: also known as <strong>public-key</strong>, uses two keys for encryption and decryption. A public key, which is shared among users, encrypts the data. A private key decrypts the data. Only the receiving party has access to the private key.</li>
+<li><strong>Brute Force Attack</strong>: a type of basic cryptographic attack involves trying random private keys until the correct string is found, although this is ineffective against long keys.</li>
+</ul>
+<h2 id="ssl--tls">SSL &amp; TLS<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ssl--tls" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>SSL (Secure Socket Layer)</strong> and <strong>TLS (Transport Layer Security)</strong>, are protocols for establishing authenticated and encrypted links between networked computers</li>
+<li>This works by binding each entity to cryptographic public/private key pairs</li>
+<li>A major flaw in SSL allowing users to fake certificate data caused the creation of is successor and replacement TLS. This was achieved by intercepting a response with a fake certificate that allowed a user to reply with his own public key and encryption for the entire session.</li>
+</ul>
+<h2 id="authentication--authorisation">Authentication &amp; Authorisation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#authentication--authorisation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Authentication</strong> is the process of identifying user and validating who they claim to be. This is most commonly achieved with the use of a username / password pair of credentials.</li>
+<li><strong>Single Factor</strong>: this authentication requires a user to possess one piece of information to identify themselves to a piece of software, such as a pin or password</li>
+<li><strong>Two Factor</strong>: requiring two pieces of information from a user to authenticate, this method vastly improves software security, commonly implemented as a one time code used to login in addition to a password or biometric authentication</li>
+<li><strong>Multi Factor</strong>: even more secure than two factor authentication, this requires a user to provide two or more pieces of information to authenticate from different categories. these factors can include:
+<ul>
+<li>A Username and Password</li>
+<li>Fingerprints or Facial Recognition</li>
+<li>One Time Code</li>
+<li>Limited time PIN</li>
+</ul>
+</li>
+<li><strong>Authorisation</strong> is the process of checking what level of access and permission a user, external service or device has</li>
+<li>Systems should be designed on a principle of deny by default for every resource, requiring manual approval for user access</li>
+</ul>
+<h2 id="version-control">Version Control<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#version-control" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Version Control</strong>, also known as <strong>Source Control</strong>, is a management strategy to track and store changes to software development files that follows the development project from beginning to end-of-life.</li>
+<li>This enables a large team of developers, designers and team members to contribute to the same project at the same time, often in separate branches on larger projects</li>
+<li>Version control provides a logical method that preserves the individual contributions of team members without overwriting another developers work (diff files)</li>
+<li>Version control systems:
+<ul>
+<li>Improve team productivity and enable collaboration</li>
+<li>Enhance team communication with a reliable solution</li>
+<li>Reduce development errors and conflicts</li>
+<li>Reduce development time and increase successful deployments</li>
+<li>Improve customer satisfaction with reliable software versions</li>
+</ul>
+</li>
+<li>To effectively use version control, frequent commits should be made and documented to provide detail on a changes to the software</li>
+<li>Version control protects source code from both catastrophe and the casual degradation of human error and unintended consequences</li>
+<li>Software teams that do not use any form of version control may face problems such as:
+<ul>
+<li>not knowing which changes that have been made and available to users, or </li>
+<li>the creation of incompatible changes between two unrelated pieces of work that must then be painstakingly untangled and reworked.</li>
+</ul>
+</li>
+</ul>
+<h2 id="software-updates">Software Updates<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#software-updates" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>A <strong>Software Update</strong>, sometimes called a patch is not the same as an <strong>Upgrade</strong>, instead it enhances the current version of the software or application</li>
+<li>Software update usually provides:
+<ul>
+<li>Fixes to features that are not working as intended</li>
+<li>Minor bug fixes &amp; software enhancements</li>
+<li>Fixes against security issues concerns</li>
+<li>Add or improve the operation of current or new hardware</li>
+</ul>
+</li>
+<li>Software updates are the first line of defence against malicious actors and software</li>
+<li>Patches and updates should be applied to the following:
+<ul>
+<li>Operating systems</li>
+<li>Firewalls &amp; antivirus software</li>
+<li>Internet browsers</li>
+<li>Device drivers &amp; firmware</li>
+<li>Applications / Desktop software</li>
+</ul>
+</li>
+</ul>
+<h2 id="risk-management">Risk Management<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#risk-management" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Risk Management</strong> is the assessment of potential dangers to an organisation, and the implementation of processes or technology to reduce those dangers.</li>
+<li>After a potential danger has been identified, the following steps are:
+<ul>
+<li>Identify the risks</li>
+<li>Assess the risks (likelihood of occurrence and consequences)</li>
+<li>Evaluate the risks (acceptable or unacceptable)</li>
+<li>Treat the risks</li>
+</ul>
+</li>
+<li><strong>Threats</strong> in cyber security may be one of the following
+<ul>
+<li>Natural disasters</li>
+<li>System failure</li>
+<li>Human error</li>
+<li>Adversarial threats</li>
+</ul>
+</li>
+<li><strong>Human and adversarial threats</strong> include:
+<ul>
+<li>Unauthorized access</li>
+<li>Misuse of information</li>
+<li>Data leaks</li>
+<li>Loss of data</li>
+<li>Service disruption</li>
+</ul>
+</li>
+</ul>
+<h2 id="evaluating-security-strategies">Evaluating Security Strategies<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#evaluating-security-strategies" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>To evaluate security strategies used to treat risks, the following must be considered before implementation:
+<ul>
+<li><strong>Identify Objectives</strong>: the risk’s environment must first be clearly set in order to create a list of measurable goals in its prevention</li>
+<li><strong>Current Capabilities</strong>: understand to what extent the set objectives are already being met and does not require improvement</li>
+<li><strong>Areas for Improvement</strong>: identifying what new capabilities are required and must be implemented to satisfy all objectives of the business</li>
+</ul>
+</li>
+<li>Some key aspects of this evaluation include:
+<ul>
+<li><strong>Threat Assessment</strong>: considering all factors in a potential risk</li>
+<li><strong>Risk Analysis</strong>: evaluating the potential impact and likelihood associated with a risk</li>
+<li><strong>Security Controls</strong>: reviewing the mechanisms in place and their effectiveness</li>
+<li><strong>Code Review and Analysis</strong>: assessing code for potential variabilities</li>
+<li><strong>Security Testing</strong>: conducting penetration test and vulnerability scans on a system</li>
+<li><strong>Secure Architecture</strong>: reviewing the entire system to ensure consistent protection</li>
+<li><strong>Secure Development</strong>: evaluating the effectiveness and assurance of practices</li>
+<li><strong>Third-party components</strong>: reviewing third party code security</li>
+<li><strong>Security Training</strong>: reviewing the comprehension of secure practices among users</li>
+<li><strong>Incident Response Readiness</strong>:  assessing current procedures for an incident</li>
+<li><strong>Compliance and Regulations</strong>: evaluating the compliance of relevant regulations</li>
+<li><strong>Continuous Improvement</strong>: ensuring software is kept up to date with new threats</li>
+</ul>
+</li>
+</ul>
+<h2 id="risk-minimisation">Risk Minimisation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#risk-minimisation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>A <strong>risk management strategy</strong> is a framework or plan designed to identify, assess, and prioritise risks within development. Having a strategy alone does not manage risks</li>
+<li><strong>Techniques</strong> that can minimise risks include:
+<ul>
+<li>a software audit to ensure software meets legal and technical requirements</li>
+<li>security, vulnerability or penetration testing ensures that vulnerabilities are identified and not present on release</li>
+<li>security and compliance checks ensure third-party software won’t introduce vulnerabilities</li>
+<li>security coding practice training for developers minimises risk as it places security at the forefront of their minds</li>
+</ul>
+</li>
+</ul>
+<h2 id="software-auditing">Software Auditing<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#software-auditing" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Software Auditing</strong> assesses a pieces of software and may be conducted internally or externally so as to:
+<ul>
+<li>uncover any issues or problems early</li>
+<li>improve performance, scalability and reliability </li>
+<li>review any necessary or unnecessary testing </li>
+<li>ensure the application can be maintained and extended in the future </li>
+<li>make sure you use the appropriate technology for the job </li>
+<li>satisfy legal and licensing requirements.</li>
+</ul>
+</li>
+<li>A typical software audit process will usually:
+<ul>
+<li>document all uses and demands of the software </li>
+<li>test the software for standards compliance, also known as pen testing </li>
+<li>identify assets necessary for the operation of the software, including large limits </li>
+<li>identify security configurations and compare with acceptable security settings </li>
+<li>consider levels of user training necessary for the operation of the software.</li>
+</ul>
+</li>
+</ul>
+<h2 id="testing-strategies">Testing Strategies<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#testing-strategies" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>
+<p><strong>Unit Testing:</strong> Testing individual components or functions in isolation to ensure they work as intended</p>
+</li>
+<li>
+<p><strong>Integration Testing:</strong> Testing interactions between different components or modules to ensure they integrate correctly</p>
+</li>
+<li>
+<p><strong>Functional Testing:</strong> Evaluating the software’s features and functionalities to ensure they meet specified requirements</p>
+</li>
+<li>
+<p><strong>User Acceptance Testing (UAT):</strong> Involves end-users testing the software to ensure it meets their final needs and expectations</p>
+</li>
+<li>
+<p><strong>Performance Testing:</strong> Assessing the software’s responsiveness, stability, and scalability under different conditions.</p>
+</li>
+<li>
+<p><strong>Penetration testing</strong>, also known as pen test, identifies security vulnerabilities in web applications, achieved by challenging each component of a system</p>
+</li>
+<li>
+<p>Tests may fall into one of the following <strong>approaches</strong>:</p>
+<ul>
+<li><strong>Scenario-based Testing:</strong> Creating test cases that mimic real-world scenarios to validate that the software functions as expected. </li>
+<li><strong>White-box Testing:</strong> functionality tests that ensure every possible path is covered</li>
+<li><strong>Black-box Testing:</strong> Testing the software without knowledge of its internal logic, focusing on validating functionality from a user’s perspective. </li>
+</ul>
+</li>
+</ul>
+<h2 id="application-security-appsec">Application Security (AppSec)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#application-security-appsec" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Application Security</strong> is the process of making applications more secure by finding, fixing, and preventing vulnerabilities throughout each development stage.</li>
+<li>AppSec tools are usually grouped into the following categories:
+<ul>
+<li><strong>Static Application Security Testing (SAST)</strong>: tools to analyse source code and prevent vulnerabilities, this is used in a white-box approach</li>
+<li><strong>Dynamic Application Security Testing (DAST)</strong>: also known as <strong>vulnerability scanners</strong> these tools attempt attacks in a black-box approach</li>
+<li><strong>Interactive Application Security Testing (IAST)</strong>: testing that’s conduced from within the app in development to analyse logic vulnerabilities</li>
+<li><strong>Run-time Application Security Protection (RASP)</strong>: run from within the application at production run-time, this responds to and defends live attacks.</li>
+</ul>
+</li>
+<li><strong>Fuzzing</strong>: a black-box testing technique, which consists of finding implementation bugs using malformed/semi-malformed data injection in an automated fashion</li>
+<li><strong>Software Instrumentation</strong>: involves adding extra code to an application to monitoring behaviour, often used to debug performance</li>
+<li><strong>Web Application Firewalls (WAFs)</strong>: a type of firewall used to manage HTTP traffic for web applications and block malicious requests using common attacks</li>
+</ul>
+<h2 id="third-party-risk">Third-Party Risk<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#third-party-risk" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Third-Party Software</strong> includes libraries, platforms, APIs, SDKs, software tools, and applications developed by other organisations</li>
+<li>While you may go to great lengths to ensure the security of your own code, you cannot assume that your third-party software has been properly secured</li>
+<li><strong>Software composition analysis (SCA)</strong>: tools that perform automated scans of an application’s code base to identify open source software usage. This checks for known vulnerabilities and compliance with dependency licencing</li>
+<li>Third party software components and vendors for out-sourced services, should only be given the minimum amount of sensitive data to do their job</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false}"></div><button id="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content" class><ul class="overflow"><li class="depth-0"><a href="#data-characteristics" data-for="data-characteristics">Data Characteristics</a></li><li class="depth-0"><a href="#software-characteristics" data-for="software-characteristics">Software Characteristics</a></li><li class="depth-0"><a href="#organisations" data-for="organisations">Organisations</a></li><li class="depth-0"><a href="#data-integrity" data-for="data-integrity">Data Integrity</a></li><li class="depth-0"><a href="#back-ups" data-for="back-ups">Back Ups</a></li><li class="depth-0"><a href="#archiving-data" data-for="archiving-data">Archiving Data</a></li><li class="depth-0"><a href="#data-disposal" data-for="data-disposal">Data Disposal</a></li><li class="depth-0"><a href="#data-breaches" data-for="data-breaches">Data Breaches</a></li><li class="depth-0"><a href="#mitigating-data-breaches" data-for="mitigating-data-breaches">Mitigating Data Breaches</a></li><li class="depth-0"><a href="#social-engineering" data-for="social-engineering">Social Engineering</a></li><li class="depth-0"><a href="#software-security" data-for="software-security">Software Security</a></li><li class="depth-0"><a href="#security-controls" data-for="security-controls">Security Controls</a></li><li class="depth-0"><a href="#secure-software-development" data-for="secure-software-development">Secure Software Development</a></li><li class="depth-0"><a href="#encryption" data-for="encryption">Encryption</a></li><li class="depth-0"><a href="#ssl--tls" data-for="ssl--tls">SSL &amp; TLS</a></li><li class="depth-0"><a href="#authentication--authorisation" data-for="authentication--authorisation">Authentication &amp; Authorisation</a></li><li class="depth-0"><a href="#version-control" data-for="version-control">Version Control</a></li><li class="depth-0"><a href="#software-updates" data-for="software-updates">Software Updates</a></li><li class="depth-0"><a href="#risk-management" data-for="risk-management">Risk Management</a></li><li class="depth-0"><a href="#evaluating-security-strategies" data-for="evaluating-security-strategies">Evaluating Security Strategies</a></li><li class="depth-0"><a href="#risk-minimisation" data-for="risk-minimisation">Risk Minimisation</a></li><li class="depth-0"><a href="#software-auditing" data-for="software-auditing">Software Auditing</a></li><li class="depth-0"><a href="#testing-strategies" data-for="testing-strategies">Testing Strategies</a></li><li class="depth-0"><a href="#application-security-appsec" data-for="application-security-appsec">Application Security (AppSec)</a></li><li class="depth-0"><a href="#third-party-risk" data-for="third-party-risk">Third-Party Risk</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li>No backlinks found</li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.4.0</a> © 2024</p><ul><li><a href="https://github.com/idkfelix/year12">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+</script><script type="module">
+          let mermaidImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("code.mermaid")) {
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
+              const mermaid = mermaidImport.default
+              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+              mermaid.initialize({
+                startOnLoad: false,
+                securityLevel: 'loose',
+                theme: darkMode ? 'dark' : 'default'
+              })
+
+              await mermaid.run({
+                querySelector: '.mermaid'
+              })
+            }
+          });
+          </script><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js" type="module"></script></html>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-03-31" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="en_AU">
+<?xml version="1.0" encoding="UTF-8"?><project name="Notelass" company="" webLink="http://" view-date="2024-04-21" view-index="0" gantt-divider-location="321" resource-divider-location="300" version="3.2.3230" locale="en_AU">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Name" width="191" order="0"/>
-        <field id="tpd4" name="Begin date" width="72" order="1"/>
-        <field id="tpd5" name="End date" width="72" order="2"/>
+        <field id="tpd3" name="Name" width="173" order="0"/>
+        <field id="tpd4" name="Begin date" width="66" order="1"/>
+        <field id="tpd5" name="End date" width="66" order="2"/>
         <field id="tpd14" name="Task color" width="20" order="3"/>
         <option id="taskLabelUp" value="name"/>
         <option id="taskLabelRight" value=""/>
@@ -13,7 +13,7 @@
         </option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="209" order="0"/>
+        <field id="0" name="Name" width="208" order="0"/>
         <field id="1" name="Default role" width="87" order="1"/>
     </view>
     <!-- -->
@@ -40,20 +40,78 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-27" duration="138" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
-            <task id="0" name="Analysis" meeting="false" start="2024-03-27" duration="35" complete="0" expand="true">
+        <task id="4" name="Notelass" color="#000000" meeting="false" project="true" start="2024-03-27" duration="141" complete="100" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+            <task id="0" name="Analysis" color="#000000" meeting="false" start="2024-03-27" duration="35" complete="100" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
                 <depend id="1" type="2" difference="0" hardness="Strong"/>
-                <task id="40" name="Client Meeting" color="#8cb6ce" meeting="false" start="2024-03-27" duration="7" complete="0" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
+                <task id="40" name="Client Meeting" color="#8cb6ce" meeting="false" start="2024-03-27" duration="7" complete="100" thirdDate="2024-03-27" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[Meeting Notes:
+- login with compass account for authentication (single account philosophy)
+- view lesson plans, learning tasks, resources and schedule
+- WYSIWYG markdown editor
+- Link notes to lesson and activity ID
+- AI note summarization
+- Svelte frontend
+- Backend
+	- Wrap compass API
+	- Archive markdown notes to compass files
+	- AI integration to generate notes summary
+	- Search notes by class or for topics
+	- blob storage for notes in compass tasks
+- Frontend
+	- Tailwind and Daisy UI for modern user experience
+	- Upcoming task tracker/timeline
+	- Theme switcher
+	- Login page
+]]>
+                    </notes>
                     <depend id="5" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="5" name="Requirements" color="#8cb6ce" meeting="false" start="2024-04-03" duration="14" complete="0" thirdDate="2024-03-31" thirdDate-constraint="0" expand="true">
+                <task id="5" name="Requirements" color="#8cb6ce" meeting="false" start="2024-04-03" duration="14" complete="100" thirdDate="2024-03-31" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[- Storing all data in compass
+- notes editor
+- upcoming learning tasks
+	- comments on progress
+- extracting tasks from lesson plans
+- linking notes to activity and lesson
+- tagging notes with topics
+- viewing lesson plan
+- revision
+	- generate summaries from users notes, topics and lesson plans
+	- ai to create flash cards, practice SAC questions and quiz (short answer and multiple choice), created from notes at different difficulties, (context to previous exams)]]>
+                    </notes>
                     <depend id="6" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="6" name="Scope" color="#8cb6ce" meeting="false" start="2024-04-17" duration="14" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
+                <task id="6" name="Scope" color="#8cb6ce" meeting="false" start="2024-04-17" duration="14" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[## Includes
+- Note taking page
+- Note syntax validation
+- Notes storage in Compass
+- Categorisation and filtering of notes
+- Compass lesson plan viewer
+- Compass class resource downloads
+- Compass learning task timeline
+- Notes filtering
+- AI home learning detection
+- AI notes summary
+- AI content quiz
+- AI practice SAC questions
+## Excludes
+- Compass task submission
+- Compass news feed
+- Compass discussions
+- Compass emails
+- AI revision with content not in notes
+- AI notes summary with content not in notes
+- Use of generative AI for classwork]]>
+                    </notes>
+                </task>
             </task>
-            <task id="1" name="Design" meeting="false" start="2024-05-01" duration="27" complete="0" expand="true">
+            <task id="1" name="Design" meeting="false" start="2024-05-01" duration="37" complete="100" expand="true">
                 <depend id="2" type="2" difference="0" hardness="Strong"/>
-                <task id="18" name="Core" color="#ff7f7f" meeting="false" start="2024-05-01" duration="10" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                <task id="18" name="Core" color="#ff7f7f" meeting="false" start="2024-05-01" duration="13" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
                     <notes>
                         <![CDATA[Standards for code and UI
 App routes
@@ -62,17 +120,20 @@ Markdown Notes Editor
 Data Flow Diagram for core usage]]>
                     </notes>
                     <depend id="22" type="2" difference="0" hardness="Strong"/>
-                    <task id="8" name="Visual Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="3" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
+                    <task id="8" name="Visual Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="3" complete="100" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true">
                         <notes>
-                            <![CDATA[Colour Scheme
-Style Standard]]>
+                            <![CDATA[- 90% of users will be able to create and retrieve a note without any prior instruction  
+- Users should have at least 3 different interface themes to choose from when using the website.                    
+- The website should implement a CI/CD system with serverless hosting to allow for seamless version upgrades   
+- New versions of Notelass should not break the functionality of existing notes and should allow for continuous use
+- A user should not require more than 5 clicks to find any of their notes throughout the app]]>
                         </notes>
                         <depend id="35" type="2" difference="0" hardness="Strong"/>
                         <depend id="36" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="36" name="App Layout UI / UX" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
-                    <task id="35" name="Core Components UI" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
-                    <task id="32" name="Code Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="4" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true">
+                    <task id="36" name="App Layout UI / UX" color="#8cb6ce" meeting="false" start="2024-05-04" duration="7" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
+                    <task id="35" name="Core Components UI" color="#8cb6ce" meeting="false" start="2024-05-04" duration="10" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true"/>
+                    <task id="32" name="Code Standards" color="#8cb6ce" meeting="false" start="2024-05-01" duration="4" complete="100" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true">
                         <notes>
                             <![CDATA[Naming conventions
 Syntax formatting
@@ -80,12 +141,12 @@ Syntax formatting
                         </notes>
                         <depend id="33" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="33" name="App Architecture" color="#8cb6ce" meeting="false" start="2024-05-05" duration="4" complete="0" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true">
+                    <task id="33" name="App Architecture" color="#8cb6ce" meeting="false" start="2024-05-05" duration="4" complete="100" thirdDate="2024-05-08" thirdDate-constraint="0" expand="true">
                         <depend id="34" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="34" name="Data flow diagram" color="#8cb6ce" meeting="false" start="2024-05-09" duration="2" complete="0" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
+                    <task id="34" name="Data flow diagram" color="#8cb6ce" meeting="false" start="2024-05-09" duration="2" complete="100" thirdDate="2024-03-30" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="22" name="Compass Integration" color="#a9ff7f" meeting="false" start="2024-05-11" duration="12" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                <task id="22" name="Compass Integration" color="#a9ff7f" meeting="false" start="2024-05-14" duration="21" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
                     <notes>
                         <![CDATA[Documentation of Compass API
 Metadata Struture for Notes
@@ -98,63 +159,165 @@ UI Components for Compass Features:
 ]]>
                     </notes>
                     <depend id="9" type="2" difference="0" hardness="Strong"/>
-                    <depend id="19" type="2" difference="0" hardness="Strong"/>
-                    <task id="23" name="Compass API Documentation" color="#8cb6ce" meeting="false" start="2024-05-11" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="false">
+                    <task id="23" name="Compass API Documentation" color="#8cb6ce" meeting="false" start="2024-05-14" duration="14" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="false">
+                        <notes>
+                            <![CDATA[https://idkfelix.github.io/compass.js]]>
+                        </notes>
                         <depend id="38" type="2" difference="0" hardness="Strong"/>
                         <depend id="39" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="38" name="Compass Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-16" duration="2" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
-                    <task id="39" name="Note Metadata Structure" color="#8cb6ce" meeting="false" start="2024-05-16" duration="2" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true">
+                    <task id="38" name="Compass Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-28" duration="2" complete="100" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
+                    <task id="39" name="Note Metadata Structure" color="#8cb6ce" meeting="false" start="2024-05-28" duration="2" complete="100" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true">
                         <depend id="37" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="37" name="Integration Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-18" duration="5" complete="0" thirdDate="2024-04-02" thirdDate-constraint="0" expand="true"/>
+                    <task id="37" name="Integration Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-30" duration="5" complete="100" thirdDate="2024-04-02" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="9" name="Evaluation Criteria" color="#8cb6ce" meeting="false" start="2024-05-23" duration="3" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
-                <task id="19" name="Extras" color="#007fbf" meeting="false" start="2024-05-23" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
-                    <task id="41" name="Generative AI Data Flow Diagram" color="#8cb6ce" meeting="false" start="2024-05-23" duration="2" complete="0" thirdDate="2024-05-25" thirdDate-constraint="0" expand="true"/>
-                    <task id="20" name="Revision Tool Components UI / UX" color="#8cb6ce" meeting="false" start="2024-05-23" duration="5" complete="0" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true"/>
+                <task id="9" name="Evaluation Criteria" color="#8cb6ce" meeting="false" start="2024-06-04" duration="3" complete="100" thirdDate="2024-03-29" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[Login page makes request to Compass to authenticate details and returns user details in a JWT for further requests 
+JWT verification on all routes to only be used by authenticated users                                                        Open route for viewing documentation that allows unauthenticated users
+Compass API requests are properly authenticated with data from the JWT without errors                                  WYSIWYG editor works seamlessly live rendering of markdown syntax / LaTeX formulas and loading / exporting to plain text  
+Exported notes are saved in Compass with appropriate metadata (subject, class and date) on the users account and all notes can be retrieved efficiently for viewing or further editing by the user 
+Class lesson plan and resources are fetched from the compass API for viewing by the user when editing notes 
+Notes overview page has filters for metadata that allows the user to refine displayed notes and search for subject, date and class
+Learning tasks for the user are fetched from Compass and are displayed in a timeline in addition to user defined tasks.
+Documentation statically stored in markdown files on the server is rendered and displayed with the notes editor in the documentation route
+Admin can optionally enable AI revision for user]]>
+                    </notes>
                 </task>
             </task>
-            <task id="2" name="Development" meeting="false" start="2024-05-28" duration="48" complete="0" expand="true">
+            <task id="2" name="Development" meeting="false" start="2024-06-07" duration="41" complete="100" expand="true">
                 <depend id="15" type="2" difference="0" hardness="Strong"/>
-                <task id="25" name="Core" color="#ff0000" meeting="false" start="2024-05-28" duration="14" complete="0" thirdDate="2024-04-04" thirdDate-constraint="0" expand="true">
+                <task id="25" name="Core" color="#ff0000" meeting="false" start="2024-06-07" duration="17" complete="100" thirdDate="2024-04-04" thirdDate-constraint="0" expand="true">
                     <depend id="12" type="2" difference="0" hardness="Strong"/>
                     <depend id="29" type="2" difference="0" hardness="Strong"/>
-                    <task id="42" name="App Shell + Routes" color="#8cb6ce" meeting="false" start="2024-05-28" duration="7" complete="0" thirdDate="2024-05-28" thirdDate-constraint="0" expand="true">
+                    <task id="42" name="App Shell + Routes" color="#8cb6ce" meeting="false" start="2024-06-07" duration="10" complete="100" thirdDate="2024-05-28" thirdDate-constraint="0" expand="true">
                         <depend id="43" type="2" difference="0" hardness="Strong"/>
                         <depend id="44" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="43" name="Editor Component" color="#8cb6ce" meeting="false" start="2024-06-04" duration="4" complete="0" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
-                    <task id="44" name="Core Components" color="#8cb6ce" meeting="false" start="2024-06-04" duration="7" complete="0" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
+                    <task id="43" name="Editor Component" color="#8cb6ce" meeting="false" start="2024-06-17" duration="4" complete="100" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
+                    <task id="44" name="Core Components" color="#8cb6ce" meeting="false" start="2024-06-17" duration="7" complete="100" thirdDate="2024-06-04" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-06-11" duration="14" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
-                    <depend id="26" type="2" difference="0" hardness="Strong"/>
+                <task id="29" name="Features" color="#54ff00" meeting="false" start="2024-06-24" duration="24" complete="100" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
                     <depend id="50" type="2" difference="0" hardness="Strong"/>
-                    <task id="46" name="Compass API Intergration" color="#8cb6ce" meeting="false" start="2024-06-11" duration="7" complete="0" thirdDate="2024-06-11" thirdDate-constraint="0" expand="true">
+                    <task id="46" name="Compass API Intergration" color="#8cb6ce" meeting="false" start="2024-06-24" duration="10" complete="100" thirdDate="2024-06-11" thirdDate-constraint="0" expand="true">
+                        <notes>
+                            <![CDATA[https://github.com/idkfelix/compass.js]]>
+                        </notes>
                         <depend id="45" type="2" difference="0" hardness="Strong"/>
                     </task>
-                    <task id="45" name="Compass Data Components" color="#8cb6ce" meeting="false" start="2024-06-18" duration="7" complete="0" thirdDate="2024-06-18" thirdDate-constraint="0" expand="true"/>
+                    <task id="45" name="Compass Data Components" color="#8cb6ce" meeting="false" start="2024-07-04" duration="14" complete="100" thirdDate="2024-06-18" thirdDate-constraint="0" expand="true"/>
                 </task>
-                <task id="50" name="MVP" color="#8cb6ce" meeting="true" start="2024-06-25" duration="0" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true"/>
-                <task id="26" name="Extras" color="#00a9ff" meeting="false" start="2024-06-25" duration="20" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true">
-                    <task id="49" name="AI Intergration" color="#8cb6ce" meeting="false" start="2024-06-25" duration="4" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true">
-                        <depend id="47" type="2" difference="0" hardness="Strong"/>
-                    </task>
-                    <task id="47" name="Revision Route" color="#8cb6ce" meeting="false" start="2024-06-29" duration="2" complete="0" thirdDate="2024-06-29" thirdDate-constraint="0" expand="true">
-                        <depend id="48" type="2" difference="0" hardness="Strong"/>
-                    </task>
-                    <task id="48" name="Revsion Tools" color="#8cb6ce" meeting="false" start="2024-07-01" duration="14" complete="0" thirdDate="2024-07-01" thirdDate-constraint="0" expand="true"/>
-                </task>
-                <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-06-11" duration="31" complete="0" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
+                <task id="50" name="MVP" color="#8cb6ce" meeting="true" start="2024-07-18" duration="0" complete="0" thirdDate="2024-06-25" thirdDate-constraint="0" expand="true"/>
+                <task id="12" name="Documentation" color="#8cb6ce" meeting="false" start="2024-06-24" duration="10" complete="100" thirdDate="2024-04-05" thirdDate-constraint="0" expand="true"/>
             </task>
-            <task id="15" name="Evaluation" meeting="false" start="2024-07-15" duration="28" complete="0" expand="true">
+            <task id="15" name="Evaluation" meeting="false" start="2024-07-18" duration="28" complete="100" expand="true">
                 <depend id="51" type="2" difference="0" hardness="Strong"/>
-                <task id="16" name="Client Evaluation" color="#8cb6ce" meeting="false" start="2024-07-15" duration="14" complete="0" thirdDate="2024-07-15" thirdDate-constraint="0" expand="true">
+                <task id="52" name="User Testing" color="#8cb6ce" meeting="false" start="2024-07-18" duration="7" complete="100" thirdDate="2024-07-18" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[All participants were required to complete the following tasks representative of Notelass' core functionality and user interface throughout their usability testing:
+- [1] Login to Notelass using your session id from compass
+- [2] Open a new note for a lesson in your schedule from one week ago
+- [3] Write a note with two types of headings, a list and if familiar a latex equation
+- [4] View the selected lesson's associated lesson plan side by side to the editor
+- [5] Navigate to the home page before re-opening the previous note
+- [6] Delete the previously created note ]]>
+                    </notes>
+                    <depend id="16" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="16" name="Client Evaluation" color="#8cb6ce" meeting="false" start="2024-07-25" duration="7" complete="100" thirdDate="2024-07-15" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[- [ ] **Login Page**
+	- [ ] Single clearly labelled field for user to enter their compass session Id
+	- [ ] Login button located under the field for the user to validate their session Id and continue to app
+	- [ ] Clearly branded navigation bar with large format Notelass logo
+	- [ ] Button on navigation bar to to access the documentation as a new user
+	- [ ] Home button available on navigation bar for already authenticated users to access the main website without logging in once again
+	- [ ] Minimal user interface identifiable as a tool for compass
+		- [ ] Similar colour scheme to compass
+		- [ ] Interface arrangement to that of the compass LMS
+- [ ] **Home Page**
+	- [ ] Side Panel displaying commonly checked information from compass
+		- [ ] Panel Displaying the current days lessons 
+		- [ ] Lessons are clickable to open a new note
+		- [ ] Date can be incremented back / forwards to see other timetables
+		- [ ] Timetable is displayed sequentially
+		- [ ] Panel containing the users upcoming / recent learning tasks
+		- [ ] Learning tasks display their due date as a reminder
+		- [ ] Panel for viewing recently edited notes
+		- [ ] Recently edited notes display their date and subject
+	- [ ] Panels within the side panel can be toggled on and off by the user
+	- [ ] Navigation bar displays a sign out button at all times when authenticated
+	- [ ] Main content of the page displays a table with all of the users notes
+	- [ ] Notes can be sorted by date, lesson or subject
+	- [ ] Notes can be filtered by subject or date
+	- [ ] Clicking on a note in the table opens it for editing by the user
+- [ ] **Editor Page**
+	- [ ] The editor is opened in a side by side view with the selected lesson plan
+	- [ ] The lesson plan is formatted correctly with all rich text style as in compass
+	- [ ] The plan panel is displayed in read only
+	- [ ] The lesson plan panel features a title displaying the subject and lesson date
+	- [ ] A user can toggle the lesson plan panel on and of while taking notes
+	- [ ] The main editor has live text formatting as the user types
+	- [ ] A menu bar is attached to the top of the editor at all times
+	- [ ] The bar has familiar buttons for the user
+		- [ ] Drop-down to save or delete a document
+		- [ ] Options to insert various headings or titles
+		- [ ] Formatting drop-down applies to selected text
+	- [ ] Common key combinations can be used to apply formatting to text
+	- [ ] Markdown syntax can be used to format titles, text, lists, etc.
+	- [ ] A user can use LaTeX formatting within their notes
+	- [ ] LaTeX is live rendered alongside common rich text / markdown]]>
+                    </notes>
                     <depend id="17" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="17" name="Criteria Reflection" color="#8cb6ce" meeting="false" start="2024-07-29" duration="14" complete="0" thirdDate="2024-07-25" thirdDate-constraint="0" expand="true"/>
+                <task id="17" name="Criteria Reflection" color="#8cb6ce" meeting="false" start="2024-08-01" duration="14" complete="100" thirdDate="2024-07-25" thirdDate-constraint="0" expand="true">
+                    <notes>
+                        <![CDATA[- [x] **Login Page**
+	- [x] Single clearly labelled field for user to enter their compass session Id
+	- [x] Login button located under the field for the user to validate their session Id and continue to app
+	- [x] Clearly branded navigation bar with large format Notelass logo
+	- [ ] Button on navigation bar to to access the documentation as a new user
+	- [x] Home button available on navigation bar for already authenticated users to access the main website without logging in once again
+	- [x] Minimal user interface identifiable as a tool for compass
+		- [x] Similar colour scheme to compass
+		- [ ] Interface arrangement to that of the compass LMS
+- [x] **Home Page**
+	- [x] Side Panel displaying commonly checked information from compass
+		- [x] Panel Displaying the current days lessons 
+		- [x] Lessons are clickable to open a new note
+		- [x] Date can be incremented back / forwards to see other timetables
+		- [x] Timetable is displayed sequentially
+		- [x] Panel containing the users upcoming / recent learning tasks
+		- [ ] Learning tasks display their due date as a reminder
+		- [x] Panel for viewing recently edited notes
+		- [ ] Recently edited notes display their date and subject
+	- [x] Panels within the side panel can be toggled on and off by the user
+	- [x] Navigation bar displays a sign out button at all times when authenticated
+	- [x] Main content of the page displays a table with all of the users notes
+	- [x] Notes can be sorted by date, lesson or subject
+	- [ ] Notes can be filtered by subject or date
+	- [x] Clicking on a note in the table opens it for editing by the user
+- [x] **Editor Page**
+	- [x] The editor is opened in a side by side view with the selected lesson plan
+	- [x] The lesson plan is formatted correctly with all rich text style as in compass
+	- [x] The plan panel is displayed in read only
+	- [x] The lesson plan panel features a title displaying the subject and lesson date
+	- [x] A user can toggle the lesson plan panel on and of while taking notes
+	- [x] The main editor has live text formatting as the user types
+	- [x] A menu bar is attached to the top of the editor at all times
+	- [x] The bar has familiar buttons for the user
+		- [x] Drop-down to save or delete a document
+		- [x] Options to insert various headings or titles
+		- [x] Formatting drop-down applies to selected text
+	- [ ] Common key combinations can be used to apply formatting to text
+	- [x] Markdown syntax can be used to format titles, text, lists, etc.
+	- [x] A user can use LaTeX formatting within their notes
+	- [ ] LaTeX is live rendered alongside common rich text / markdown]]>
+                    </notes>
+                </task>
             </task>
-            <task id="51" name="Completion" color="#8cb6ce" meeting="true" start="2024-08-12" duration="0" complete="0" thirdDate="2024-08-12" thirdDate-constraint="0" expand="true"/>
+            <task id="51" name="Completion" color="#8cb6ce" meeting="true" start="2024-08-15" duration="0" complete="0" thirdDate="2024-08-12" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources/>
