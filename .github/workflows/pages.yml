@@ -1,8 +1,7 @@
 name: Build and Deploy GitHub Pages
 on:
-  push:
-    tags:
-      - 'web'
+  - push
+  
 permissions:
   contents: write
 jobs:
@@ -14,12 +13,12 @@ jobs:
         
       - name: Install and build
         run: |
-          cd .gh-pages
+          cd .quartz
           npm i
-          npm run build
+          npmx quartz build -d ../
           
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: .gh-pages/public
+          folder: .quartz/public
           token: ${{ secrets.GITHUB_TOKEN }}
