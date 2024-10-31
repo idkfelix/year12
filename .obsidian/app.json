@@ -2,9 +2,9 @@
   "attachmentFolderPath": "./attachments",
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "A5",
     "landscape": false,
-    "margin": "2",
+    "margin": "1",
     "downscalePercent": 80
   },
   "promptDelete": false,
