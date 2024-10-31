@@ -1,11 +1,9 @@
-<br>
-
-<h1 style="text-align: center; font-size: 60px">General Maths 3&4</h1>
+<h1 style="text-align: center; font-size: 60px; margin-top: 100px;">General Maths 3&4</h1>
 <div style="display: flex; justify-content: center">
-<img src="https://9p.io/plan9/img/plan9bunnywhite.jpg" style="width: 400px"/>
+<img src="https://9p.io/plan9/img/plan9bunnywhite.jpg" style="width: 500px"/>
 </div>
-<h1 style="text-align: center; font-size: 50px; font-weight: 200;">Felix Coulthard</h1>
-<div style="page-break-after: always"/>
+<h1 style="text-align: center; font-size: 40px; font-weight: 200; margin-bottom: 250px;">Felix Coulthard</h1>
+
 # Data Analysis
 ## Terms
 - **Population** - all of the data
