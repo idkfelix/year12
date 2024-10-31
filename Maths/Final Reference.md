@@ -1,3 +1,9 @@
+
+<h1 style="align: center">General Maths 3&4</h1>
+![[Pasted image 20241031221603.png]]
+
+---
+
 # Data Analysis
 ## Terms
 - **Population** - all of the data
