@@ -191,18 +191,18 @@ $$
         \addplot [fill=blue!20, draw=none, domain=-2:-1] {gauss(0,1)} \closedcycle;
         \addplot [fill=blue!20, draw=none, domain=1:2] {gauss(0,1)} \closedcycle;
         \addplot[] coordinates {(-1,0.4) (1,0.4)};
-        \addplot[] coordinates {(-2,0.3) (2,0.3)};
-        \addplot[] coordinates {(-3,0.2) (3,0.2)};
+        \addplot[] coordinates {(-2,0.34) (2,0.34)};
+        \addplot[] coordinates {(-3,0.28) (3,0.28)};
         \addplot[] coordinates {(-4,0) (4,0)};
-        \node[coordinate, pin={68.2\%}] at (axis cs: 0, 0.4){};
+        \node[coordinate, pin={68\%}] at (axis cs: 0, 0.36){};
         \node[coordinate, pin={95\%}] at (axis cs: 0, 0.3){};
-        \node[coordinate, pin={99.7\%}] at (axis cs: 0, 0.2){};
-        \node[coordinate, pin={34.1\%}] at (axis cs: -0.5, 0){};
-        \node[coordinate, pin={34.1\%}] at (axis cs: 0.5, 0){};
-        \node[coordinate, pin={13.6\%}] at (axis cs: 1.5, 0){};
-        \node[coordinate, pin={13.6\%}] at (axis cs: -1.5, 0){};
-        \node[coordinate, pin={2.1\%}] at (axis cs: 2.5, 0){};
-        \node[coordinate, pin={2.1\%}] at (axis cs: -2.5, 0){};
+        \node[coordinate, pin={99.7\%}] at (axis cs: 0, 0.24){};
+        \node[coordinate, pin={34\%}] at (axis cs: -0.5, 0){};
+        \node[coordinate, pin={34\%}] at (axis cs: 0.5, 0){};
+        \node[coordinate, pin={13.5\%}] at (axis cs: 1.5, 0){};
+        \node[coordinate, pin={13.5\%}] at (axis cs: -1.5, 0){};
+        \node[coordinate, pin={2.35\%}] at (axis cs: 2.5, 0){};
+        \node[coordinate, pin={2.35\%}] at (axis cs: -2.5, 0){};
     \end{axis}
 \end{tikzpicture}
 \end{document}
