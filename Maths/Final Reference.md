@@ -2,7 +2,8 @@
 <div style="display: flex; justify-content: center">
 <img src="https://9p.io/plan9/img/plan9bunnywhite.jpg" style="width: 500px"/>
 </div>
-<h1 style="text-align: center; font-size: 40px; font-weight: 200; margin-bottom: 250px;">Felix Coulthard</h1>
+<h1 style="text-align: center; font-size: 40px; font-weight: 200;">Felix Coulthard</h1>
+<div style="page-break-after: always;"></div>
 
 # Data Analysis
 ## Terms
@@ -26,9 +27,12 @@
 	- **Nominal**: Identifier or description
 ## Significant Figures
 - All non-zero digits are significant
-- All leading and trailing zeros are not significant
-- Single zero before decimal point is not significant
 - Zeros between non-zero digits are significant
+- All leading and zeros are not significant
+- Single zero before decimal point is not significant
+- Trailing zeros of a whole number that ends in a decimal are significant
+- Trailing zeros to the right of a decimal place are significant
+<div style="page-break-after: always;"></div>
 ## Symbols
 $$
 \begin{align}
@@ -160,6 +164,7 @@ Z&=\frac{x-\bar{x}}{S_{x}}\\\\
 x&=Z\cdot{S_x}+\bar{x}
 \end{align*}
 $$
+<div style="page-break-after: always;"></div>
 - **Example of Normal Distribution**
 ```tikz
 \usepackage{pgfplots}
@@ -191,18 +196,20 @@ $$
         \addplot [fill=blue!20, draw=none, domain=-2:-1] {gauss(0,1)} \closedcycle;
         \addplot [fill=blue!20, draw=none, domain=1:2] {gauss(0,1)} \closedcycle;
         \addplot[] coordinates {(-1,0.4) (1,0.4)};
-        \addplot[] coordinates {(-2,0.34) (2,0.34)};
-        \addplot[] coordinates {(-3,0.28) (3,0.28)};
+        \addplot[] coordinates {(-2,0.3) (2,0.3)};
+        \addplot[] coordinates {(-3,0.2) (3,0.2)};
         \addplot[] coordinates {(-4,0) (4,0)};
         \node[coordinate, pin={68\%}] at (axis cs: 0, 0.36){};
-        \node[coordinate, pin={95\%}] at (axis cs: 0, 0.3){};
-        \node[coordinate, pin={99.7\%}] at (axis cs: 0, 0.24){};
+        \node[coordinate, pin={95\%}] at (axis cs: 0, 0.26){};
+        \node[coordinate, pin={99.7\%}] at (axis cs: 0, 0.16){};
         \node[coordinate, pin={34\%}] at (axis cs: -0.5, 0){};
         \node[coordinate, pin={34\%}] at (axis cs: 0.5, 0){};
         \node[coordinate, pin={13.5\%}] at (axis cs: 1.5, 0){};
         \node[coordinate, pin={13.5\%}] at (axis cs: -1.5, 0){};
         \node[coordinate, pin={2.35\%}] at (axis cs: 2.5, 0){};
         \node[coordinate, pin={2.35\%}] at (axis cs: -2.5, 0){};
+        \node[coordinate, pin={0.15\%}] at (axis cs: 3.5, 0){};
+        \node[coordinate, pin={0.15\%}] at (axis cs: -3.5, 0){};
     \end{axis}
 \end{tikzpicture}
 \end{document}
@@ -261,7 +268,7 @@ $$
 - Response Variable ($RV$)
 	- Created from the $EV$
 	- Plotted on the $Y$ axis
-
+<div style="page-break-after: always;"></div>
 ##  Association
 - **Direction**
 	- The direction of the trend
@@ -295,6 +302,7 @@ $$
 \Huge a&=\bar{y}-b\cdot\bar{x}
 \end{align*}
 $$
+<div style="page-break-after: always;"></div>
 ## Regression Line
 $$
 \begin{align*}
@@ -325,7 +333,7 @@ $$
 \text{Seasonal Index} &= \frac{\text{Actual Figure}}{\text{Deseasonalised Figure}}
 \end{align*}
 $$
----
+<div style="page-break-after: always;"></div>
 # Financial
 ## Terms
 - **Sequence** - List of numbers following a pattern
@@ -413,7 +421,7 @@ $$
 $$
 EAR=(1+\frac{i}{n})^n-1 
 $$
----
+<div style="page-break-after: always;"></div>
 # Matrices
 ## Terms
  - **Order**: the dimensions of a matrix, $height \cdot width$, or $m \cdot n$.
