@@ -503,8 +503,6 @@ $$
 \end{align*}
 $$
 ## Division
-- Division is not possible with matrices, however this is related to inverse matrices (a matrix to the power of $-1$) and can be used to effectively divide a matrix with the product of a terms inverse.   
-- $\large\frac{A}{B}=A \cdot B^{-1}\text{ or }B^{-1}\cdot A$
 - $\large AB^{-1}$ solves for $XB=A$
 - $\large B^{-1}A$ solves for $BX=A$
 ## Indices
@@ -542,6 +540,7 @@ A^{-1}&= \begin{bmatrix}4&-2\\-3\phantom{-}&2\end{bmatrix}\cdot\frac{1}{|A|}\\
 &=\begin{bmatrix}2&-1\\-1.5&1\end{bmatrix}
 \end{align*}
 $$
+<div style="page-break-after: always;"></div>
 ## Identity Matrix
 - The identity matrix is denoted as $I$ in an expression .
 - A square matrix of all $0$'s and a stripe of $1$'s across the leading diagonal.
@@ -688,7 +687,7 @@ $$
 ## Row & Column Matrices
 - $A\cdot{\text{Col Matrix}}$ to sum rows
 - $\text{Row Matrix}\cdot{A}$ to sum columns
----
+<div style="page-break-after: always;"></div>
 # Graphs & Networks
 ## Terms
 - **Vertex**: an object represented by a point on the graph
@@ -707,6 +706,7 @@ $$
 - **Complete**: a complete graph is a simple graph where all vertices are connected directly to all other vertices. A graph of this kind will utilise the maximum number of edges possible for a simple graph of its vertices.
 - **Connected**: a graph is connected if it is possible to move from any vertex of the graph to any other vertex of the graph using edges.
 - **Network**: a network is a *weighted* graph where the weights are physical quantities. This graph may or may not be directed.
+<div style="page-break-after: always;"></div>
 ## Planar Graphs
 - A graph is planar if it can be drawn on a plane with no overlapping edges, only intersecting at their connected vertices
 - **Faces**: an area if finite or infinite space bounded by an alternating sequence of vertices and edges (a walk). This includes the infinitely large face bound by the outermost part of the graph.
@@ -726,6 +726,7 @@ $$
 - **Eulerian Circuit**: an Eulerian circuit is an Eulerian trail which starts and ends at the same vertex.
 - A connected graph has an Euler circuit if and only if every vertex on the graph is even (has an even degree).
 - A connected graph has an Euler trail, but not an Euler circuit, if and only if the graph has two odd vertices. The trail must start at one of these vertices and end at the other.
+<div style="page-break-after: always;"></div>
 ## Hamiltonian 
 - **Hamiltonian Path**: a Hamiltonian path is a path that visits each vertex exactly once, hence not repeating any edges either
 - **Hamiltonian Cycle**; a Hamiltonian cycle is a Hamiltonian path, using every vertex exactly once, that starts and ends with the same vertex
@@ -746,6 +747,7 @@ $$
 - **Capacity**: the capacity of a cut is the sum of all intersected forward flowing edges that it blocks.
 - **Minimum Cut**: the minimum cut of a flow graph is a cut that blocks all flow with the smallest total capacity.
 - **Maximum Flow**: the maximum flow of a flow graph is equal to the capacity of said flow graphs minimum cut.
+<div style="page-break-after: always;"></div>
 ## Allocation
 - **Bipartite Graph**: a bipartite graph is a graph whose vertices can be split into two groups where the the vertices are only connected to vertices in the other group.
 - As a table the bipartite graph is represented with resources as rows and allocation targets as columns
